@@ -62,9 +62,9 @@ The `_unified_max_blocklist.csv` includes Tier0, 1 and 2 Trusted Sources and cho
 
 ### How Oliphant.Social decisions affect these lists
 
-I want to be transparent about this.
+I want to be transparent about this. Yes, I do have some impact on both the Tier1 and Tier2 combined lists.
 
-Yes, it does. Under the most-lenient policy, if I dropped a Suspension to Silence or even None+RejectMedia, I could affect the overall "min" and tier1 and tier2 lists as well.
+Under the most-lenient policy, if I dropped a Suspension to Silence or even None+RejectMedia, I could affect the overall "min" and tier1 and tier2 lists as well.
 
 Of course, it would have no bearing on the max file, but if I was to Suspend a commonly-silenced domain, the *max* policy would apply the most restrictive to the *max* file, and my Suspend could thus weight everyone else's Silence to a Suspend in that file.
 
