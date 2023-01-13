@@ -12,7 +12,7 @@ Everything is checked against Mastodon.Social and Mastodon.Online, as the 'flags
 
 Note that some servers use obfuscation, which blocks imports from being included in the final unified lists. 
 
-It's worth nothing that although I try on my server to remove and unban servers that are dead and no longer active, not all the sources do the same so there may be some bloat in the unified lists that comes from dead servers.
+It's worth noting that although I try on my server to remove and unban servers that are dead and no longer active, not all the sources do the same so there may be some bloat in the unified lists that comes from dead servers.
 
 ## How Is My List Built
 
