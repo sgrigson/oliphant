@@ -30,23 +30,23 @@ None of the Trusted Sources are going to end up in the final unified mergelist, 
 
 Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
   
-  1. [Tier0] Mastodon.social
-  1. [Tier0] Mastodon.online
+  1. Mastodon.social
+  1. Mastodon.online
   
 #### Tier 1
 
 Tier1 are servers that block somewhat aggressively (like mine).
   
-  1. [Tier1] Oliphant.Social
-  1. [Tier1] Union.Place
+  1. Oliphant.Social
+  1. Union.Place
   
 #### Tier 2
 
 Tier2 are servers that block *very* aggressively.
 
-  1. [Tier2] Mastodon.Art
-  1. [Tier2] Toot.Wales
-  1. [Tier2] Artisan.Chat
+  1. Mastodon.Art
+  1. Toot.Wales
+  1. Artisan.Chat
 
 ### Obfuscate Sucks for Trusted Servers
 
@@ -60,7 +60,7 @@ This **FediBlockHole** config file is set to use the `min` setting when it comes
 
 The `_unified_max_blocklist.csv` includes Tier0, 1 and 2 Trusted Sources and chooses the *most* restrictive option.
 
-### This means your judgment affects the Tier1, Tier2 and unified min/max lists as well, doesn't it?
+### How Oliphant.Social decisions affect these lists
 
 I want to be transparent about this.
 
