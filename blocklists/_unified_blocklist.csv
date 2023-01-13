@@ -1,4 +1,9 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
+.cf,suspend,,True,True,False
+.ga,suspend,,True,True,False
+.gq,suspend,,True,True,False
+.ml,suspend,,True,True,False
+.tk,suspend,,True,True,False
 10minutepleroma.com,suspend,,True,True,False
 1611.social,suspend,,True,True,False
 5dollah.click,suspend,,True,True,False
@@ -141,6 +146,7 @@ girevik.su,suspend,,True,True,False
 gitmo.life,suspend,,True,True,False
 gleasonator.com,suspend,,True,True,False
 glindr.org,suspend,,True,True,False
+globalfrens.com,suspend,,True,True,False
 glowers.club,suspend,,True,True,False
 gorf.pub,suspend,,True,True,False
 helladoge.com,suspend,,True,True,False
@@ -175,6 +181,7 @@ lizards.live,suspend,,True,True,False
 lolicon.rocks,suspend,,True,True,False
 lolison.network,suspend,,True,True,False
 lolison.top,suspend,,True,True,False
+lush.moe,suspend,,True,True,False
 mahodou.moe,suspend,,True,True,False
 maladaptive.art,suspend,,True,True,False
 marsey.club,suspend,,True,True,False
@@ -205,10 +212,13 @@ mstdn.foxfam.club,silence,,False,False,False
 mstdn.jp,silence,,False,False,False
 mstdn.starnix.network,suspend,,True,True,False
 mugicha.club,suspend,,True,True,False
+my.dirtyhobby.xyz,suspend,,True,True,False
 natehiggers.online,suspend,,True,True,False
 nationaljustice.social,suspend,,True,True,False
+nazi.social,suspend,,True,True,False
 neckbeard.xyz,suspend,,True,True,False
 neenster.org,suspend,,True,True,False
+newsbots.eu,suspend,,True,True,False
 nicecrew.digital,suspend,,True,True,False
 nightshift.social,suspend,,True,True,False
 nnia.space,suspend,,True,True,False
@@ -228,6 +238,7 @@ pisskey.io,suspend,,True,True,False
 pkteerium.xyz,suspend,,True,True,False
 pl.anon-kenkai.com,suspend,,True,True,False
 pl.slash.cl,suspend,,True,True,False
+pl.smuglo.li,suspend,,True,True,False
 pl.starnix.network,suspend,,True,True,False
 pl.tkammer.de,suspend,,True,True,False
 pl.valkyrie.world,suspend,,True,True,False
@@ -238,6 +249,7 @@ pleroma.kitsunemimi.club,suspend,,True,True,False
 pleroma.narrativerry.xyz,suspend,,True,True,False
 pleroma.nobodyhasthe.biz,suspend,,True,True,False
 pleroma.skyshanty.xyz,suspend,,True,True,False
+pleroma.us,suspend,,True,True,False
 poa.st,suspend,,True,True,False
 poast.eth,suspend,,True,True,False
 poast.org,suspend,,True,True,False
@@ -275,7 +287,7 @@ shitpost.poridge.club,suspend,,True,True,False
 shitposter.club,suspend,,True,True,False
 shitposting.army,suspend,,True,True,False
 shortstackran.ch,suspend,,True,True,False
-sinblr.com,silence,,False,False,False
+sinblr.com,suspend,,True,True,False
 skippers-bin.com,suspend,,True,True,False
 sleepy.cafe,suspend,,True,True,False
 sneak.berlin,suspend,,True,True,False
@@ -286,6 +298,7 @@ social.anoxinon.de,suspend,,True,True,False
 social.cbinary.sk,silence,,False,False,False
 social.freetalklive.com,suspend,,True,True,False
 social.handholding.io,suspend,,True,True,False
+social.lovingexpressions.net,suspend,,True,True,False
 social.mrhands.horse,suspend,,True,True,False
 social.projectsegfau.lt,suspend,,True,True,False
 social.quodverum.com,suspend,,True,True,False
@@ -341,6 +354,7 @@ worm.pink,suspend,,True,True,False
 x0f.org,suspend,,True,True,False
 xn--p1abe3d.xn--80asehdb,suspend,,True,True,False
 xn--rtta-qoa.nu,suspend,,True,True,False
+xxxtumblr.org,silence,,False,False,False
 yggdrasil.social,suspend,,True,True,False
 youjo.love,suspend,,True,True,False
 zztails.gay,suspend,,True,True,False

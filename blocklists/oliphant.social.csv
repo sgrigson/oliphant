@@ -1,4 +1,9 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
+.cf,suspend,,True,True,False
+.ga,suspend,,True,True,False
+.gq,suspend,,True,True,False
+.ml,suspend,,True,True,False
+.tk,suspend,,True,True,False
 1611.social,suspend,,True,True,False
 5dollah.click,suspend,,True,True,False
 7td.org,suspend,,True,True,False
