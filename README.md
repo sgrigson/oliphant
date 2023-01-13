@@ -2,6 +2,8 @@
 
 New and improved thanks to the excellent [Fediblockhole](https://github.com/eigenmagic/fediblockhole).
 
+For more information, please check out my blog [Oliphant Social Curated Blocklists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist) page.
+
 ## How are Unified Blocklists Built
 
 I, ([Oliphant@oliphant.social](https://oliphant.social/@oliphant)), curate a list of trusted sources, including my own server. These can be public or private lists, but a server can opt-in to being one of the Trusted Sources. So long as they aren't already a defederated server and are trusted by others on the Trusted Sources list, they become a member and provide either their public list, or a `read:blocks` api key for Oliphant.Social to use.
