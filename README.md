@@ -8,6 +8,10 @@ I, ([Oliphant@oliphant.social](https://oliphant.social/@oliphant)), curate a lis
 
 Everything is checked against Mastodon.Social and Mastodon.Online, as the 'flagship servers' we might as well give them a vote as well in defederation of the final unified list. (at least for now.) Hopefully Gargron won't mind too much me pulling from their public api of defederation to represent the voice of the Mastodon Server Covenant from a pretty canonical source.
 
+Note that some servers use obfuscation, which blocks imports from being included in the final unified lists. 
+
+It's worth nothing that although I try on my server to remove and unban servers that are dead and no longer active, not all the sources do the same so there may be some bloat in the unified lists that comes from dead servers.
+
 ## How Is My List Built
 
 Read my [Guidlines for Defederation](https://writer.oliphant.social/oliphant/guidelines-for-defederation). That's how you end up on my list. Some of it comes from ancestral sources. Some of it is very subjective and may even be wrong and I will revisit the list. Make an issue above if you think you're on this list in error and I may remove it. 
