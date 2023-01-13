@@ -22,7 +22,9 @@ None of the Trusted Sources are going to end up in the final unified mergelist, 
   1. [Tier0] Mastodon.social
   1. [Tier0] Mastodon.online
   1. [Tier1] Oliphant.Social
+  1. [Tier1] Union.Place
   1. [Tier2] Mastodon.Art
+  1. [Tier2] Toot.Wales
   
 Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
 Tier1 are servers that block somewhat aggressively (like mine).
