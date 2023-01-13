@@ -1,6 +1,5 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
 *.bigguys.club,suspend,,True,True,False
-.cf,suspend,,True,True,False
 10minutepleroma.com,suspend,,True,True,False
 1611.social,suspend,,True,True,False
 2.distsn.org,suspend,,True,True,False
@@ -69,6 +68,7 @@ cafkafk.com,suspend,,True,True,False
 carnivore.social,suspend,,True,True,False
 carrot.army,suspend,,True,True,False
 cawfee.club,suspend,,True,True,False
+cf,suspend,,True,True,False
 china.al,silence,,False,False,False
 chudbuds.lol,suspend,,True,True,False
 chungus.cc,suspend,,True,True,False

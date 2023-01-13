@@ -12,6 +12,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 a.sc,suspend,,True,True,False
 abdl.link,silence,,False,False,False
 activitypub-troll.cf,suspend,,True,True,False
+activitypub.actor,suspend,,True,True,False
 aethy.com,suspend,,True,True,False
 airis.work,suspend,,True,True,False
 akm.longyap.name.my,suspend,,True,True,False
@@ -140,7 +141,9 @@ freespeech.club,suspend,,True,True,False
 freespeech.firedragonstudios.com,suspend,,True,True,False
 freespeech.group,suspend,,True,True,False
 freespeechextremist.com,suspend,,True,True,False
+freetalklive.com,suspend,,True,True,False
 freethinkers.lgbt,suspend,,True,True,False
+freezepeach.online,suspend,,True,True,False
 freezepeach.xyz,silence,,False,False,False
 frens.mahodou.moe,suspend,,True,True,False
 froth.zone,suspend,,True,True,False
