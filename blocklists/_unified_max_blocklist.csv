@@ -1,4 +1,5 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
+.cf,suspend,,True,True,False
 076.moe,suspend,,True,True,False
 076.ne.jp,suspend,,True,True,False
 101010.pl,suspend,,True,True,False
