@@ -58,6 +58,8 @@ Of course, it would have no bearing on the max file, but if I was to Suspend a c
 
 That's why the algorithm is transparent, and why you have a choice of what you want to download, and I'm very up front about my own subjective choices on my server.
 
-But it does also mean if you get off my blocklist, you might get off the merge lists entirely, too, for those sites uniquely federated by me.
+But it does also mean if you get off my blocklist, you might get off the merge lists entirely, too, for those sites uniquely defederated by me.
 
 I'm showing all my work here, you see the source files from various servers that drive the resulting merge files, and can easily discuss among yourselves what this means.
+
+See me if you want to get off the Oliphant.Social blocklist, or if you have recommendations or nominations of other Trusted Sources. Those opt-ins need to come from the server admin.
