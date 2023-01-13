@@ -25,17 +25,28 @@ For one, you can point people to your own list for import when they start their 
 None of the Trusted Sources are going to end up in the final unified mergelist, for obvious reasons. We'll leave defederations of my trusted sources (myself included) up to your own individual discretion.
 
 ### Trusted Sources:
+
+#### Tier 0
+
+Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
+  
   1. [Tier0] Mastodon.social
   1. [Tier0] Mastodon.online
+  
+#### Tier 1
+
+Tier1 are servers that block somewhat aggressively (like mine).
+  
   1. [Tier1] Oliphant.Social
   1. [Tier1] Union.Place
+  
+#### Tier 2
+
+Tier2 are servers that block *very* aggressively.
+
   1. [Tier2] Mastodon.Art
   1. [Tier2] Toot.Wales
   1. [Tier2] Artisan.Chat
-  
-Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
-Tier1 are servers that block somewhat aggressively (like mine).
-Tier2 are servers that block *very* aggressively.
 
 ### Obfuscate Sucks for Trusted Servers
 
