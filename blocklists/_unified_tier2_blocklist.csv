@@ -1,5 +1,4 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
-.cf,suspend,,True,True,False
 076.moe,suspend,,True,True,False
 076.ne.jp,suspend,,True,True,False
 101010.pl,suspend,,True,True,False
@@ -18,6 +17,7 @@ abraham.su,suspend,,True,True,False
 activism.openworlds.info,suspend,,True,True,False
 activitypub-proxy.cf,suspend,,True,True,False
 activitypub-troll.cf,suspend,,True,True,False
+activitypub.actor,suspend,,True,True,False
 addy.gg,suspend,,True,True,False
 aethy.com,suspend,,True,True,False
 agates.io,suspend,,True,True,False
