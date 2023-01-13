@@ -19,14 +19,25 @@ For one, you can point people to your own list for import when they start their 
 None of the Trusted Sources are going to end up in the final unified mergelist, for obvious reasons. We'll leave defederations of my trusted sources (myself included) up to your own individual discretion.
 
 ### Trusted Sources:
-  1. Mastodon.social
-  1. Oliphant.Social
-  1. More to Come
+  1. [Tier0] Mastodon.social
+  1. [Tier0] Mastodon.online
+  1. [Tier1] Oliphant.Social
+  1. [Tier2] Mastodon.Art
   
+Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
+Tier1 are servers that block somewhat aggressively (like mine).
+Tier2 are servers that block *very* aggressively.
+
+### Obfuscate Sucks for Trusted Servers
+
+If you want to use Mastodon.social's blocklist, their obfuscate setting has made any domain with asterisks in it unimportable. None of the Oliphant.Social domains are obfuscated for that reason. If you're a Trusted Source, you're better off not obfuscating your blocked domains.
+
 ### The Algorithm:
 
-All the trusted sources are pulled and updated regularly as a dry run, which generates the files (see Fediblockhole link above) and creates the `_unified_blocklist.csv` file. This file can be imported and is a merge of all of the trusted sources combined.
+All the trusted sources in Tier0 and Tier1 are pulled and updated regularly as a dry run, which generates the files (see Fediblockhole link above) and creates the `_unified_min_blocklist.csv` file. This file can be imported and is a merge of all of the trusted sources combined.
 
-This **FediBlockHole** config is set to use the `min` setting when it comes to creating the final merge file. This means that where there is a conflict between trusted sources, the *least* severe setting wins.
+This **FediBlockHole** config file is set to use the `min` setting when it comes to creating the final merge file. This means that where there is a conflict between trusted sources, the *least* severe setting wins.
+
+The `_unified_max_blocklist.csv` includes Tier0, 1 and 2 Trusted Sources and chooses the *most* restrictive option.
 
 ## More to come
