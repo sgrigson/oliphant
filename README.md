@@ -48,4 +48,16 @@ This **FediBlockHole** config file is set to use the `min` setting when it comes
 
 The `_unified_max_blocklist.csv` includes Tier0, 1 and 2 Trusted Sources and chooses the *most* restrictive option.
 
-## More to come
+### This means your judgment affects the Tier1, Tier2 and unified min/max lists as well, doesn't it?
+
+I want to be transparent about this.
+
+Yes, it does. Under the most-lenient policy, if I dropped a Suspension to Silence or even None+RejectMedia, I could affect the overall "min" and tier1 and tier2 lists as well.
+
+Of course, it would have no bearing on the max file, but if I was to Suspend a commonly-silenced domain, the *max* policy would apply the most restrictive to the *max* file, and my Suspend could thus weight everyone else's Silence to a Suspend in that file.
+
+That's why the algorithm is transparent, and why you have a choice of what you want to download, and I'm very up front about my own subjective choices on my server.
+
+But it does also mean if you get off my blocklist, you might get off the merge lists entirely, too, for those sites uniquely federated by me.
+
+I'm showing all my work here, you see the source files from various servers that drive the resulting merge files, and can easily discuss among yourselves what this means.
