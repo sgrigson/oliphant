@@ -1,9 +1,4 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
-.cf,suspend,,True,True,False
-.ga,suspend,,True,True,False
-.gq,suspend,,True,True,False
-.ml,suspend,,True,True,False
-.tk,suspend,,True,True,False
 10minutepleroma.com,suspend,,True,True,False
 1611.social,suspend,,True,True,False
 5dollah.click,suspend,,True,True,False
@@ -116,7 +111,6 @@ fedi.absturztau.be,suspend,,True,True,False
 fedi.app,suspend,,True,True,False
 fedi.aria.dog,suspend,,True,True,False
 fedi.lucasvl.nl,suspend,,True,True,False
-fedi.pawlicker.com,suspend,,True,True,False
 feminism.lgbt,suspend,,True,True,False
 feral.cafe,suspend,,True,True,False
 fightthis.net,suspend,,True,True,False
@@ -184,7 +178,6 @@ lolison.top,suspend,,True,True,False
 lush.moe,suspend,,True,True,False
 mahodou.moe,suspend,,True,True,False
 maladaptive.art,suspend,,True,True,False
-marsey.club,suspend,,True,True,False
 mas.glowing.surf,suspend,,True,True,False
 masochi.st,suspend,,True,True,False
 mastinator.com,suspend,,True,True,False
@@ -323,7 +316,6 @@ terrible.place,suspend,,True,True,False
 the9thcircle.club,suspend,,True,True,False
 toot.love,silence,,False,False,False
 truthsocial.co.in,suspend,,True,True,False
-truthsocial.com,suspend,,True,True,False
 truthsocialpro.org,suspend,,True,True,False
 tube.kenfm.de,suspend,,True,True,False
 tube.querdenken-711.de,suspend,,True,True,False

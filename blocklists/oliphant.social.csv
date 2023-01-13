@@ -1,9 +1,4 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
-.cf,suspend,,True,True,False
-.ga,suspend,,True,True,False
-.gq,suspend,,True,True,False
-.ml,suspend,,True,True,False
-.tk,suspend,,True,True,False
 1611.social,suspend,,True,True,False
 5dollah.click,suspend,,True,True,False
 7td.org,suspend,,True,True,False
@@ -14,7 +9,6 @@ addy.gg,suspend,,True,True,False
 ak.kyaruc.moe,suspend,,True,True,False
 albin.social,suspend,,True,True,False
 angrytoday.com,suspend,,True,True,False
-anime.website,suspend,,True,True,False
 asbestos.cafe,suspend,,True,True,False
 aspiechattr.me,silence,,False,False,False
 bae.st,suspend,,True,True,False
@@ -89,7 +83,6 @@ federated.fun,suspend,,True,True,False
 fedi.absturztau.be,suspend,,True,True,False
 fedi.aria.dog,suspend,,True,True,False
 fedi.lucasvl.nl,suspend,,True,True,False
-fedi.pawlicker.com,suspend,,True,True,False
 feral.cafe,suspend,,True,True,False
 fightthis.net,suspend,,True,True,False
 fluf.club,suspend,,True,True,False
@@ -128,7 +121,6 @@ jpop.club,suspend,,True,True,False
 justicewarrior.social,suspend,,True,True,False
 kazv.moe,suspend,,True,True,False
 kenfm.quadplay.tv,suspend,,True,True,False
-kiwifarms.net,suspend,,True,True,False
 krdtube.org,silence,,False,False,False
 kurosawa.moe,suspend,,True,True,False
 kys.moe,suspend,,True,True,False
@@ -144,7 +136,6 @@ lolison.network,suspend,,True,True,False
 lolison.top,suspend,,True,True,False
 mahodou.moe,suspend,,True,True,False
 maladaptive.art,suspend,,True,True,False
-marsey.club,suspend,,True,True,False
 mas.glowing.surf,suspend,,True,True,False
 masochi.st,suspend,,True,True,False
 mastinator.com,suspend,,True,True,False
@@ -173,7 +164,6 @@ mstdn.starnix.network,suspend,,True,True,False
 mugicha.club,suspend,,True,True,False
 natehiggers.online,suspend,,True,True,False
 nationaljustice.social,suspend,,True,True,False
-neckbeard.xyz,suspend,,True,True,False
 neenster.org,suspend,,True,True,False
 nicecrew.digital,suspend,,True,True,False
 nightshift.social,suspend,,True,True,False
@@ -267,7 +257,6 @@ tavern.drow.be,suspend,,True,True,False
 terrible.place,suspend,,True,True,False
 the9thcircle.club,suspend,,True,True,False
 truthsocial.co.in,suspend,,True,True,False
-truthsocial.com,suspend,,True,True,False
 truthsocialpro.org,suspend,,True,True,False
 tube.kenfm.de,suspend,,True,True,False
 tube.querdenken-711.de,suspend,,True,True,False
