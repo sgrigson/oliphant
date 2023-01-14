@@ -4,6 +4,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 7td.org,suspend,,True,True,False
 80percent.social,suspend,,True,True,False
 a.sc,suspend,,True,True,False
+activitypub-proxy.cf,suspend,,True,True,False
 activitypub-troll.cf,suspend,,True,True,False
 addy.gg,suspend,,True,True,False
 ak.kyaruc.moe,suspend,,True,True,False
