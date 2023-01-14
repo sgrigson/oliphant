@@ -65,7 +65,7 @@ All the trusted sources in Tier0 and Tier1 are pulled and updated regularly as a
 
 This **FediBlockHole** config file is set to use the `min` setting when it comes to creating the final merge file. This means that where there is a conflict between trusted sources, the *least* severe setting wins.
 
-The `_unified_max_blocklist.csv` includes Tier0, 1 and 2 Trusted Sources and chooses the *most* restrictive option.
+The `_unified_max_blocklist.csv` includes Tier0-3 Trusted Sources and chooses the *most* restrictive option.
 
 ### How Oliphant.Social decisions affect these lists
 
