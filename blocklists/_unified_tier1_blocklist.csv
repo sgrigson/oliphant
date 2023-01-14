@@ -16,7 +16,7 @@ angrytoday.com,suspend,,True,True,False
 anime.website,suspend,,True,True,False
 archivefedifor.fun,suspend,,True,True,False
 asbestos.cafe,suspend,,True,True,False
-aspiechattr.me,silence,,False,False,False
+aspiechattr.me,suspend,,True,True,False
 bae.st,suspend,,True,True,False
 baraag.net,suspend,,True,True,False
 bbs.kawa-kun.com,suspend,,True,True,False
@@ -147,6 +147,7 @@ freespeechextremist.com,suspend,,True,True,False
 freezepeach.online,suspend,,True,True,False
 freezepeach.xyz,suspend,,True,True,False
 frennet.xyz,suspend,,True,True,False
+frens.mahodou.moe,suspend,,True,True,False
 friendica.eskimo.com,suspend,,True,True,False
 froth.zone,suspend,,True,True,False
 gab.ai,suspend,,True,True,False
@@ -200,7 +201,6 @@ liberdon.com,suspend,,True,True,False
 librem.one,suspend,,True,True,False
 librenet.co.za,suspend,,True,True,False
 libtar.de,suspend,,True,True,False
-ligma.pro,suspend,,True,True,False
 lizards.live,suspend,,True,True,False
 loli.best,suspend,,True,True,False
 lolicon.rocks,suspend,,True,True,False
@@ -214,6 +214,7 @@ masochi.st,suspend,,True,True,False
 mastinator.com,suspend,,True,True,False
 mastodon.cloud,silence,,False,False,False
 mastodon.heavyrubberslave.com,silence,,False,False,False
+mastodon.hirad.it,suspend,,True,True,False
 mastodon.network,suspend,,True,True,False
 mastodon.popps.org,suspend,,True,True,False
 mastodon.psionprotocol.com,suspend,,True,True,False
@@ -234,6 +235,7 @@ mk.starnix.network,suspend,,True,True,False
 moa.st,suspend,,True,True,False
 monads.online,silence,,False,False,False
 monstergirl.space,suspend,,True,True,False
+morale.ch,suspend,,True,True,False
 mouse.services,suspend,,True,True,False
 mstdn.foxfam.club,silence,,False,False,False
 mstdn.jp,silence,,False,False,False
@@ -421,6 +423,7 @@ xscape.top,suspend,,True,True,False
 xxxtumblr.org,silence,,False,False,False
 yggdrasil.social,suspend,,True,True,False
 youjo.love,suspend,,True,True,False
+zedsocial.ca,suspend,,True,True,False
 zetamu.club,suspend,,True,True,False
 zwezo.o-k-i.net,suspend,,True,True,False
 zztails.gay,suspend,,True,True,False
