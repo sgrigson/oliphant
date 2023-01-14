@@ -1700,7 +1700,7 @@ youjo.love,suspend,,True,True,False
 youkai.town,suspend,,True,True,False
 z0ne.moe,suspend,,True,True,False
 z0ne.social,suspend,,True,True,False
-zedsocial.ca,suspend,,True,True,False
+zedsocial.ca,silence,,False,False,False
 zefirchik.xyz,suspend,,True,True,False
 zeonet.xyz,suspend,,True,True,False
 zeroes.ca,silence,,False,False,False

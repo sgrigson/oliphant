@@ -132,10 +132,10 @@ schwartzwelt.xyz,suspend,,True,True,False
 seal.cafe,suspend,,True,True,False
 shitpisscum.mooo.com,suspend,,True,True,False
 shitpost.cloud,suspend,,True,True,False
-shitposter.club,suspend,,True,True,False
+shitposter.club,silence,,False,False,False
 shitposting.army,suspend,,True,True,False
 shortstackran.ch,suspend,,True,True,False
-sinblr.com,suspend,,True,True,False
+sinblr.com,silence,,False,False,False
 sleepy.cafe,suspend,,True,True,False
 sneed.social,suspend,,True,True,False
 social.lovingexpressions.net,suspend,,True,True,False
@@ -144,7 +144,7 @@ social.quodverum.com,silence,,False,False,False
 solagg.com,suspend,,True,True,False
 spinster.xyz,suspend,,True,True,False
 strelizia.net,suspend,,True,True,False
-switter.at,suspend,,True,True,False
+switter.at,silence,,False,False,False
 tastingtraffic.net,suspend,,True,True,False
 toot.love,silence,,False,False,False
 truthsocialpro.org,suspend,,True,True,False
