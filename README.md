@@ -39,6 +39,7 @@ Tier1 are servers that block somewhat aggressively (like mine).
   
   1. Oliphant.Social
   1. Union.Place
+  1. RapidBlock
   
 #### Tier 2
 
