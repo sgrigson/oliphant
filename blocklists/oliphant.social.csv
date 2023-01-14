@@ -78,7 +78,6 @@ eatthebugs.social,suspend,,True,True,False
 eientei.org,suspend,,True,True,False
 endtimebelievers.com,suspend,,True,True,False
 eveningzoo.club,suspend,,True,True,False
-exited.eu,suspend,,True,True,False
 f.haeder.net,suspend,,True,True,False
 fed.celp.de,silence,,False,False,False
 federated.fun,suspend,,True,True,False
@@ -121,8 +120,6 @@ intkos.link,suspend,,True,True,False
 itmslaves.com,suspend,,True,True,False
 jaeger.website,suspend,,True,True,False
 jir.moe,suspend,,True,True,False
-jpop.club,suspend,,True,True,False
-justicewarrior.social,suspend,,True,True,False
 kazv.moe,suspend,,True,True,False
 kenfm.quadplay.tv,suspend,,True,True,False
 krdtube.org,silence,,False,False,False
@@ -147,12 +144,10 @@ mastodon.heavyrubberslave.com,silence,,False,False,False
 mastodon.hirad.it,suspend,,True,True,False
 mastodon.network,suspend,,True,True,False
 mastodon.popps.org,suspend,,True,True,False
-mastodon.psionprotocol.com,suspend,,True,True,False
 mastodon.se,suspend,,True,True,False
 mastodon.teia.art,silence,,False,False,False
 mastodon.xaetacore.net,suspend,,True,True,False
 mastodong.lol,suspend,,True,True,False
-mastodonhub.com,suspend,,True,True,False
 meatbag.app,suspend,,True,True,False
 mediastodon.com,suspend,,True,True,False
 medic.cafe,suspend,,True,True,False
@@ -176,8 +171,6 @@ nightshift.social,suspend,,True,True,False
 nnia.space,suspend,,True,True,False
 noagendasocial.com,suspend,,True,True,False
 nobodyhasthe.biz,suspend,,True,True,False
-oneway.masto.host,suspend,,True,True,False
-ongardenroad.ca,suspend,,True,True,False
 outerheaven.club,suspend,,True,True,False
 outpoa.st,suspend,,True,True,False
 pawoo.net,suspend,,True,True,False
@@ -261,6 +254,7 @@ tastingtraffic.net,suspend,,True,True,False
 tavern.drow.be,suspend,,True,True,False
 terrible.place,suspend,,True,True,False
 the9thcircle.club,suspend,,True,True,False
+troll.cafe,suspend,,True,True,False
 truthsocial.co.in,suspend,,True,True,False
 truthsocialpro.org,suspend,,True,True,False
 tube.kenfm.de,suspend,,True,True,False

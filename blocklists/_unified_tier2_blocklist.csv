@@ -530,7 +530,6 @@ mastodon.network,suspend,,True,True,False
 mastodon.nzoss.nz,suspend,,True,True,False
 mastodon.online,silence,,False,False,False
 mastodon.popps.org,suspend,,True,True,False
-mastodon.psionprotocol.com,suspend,,True,True,False
 mastodon.se,silence,,False,False,False
 mastodon.social,silence,,False,False,False
 mastodon.tech,suspend,,True,True,False
@@ -628,7 +627,6 @@ ns.auction,suspend,,True,True,False
 obo.sh,suspend,,True,True,False
 office.dtzbts.xyz,suspend,,True,True,False
 oneway.masto.host,suspend,,True,True,False
-ongardenroad.ca,suspend,,True,True,False
 onion.social,suspend,,True,True,False
 openworlds.info,suspend,,True,True,False
 oransns.com,silence,,False,False,False
