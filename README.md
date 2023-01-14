@@ -69,7 +69,7 @@ The `_unified_max_blocklist.csv` includes Tier0-3 Trusted Sources and chooses th
 
 ### How Oliphant.Social decisions affect these lists
 
-I want to be transparent about this. Yes, I do have some impact on both the Tier1 and Tier2 combined lists.
+I want to be transparent about this. Yes, I do have some impact on the Tier1, 2 and 3 combined lists.
 
 Under the most-lenient policy, if I dropped a Suspension to Silence or even None+RejectMedia, I could affect the overall "min" and tier1 and tier2 lists as well.
 
