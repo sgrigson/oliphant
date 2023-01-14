@@ -48,6 +48,12 @@ Tier2 are servers that block *very* aggressively.
   1. Mastodon.Art
   1. Toot.Wales
   1. Artisan.Chat
+  
+#### Tier 3
+
+Tier 3 servers *do not mess around*.
+
+  1. Rage.love
 
 ### Obfuscate Sucks for Trusted Servers
 
