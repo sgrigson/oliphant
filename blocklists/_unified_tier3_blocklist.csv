@@ -621,7 +621,6 @@ hirad.it,suspend,,True,True,False
 hitchhiker.social,suspend,,True,True,False
 hitler.rocks,suspend,,True,True,False
 homd.xyz,suspend,,True,True,False
-home.social,noop,,False,False,False
 homoo.social,suspend,,True,True,False
 homura.space,suspend,,True,True,False
 honey.church,suspend,,True,True,False
@@ -874,7 +873,6 @@ mastodon.world,suspend,,True,True,False
 mastodon.xaetacore.net,suspend,,True,True,False
 mastodon.xech.io,suspend,,True,True,False
 mastodon.zunda.ninja,silence,,False,False,False
-mastodonapp.uk,suspend,,True,True,False
 mastodong.lol,suspend,,True,True,False
 mastodonhub.com,suspend,,True,True,False
 mastodonspain.masto.host,suspend,,True,True,False
@@ -943,7 +941,6 @@ mstdn.ai,suspend,,True,True,False
 mstdn.beer,silence,,False,False,False
 mstdn.ca,silence,,False,False,False
 mstdn.foxfam.club,suspend,,True,True,False
-mstdn.id,suspend,,True,True,False
 mstdn.in,suspend,,True,True,False
 mstdn.io,suspend,,True,True,False
 mstdn.jp,silence,,False,False,False
@@ -1237,7 +1234,6 @@ raygungothic.xyz,suspend,,True,True,False
 rayn.bo,suspend,,True,True,False
 rcsocial.net,suspend,,True,True,False
 rdrama.cc,suspend,,True,True,False
-rdrama.net,suspend,,True,True,False
 real.dogsex.org,suspend,,True,True,False
 rebased.io,suspend,,True,True,False
 rebased.network,suspend,,True,True,False
