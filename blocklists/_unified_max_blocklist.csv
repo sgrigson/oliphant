@@ -4,6 +4,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 076.moe,suspend,,True,True,False
 076.ne.jp,suspend,,True,True,False
 0sint.social,suspend,,True,True,False
+0xspace.social,suspend,,True,True,False
 101010.pl,suspend,,True,True,False
 10minutepleroma.com,suspend,,True,True,False
 13bells.com,suspend,,True,True,False
@@ -1451,6 +1452,7 @@ space.escovan.net,suspend,,True,True,False
 spaceblog.net,suspend,,True,True,False
 spacekittens.ru,suspend,,True,True,False
 spacetime.social,suspend,,True,True,False
+spank.ws,silence,,False,False,False
 speakfree.world,suspend,,True,True,False
 spearman.xyz,suspend,,True,True,False
 sperg.city,suspend,,True,True,False

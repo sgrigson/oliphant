@@ -39,7 +39,7 @@ Tier1 are servers that block somewhat aggressively (like mine).
   
   1. Oliphant.Social
   1. Union.Place
-  1. RapidBlock
+  1. Sunny.Garden
   
 #### Tier 2
 
@@ -66,6 +66,8 @@ All the trusted sources in Tier0 and Tier1 are pulled and updated regularly as a
 This **FediBlockHole** config file is set to use the `min` setting when it comes to creating the final merge file. This means that where there is a conflict between trusted sources, the *least* severe setting wins.
 
 The `_unified_max_blocklist.csv` includes Tier0-3 Trusted Sources and chooses the *most* restrictive option.
+
+This Max blocklist also includes the RapidBlock list recommendations.
 
 ### How Oliphant.Social decisions affect these lists
 

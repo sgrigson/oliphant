@@ -2,6 +2,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 .tk,suspend,,True,True,False
 076.moe,suspend,,True,True,False
 076.ne.jp,suspend,,True,True,False
+0xspace.social,suspend,,True,True,False
 101010.pl,suspend,,True,True,False
 10minutepleroma.com,suspend,,True,True,False
 13bells.com,suspend,,True,True,False
@@ -868,6 +869,7 @@ societal.co,suspend,,True,True,False
 solagg.com,suspend,,True,True,False
 somewhy.net,suspend,,True,True,False
 sorcie.re,suspend,,True,True,False
+spank.ws,silence,,False,False,False
 speakfree.world,suspend,,True,True,False
 sperg.city,suspend,,True,True,False
 spinster.dev,suspend,,True,True,False
@@ -936,7 +938,7 @@ twitter.piriklub.eu,suspend,,True,True,False
 twitterbridge.jannis.rocks,suspend,,True,True,False
 twtr.carnivore.social,suspend,,True,True,False
 twtr.disqordia.space,suspend,,True,True,False
-twtr.plus,suspend,,True,True,False
+twtr.plus,silence,,False,False,False
 twtr.vrij.social,suspend,,True,True,False
 twtr.wappie.land,suspend,,True,True,False
 tyil.nl,suspend,,True,True,False
