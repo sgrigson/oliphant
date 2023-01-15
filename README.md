@@ -75,7 +75,9 @@ Or the "safe list." Anyone that appears in the __allowlist.csv above will *not* 
 
 Also, if you're using one of these lists in an automated fashion and want to be sure you don't show up in the results, either, please let me know.
 
-Note that if you're writing your own custom local process, you should absolutely check if your server is in the defederation list, anyway, to prevent you from loading that entry and defederating yourself, which is a real pain and requires server access to undo (if I hear it correctly.)
+Note that if you're writing your own custom local process, you should absolutely check if your server is in the defederation list, anyway, to prevent you from loading that entry and defederating yourself, which is a real pain and probably requires server access to fix.
+
+Mastodon should also have built-in protection from defederating yourself, but that is another story.
 
 ### How Oliphant.Social decisions affect these lists
 
