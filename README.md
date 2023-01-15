@@ -69,6 +69,14 @@ The `_unified_max_blocklist.csv` includes Tier0-3 Trusted Sources and chooses th
 
 This Max blocklist also includes the RapidBlock list recommendations.
 
+### The Allowlist
+
+Or the "safe list." Anyone that appears in the __allowlist.csv above will *not* be included in any of the unified blocklist files. This is primarily to ensure that no one who is part of our Fedi Council gets accidentally recommended as a block--even *if* members of the Fedi Council end up defederating each other in the future, this is just some protection against that.
+
+Also, if you're using one of these lists in an automated fashion and want to be sure you don't show up in the results, either, please let me know.
+
+Note that if you're writing your own custom local process, you should absolutely check if your server is in the defederation list, anyway, to prevent you from loading that entry and defederating yourself, which is a real pain and requires server access to undo (if I hear it correctly.)
+
 ### How Oliphant.Social decisions affect these lists
 
 I want to be transparent about this. Yes, I do have some impact on the Tier1, 2 and 3 combined lists.
