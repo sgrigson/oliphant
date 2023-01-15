@@ -109,6 +109,7 @@ battlepenguin.video,suspend,,True,True,False
 bbs.kawa-kun.com,suspend,,True,True,False
 bbs.keinpfusch.net,suspend,,True,True,False
 beachcom.org,suspend,,True,True,False
+bearhole.gay,suspend,,True,True,False
 beefyboys.club,suspend,,True,True,False
 beefyboys.win,suspend,,True,True,False
 beehub.org,suspend,,True,True,False
@@ -1099,6 +1100,7 @@ pixats.com,suspend,,True,True,False
 pixelfed.eu,suspend,,True,True,False
 pixfed.com,suspend,,True,True,False
 pixificial.xyz,suspend,,True,True,False
+pizzaf.art,suspend,,True,True,False
 pkteerium.xyz,suspend,,True,True,False
 pl.765racing.com,suspend,,True,True,False
 pl.anon-kenkai.com,suspend,,True,True,False
@@ -1476,7 +1478,6 @@ switter.at,suspend,,True,True,False
 switter.co,suspend,,True,True,False
 switter.nl,suspend,,True,True,False
 sylveon.club,suspend,,True,True,False
-symboli.cyou,suspend,,True,True,False
 systemli.social,suspend,,True,True,False
 take.iteasy.club,suspend,,True,True,False
 tankie.ml,suspend,,True,True,False
@@ -1664,7 +1665,6 @@ wolfgirl.bar,suspend,,True,True,False
 wolfie.pw,suspend,,True,True,False
 womyns.land,suspend,,True,True,False
 woofer.alfter.us,suspend,,True,True,False
-woolly.deepthot.org,suspend,,True,True,False
 workers.dev,suspend,,True,True,False
 worm.pink,suspend,,True,True,False
 wreck.rocks,suspend,,True,True,False
@@ -1698,7 +1698,7 @@ youjo.love,suspend,,True,True,False
 youkai.town,suspend,,True,True,False
 z0ne.moe,suspend,,True,True,False
 z0ne.social,suspend,,True,True,False
-zedsocial.ca,silence,,False,False,False
+zedsocial.ca,suspend,,True,True,False
 zefirchik.xyz,suspend,,True,True,False
 zeonet.xyz,suspend,,True,True,False
 zeroes.ca,silence,,False,False,False

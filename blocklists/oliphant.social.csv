@@ -8,13 +8,13 @@ activitypub-proxy.cf,suspend,,True,True,False
 activitypub-troll.cf,suspend,,True,True,False
 addy.gg,suspend,,True,True,False
 ak.kyaruc.moe,suspend,,True,True,False
-albin.social,suspend,,True,True,False
 angrytoday.com,suspend,,True,True,False
 asbestos.cafe,suspend,,True,True,False
 aspiechattr.me,suspend,,True,True,False
 bae.st,suspend,,True,True,False
 baraag.net,suspend,,True,True,False
 bbs.kawa-kun.com,suspend,,True,True,False
+bearhole.gay,suspend,,True,True,False
 beefyboys.club,suspend,,True,True,False
 beefyboys.win,suspend,,True,True,False
 berserker.town,suspend,,True,True,False
@@ -163,7 +163,6 @@ mouse.services,suspend,,True,True,False
 mstdn.jp,silence,,False,False,False
 mstdn.starnix.network,suspend,,True,True,False
 mugicha.club,suspend,,True,True,False
-natehiggers.online,suspend,,True,True,False
 nationaljustice.social,suspend,,True,True,False
 neenster.org,suspend,,True,True,False
 nicecrew.digital,suspend,,True,True,False
@@ -178,6 +177,7 @@ pedo.school,suspend,,True,True,False
 peertube.se,suspend,,True,True,False
 pieville.net,suspend,,True,True,False
 pisskey.io,suspend,,True,True,False
+pizzaf.art,suspend,,True,True,False
 pkteerium.xyz,suspend,,True,True,False
 pl.anon-kenkai.com,suspend,,True,True,False
 pl.slash.cl,suspend,,True,True,False
@@ -203,6 +203,7 @@ quanta.wiki,suspend,,True,True,False
 quey.org,suspend,,True,True,False
 rapemeat.solutions,suspend,,True,True,False
 rawr-xd.club,suspend,,True,True,False
+rayci.st,suspend,,True,True,False
 rdrama.cc,suspend,,True,True,False
 refusal.biz,suspend,,True,True,False
 refusal.llc,suspend,,True,True,False
@@ -249,11 +250,9 @@ springbo.cc,suspend,,True,True,False
 squid.kids,suspend,,True,True,False
 stereophonic.space,suspend,,True,True,False
 strelizia.net,suspend,,True,True,False
-symboli.cyou,suspend,,True,True,False
 tastingtraffic.net,suspend,,True,True,False
 tavern.drow.be,suspend,,True,True,False
 terrible.place,suspend,,True,True,False
-the9thcircle.club,suspend,,True,True,False
 troll.cafe,suspend,,True,True,False
 truthsocial.co.in,suspend,,True,True,False
 truthsocialpro.org,suspend,,True,True,False
@@ -272,14 +271,13 @@ waifuism.life,suspend,,True,True,False
 whinge.town,suspend,,True,True,False
 wiki-tube.de,suspend,,True,True,False
 wolfgirl.bar,suspend,,True,True,False
-woolly.deepthot.org,suspend,,True,True,False
 worm.pink,suspend,,True,True,False
 x0f.org,suspend,,True,True,False
 xn--p1abe3d.xn--80asehdb,suspend,,True,True,False
 xn--rtta-qoa.nu,suspend,,True,True,False
 yggdrasil.social,suspend,,True,True,False
 youjo.love,suspend,,True,True,False
-zedsocial.ca,silence,,False,False,False
+zedsocial.ca,suspend,,True,True,False
 zztails.gay,suspend,,True,True,False
 zztails.online,suspend,,True,True,False
 zztails.wtf,suspend,,True,True,False

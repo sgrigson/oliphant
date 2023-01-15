@@ -11,7 +11,6 @@ activitypub-troll.cf,suspend,,True,True,False
 addy.gg,suspend,,True,True,False
 aethy.com,suspend,,True,True,False
 ak.kyaruc.moe,suspend,,True,True,False
-albin.social,suspend,,True,True,False
 angrytoday.com,suspend,,True,True,False
 anime.website,suspend,,True,True,False
 archivefedifor.fun,suspend,,True,True,False
@@ -20,6 +19,7 @@ aspiechattr.me,silence,,False,False,False
 bae.st,suspend,,True,True,False
 baraag.net,suspend,,True,True,False
 bbs.kawa-kun.com,suspend,,True,True,False
+bearhole.gay,suspend,,True,True,False
 beefyboys.club,suspend,,True,True,False
 beefyboys.win,suspend,,True,True,False
 berserker.town,suspend,,True,True,False
@@ -264,6 +264,7 @@ peertube.se,suspend,,True,True,False
 pieville.net,suspend,,True,True,False
 pirateradio.social,suspend,,True,True,False
 pisskey.io,suspend,,True,True,False
+pizzaf.art,suspend,,True,True,False
 pkteerium.xyz,suspend,,True,True,False
 pl.anon-kenkai.com,suspend,,True,True,False
 pl.kitsunemimi.club,suspend,,True,True,False
@@ -361,12 +362,10 @@ stars.eroaward.com,silence,,False,False,False
 stereophonic.space,suspend,,True,True,False
 strelizia.net,suspend,,True,True,False
 switter.at,silence,,False,False,False
-symboli.cyou,suspend,,True,True,False
 tastingtraffic.net,suspend,,True,True,False
 taullo.social,suspend,,True,True,False
 tavern.drow.be,suspend,,True,True,False
 terrible.place,suspend,,True,True,False
-the9thcircle.club,suspend,,True,True,False
 thechad.zone,suspend,,True,True,False
 thepostearthdestination.com,suspend,,True,True,False
 toot.love,silence,,False,False,False
@@ -406,7 +405,6 @@ were.social,suspend,,True,True,False
 whinge.town,suspend,,True,True,False
 wiki-tube.de,suspend,,True,True,False
 wolfgirl.bar,suspend,,True,True,False
-woolly.deepthot.org,suspend,,True,True,False
 workers.dev,suspend,,True,True,False
 worm.pink,suspend,,True,True,False
 x0f.org,suspend,,True,True,False
@@ -417,7 +415,7 @@ xscape.top,suspend,,True,True,False
 xxxtumblr.org,silence,,False,False,False
 yggdrasil.social,suspend,,True,True,False
 youjo.love,suspend,,True,True,False
-zedsocial.ca,silence,,False,False,False
+zedsocial.ca,suspend,,True,True,False
 zetamu.club,suspend,,True,True,False
 zwezo.o-k-i.net,suspend,,True,True,False
 zztails.gay,suspend,,True,True,False
