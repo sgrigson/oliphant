@@ -2,76 +2,102 @@
 
 New and improved thanks to the excellent [Fediblockhole](https://github.com/eigenmagic/fediblockhole).
 
-For more information, please check out my blog [Oliphant Social Curated Blocklists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist) page.
+For more information, please check out my blog and how I handle [Blocklists](https://writer.oliphant.social/oliphant/blocklists).
 
-## How are Unified Blocklists Built
+A current version of the data displayed below is hosted on my blog, at [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm).
 
-I, ([Oliphant@oliphant.social](https://oliphant.social/@oliphant)), curate a list of trusted sources, including my own server. These can be public or private lists, but a server can opt-in to being one of the Trusted Sources. So long as they aren't already a defederated server and are trusted by others on the Trusted Sources list, they become a member and provide either their public list, or a `read:blocks` api key for Oliphant.Social to use.
+Updates to the Github README may lag.
 
-Everything is checked against Mastodon.Social and Mastodon.Online, as the 'flagship servers' we might as well give them a vote as well in defederation of the final unified list. (at least for now.) Hopefully Gargron won't mind too much me pulling from their public api of defederation to represent the voice of the Mastodon Server Covenant from a pretty canonical source.
+---
 
-Note that some servers use obfuscation, which blocks imports from being included in the final unified lists. 
+# The Blocklist Algorithm
 
-It's worth noting that although I try on my server to remove and unban servers that are dead and no longer active, not all the sources do the same so there may be some bloat in the unified lists that comes from dead servers.
+This is the process behind creating my unified blocklists. There is no special magic here; everything is created using the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) project. If you start off reviewing that project, you'll probably have a pretty good idea of how this works.
+<!--more-->
+**Summary:** Start with Trusted Sources, create lists from those sources by merging them all together and choosing a "most lenient" policy, where disagreements between the sources take the most lenient server's judgment. This is complicated by trying to create various "Tiers" of moderation, with Tier 0 being the uncontroversial Mastodon flagship servers. Tier 1 is the next step up from that, with Tier 2 sources including a *lot* more blocks. Tier 3 sources have a very large number of defederations.
 
-## How Is My List Built
+This is still objectively better than my former ["just use my list"](https://github.com/sgrigson/oliphant/blob/main/blocklists/oliphant.social.csv) approach. Although I'm pretty proud of my list, so feel free to use it anyway.
 
-Read my [Guidlines for Defederation](https://writer.oliphant.social/oliphant/guidelines-for-defederation). That's how you end up on my list. Some of it comes from ancestral sources. Some of it is very subjective and may even be wrong and I will revisit the list. Make an issue above if you think you're on this list in error and I may remove it. 
+## Start With Trusted Sources
 
-## Advantages of being a Trusted Source
+For starters, I curate a list of trusted sources, including my own server, pulled from the [Fedi Council](/oliphant/the-fedi-council). Admins of Tier1+ servers have opted in to being one of the Trusted Sources, if you see them listed here, I have their explicit permission. (Note: Still waiting for Eugen to acknowledge this project, but I'm assuming he'd be okay with me pulling publicly available defederation data.) 
 
-For one, you can point people to your own list for import when they start their own server. Because all of the sources are involved in the "Fedi Council" here, no one needs to accept *my* opinionated list alone anymore. I am but one voice among trusted sources, but we take the most lenient judgment (Silence vs Suspend, and None/Reject Media over Silence) when creating the final `_unified_blocklist.csv`.
+*Disclaimer: I try on my server to remove and unban servers that are dead and no longer active, but not all the sources do the same. I cannot make any assurances for any lists beyond my own.*
 
-None of the Trusted Sources are going to end up in the final unified mergelist, for obvious reasons. We'll leave defederations of my trusted sources (myself included) up to your own individual discretion.
+### Rank Trusted Sources Into Tiers:
 
-### Trusted Sources:
+Tier is the algorithm I devised to group trusted sources. Essentially, I wanted to keep the size of the blocklist (and the servers defederated) limited based on the general level of 'moderatedness' or 'opinionatedness,' which is a *very subjective* criterion and admittedly does not perfectly represent the real world.
+
+It's only somewhat empirical if you go by blocklist size, which is *mostly* what this is.
+
+Tier 0 is a "regular" or "Mastodon.Social"-sized blocklist, and really it just exists to provide one blocklist to which surely no one can object as a baseline for others.
+
+Tier 1 keeps bigger-than-average blocklists. Tier 2 makes us look like we're not even trying, and Tier 3 have *seen some stuff* and lived to tell about it, and their blocklists reflect that.
+
+Listed below are the current trusted sources. Click each to review their block data. *Each Tier contributes their block data to the tiers above it.* You can thus review this data to determine which blocks will appear in the final merge lists. If you see a block in Tier 0, it will thus appear in every generated list. A block introduced in Tier 1 would also be carried forward into all Tier 2 and Tier 3 lists. Tier 3 contributions to the block file would thus only appear in the Tier 3 and "Max" lists.
 
 #### Tier 0
 
 Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
   
-  1. Mastodon.social
-  1. Mastodon.online
-  
+  1. [Mastodon.social](https://github.com/sgrigson/oliphant/blob/main/blocklists/mastodon.social.csv)
+  1. [Mastodon.online](https://github.com/sgrigson/oliphant/blob/main/blocklists/mastodon.online.csv)
+
+[Combined Tier 0 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier0_blocklist.csv)
+
 #### Tier 1
 
-Tier1 are servers that block somewhat aggressively (like mine).
+Tier1 are servers that block somewhat aggressively, like mine.
   
-  1. Oliphant.Social
-  1. Union.Place
-  1. Sunny.Garden
-  
+1. [Oliphant.Social](https://github.com/sgrigson/oliphant/blob/main/blocklists/oliphant.social.csv)
+1. [Union.Place](https://github.com/sgrigson/oliphant/blob/main/blocklists/union.place.csv)
+1. [Sunny.Garden](https://github.com/sgrigson/oliphant/blob/main/blocklists/sunny.garden.csv)
+
+[Combined Tier 1 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier1_blocklist.csv) - Includes Tier 0 - Tier 1 sources
+
 #### Tier 2
 
-Tier2 are servers that block *very* aggressively.
+Tier2 are servers with even larger and more aggressive blocklists.
 
-  1. Mastodon.Art
-  1. Toot.Wales
-  1. Artisan.Chat
-  
+1. [Mastodon.Art](https://github.com/sgrigson/oliphant/blob/main/blocklists/mastodon.art.csv)
+1. [Toot.Wales](https://github.com/sgrigson/oliphant/blob/main/blocklists/toot.wales.csv)
+1. [Artisan.Chat](https://github.com/sgrigson/oliphant/blob/main/blocklists/artisan.chat.csv)
+
+[Combined Tier 2 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier2_blocklist.csv) - Includes Tier 0 - Tier 2 sources
+
 #### Tier 3
 
-Tier 3 servers *do not mess around*.
+Tier 3 servers have the largest (and thus probably most restrictive) blocklists.
 
-  1. Rage.love
+1. [Rage.love](https://github.com/sgrigson/oliphant/blob/main/blocklists/rage.love.csv)
 
-### Obfuscate Sucks for Trusted Servers
+[Combined Tier 3 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier3_blocklist.csv) - Includes all sources
 
-If you want to use Mastodon.social's blocklist, their obfuscate setting has made any domain with asterisks in it unimportable. None of the Oliphant.Social domains are obfuscated for that reason. If you're a Trusted Source, you're better off not obfuscating your blocked domains.
+### How It Works
 
-### The Algorithm:
+All the trusted sources are pulled and updated regularly, with their [lists available for download](https://github.com/sgrigson/oliphant/tree/main/blocklists). As part of this process, we generate importable CSV files via the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) project, and create the `_unified_*_blocklist.csv` merge files. 
 
-All the trusted sources in Tier0 and Tier1 are pulled and updated regularly as a dry run, which generates the files (see Fediblockhole link above) and creates the `_unified_min_blocklist.csv` file. This file can be imported and is a merge of all of the trusted sources combined.
+The `_unified_max_blocklist.csv` includes Tier 0-3 Trusted Sources and chooses the *most* restrictive option. It is the only file that chooses the `max` or "least lenient" policy.
 
-This **FediBlockHole** config file is set to use the `min` setting when it comes to creating the final merge file. This means that where there is a conflict between trusted sources, the *least* severe setting wins.
+This Max blocklist includes current [RapidBlock](https://rapidblock.org/) list recommendations as well. As an illustration of how each algorithm is configurable, notice that I just decided the `max` list should also include RapidBlock's public list as well, even though it's not included elsewhere.
 
-The `_unified_max_blocklist.csv` includes Tier0-3 Trusted Sources and chooses the *most* restrictive option.
+*Note: The Tier0, Tier1, Tier2, and Tier3 lists also include members on lower tiers in the blocklist algorithm.*
 
-This Max blocklist also includes the RapidBlock list recommendations.
+The FediBlockHole config file is set to use [the `min` setting](https://github.com/eigenmagic/fediblockhole#mergeplan) when creating the final merge file for each tier. This means that where there is a conflict between trusted sources, the *least* severe setting wins. Silence wins over Suspend, and None+Reject Media would win over both.
+
+Tier0, Tier1, Tier2, and Tier3 are *themselves* algorithms. There are other ways to combine lists besides this. Essentially, the higher the tier, the larger the blocklist, both the individual server file for download and their contribution to the size of the overall blocklist.
+
+### Which File to Use?
+
+* If you want the most comprehensive file, with the most lenient judgment from all available sources: [\_unified\_tier3\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier3_blocklist.csv)
+* If you want the most strict file from all sources: [\_unified\_max\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_max_blocklist.csv)
+* If you want the most lenient from all Tier 0 and Tier 1 sources: [\_unified\_min\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_min_blocklist.csv) *or* [\_unified\_tier1\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier1_blocklist.csv) (These files are identical.)
+* If you want the least opinionated file: [\_unified\_tier0\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier0_blocklist.csv) or a more opinionated file: [\_unified\_tier2\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier2_blocklist.csv)
+* If you trust one of these servers more than any others, just use that server's file.
 
 ### The Allowlist
 
-Or the "safe list." Anyone that appears in the __allowlist.csv above will *not* be included in any of the unified blocklist files. This is primarily to ensure that no one who is part of our Fedi Council gets accidentally recommended as a block--even *if* members of the Fedi Council end up defederating each other in the future, this is just some protection against that.
+Anyone that appears in the [allowlist](https://github.com/sgrigson/oliphant/blob/main/blocklists/__allowlist.csv) will *not* be included in any of the unified blocklist files. This is primarily to ensure that no one who is part of our Fedi Council gets accidentally recommended as a block--even *if* members of the Fedi Council end up defederating each other in the future, this is just some protection against that.
 
 Also, if you're using one of these lists in an automated fashion and want to be sure you don't show up in the results, either, please let me know.
 
@@ -79,18 +105,24 @@ Note that if you're writing your own custom local process, you should absolutely
 
 Mastodon should also have built-in protection from defederating yourself, but that is another story.
 
-### How Oliphant.Social decisions affect these lists
+To be transparent, I manually added a few things to the allowlist, who are not part of our Fedi Council:
 
-I want to be transparent about this. Yes, I do have some impact on the Tier1, 2 and 3 combined lists.
+* mastodon.social
+* mastodon.online
+* mstdn.social
+* dair-community.social
+* pleroma.envs.net
 
-Under the most-lenient policy, if I dropped a Suspension to Silence or even None+RejectMedia, I could affect the overall "min" and tier1 and tier2 lists as well.
+The first three are because they are large community servers and a new server admin will likely want to make their own decisions about whether to silence or defederate these servers.
 
-Of course, it would have no bearing on the max file, but if I was to Suspend a commonly-silenced domain, the *max* policy would apply the most restrictive to the *max* file, and my Suspend could thus weight everyone else's Silence to a Suspend in that file.
+Dair-community.social is a recommended server for black and marginalized voices with [solid moderation credentials](/oliphant/mastodon-black-and-trans-friendly-servers). It was never in any risk of being defederated, this was just a precautionary measure and statement of solidarity.
 
-That's why the algorithm is transparent, and why you have a choice of what you want to download, and I'm very up front about my own subjective choices on my server.
+The pleroma instance comes from Seirdy, who contributes a lot of useful info to Fediblock with notes and receipts about bad actors.
 
-But it does also mean if you get off my blocklist, you might get off the merge lists entirely, too, for those sites uniquely defederated by me.
+### Other Algorithms to Come!
 
-I'm showing all my work here, you see the source files from various servers that drive the resulting merge files, and can easily discuss among yourselves what this means.
+Min, Max, Tier0 - Tier 3, these are just the first round of algorithms!
 
-See me if you want to get off the Oliphant.Social blocklist, or if you have recommendations or nominations of other Trusted Sources. Those opt-ins need to come from the server admin.
+Once other better public lists are available, I can also use those as sources. One list, in particular, is being developed now (not by me) that will look for commonalities between different groups in our fedi council and report only blocks in which there is an agreement between X (say 5?) or more and leave the others off the list.
+
+I plan to provide that as its own blocklist in the future, while also using it to combine with other well-curated lists to provide different files for import.
