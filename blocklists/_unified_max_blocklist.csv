@@ -50,6 +50,7 @@ akko.disqordia.space,suspend,,False,False,False
 akko.saturno.black,suspend,,False,False,False
 akm.longyap.name.my,suspend,,False,False,False
 albin.social,suspend,,False,False,False
+alteregocreations.com,suspend,,False,False,False
 amala.schwartzwelt.xyz,suspend,,False,False,False
 amiantos.net,suspend,,False,False,False
 ancreport.com,suspend,,False,False,False
@@ -128,6 +129,7 @@ bigguys.club,suspend,,False,False,False
 bikeshed.party,suspend,,False,False,False
 birb.elfenban.de,suspend,,False,False,False
 birb.space,suspend,,False,False,False
+birb.stream,suspend,,False,False,False
 bird.evilcyberhacker.net,suspend,,False,False,False
 bird.froth.zone,suspend,,False,False,False
 bird.im-in.space,suspend,,False,False,False
@@ -153,6 +155,7 @@ birdsite.link,suspend,,False,False,False
 birdsite.lipsia.casa,suspend,,False,False,False
 birdsite.live,suspend,,False,False,False
 birdsite.mastodon.me.uk,suspend,,False,False,False
+birdsite.miisu.net,suspend,,False,False,False
 birdsite.monster,suspend,,False,False,False
 birdsite.nytpu.com,suspend,,False,False,False
 birdsite.oliviaappleton.com,suspend,,False,False,False
@@ -167,6 +170,7 @@ birdsite.vrparty.social,suspend,,False,False,False
 birdsite.wilde.cloud,suspend,,False,False,False
 birdsitelive.bubbletea.dev,suspend,,False,False,False
 birdsitelive.ffvo.dev,suspend,,False,False,False
+birdsitelive.kevinyank.com,suspend,,False,False,False
 birdsitelive.loca.lt,suspend,,False,False,False
 birdsitelive.moistgarbage.info,suspend,,False,False,False
 birdsitelive.peanutlasko.com,suspend,,False,False,False
@@ -369,6 +373,7 @@ doesnotexist.club,suspend,,False,False,False
 doesnt.undo.it,suspend,,False,False,False
 dogeposting.social,suspend,,False,False,False
 dogsex.org,silence,,False,False,False
+dolphin-emu.org,suspend,,False,False,False
 don.bitma.st,suspend,,False,False,False
 donotban.com,suspend,,False,False,False
 donteatanimals.org,suspend,,False,False,False
@@ -723,7 +728,6 @@ keinpfusch.net,suspend,,False,False,False
 kenfm.de,suspend,,False,False,False
 kenfm.quadplay.tv,suspend,,False,False,False
 kenhbit.com,suspend,,False,False,False
-kevinyank.com,suspend,,False,False,False
 khajiit.tech,suspend,,False,False,False
 killbox.social,suspend,,False,False,False
 kink.town,suspend,,False,False,False
@@ -1064,6 +1068,7 @@ oransns.com,silence,,False,False,False
 order.life,suspend,,False,False,False
 osrs.club,suspend,,False,False,False
 ost.social,suspend,,False,False,False
+otaku.whomartthou.com,suspend,,False,False,False
 oti.st,suspend,,False,False,False
 ouda.space,suspend,,False,False,False
 oursocialism.today,suspend,,False,False,False
@@ -1320,6 +1325,7 @@ serialmay.link,suspend,,False,False,False
 servernerds.net,suspend,,False,False,False
 setho.org,suspend,,False,False,False
 sevvie.ltd,suspend,,False,False,False
+sharivegas.com,suspend,,False,False,False
 shatteredpalisa.de,suspend,,False,False,False
 sheep.network,suspend,,False,False,False
 shelter.moe,suspend,,False,False,False
@@ -1335,6 +1341,7 @@ shitposting.army,suspend,,False,False,False
 shortstackran.ch,suspend,,False,False,False
 shota.house,suspend,,False,False,False
 shota.social,suspend,,False,False,False
+shotatube,suspend,,False,False,False
 shouldibuyahorse.com,suspend,,False,False,False
 shpposter.club,suspend,,False,False,False
 shrine.moe,suspend,,False,False,False
@@ -1595,6 +1602,7 @@ twitter.com,suspend,,False,False,False
 twitter.doesnotexist.club,suspend,,False,False,False
 twitter.grants.cafe,suspend,,False,False,False
 twitter.piriklub.eu,suspend,,False,False,False
+twitter.ukd.social,suspend,,False,False,False
 twitterbridge.jannis.rocks,suspend,,False,False,False
 twiukraine.com,suspend,,False,False,False
 twooter.me,suspend,,False,False,False
@@ -1607,7 +1615,6 @@ tyil.nl,suspend,,False,False,False
 udongein.xyz,suspend,,False,False,False
 ueberspace.de,suspend,,False,False,False
 uiuxdev.social,silence,,False,False,False
-ukd.social,suspend,,False,False,False
 uksocial.net,suspend,,False,False,False
 unbound.social,suspend,,False,False,False
 underscore.world,suspend,,False,False,False

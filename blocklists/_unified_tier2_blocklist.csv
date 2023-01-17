@@ -33,6 +33,7 @@ akko.disqordia.space,suspend,,False,False,False
 akko.saturno.black,suspend,,False,False,False
 akm.longyap.name.my,suspend,,False,False,False
 albin.social,suspend,,False,False,False
+alteregocreations.com,suspend,,False,False,False
 amala.schwartzwelt.xyz,suspend,,False,False,False
 ancreport.com,suspend,,False,False,False
 anemoneya.me,suspend,,False,False,False
@@ -81,6 +82,7 @@ bgzashtita.es,silence,,False,False,False
 bigguys.club,suspend,,False,False,False
 bikeshed.party,suspend,,False,False,False
 birb.elfenban.de,suspend,,False,False,False
+birb.stream,suspend,,False,False,False
 bird.evilcyberhacker.net,suspend,,False,False,False
 bird.froth.zone,suspend,,False,False,False
 bird.im-in.space,suspend,,False,False,False
@@ -104,6 +106,7 @@ birdsite.lakedrops.com,suspend,,False,False,False
 birdsite.link,suspend,,False,False,False
 birdsite.lipsia.casa,suspend,,False,False,False
 birdsite.mastodon.me.uk,suspend,,False,False,False
+birdsite.miisu.net,suspend,,False,False,False
 birdsite.monster,suspend,,False,False,False
 birdsite.nytpu.com,suspend,,False,False,False
 birdsite.oliviaappleton.com,suspend,,False,False,False
@@ -118,6 +121,7 @@ birdsite.vrparty.social,suspend,,False,False,False
 birdsite.wilde.cloud,suspend,,False,False,False
 birdsitelive.bubbletea.dev,suspend,,False,False,False
 birdsitelive.ffvo.dev,suspend,,False,False,False
+birdsitelive.kevinyank.com,suspend,,False,False,False
 birdsitelive.loca.lt,suspend,,False,False,False
 birdsitelive.moistgarbage.info,suspend,,False,False,False
 birdsitelive.peanutlasko.com,suspend,,False,False,False
@@ -218,6 +222,7 @@ danksquad.org,suspend,,False,False,False
 danksquad.xyz,suspend,,False,False,False
 danrees.me,suspend,,False,False,False
 dark-alexandr.net,suspend,,False,False,False
+darknight-coffee.org,suspend,,False,False,False
 ddns.net,suspend,,False,False,False
 deepnexus.link,suspend,,False,False,False
 definitely-not-archivefedifor.fun,suspend,,False,False,False
@@ -443,7 +448,6 @@ kabuki.club,silence,,False,False,False
 karjalazet.se,suspend,,False,False,False
 kazv.moe,suspend,,False,False,False
 kenfm.quadplay.tv,suspend,,False,False,False
-kevinyank.com,suspend,,False,False,False
 khajiit.tech,suspend,,False,False,False
 killbox.social,suspend,,False,False,False
 kink.town,suspend,,False,False,False
@@ -452,7 +456,6 @@ kitsunemimi.club,suspend,,False,False,False
 kiwifarms.cc,suspend,,False,False,False
 kiwifarms.is,suspend,,False,False,False
 kiwifarms.net,suspend,,False,False,False
-kogasa.de,suspend,,False,False,False
 kolektiva.social,silence,,False,False,False
 kompost.cz,suspend,,False,False,False
 kotobank.ch,suspend,,False,False,False
@@ -476,6 +479,7 @@ leadslinger.org,suspend,,False,False,False
 leafposter.club,suspend,,False,False,False
 leftlibertarian.club,suspend,,False,False,False
 leftychan.net,suspend,,False,False,False
+leptonics.com,suspend,,False,False,False
 lets.bemoe.online,suspend,,False,False,False
 lets.saynoto.lgbt,suspend,,False,False,False
 letsalllovela.in,suspend,,False,False,False
@@ -645,6 +649,7 @@ onion.social,suspend,,False,False,False
 openworlds.info,suspend,,False,False,False
 oransns.com,silence,,False,False,False
 osrs.club,suspend,,False,False,False
+otaku.whomartthou.com,suspend,,False,False,False
 oti.st,suspend,,False,False,False
 ouda.space,suspend,,False,False,False
 outerheaven.club,suspend,,False,False,False
@@ -798,6 +803,7 @@ secretsealing.club,suspend,,False,False,False
 seo.chat,silence,,False,False,False
 seo.community,silence,,False,False,False
 servernerds.net,suspend,,False,False,False
+sharivegas.com,suspend,,False,False,False
 shelter.moe,suspend,,False,False,False
 shigusegubu.club,suspend,,False,False,False
 shitasstits.life,suspend,,False,False,False
@@ -810,6 +816,7 @@ shitposting.army,suspend,,False,False,False
 shortstackran.ch,suspend,,False,False,False
 shota.house,silence,,False,False,False
 shota.social,suspend,,False,False,False
+shotatube,suspend,,False,False,False
 shouldibuyahorse.com,suspend,,False,False,False
 shpposter.club,suspend,,False,False,False
 shrine.moe,suspend,,False,False,False
@@ -958,6 +965,7 @@ twitter.activitypub.actor,suspend,,False,False,False
 twitter.doesnotexist.club,suspend,,False,False,False
 twitter.grants.cafe,suspend,,False,False,False
 twitter.piriklub.eu,suspend,,False,False,False
+twitter.ukd.social,suspend,,False,False,False
 twitterbridge.jannis.rocks,suspend,,False,False,False
 twtr.carnivore.social,suspend,,False,False,False
 twtr.disqordia.space,suspend,,False,False,False
@@ -967,7 +975,6 @@ twtr.wappie.land,suspend,,False,False,False
 tyil.nl,suspend,,False,False,False
 udongein.xyz,silence,,False,False,False
 uiuxdev.social,silence,,False,False,False
-ukd.social,suspend,,False,False,False
 unbound.social,suspend,,False,False,False
 ungoverned.social,suspend,,False,False,False
 unperson.us,suspend,,False,False,False
