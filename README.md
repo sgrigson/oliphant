@@ -109,7 +109,6 @@ To be transparent, I manually added a few things to the allowlist, who are not p
 * mastodon.online
 * mstdn.social
 * dair-community.social
-* pleroma.envs.net
 
 The first three are because they are large community servers and a new server admin will likely want to make their own decisions about whether to silence or defederate these servers.
 
