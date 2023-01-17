@@ -114,8 +114,6 @@ The first three are because they are large community servers and a new server ad
 
 Dair-community.social is a recommended server for black and marginalized voices with [solid moderation credentials](/oliphant/mastodon-black-and-trans-friendly-servers). It was never in any risk of being defederated, this was just a precautionary measure and statement of solidarity.
 
-The pleroma instance comes from Seirdy, who contributes a lot of useful info to Fediblock with notes and receipts about bad actors.
-
 ### Other Algorithms to Come!
 
 Min, Max, Tier0 - Tier 3, these are just the first round of algorithms!
