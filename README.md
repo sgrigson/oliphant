@@ -30,15 +30,15 @@ Tier is the algorithm I devised to group trusted sources. Essentially, I wanted 
 
 It's only somewhat empirical if you go by blocklist size, which is *mostly* what this is.
 
-Tier 0 is a "regular" or "Mastodon.Social"-sized blocklist, and really it just exists to provide one blocklist to which surely no one can object as a baseline for others.
+Tier 0 is a "regular" or "Mastodon.Social"-sized blocklist, and really it just exists to provide one blocklist to which surely no one can object as a baseline for others. Since these sources aren't part of our Fedi Council, I only provide them for download, Tier0 list, and the "max list. They aren't part of any others.
 
 Tier 1 keeps bigger-than-average blocklists. Tier 2 makes us look like we're not even trying, and Tier 3 have *seen some stuff* and lived to tell about it, and their blocklists reflect that.
 
-Listed below are the current trusted sources. Click each to review their block data. *Each Tier contributes their block data to the tiers above it.* You can thus review this data to determine which blocks will appear in the final merge lists. If you see a block in Tier 0, it will thus appear in every generated list. A block introduced in Tier 1 would also be carried forward into all Tier 2 and Tier 3 lists. Tier 3 contributions to the block file would thus only appear in the Tier 3 and "Max" lists.
+Listed below are the current trusted sources. Click each to review their block data. *Each Tier contributes their block data to the tiers above it.* You can thus review this data to determine which blocks will appear in the final merge lists. A block introduced in Tier 1 would be carried forward into all Tier 2 and Tier 3 lists. Tier 3 contributions to the block file would thus only appear in the Tier 3 and "Max" lists.
 
 #### Tier 0
 
-Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant.
+Tier0 is base-level moderation, expected on the flagship servers and as part of the Mastodon Server Covenant. These files are provided for download below, but these results are not included in other combined tier lists.
   
   1. [Mastodon.social](https://github.com/sgrigson/oliphant/blob/main/blocklists/mastodon.social.csv)
   1. [Mastodon.online](https://github.com/sgrigson/oliphant/blob/main/blocklists/mastodon.online.csv)
@@ -53,7 +53,7 @@ Tier1 are servers that block somewhat aggressively, like mine.
 1. [Union.Place](https://github.com/sgrigson/oliphant/blob/main/blocklists/union.place.csv)
 1. [Sunny.Garden](https://github.com/sgrigson/oliphant/blob/main/blocklists/sunny.garden.csv)
 
-[Combined Tier 1 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier1_blocklist.csv) - Includes Tier 0 - Tier 1 sources
+[Combined Tier 1 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier1_blocklist.csv) - Includes only Tier 1 sources
 
 #### Tier 2
 
@@ -63,7 +63,7 @@ Tier2 are servers with even larger and more aggressive blocklists.
 1. [Toot.Wales](https://github.com/sgrigson/oliphant/blob/main/blocklists/toot.wales.csv)
 1. [Artisan.Chat](https://github.com/sgrigson/oliphant/blob/main/blocklists/artisan.chat.csv)
 
-[Combined Tier 2 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier2_blocklist.csv) - Includes Tier 0 - Tier 2 sources
+[Combined Tier 2 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier2_blocklist.csv) - Includes Tier 1 - Tier 2 sources
 
 #### Tier 3
 
@@ -71,17 +71,15 @@ Tier 3 servers have the largest (and thus probably most restrictive) blocklists.
 
 1. [Rage.love](https://github.com/sgrigson/oliphant/blob/main/blocklists/rage.love.csv)
 
-[Combined Tier 3 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier3_blocklist.csv) - Includes all sources
+[Combined Tier 3 File](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier3_blocklist.csv) - Includes Tier 1 - Tier 3 sources
 
 ### How It Works
 
 All the trusted sources are pulled and updated regularly, with their [lists available for download](https://github.com/sgrigson/oliphant/tree/main/blocklists). As part of this process, we generate importable CSV files via the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) project, and create the `_unified_*_blocklist.csv` merge files. 
 
-The `_unified_max_blocklist.csv` includes Tier 0-3 Trusted Sources and chooses the *most* restrictive option. It is the only file that chooses the `max` or "least lenient" policy.
+The `_unified_max_blocklist.csv` includes Tier 0-3 Trusted Sources and chooses the *most* restrictive option. It is the only file that chooses the `max` or "least lenient" policy, and the only one that include Tier 0 results commingled with other members of the Fedi Council.
 
 This Max blocklist includes current [RapidBlock](https://rapidblock.org/) list recommendations as well. As an illustration of how each algorithm is configurable, notice that I just decided the `max` list should also include RapidBlock's public list as well, even though it's not included elsewhere.
-
-*Note: The Tier0, Tier1, Tier2, and Tier3 lists also include members on lower tiers in the blocklist algorithm.*
 
 The FediBlockHole config file is set to use [the `min` setting](https://github.com/eigenmagic/fediblockhole#mergeplan) when creating the final merge file for each tier. This means that where there is a conflict between trusted sources, the *least* severe setting wins. Silence wins over Suspend, and None+Reject Media would win over both.
 
@@ -89,9 +87,9 @@ Tier0, Tier1, Tier2, and Tier3 are *themselves* algorithms. There are other ways
 
 ### Which File to Use?
 
-* If you want the most comprehensive file, with the most lenient judgment from all available sources: [\_unified\_tier3\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier3_blocklist.csv)
-* If you want the most strict file from all sources: [\_unified\_max\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_max_blocklist.csv)
-* If you want the most lenient from all Tier 0 and Tier 1 sources: [\_unified\_min\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_min_blocklist.csv) *or* [\_unified\_tier1\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier1_blocklist.csv) (These files are identical.)
+* If you want the most comprehensive file, with the most lenient judgment from the members of my trusted sources: [\_unified\_tier3\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier3_blocklist.csv)
+* If you want the most strict file from all available sources: [\_unified\_max\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_max_blocklist.csv)
+* If you want the most lenient from all Tier 1 sources: [\_unified\_min\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_min_blocklist.csv) *or* [\_unified\_tier1\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier1_blocklist.csv) (These files are identical.)
 * If you want the least opinionated file: [\_unified\_tier0\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier0_blocklist.csv) or a more opinionated file: [\_unified\_tier2\_blocklist.csv](https://github.com/sgrigson/oliphant/blob/main/blocklists/_unified_tier2_blocklist.csv)
 * If you trust one of these servers more than any others, just use that server's file.
 
