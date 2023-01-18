@@ -5,6 +5,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 activitypub-proxy.cf,suspend,,False,False,False
 activitypub-troll.cf,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
+alteregocreations.com,suspend,,False,False,False
 archivefedifor.fun,suspend,,False,False,False
 aspiechattr.me,silence,,False,False,False
 bae.st,suspend,,False,False,False
@@ -79,6 +80,7 @@ gameliberty.club,suspend,,False,False,False
 gangstalking.services,suspend,,False,False,False
 gasthe.lgbt,suspend,,False,False,False
 genderheretics.xyz,suspend,,False,False,False
+ghetti.monster,suspend,,False,False,False
 gleasonator.com,silence,,False,False,False
 gnuhacker.org,suspend,,False,False,False
 hirad.it,suspend,,False,False,False
@@ -137,6 +139,7 @@ poster.place,suspend,,False,False,False
 posting.lolicon.rocks,suspend,,False,False,False
 poweredbycocaine.com,suspend,,False,False,False
 qoto.org,silence,,False,False,False
+r18.social,suspend,,False,False,False
 rapefeminists.network,suspend,,False,False,False
 rapemeat.solutions,suspend,,False,False,False
 rayci.st,suspend,,False,False,False
@@ -152,6 +155,7 @@ seal.cafe,suspend,,False,False,False
 sealion.club,suspend,,False,False,False
 seo.chat,silence,,False,False,False
 servernerds.net,suspend,,False,False,False
+sharivegas.com,suspend,,False,False,False
 shitpost.cloud,suspend,,False,False,False
 shitposter.club,silence,,False,False,False
 shota.house,silence,,False,False,False
