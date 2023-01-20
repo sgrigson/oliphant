@@ -103,16 +103,7 @@ Note that if you're writing your own custom local process, you should absolutely
 
 Mastodon should also have built-in protection from defederating yourself, but that is another story.
 
-To be transparent, I manually added a few things to the allowlist, who are not part of our Fedi Council:
-
-* mastodon.social
-* mastodon.online
-* mstdn.social
-* dair-community.social
-
-The first three are because they are large community servers and a new server admin will likely want to make their own decisions about whether to silence or defederate these servers.
-
-Dair-community.social is a recommended server for black and marginalized voices with [solid moderation credentials](/oliphant/mastodon-black-and-trans-friendly-servers). It was never in any risk of being defederated, this was just a precautionary measure and statement of solidarity.
+To be transparent, I may manually add a few others to the allowlist, who are not part of our Fedi Council.
 
 ### Other Algorithms to Come!
 
