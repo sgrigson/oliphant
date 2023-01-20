@@ -2,17 +2,18 @@
 
 New and improved thanks to the excellent [Fediblockhole](https://github.com/eigenmagic/fediblockhole).
 
-For more information, please check out my blog and how I handle [Blocklists](https://writer.oliphant.social/oliphant/blocklists).
+For more information, please check out my blog entries on 
 
-A current version of the data displayed below is hosted on my blog, at [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm).
-
-You can do this yourself, ignore my lists entirely, or use them as a source for import, at [How to Sync Up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources).
-
-Updates to the Github README may lag.
+* [Blocklists](https://writer.oliphant.social/oliphant/blocklists)
+Several thousand words about blocklists and defederation.
+* [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)
+Reprinted below
+* [How to Sync Up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources)
+How all of this was built, and how you can do it yourself.
 
 ---
 
-# The Blocklist Algorithm
+# [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)
 
 This is the process behind creating my unified blocklists. There is no special magic here; everything is created using the [FediBlockHole](https://github.com/eigenmagic/fediblockhole) project. If you start off reviewing that project, you'll probably have a pretty good idea of how this works.
 <!--more-->
