@@ -6,6 +6,8 @@ For more information, please check out my blog and how I handle [Blocklists](htt
 
 A current version of the data displayed below is hosted on my blog, at [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm).
 
+You can do this yourself, ignore my lists entirely, or use them as a source for import, at [How to Sync Up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources).
+
 Updates to the Github README may lag.
 
 ---
@@ -103,7 +105,7 @@ Note that if you're writing your own custom local process, you should absolutely
 
 Mastodon should also have built-in protection from defederating yourself, but that is another story.
 
-To be transparent, I may manually add a few others to the allowlist, who are not part of our Fedi Council.
+I may manually add a few others to the allowlist, who are not part of our Fedi Council.
 
 ### Other Algorithms to Come!
 
