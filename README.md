@@ -4,11 +4,11 @@ New and improved thanks to the excellent [Fediblockhole](https://github.com/eige
 
 For more information, please check out some blog entries:
 
-* [Blocklists](https://writer.oliphant.social/oliphant/blocklists)
+* [Blocklists](https://writer.oliphant.social/oliphant/blocklists)  
 Several thousand words about blocklists and defederation.
-* [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)
+* [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)  
 Reprinted below
-* [How to Sync Up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources)
+* [How to Sync Up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources)  
 How all of this was built, and how you can do it yourself.
 
 ---
