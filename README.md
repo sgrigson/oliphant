@@ -2,7 +2,7 @@
 
 New and improved thanks to the excellent [Fediblockhole](https://github.com/eigenmagic/fediblockhole).
 
-For more information, please check out my blog entries on 
+For more information, please check out some blog entries:
 
 * [Blocklists](https://writer.oliphant.social/oliphant/blocklists)
 Several thousand words about blocklists and defederation.
