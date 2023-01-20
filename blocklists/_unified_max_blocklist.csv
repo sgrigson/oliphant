@@ -891,9 +891,11 @@ mastodon.madrid,suspend,,False,False,False
 mastodon.ml,suspend,,False,False,False
 mastodon.network,suspend,,False,False,False
 mastodon.nzoss.nz,suspend,,False,False,False
+mastodon.online,suspend,,False,False,False
 mastodon.org.uk,suspend,,False,False,False
 mastodon.popps.org,suspend,,False,False,False
 mastodon.se,suspend,,False,False,False
+mastodon.social,suspend,,False,False,False
 mastodon.someotherguy.xyz,suspend,,False,False,False
 mastodon.starrevolution.org,suspend,,False,False,False
 mastodon.tech,suspend,,False,False,False
@@ -985,6 +987,7 @@ mstdn.jp,silence,,False,False,False
 mstdn.media,suspend,,False,False,False
 mstdn.party,silence,,False,False,False
 mstdn.satania.social,suspend,,False,False,False
+mstdn.social,suspend,,False,False,False
 mstdn.starnix.network,suspend,,False,False,False
 mu.zaitcev.nu,suspend,,False,False,False
 mugicha.club,suspend,,False,False,False
