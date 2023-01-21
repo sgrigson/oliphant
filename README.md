@@ -10,3 +10,10 @@ How the various lists were built, and the algorithms behind Min, Max, and Tier 0
 A step-by-step tutorial on how to install FediBlockHole yourself and start pulling down blocklists and applying them to your server.
 * [Blocklists](https://writer.oliphant.social/oliphant/blocklists)  
 Several thousand words about blocklists and defederation.
+
+Lists hosted at:
+
+* https://github.com/sgrigson/oliphant
+* https://codeberg.org/oliphant/oliphant
+
+You can use `git remote set-url` to switch locations if one location goes down and you're using git to pull down updates.

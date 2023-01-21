@@ -245,6 +245,7 @@ dotsod.com,suspend,,False,False,False
 dragonpsi.xyz,suspend,,False,False,False
 drow.be,suspend,,False,False,False
 dsocialize.net,suspend,,False,False,False
+dtzbts.xyz,suspend,,False,False,False
 duckdns.org,suspend,,False,False,False
 durst.world,suspend,,False,False,False
 duti.tech,suspend,,False,False,False
@@ -858,6 +859,7 @@ snowdin.town,suspend,,False,False,False
 soapbox.midwaytrades.com,suspend,,False,False,False
 soc.h4x.group,suspend,,False,False,False
 soc.mahodou.moe,suspend,,False,False,False
+soc.ua-fediland.de,suspend,,False,False,False
 social.076.ne.jp,suspend,,False,False,False
 social.ancreport.com,suspend,,False,False,False
 social.anoxinon.de,suspend,,False,False,False
@@ -928,7 +930,7 @@ statshelix.com,suspend,,False,False,False
 stereophonic.space,suspend,,False,False,False
 stracknet.com,suspend,,False,False,False
 strelizia.net,suspend,,False,False,False
-susmaninsurance.com,suspend,,False,False,False
+susmaninsurance.com,silence,,False,False,False
 suya.place,suspend,,False,False,False
 switter.at,suspend,,False,False,False
 tastingtraffic.net,suspend,,False,False,False
@@ -990,6 +992,7 @@ twtr.plus,silence,,False,False,False
 twtr.vrij.social,suspend,,False,False,False
 twtr.wappie.land,suspend,,False,False,False
 tyil.nl,suspend,,False,False,False
+ua-fediland.de,silence,,False,False,False
 udongein.xyz,silence,,False,False,False
 uiuxdev.social,silence,,False,False,False
 unbound.social,suspend,,False,False,False

@@ -1,5 +1,6 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
 *.bigguys.club,suspend,,False,False,False
+076.moe,suspend,,False,False,False
 10minutepleroma.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
 2.distsn.org,suspend,,False,False,False
@@ -124,6 +125,7 @@ dlf.social,suspend,,False,False,False
 dobbs.town,suspend,,False,False,False
 dogsex.org,suspend,,False,False,False
 drow.be,suspend,,False,False,False
+dtzbts.xyz,suspend,,False,False,False
 duckdns.org,suspend,,False,False,False
 eatthebugs.social,suspend,,False,False,False
 eientei.org,suspend,,False,False,False
@@ -172,6 +174,7 @@ freevoice.space,suspend,,False,False,False
 freewahaextremist.wtf,suspend,,False,False,False
 freezepeach.online,suspend,,False,False,False
 freezepeach.xyz,suspend,,False,False,False
+frennet.xyz,suspend,,False,False,False
 frens.mahodou.moe,suspend,,False,False,False
 friendica.ironbug.org,suspend,,False,False,False
 friends.nico,silence,,False,False,False
@@ -186,6 +189,7 @@ gabble.xyz,suspend,,False,False,False
 gabfed.com,suspend,,False,False,False
 gabtest.gameliberty.club,suspend,,False,False,False
 gameliberty.club,suspend,,False,False,False
+gamers.exposed,suspend,,False,False,False
 gangstalking.services,suspend,,False,False,False
 gasthe.lgbt,suspend,,False,False,False
 gearlandia.haus,suspend,,False,False,False
@@ -216,6 +220,7 @@ haskovec.social,suspend,,False,False,False
 hdcraft.xyz,suspend,,False,False,False
 helladoge.com,silence,,False,False,False
 hentai.baby,suspend,,False,False,False
+hermit.cafe,suspend,,False,False,False
 hexagon.space,suspend,,False,False,False
 hidamari.apartments,suspend,,False,False,False
 hitchhiker.social,suspend,,False,False,False
@@ -228,6 +233,7 @@ hunk.city,suspend,,False,False,False
 husk.site,suspend,,False,False,False
 iddqd.social,suspend,,False,False,False
 ignorelist.com,suspend,,False,False,False
+imirhil.fr,suspend,,False,False,False
 impeccable.social,suspend,,False,False,False
 initiate.space,suspend,,False,False,False
 injection.love,suspend,,False,False,False
@@ -284,6 +290,7 @@ loli.estate,suspend,,False,False,False
 lolison.network,suspend,,False,False,False
 lolison.top,suspend,,False,False,False
 loliverse.xyz,suspend,,False,False,False
+longyap.name.my,suspend,,False,False,False
 lostvoid.cyberretards.xyz,suspend,,False,False,False
 lovingexpressions.net,suspend,,False,False,False
 lucasvl.nl,suspend,,False,False,False
@@ -369,6 +376,7 @@ outpoa.st,suspend,,False,False,False
 pasta.wtf,suspend,,False,False,False
 pawlicker.ddns.net,suspend,,False,False,False
 pawoo.net,suspend,,False,False,False
+paws.moe,suspend,,False,False,False
 paypig.org,suspend,,False,False,False
 pedo.school,suspend,,False,False,False
 pengi-san.moe,suspend,,False,False,False
@@ -469,6 +477,7 @@ shota.social,suspend,,False,False,False
 shouldibuyahorse.com,suspend,,False,False,False
 shrine.moe,suspend,,False,False,False
 sigmoid.social,silence,,False,False,False
+silliness.observer,suspend,,False,False,False
 sinblr.com,suspend,,False,False,False
 skinnyver.se,suspend,,False,False,False
 skippers-bin.com,suspend,,False,False,False
@@ -520,6 +529,7 @@ squid.kids,suspend,,False,False,False
 stars.eroaward.com,silence,,False,False,False
 stereophonic.space,suspend,,False,False,False
 strelizia.net,suspend,,False,False,False
+suya.place,suspend,,False,False,False
 tastingtraffic.net,suspend,,False,False,False
 taullo.social,suspend,,False,False,False
 teci.world,suspend,,False,False,False
