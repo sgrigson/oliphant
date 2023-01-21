@@ -177,6 +177,7 @@ silliness.observer,suspend,,False,False,False
 sleepy.cafe,suspend,,False,False,False
 sleepy.place,silence,,False,False,False
 sneed.social,suspend,,False,False,False
+soc.ua-fediland.de,suspend,,False,False,False
 social.freetalklive.com,suspend,,False,False,False
 social.lovingexpressions.net,suspend,,False,False,False
 social.urspringer.de,silence,,False,False,False
@@ -206,6 +207,7 @@ twtr.carnivore.social,suspend,,False,False,False
 twtr.disqordia.space,suspend,,False,False,False
 twtr.plus,suspend,,False,False,False
 twtr.vrij.social,suspend,,False,False,False
+ua-fediland.de,suspend,,False,False,False
 unperson.us,suspend,,False,False,False
 unsafe.space,suspend,,False,False,False
 urchan.org,suspend,,False,False,False
