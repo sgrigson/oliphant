@@ -208,6 +208,7 @@ boseburo.ddns.net,suspend,,False,False,False
 botsin.space,silence,,False,False,False
 boyter.org,suspend,,False,False,False
 bozgor.org,suspend,,False,False,False
+brainsoap.net,suspend,,False,False,False
 brapbarn.farm,suspend,,False,False,False
 brasileiros.social,suspend,,False,False,False
 breastmilk.club,suspend,,False,False,False
@@ -933,7 +934,6 @@ miniwa.moe,suspend,,False,False,False
 mirr0r.city,suspend,,False,False,False
 miruku.cafe,suspend,,False,False,False
 misaka.ru,suspend,,False,False,False
-misc.brainsoap.net,suspend,,False,False,False
 misono-ya.info,suspend,,False,False,False
 misskey-forkbomb,suspend,,False,False,False
 misskey-forkbomb.cf,suspend,,False,False,False
@@ -1143,6 +1143,7 @@ pl.kys.moe,suspend,,False,False,False
 pl.lifeweb.cc,suspend,,False,False,False
 pl.natehiggers.online,suspend,,False,False,False
 pl.neko.bar,suspend,,False,False,False
+pl.psion.co,suspend,,False,False,False
 pl.pube.tk,suspend,,False,False,False
 pl.seedy.xyz,suspend,,False,False,False
 pl.skyn3t.in,suspend,,False,False,False
@@ -1229,6 +1230,7 @@ poster.place,suspend,,False,False,False
 posting.lolicon.rocks,suspend,,False,False,False
 povertypimps.xyz,suspend,,False,False,False
 poweredbycocaine.com,suspend,,False,False,False
+pp.logografos.com,suspend,,False,False,False
 presentdaypresenttime.com,suspend,,False,False,False
 preteengirls.biz,suspend,,False,False,False
 pridelands.io,suspend,,False,False,False
@@ -1302,6 +1304,7 @@ rightmastodon.com,suspend,,False,False,False
 rino.icu,suspend,,False,False,False
 rojogato.club,suspend,,False,False,False
 rojogato.com,suspend,,False,False,False
+rot.gives,suspend,,False,False,False
 runfox.tk,suspend,,False,False,False
 runtube.re,suspend,,False,False,False
 ryona.agency,suspend,,False,False,False
@@ -1629,7 +1632,7 @@ twtr.plus,silence,,False,False,False
 twtr.vrij.social,suspend,,False,False,False
 twtr.wappie.land,suspend,,False,False,False
 tyil.nl,suspend,,False,False,False
-ua-fediland.de,silence,,False,False,False
+ua-fediland.de,suspend,,False,False,False
 udongein.xyz,silence,,False,False,False
 ueberspace.de,suspend,,False,False,False
 uiuxdev.social,silence,,False,False,False
