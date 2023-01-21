@@ -11,9 +11,10 @@ A step-by-step tutorial on how to install FediBlockHole yourself and start pulli
 * [Blocklists](https://writer.oliphant.social/oliphant/blocklists)  
 Several thousand words about blocklists and defederation.
 
-Lists hosted at:
+<!-- Blocklists are hosted at:
 
 * https://github.com/sgrigson/oliphant
 * https://codeberg.org/oliphant/oliphant
 
 You can use `git remote set-url` to switch locations if one location goes down and you're using git to pull down updates.
+-->
