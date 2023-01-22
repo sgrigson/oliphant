@@ -1,5 +1,4 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
-*.bigguys.club,suspend,,False,False,False
 076.moe,suspend,,False,False,False
 10minutepleroma.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
@@ -46,6 +45,7 @@ beehub.org,suspend,,False,False,False
 berserker.town,suspend,,False,False,False
 beta.birdsite.live,silence,,False,False,False
 beta.mstdn.cf,suspend,,False,False,False
+bigguys.club,suspend,,False,False,False
 bikeshed.party,suspend,,False,False,False
 bird.makeup,suspend,,False,False,False
 birdsite.wilde.cloud,suspend,,False,False,False

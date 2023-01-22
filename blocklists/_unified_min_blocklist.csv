@@ -130,6 +130,7 @@ fedi.absturztau.be,suspend,,False,False,False
 fedi.aria.dog,suspend,,False,False,False
 fedi.lucasvl.nl,suspend,,False,False,False
 fedi.pawlicker.com,suspend,,False,False,False
+fedi.site,suspend,,False,False,False
 fediverse.bbad.com,suspend,,False,False,False
 feral.cafe,suspend,,False,False,False
 fightthis.net,suspend,,False,False,False
@@ -310,7 +311,6 @@ qoto.org,silence,,False,False,False
 quanta.wiki,suspend,,False,False,False
 quey.org,suspend,,False,False,False
 r18.social,suspend,,False,False,False
-rapefeminists.network,suspend,,False,False,False
 rapemeat.solutions,suspend,,False,False,False
 raspberrypi.social,silence,,False,False,False
 rawr-xd.club,suspend,,False,False,False
@@ -400,7 +400,6 @@ trumpislovetrumpis.life,suspend,,False,False,False
 truthsocial.co.in,suspend,,False,False,False
 truthsocial.com,suspend,,False,False,False
 truthsocialpro.org,suspend,,False,False,False
-tsukihi.me,suspend,,False,False,False
 tube.kenfm.de,suspend,,False,False,False
 tube.querdenken-711.de,suspend,,False,False,False
 tweet.pasture.moe,suspend,,False,False,False
