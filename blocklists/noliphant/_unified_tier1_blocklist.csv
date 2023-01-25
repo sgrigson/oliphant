@@ -274,7 +274,7 @@ pmth.us,suspend,,False,False,False
 poa.st,suspend,,False,False,False
 poast.eth,suspend,,False,False,False
 poast.org,suspend,,False,False,False
-poast.tv,silence,,False,False,False
+poast.tv,suspend,,False,False,False
 pooper.social,suspend,,False,False,False
 poridge.club,suspend,,False,False,False
 porntoot.com,silence,,False,False,False
@@ -282,6 +282,7 @@ poster.place,suspend,,False,False,False
 posting.lolicon.rocks,suspend,,False,False,False
 poweredbycocaine.com,suspend,,False,False,False
 privex.social,suspend,,False,False,False
+prospeech.space,suspend,,False,False,False
 psion.co,suspend,,False,False,False
 qoto.org,silence,,False,False,False
 quanta.wiki,suspend,,False,False,False
@@ -366,6 +367,7 @@ twitter.1d4.us,suspend,,False,False,False
 twitter.activitypub.actor,suspend,,False,False,False
 twitter.doesnotexist.club,suspend,,False,False,False
 twitter.grants.cafe,suspend,,False,False,False
+twiukraine.com,suspend,,False,False,False
 twtr.carnivore.social,suspend,,False,False,False
 twtr.disqordia.space,suspend,,False,False,False
 twtr.plus,silence,,False,False,False

@@ -280,14 +280,13 @@ comfyboy.club,suspend,,False,False,False
 comfysnug.space,suspend,,False,False,False
 comm.cx,suspend,,False,False,False
 comm.network,suspend,,False,False,False
-commiespace.duckdns.org,suspend,,False,False,False
 community.halle-leaks.de,suspend,,False,False,False
 community.highlandarrow.com,suspend,,False,False,False
 computerfairi.es,suspend,,False,False,False
 computerhater.club,suspend,,False,False,False
 contrapointsfan.club,suspend,,False,False,False
 controverse.tube,suspend,,False,False,False
-convo.casa,silence,,False,False,False
+convo.casa,suspend,,False,False,False
 coom.club,suspend,,False,False,False
 counter.fedi.live,suspend,,False,False,False
 counter.social,suspend,,False,False,False
@@ -1187,7 +1186,7 @@ pmth.us,suspend,,False,False,False
 poa.st,suspend,,False,False,False
 poast.eth,suspend,,False,False,False
 poast.org,suspend,,False,False,False
-poast.tv,silence,,False,False,False
+poast.tv,suspend,,False,False,False
 pod.vladtepesblog.com,suspend,,False,False,False
 podcastindex.social,suspend,,False,False,False
 pokemon.men,silence,,False,False,False
@@ -1558,6 +1557,7 @@ totallylegit.site,suspend,,False,False,False
 traboone.com,suspend,,False,False,False
 tranny.town,suspend,,False,False,False
 trash.social,suspend,,False,False,False
+treasuredgem.xyz,suspend,,False,False,False
 treehouse.systems,suspend,,False,False,False
 treffler.cloud,suspend,,False,False,False
 tri.cash,suspend,,False,False,False

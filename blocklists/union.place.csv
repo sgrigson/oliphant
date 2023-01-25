@@ -1,6 +1,7 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
 076.moe,suspend,,False,False,False
 1611.social,suspend,,False,False,False
+5dollah.click,suspend,,False,False,False
 80percent.social,suspend,,False,False,False
 activitypub-proxy.cf,suspend,,False,False,False
 activitypub-troll.cf,suspend,,False,False,False
@@ -149,11 +150,12 @@ pleroma.kiwifarms.net,suspend,,False,False,False
 poa.st,suspend,,False,False,False
 poast.eth,suspend,,False,False,False
 poast.org,suspend,,False,False,False
-poast.tv,silence,,False,False,False
+poast.tv,suspend,,False,False,False
 porntoot.com,silence,,False,False,False
 poster.place,suspend,,False,False,False
 posting.lolicon.rocks,suspend,,False,False,False
 poweredbycocaine.com,suspend,,False,False,False
+prospeech.space,suspend,,False,False,False
 psion.co,suspend,,False,False,False
 qoto.org,silence,,False,False,False
 quanta.wiki,suspend,,False,False,False
@@ -170,6 +172,7 @@ rojogato.com,suspend,,False,False,False
 rot.gives,suspend,,False,False,False
 ryona.agency,suspend,,False,False,False
 satoshishop.de,suspend,,False,False,False
+saynoto.lgbt,suspend,,False,False,False
 scots.network,suspend,,False,False,False
 seal.cafe,suspend,,False,False,False
 sealion.club,suspend,,False,False,False

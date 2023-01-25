@@ -10,7 +10,6 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 8777.ch,suspend,,False,False,False
 abraham.su,suspend,,False,False,False
 absturztau.be,suspend,,False,False,False
-activism.openworlds.info,suspend,,False,False,False
 activitypub.agates.io,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
 airis.work,suspend,,False,False,False
@@ -22,11 +21,11 @@ angrytoday.com,suspend,,False,False,False
 anime.website,suspend,,False,False,False
 anon-kenkai.com,suspend,,False,False,False
 anthro.cc,suspend,,False,False,False
-ap.maladaptive.art,suspend,,False,False,False
 arachnid.town,suspend,,False,False,False
 arasaka.vip,suspend,,False,False,False
 archivefedifor.fun,suspend,,False,False,False
 ariona.fr,suspend,,False,False,False
+arthaus.social,silence,,False,False,False
 asbestos.cafe,suspend,,False,False,False
 asimon.org,suspend,,False,False,False
 asphodel.rip,suspend,,False,False,False
@@ -59,6 +58,7 @@ blob.cat,suspend,,False,False,False
 blockedur.mom,suspend,,False,False,False
 boingo00.wtf,suspend,,False,False,False
 bookwor.ms,suspend,,False,False,False
+botsin.space,silence,,False,False,False
 bozgor.org,suspend,,False,False,False
 brapbarn.farm,suspend,,False,False,False
 breastmilk.club,suspend,,False,False,False
@@ -87,8 +87,6 @@ co**.*i,suspend,,False,False,False
 collapsitarian.io,suspend,,False,False,False
 comf****.*lub,suspend,,False,False,False
 comfysnug.space,suspend,,False,False,False
-commiespace.duckdns.org,suspend,,False,False,False
-convo.casa,silence,,False,False,False
 crid.land,suspend,,False,False,False
 crlf.ninja,suspend,,False,False,False
 crowleyclub.com,suspend,,False,False,False
@@ -165,7 +163,6 @@ freespeech.group,suspend,,False,False,False
 freespeechextremist.com,suspend,,False,False,False
 freethinkers.lgbt,suspend,,False,False,False
 freezepeach.online,suspend,,False,False,False
-frens.mahodou.moe,suspend,,False,False,False
 froth.zone,suspend,,False,False,False
 fuwa.pink,suspend,,False,False,False
 fym.moe,suspend,,False,False,False
@@ -174,10 +171,8 @@ gab.com,suspend,,False,False,False
 gab.io,suspend,,False,False,False
 gab.protohype.net,suspend,,False,False,False
 gabfed.com,suspend,,False,False,False
-gabtest.gameliberty.club,suspend,,False,False,False
 gameliberty.club,suspend,,False,False,False
 gamers.exposed,suspend,,False,False,False
-gasthe.lgbt,suspend,,False,False,False
 gay.lesaoras.xyz,suspend,,False,False,False
 gearlandia.haus,suspend,,False,False,False
 geeknews.chat,suspend,,False,False,False
@@ -226,7 +221,6 @@ impeccable.social,suspend,,False,False,False
 inferencium.net,suspend,,False,False,False
 initiate.space,suspend,,False,False,False
 injection.love,suspend,,False,False,False
-instinctd.com,suspend,,False,False,False
 isesh.com,suspend,,False,False,False
 jir.moe,suspend,,False,False,False
 jollyville.net,suspend,,False,False,False
@@ -476,6 +470,7 @@ tkammer.de,suspend,,False,False,False
 tkw.fm,suspend,,False,False,False
 tomo.airen-no-jikken.icu,suspend,,False,False,False
 toots.morepablo.com,suspend,,False,False,False
+treasuredgem.xyz,suspend,,False,False,False
 tristram.uber.space,suspend,,False,False,False
 troll.cafe,suspend,,False,False,False
 trumpislovetrumpis.life,suspend,,False,False,False
