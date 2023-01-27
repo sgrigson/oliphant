@@ -1,5 +1,6 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
 076.moe,suspend,,False,False,False
+13bells.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
 5dollah.click,suspend,,False,False,False
 80percent.social,suspend,,False,False,False
@@ -8,6 +9,7 @@ activitypub-troll.cf,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
 alteregocreations.com,suspend,,False,False,False
 archivefedifor.fun,suspend,,False,False,False
+asbestos.cafe,silence,,False,False,False
 aspiechattr.me,silence,,False,False,False
 bae.st,suspend,,False,False,False
 banepo.st,suspend,,False,False,False
@@ -56,12 +58,14 @@ childpawn.shop,suspend,,False,False,False
 chudbuds.lol,suspend,,False,False,False
 cloudisland.online,suspend,,False,False,False
 comfyboy.club,suspend,,False,False,False
+contrapointsfan.club,suspend,,False,False,False
 cum.camp,suspend,,False,False,False
 cum.salon,suspend,,False,False,False
 cyberstorm.one,suspend,,False,False,False
 danksquad.org,suspend,,False,False,False
 darknight-coffee.org,suspend,,False,False,False
 daspr.io,suspend,,False,False,False
+decept.org,suspend,,False,False,False
 detroitriotcity.com,suspend,,False,False,False
 diamondelizaa.com,suspend,,False,False,False
 dirtyhobby.xyz,silence,,False,False,False
@@ -71,6 +75,7 @@ dogsex.org,suspend,,False,False,False
 eientei.org,suspend,,False,False,False
 eigh******.app,suspend,,False,False,False
 endtimebelievers.com,suspend,,False,False,False
+esmailelbob.xyz,suspend,,False,False,False
 eveningzoo.club,suspend,,False,False,False
 f.ckpg.space,suspend,,False,False,False
 f.haeder.net,suspend,,False,False,False
@@ -129,6 +134,7 @@ nationaljustice.social,suspend,,False,False,False
 nazi.social,suspend,,False,False,False
 neckbeard.xyz,suspend,,False,False,False
 nekocave.xyz,suspend,,False,False,False
+news.ongii.com,silence,,False,False,False
 news.twtr.plus,suspend,,False,False,False
 newsie.social,silence,,False,False,False
 nicecrew.digital,suspend,,False,False,False
@@ -198,6 +204,7 @@ sperg.city,suspend,,False,False,False
 spinster.xyz,suspend,,False,False,False
 stars.eroaward.com,silence,,False,False,False
 susmaninsurance.com,silence,,False,False,False
+takesama.com,suspend,,False,False,False
 taullo.social,suspend,,False,False,False
 terrible.place,suspend,,False,False,False
 thechad.zone,suspend,,False,False,False
@@ -209,6 +216,7 @@ truthsocial.com,suspend,,False,False,False
 truthsocialpro.org,suspend,,False,False,False
 tsu****.me,suspend,,False,False,False
 tweet.pasture.moe,suspend,,False,False,False
+tweetbridge.kogasa.de,suspend,,False,False,False
 tweets.icu,suspend,,False,False,False
 twitiverse.com,suspend,,False,False,False
 twitter.1d4.us,suspend,,False,False,False
@@ -225,6 +233,7 @@ unsafe.space,suspend,,False,False,False
 urchan.org,suspend,,False,False,False
 wake.st,silence,,False,False,False
 were.social,suspend,,False,False,False
+whinge.house,suspend,,False,False,False
 xhais.love,suspend,,False,False,False
 xscape.top,suspend,,False,False,False
 yggdrasil.social,suspend,,False,False,False

@@ -23,6 +23,7 @@ anime.website,suspend,,False,False,False
 anitwitter.moe,silence,,False,False,False
 anon-kenkai.com,suspend,,False,False,False
 arachnid.town,suspend,,False,False,False
+asbestos.cafe,suspend,,False,False,False
 asimon.org,suspend,,False,False,False
 asphodel.rip,suspend,,False,False,False
 astra.lol,suspend,,False,False,False
@@ -46,6 +47,7 @@ bird.r669.live,suspend,,False,False,False
 birdbots.leptonics.com,suspend,,False,False,False
 birdbridge.autonomy.earth,suspend,,False,False,False
 birdsite.am-institute.swiss,suspend,,False,False,False
+birdsite.axeleroy.com,suspend,,False,False,False
 birdsite.b93.dece.space,suspend,,False,False,False
 birdsite.blazelight.dev,suspend,,False,False,False
 birdsite.cloutier.co,suspend,,False,False,False
@@ -71,7 +73,9 @@ birdsite.thorlaksson.com,suspend,,False,False,False
 birdsite.toot.si,suspend,,False,False,False
 birdsite.vrparty.social,suspend,,False,False,False
 birdsite.wilde.cloud,suspend,,False,False,False
+birdsitelive.falschgold.net,suspend,,False,False,False
 birdsitelive.kevinyank.com,suspend,,False,False,False
+birdsitelive.laski.app,suspend,,False,False,False
 birdsitelive.loca.lt,suspend,,False,False,False
 birdsitelive.mastodon.vm.statshelix.com,suspend,,False,False,False
 birdsitelive.moistgarbage.info,suspend,,False,False,False
@@ -252,6 +256,7 @@ lovingexpressions.net,suspend,,False,False,False
 ma.jameuwu.com,suspend,,False,False,False
 masochi.st,suspend,,False,False,False
 mast.1dot0.io,suspend,,False,False,False
+mastertibbles.co.uk,suspend,,False,False,False
 mastinator.com,suspend,,False,False,False
 mastodon.astrr.ru,silence,,False,False,False
 mastodon.cardina1.red,silence,,False,False,False
@@ -408,6 +413,7 @@ theapex.social,suspend,,False,False,False
 thebag.social,silence,,False,False,False
 thejar.club,suspend,,False,False,False
 thisisjoes.site,suspend,,False,False,False
+toot.lobrai.co,suspend,,False,False,False
 toot.love,silence,,False,False,False
 troll.cafe,suspend,,False,False,False
 trumpislovetrumpis.life,suspend,,False,False,False

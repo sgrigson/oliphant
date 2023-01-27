@@ -40,6 +40,7 @@ iddqd.social,suspend,,False,False,False
 ignorelist.com,suspend,,False,False,False
 kitsunemimi.club,suspend,,False,False,False
 kolektiva.social,silence,,False,False,False
+kompost.cz,suspend,,False,False,False
 kurosawa.moe,suspend,,False,False,False
 leafposter.club,suspend,,False,False,False
 lolicon.rocks,suspend,,False,False,False
@@ -48,6 +49,7 @@ mastinator.com,suspend,,False,False,False
 mastodon.cloud,silence,,False,False,False
 mirr0r.city,suspend,,False,False,False
 misskey-forkbomb.cf,suspend,,False,False,False
+misskey.cf,suspend,,False,False,False
 mstdn.jp,silence,,False,False,False
 neenster.org,suspend,,False,False,False
 nicecrew.digital,suspend,,False,False,False
