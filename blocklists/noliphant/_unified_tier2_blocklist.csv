@@ -18,7 +18,6 @@ activism.openworlds.info,suspend,,False,False,False
 activitypub-proxy.cf,suspend,,False,False,False
 activitypub-troll.cf,suspend,,False,False,False
 activitypub.actor,suspend,,False,False,False
-addy.gg,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
 agates.io,suspend,,False,False,False
 airis.work,suspend,,False,False,False
@@ -210,7 +209,6 @@ decept.org,suspend,,False,False,False
 deepnexus.link,suspend,,False,False,False
 definitely-not-archivefedifor.fun,suspend,,False,False,False
 democracy.town,silence,,False,False,False
-desupost.soy,suspend,,False,False,False
 desuposter.club,suspend,,False,False,False
 detroitriotcity.com,suspend,,False,False,False
 develop.gab.com,suspend,,False,False,False
@@ -280,6 +278,7 @@ fightforthefuture.org,suspend,,False,False,False
 fightthis.net,suspend,,False,False,False
 firebird.mullet.social,suspend,,False,False,False
 firedragonstudios.com,suspend,,False,False,False
+firefaithfellowship.com,suspend,,False,False,False
 fluf.club,suspend,,False,False,False
 forum.decisiveliberty.news,suspend,,False,False,False
 foxarmy.org,suspend,,False,False,False
@@ -337,7 +336,6 @@ gladtech.social,suspend,,False,False,False
 gleasonator.com,silence,,False,False,False
 glindr.org,suspend,,False,False,False
 glitch.gray.cafe,suspend,,False,False,False
-glowers.club,suspend,,False,False,False
 glownow.club,suspend,,False,False,False
 gnu.moe,suspend,,False,False,False
 gnuhacker.org,suspend,,False,False,False
@@ -432,7 +430,6 @@ koyu.space,suspend,,False,False,False
 kozterulethasznalatienge.day,suspend,,False,False,False
 kpop.social,silence,,False,False,False
 kurosawa.moe,suspend,,False,False,False
-kyaruc.moe,suspend,,False,False,False
 kys.moe,suspend,,False,False,False
 l3r.me,suspend,,False,False,False
 lain.com,suspend,,False,False,False
@@ -514,7 +511,6 @@ melalandia.tk,suspend,,False,False,False
 meld.de,suspend,,False,False,False
 merovingian.club,suspend,,False,False,False
 micca.xyz,suspend,,False,False,False
-midwaytrades.com,suspend,,False,False,False
 miku-enthusiast.club,suspend,,False,False,False
 milker.cafe,suspend,,False,False,False
 minidisc.tokyo,suspend,,False,False,False
@@ -581,6 +577,7 @@ nitecrew.rip,silence,,False,False,False
 nixnet.social,suspend,,False,False,False
 nnia.space,suspend,,False,False,False
 noagendasocial.com,suspend,,False,False,False
+noagendasocial.nl,suspend,,False,False,False
 noagendatube.com,suspend,,False,False,False
 nobodyhasthe.biz,suspend,,False,False,False
 noc.social,suspend,,False,False,False
@@ -597,7 +594,6 @@ oneway.masto.host,suspend,,False,False,False
 onion.social,suspend,,False,False,False
 oransns.com,silence,,False,False,False
 otaku.whomartthou.com,suspend,,False,False,False
-oti.st,suspend,,False,False,False
 outerheaven.club,suspend,,False,False,False
 outpoa.st,suspend,,False,False,False
 palmer.house,silence,,False,False,False
@@ -665,7 +661,6 @@ podcastindex.social,suspend,,False,False,False
 pokemon.men,silence,,False,False,False
 polaris-1.work,suspend,,False,False,False
 pone.social,suspend,,False,False,False
-pooper.social,suspend,,False,False,False
 poridge.club,suspend,,False,False,False
 porntoot.com,silence,,False,False,False
 posix.gay,suspend,,False,False,False
@@ -683,6 +678,7 @@ quanta.wiki,suspend,,False,False,False
 quitter.im,silence,,False,False,False
 quitter.pw,suspend,,False,False,False
 quodverum.com,suspend,,False,False,False
+quorum.inumbra.xyz,suspend,,False,False,False
 r18.social,suspend,,False,False,False
 rage.lol,suspend,,False,False,False
 rageparty.club,suspend,,False,False,False
@@ -711,6 +707,7 @@ refusal.biz,suspend,,False,False,False
 refusal.llc,suspend,,False,False,False
 refuse2.work,suspend,,False,False,False
 repl.co,suspend,,False,False,False
+republic.red,suspend,,False,False,False
 respublicae.eu,suspend,,False,False,False
 riddly.rakka.tk,suspend,,False,False,False
 rojogato.com,suspend,,False,False,False
@@ -885,7 +882,6 @@ twtr.wappie.land,suspend,,False,False,False
 tyil.nl,suspend,,False,False,False
 ua-fediland.de,suspend,,False,False,False
 udongein.xyz,silence,,False,False,False
-unbound.social,suspend,,False,False,False
 ungoverned.social,suspend,,False,False,False
 unix.dog,suspend,,False,False,False
 unperson.us,suspend,,False,False,False
