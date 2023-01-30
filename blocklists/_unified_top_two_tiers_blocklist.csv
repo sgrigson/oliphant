@@ -12,6 +12,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 129.159.139.0,suspend,,False,False,False
 13bells.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
+1745.info,suspend,,False,False,False
 1984.cz,suspend,,False,False,False
 1being.org,suspend,,False,False,False
 2.distsn.org,suspend,,False,False,False
