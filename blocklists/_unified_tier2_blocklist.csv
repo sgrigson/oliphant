@@ -9,6 +9,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 1611.social,suspend,,False,False,False
 2.distsn.org,suspend,,False,False,False
 3q3.de,suspend,,False,False,False
+4aem.com,suspend,,False,False,False
 5dollah.click,suspend,,False,False,False
 7td.org,suspend,,False,False,False
 80percent.social,suspend,,False,False,False
@@ -45,6 +46,7 @@ angrytoday.com,suspend,,False,False,False
 anime.website,suspend,,False,False,False
 anitwitter.moe,silence,,False,False,False
 anon-kenkai.com,suspend,,False,False,False
+anqou.net,suspend,,False,False,False
 ap.maladaptive.art,suspend,,False,False,False
 arachnid.town,suspend,,False,False,False
 arasaka.vip,suspend,,False,False,False
@@ -117,6 +119,7 @@ birdsite.miisu.net,suspend,,False,False,False
 birdsite.monster,suspend,,False,False,False
 birdsite.nytpu.com,suspend,,False,False,False
 birdsite.oliviaappleton.com,suspend,,False,False,False
+birdsite.outadoc.fr,suspend,,False,False,False
 birdsite.platypush.tech,suspend,,False,False,False
 birdsite.skye.cx,suspend,,False,False,False
 birdsite.slashdev.space,suspend,,False,False,False
@@ -125,6 +128,7 @@ birdsite.tcjc.uk,suspend,,False,False,False
 birdsite.thorlaksson.com,suspend,,False,False,False
 birdsite.toot.si,suspend,,False,False,False
 birdsite.vrparty.social,suspend,,False,False,False
+birdsite.weiranzhang.com,suspend,,False,False,False
 birdsite.wilde.cloud,suspend,,False,False,False
 birdsitelive.falschgold.net,suspend,,False,False,False
 birdsitelive.ffvo.dev,suspend,,False,False,False
@@ -180,6 +184,7 @@ campduffel.social,suspend,,False,False,False
 capystan.net,suspend,,False,False,False
 carnivore.social,suspend,,False,False,False
 carrot.army,suspend,,False,False,False
+catboi.party,suspend,,False,False,False
 catgirl.life,suspend,,False,False,False
 cawfee.club,suspend,,False,False,False
 cf,suspend,,False,False,False
@@ -194,6 +199,7 @@ cloutfa.re,suspend,,False,False,False
 clq.im,suspend,,False,False,False
 clubcyberia.co,suspend,,False,False,False
 clube.social,suspend,,False,False,False
+cobblestone.rocks,suspend,,False,False,False
 cocaine.moe,suspend,,False,False,False
 cock.fish,suspend,,False,False,False
 cock.li,suspend,,False,False,False
@@ -205,6 +211,7 @@ communick.com,suspend,,False,False,False
 community.halle-leaks.de,suspend,,False,False,False
 computerfairi.es,suspend,,False,False,False
 contrapointsfan.club,suspend,,False,False,False
+coolsite.win,suspend,,False,False,False
 coom.club,suspend,,False,False,False
 creativity.cafe,suspend,,False,False,False
 crid.land,suspend,,False,False,False
@@ -559,6 +566,7 @@ mastodon.cardina1.red,silence,,False,False,False
 mastodon.cf,suspend,,False,False,False
 mastodon.cloud,silence,,False,False,False
 mastodon.com.pl,suspend,,False,False,False
+mastodon.dgfp.club,suspend,,False,False,False
 mastodon.heavyrubberslave.com,silence,,False,False,False
 mastodon.hirad.it,suspend,,False,False,False
 mastodon.loliandstuff.moe,suspend,,False,False,False
@@ -706,6 +714,7 @@ pengi-san.moe,suspend,,False,False,False
 persia.social,suspend,,False,False,False
 phreedom.tk,suspend,,False,False,False
 piazza.today,suspend,,False,False,False
+pibvt.net,suspend,,False,False,False
 pieville.net,suspend,,False,False,False
 pirateradio.social,suspend,,False,False,False
 pisskey.io,suspend,,False,False,False
@@ -746,6 +755,7 @@ pleroma.kiwifarms.net,suspend,,False,False,False
 pleroma.mouse.services,suspend,,False,False,False
 pleroma.narrativerry.xyz,suspend,,False,False,False
 pleroma.nobodyhasthe.biz,suspend,,False,False,False
+pleroma.pibvt.net,suspend,,False,False,False
 pleroma.rareome.ga,suspend,,False,False,False
 pleroma.runfox.tk,suspend,,False,False,False
 pleroma.site,suspend,,False,False,False
@@ -810,6 +820,7 @@ rebased.io,suspend,,False,False,False
 rebased.network,suspend,,False,False,False
 rebased.social,suspend,,False,False,False
 rebelbase.site,suspend,,False,False,False
+redspinning.top,suspend,,False,False,False
 redstateliberal.social,suspend,,False,False,False
 refusal.biz,suspend,,False,False,False
 refusal.llc,suspend,,False,False,False

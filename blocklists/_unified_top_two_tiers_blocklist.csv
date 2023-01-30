@@ -89,6 +89,7 @@ anitbook.site,suspend,,False,False,False
 anitwitter.com,suspend,,False,False,False
 anitwitter.moe,silence,,False,False,False
 anon-kenkai.com,suspend,,False,False,False
+anqou.net,suspend,,False,False,False
 antani.pm,suspend,,False,False,False
 anthro.cc,suspend,,False,False,False
 anti-degeneracy.club,suspend,,False,False,False
@@ -204,6 +205,7 @@ birdsite.miisu.net,suspend,,False,False,False
 birdsite.monster,suspend,,False,False,False
 birdsite.nytpu.com,suspend,,False,False,False
 birdsite.oliviaappleton.com,suspend,,False,False,False
+birdsite.outadoc.fr,suspend,,False,False,False
 birdsite.skye.cx,suspend,,False,False,False
 birdsite.slashdev.space,suspend,,False,False,False
 birdsite.spectreos.de,suspend,,False,False,False
@@ -211,6 +213,7 @@ birdsite.tcjc.uk,suspend,,False,False,False
 birdsite.thorlaksson.com,suspend,,False,False,False
 birdsite.toot.si,suspend,,False,False,False
 birdsite.vrparty.social,suspend,,False,False,False
+birdsite.weiranzhang.com,suspend,,False,False,False
 birdsite.wilde.cloud,suspend,,False,False,False
 birdsitelive.falschgold.net,suspend,,False,False,False
 birdsitelive.ffvo.dev,suspend,,False,False,False
@@ -337,6 +340,7 @@ clubcyberia.co,suspend,,False,False,False
 clube.social,suspend,,False,False,False
 clyez.city,suspend,,False,False,False
 cmpwn.com,suspend,,False,False,False
+cobblestone.rocks,suspend,,False,False,False
 cocaine.moe,suspend,,False,False,False
 cocaine.ninja,suspend,,False,False,False
 cock.email,suspend,,False,False,False
@@ -365,6 +369,7 @@ conspiracydistillery.com,suspend,,False,False,False
 contrapointsfan.club,suspend,,False,False,False
 controverse.tube,suspend,,False,False,False
 convo.casa,suspend,,False,False,False
+coolsite.win,suspend,,False,False,False
 coom.club,suspend,,False,False,False
 corginet.duckdns.org,suspend,,False,False,False
 corteximplant.com,suspend,,False,False,False
@@ -414,6 +419,7 @@ d2l.masto.host,suspend,,False,False,False
 daffodil-11.org,suspend,,False,False,False
 daishouri.moe,suspend,,False,False,False
 dajiaweibo.com,suspend,,False,False,False
+dancefight.club,suspend,,False,False,False
 danksquad.org,suspend,,False,False,False
 danksquad.xyz,suspend,,False,False,False
 danrees.me,suspend,,False,False,False
@@ -906,6 +912,7 @@ ironbug.org,suspend,,False,False,False
 is.chaotic.moe,suspend,,False,False,False
 iscute.moe,suspend,,False,False,False
 isesh.com,suspend,,False,False,False
+itm.osaka,suspend,,False,False,False
 itmslaves.com,suspend,,False,False,False
 jabb.in,suspend,,False,False,False
 jaeger.website,suspend,,False,False,False
@@ -1077,6 +1084,7 @@ lovesick.social,suspend,,False,False,False
 lovingexpressions.net,suspend,,False,False,False
 lubar.me,suspend,,False,False,False
 lucasvl.nl,suspend,,False,False,False
+lukepreston.xyz,suspend,,False,False,False
 lukesmith.xyz,suspend,,False,False,False
 lulz.win,suspend,,False,False,False
 lush.moe,suspend,,False,False,False
@@ -1137,6 +1145,7 @@ mastodon.com.pl,suspend,,False,False,False
 mastodon.com.tr,suspend,,False,False,False
 mastodon.ctseuro.com,suspend,,False,False,False
 mastodon.derveni.org,suspend,,False,False,False
+mastodon.dgfp.club,suspend,,False,False,False
 mastodon.digitalsuccess.dev,suspend,,False,False,False
 mastodon.enkitunes.com,suspend,,False,False,False
 mastodon.etalab.gouv.fr,suspend,,False,False,False
@@ -1243,6 +1252,7 @@ misskey.shoro.no,suspend,,False,False,False
 misskey.vrt36.com,suspend,,False,False,False
 misskey.xyz,suspend,,False,False,False
 misskeybeta.takehi.to,suspend,,False,False,False
+mistli.net,suspend,,False,False,False
 mitra.anon-kenkai.com,suspend,,False,False,False
 mitra.social,suspend,,False,False,False
 mizzkey.netzone.cc,suspend,,False,False,False
@@ -1318,7 +1328,9 @@ nakamoto.social,suspend,,False,False,False
 nalocal519.social,suspend,,False,False,False
 nanovim.tk,suspend,,False,False,False
 narrativerry.xyz,suspend,,False,False,False
+nasface.cz,suspend,,False,False,False
 nasnfl.com,suspend,,False,False,False
+nastub.cz,suspend,,False,False,False
 natehiggers.online,suspend,,False,False,False
 national.shitposting.agency,suspend,,False,False,False
 nationaljustice.social,suspend,,False,False,False
@@ -1393,6 +1405,7 @@ nudemy.com,suspend,,False,False,False
 nudie.social,silence,,False,False,False
 nuke.africa,suspend,,False,False,False
 nuked.social,suspend,,False,False,False
+nukem.biz,suspend,,False,False,False
 nulled.red,suspend,,False,False,False
 nullwhere.social,suspend,,False,False,False
 nya.social,suspend,,False,False,False
@@ -1414,6 +1427,7 @@ onionfarms.com,suspend,,False,False,False
 online-hangout.com,suspend,,False,False,False
 onlyfeds.cc,suspend,,False,False,False
 opalstack.social,suspend,,False,False,False
+open-social.xyz,suspend,,False,False,False
 open.tube,suspend,,False,False,False
 open.video,suspend,,False,False,False
 openmtx.com,suspend,,False,False,False
@@ -1474,6 +1488,7 @@ peertube.tech,suspend,,False,False,False
 peertube.uno,suspend,,False,False,False
 peervideos.com,suspend,,False,False,False
 pengi-san.moe,suspend,,False,False,False
+peoplegroup.social,suspend,,False,False,False
 perktold.xyz,suspend,,False,False,False
 persia.social,suspend,,False,False,False
 petrolkorps.cc,suspend,,False,False,False
@@ -1482,6 +1497,7 @@ phreedom.tk,suspend,,False,False,False
 piaille.fr,silence,,False,False,False
 piaste.it,suspend,,False,False,False
 piazza.today,suspend,,False,False,False
+pibvt.net,suspend,,False,False,False
 pieville.net,suspend,,False,False,False
 piggo.space,suspend,,False,False,False
 pinnoto.org,suspend,,False,False,False
@@ -1495,6 +1511,7 @@ pixelfed.eu,suspend,,False,False,False
 pixfed.com,suspend,,False,False,False
 pixificial.xyz,suspend,,False,False,False
 pizzaf.art,suspend,,False,False,False
+pkm.social,suspend,,False,False,False
 pkteerium.xyz,suspend,,False,False,False
 pl.765racing.com,suspend,,False,False,False
 pl.anon-kenkai.com,suspend,,False,False,False
@@ -1595,6 +1612,7 @@ pleroma.narrativerry.xyz,suspend,,False,False,False
 pleroma.neko.airforce,suspend,,False,False,False
 pleroma.nobodyhasthe.biz,suspend,,False,False,False
 pleroma.pandanet.moe,suspend,,False,False,False
+pleroma.pibvt.net,suspend,,False,False,False
 pleroma.prantare.xyz,suspend,,False,False,False
 pleroma.pt,suspend,,False,False,False
 pleroma.racf.guru,suspend,,False,False,False
@@ -1724,6 +1742,7 @@ redeyes.site,suspend,,False,False,False
 redflix.nu,suspend,,False,False,False
 redliberal.com,suspend,,False,False,False
 redroo.ml,suspend,,False,False,False
+redspinning.top,suspend,,False,False,False
 redstateliberal.social,suspend,,False,False,False
 refusal.biz,suspend,,False,False,False
 refusal.llc,suspend,,False,False,False
@@ -2081,6 +2100,7 @@ theduran.icu,suspend,,False,False,False
 thefederation.net,suspend,,False,False,False
 thejar.club,suspend,,False,False,False
 thejoyo.com,suspend,,False,False,False
+thenobody.club,suspend,,False,False,False
 theolddude.masto.host,suspend,,False,False,False
 theosis.church,suspend,,False,False,False
 thepopulist.icu,suspend,,False,False,False
@@ -2335,6 +2355,7 @@ yokai.cafe,suspend,,False,False,False
 yorishiro.space,suspend,,False,False,False
 youjo.love,suspend,,False,False,False
 youkai.town,suspend,,False,False,False
+yuukosan.xyz,suspend,,False,False,False
 z0ne.moe,suspend,,False,False,False
 z0ne.social,suspend,,False,False,False
 z3bra.club,suspend,,False,False,False
