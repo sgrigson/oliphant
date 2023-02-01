@@ -5,6 +5,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 1210.nl,suspend,,False,False,False
 13bells.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
+1745.info,suspend,,False,False,False
 2.distsn.org,suspend,,False,False,False
 3q3.de,suspend,,False,False,False
 4aem.com,suspend,,False,False,False
@@ -50,6 +51,7 @@ asimon.org,suspend,,False,False,False
 asphodel.rip,suspend,,False,False,False
 aspiechattr.me,suspend,,False,False,False
 assortedflotsam.com,suspend,,False,False,False
+awoo.fai.st,suspend,,False,False,False
 b.9chan.lol,suspend,,False,False,False
 babay.icu,suspend,,False,False,False
 badly.co,suspend,,False,False,False
@@ -180,6 +182,7 @@ eeeeeeeee.eu,suspend,,False,False,False
 eientei.org,suspend,,False,False,False
 eightpoint.app,suspend,,False,False,False
 el-spot.xyz,suspend,,False,False,False
+eldritch.cafe,silence,,False,False,False
 elekk.xyz,suspend,,False,False,False
 elonsucks.org,suspend,,False,False,False
 endtimebelievers.com,suspend,,False,False,False

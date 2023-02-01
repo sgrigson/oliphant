@@ -7,6 +7,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 1210.nl,suspend,,False,False,False
 13bells.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
+1745.info,suspend,,False,False,False
 2.distsn.org,suspend,,False,False,False
 3q3.de,suspend,,False,False,False
 4aem.com,suspend,,False,False,False
@@ -61,6 +62,7 @@ asphodel.rip,suspend,,False,False,False
 aspiechattr.me,silence,,False,False,False
 assortedflotsam.com,suspend,,False,False,False
 astra.lol,suspend,,False,False,False
+awoo.fai.st,suspend,,False,False,False
 b.9chan.lol,suspend,,False,False,False
 babay.icu,suspend,,False,False,False
 badly.co,suspend,,False,False,False
@@ -106,6 +108,7 @@ birdsite.gred.al,suspend,,False,False,False
 birdsite.james.moody.name,suspend,,False,False,False
 birdsite.jemverse.xyz,suspend,,False,False,False
 birdsite.kaijauch.de,suspend,,False,False,False
+birdsite.kohl.dev,suspend,,False,False,False
 birdsite.lakedrops.com,suspend,,False,False,False
 birdsite.link,suspend,,False,False,False
 birdsite.lipsia.casa,suspend,,False,False,False
@@ -116,6 +119,7 @@ birdsite.nytpu.com,suspend,,False,False,False
 birdsite.oliviaappleton.com,suspend,,False,False,False
 birdsite.outadoc.fr,suspend,,False,False,False
 birdsite.platypush.tech,suspend,,False,False,False
+birdsite.seejy.ninja,suspend,,False,False,False
 birdsite.skye.cx,suspend,,False,False,False
 birdsite.slashdev.space,suspend,,False,False,False
 birdsite.spectreos.de,suspend,,False,False,False
@@ -262,6 +266,7 @@ eeeeeeeee.eu,suspend,,False,False,False
 eientei.org,suspend,,False,False,False
 eightpoint.app,silence,,False,False,False
 el-spot.xyz,suspend,,False,False,False
+eldritch.cafe,silence,,False,False,False
 elekk.xyz,silence,,False,False,False
 elementality.org,suspend,,False,False,False
 elonsucks.org,suspend,,False,False,False
@@ -364,7 +369,7 @@ gigaohm.bio,suspend,,False,False,False
 girevik.su,suspend,,False,False,False
 gitmo.life,suspend,,False,False,False
 gladtech.social,suspend,,False,False,False
-gleasonator.com,silence,,False,False,False
+gleasonator.com,suspend,,False,False,False
 glindr.org,suspend,,False,False,False
 glitch.gray.cafe,suspend,,False,False,False
 glowers.club,suspend,,False,False,False
@@ -568,6 +573,7 @@ miku-enthusiast.club,suspend,,False,False,False
 milker.cafe,suspend,,False,False,False
 minidisc.tokyo,suspend,,False,False,False
 mirr0r.city,suspend,,False,False,False
+mirrored.social,suspend,,False,False,False
 miruku.cafe,suspend,,False,False,False
 misskey-forkbomb,suspend,,False,False,False
 misskey-forkbomb.cf,suspend,,False,False,False
@@ -634,7 +640,7 @@ newsrelay.org,silence,,False,False,False
 nicecrew.digital,suspend,,False,False,False
 nightshift.social,suspend,,False,False,False
 nikotile.xyz,suspend,,False,False,False
-niscii.xyz,suspend,,False,False,False
+niscii.xyz,silence,,False,False,False
 nitecrew.rip,silence,,False,False,False
 nixnet.social,suspend,,False,False,False
 nnia.space,suspend,,False,False,False
@@ -683,6 +689,7 @@ pizzaf.art,suspend,,False,False,False
 pkteerium.xyz,suspend,,False,False,False
 pl.anon-kenkai.com,suspend,,False,False,False
 pl.comfysnug.space,suspend,,False,False,False
+pl.indiefedi.party,suspend,,False,False,False
 pl.info.natehiggers.online,suspend,,False,False,False
 pl.kitsunemimi.club,suspend,,False,False,False
 pl.natehiggers.online,suspend,,False,False,False
@@ -783,6 +790,7 @@ respublicae.eu,suspend,,False,False,False
 rettiwtkcuf.social,suspend,,False,False,False
 riddly.rakka.tk,suspend,,False,False,False
 rio.social,suspend,,False,False,False
+rneetup.com,suspend,,False,False,False
 rojogato.com,suspend,,False,False,False
 rot.gives,suspend,,False,False,False
 ryona.agency,suspend,,False,False,False
@@ -859,7 +867,9 @@ social.hattheves.es,suspend,,False,False,False
 social.heckin.tech,suspend,,False,False,False
 social.hendrixgames.com,suspend,,False,False,False
 social.homunyan.com,suspend,,False,False,False
+social.jesuislibre.net,suspend,,False,False,False
 social.khajiit.de,suspend,,False,False,False
+social.knowltonwx.com,suspend,,False,False,False
 social.librem.one,suspend,,False,False,False
 social.louisoft01.moe,suspend,,False,False,False
 social.lovingexpressions.net,suspend,,False,False,False

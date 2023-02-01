@@ -58,6 +58,7 @@ birdsite.gred.al,suspend,,False,False,False
 birdsite.james.moody.name,suspend,,False,False,False
 birdsite.jemverse.xyz,suspend,,False,False,False
 birdsite.kaijauch.de,suspend,,False,False,False
+birdsite.kohl.dev,suspend,,False,False,False
 birdsite.link,suspend,,False,False,False
 birdsite.lipsia.casa,suspend,,False,False,False
 birdsite.mastodon.me.uk,suspend,,False,False,False
@@ -66,6 +67,7 @@ birdsite.monster,suspend,,False,False,False
 birdsite.nytpu.com,suspend,,False,False,False
 birdsite.oliviaappleton.com,suspend,,False,False,False
 birdsite.outadoc.fr,suspend,,False,False,False
+birdsite.seejy.ninja,suspend,,False,False,False
 birdsite.skye.cx,suspend,,False,False,False
 birdsite.slashdev.space,suspend,,False,False,False
 birdsite.spectreos.de,suspend,,False,False,False
@@ -275,6 +277,7 @@ merovingian.club,suspend,,False,False,False
 miku-enthusiast.club,suspend,,False,False,False
 milker.cafe,suspend,,False,False,False
 mirr0r.city,suspend,,False,False,False
+mirrored.social,suspend,,False,False,False
 misskey-forkbomb.cf,suspend,,False,False,False
 misskeybeta.takehi.to,suspend,,False,False,False
 mn.openspace.cf,suspend,,False,False,False
@@ -318,6 +321,7 @@ pedo.school,suspend,,False,False,False
 phreedom.tk,suspend,,False,False,False
 pieville.net,suspend,,False,False,False
 pisskey.io,suspend,,False,False,False
+pl.indiefedi.party,suspend,,False,False,False
 pl.smuglo.li,suspend,,False,False,False
 pl.tkammer.de,silence,,False,False,False
 platypush.tech,suspend,,False,False,False
@@ -358,6 +362,7 @@ refuse2.work,suspend,,False,False,False
 repl.co,suspend,,False,False,False
 respublicae.eu,suspend,,False,False,False
 riddly.rakka.tk,suspend,,False,False,False
+rneetup.com,suspend,,False,False,False
 rojogato.com,suspend,,False,False,False
 ryona.agency,suspend,,False,False,False
 sakamoto.gq,suspend,,False,False,False
@@ -396,6 +401,8 @@ social.076.ne.jp,suspend,,False,False,False
 social.firc.de,suspend,,False,False,False
 social.getgle.org,suspend,,False,False,False
 social.homunyan.com,suspend,,False,False,False
+social.jesuislibre.net,suspend,,False,False,False
+social.knowltonwx.com,suspend,,False,False,False
 social.prospeech.space,suspend,,False,False,False
 social.sunshinegardens.org,suspend,,False,False,False
 social.trom.tf,suspend,,False,False,False

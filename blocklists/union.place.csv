@@ -2,6 +2,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 076.moe,suspend,,False,False,False
 13bells.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
+1745.info,suspend,,False,False,False
 4aem.com,suspend,,False,False,False
 5dollah.click,suspend,,False,False,False
 80percent.social,suspend,,False,False,False
@@ -49,6 +50,7 @@ bitcoinhackers.org,silence,,False,False,False
 bofh.social,suspend,,False,False,False
 boyter.org,suspend,,False,False,False
 brainsoap.net,suspend,,False,False,False
+brapbarn.farm,suspend,,False,False,False
 breastmilk.club,suspend,,False,False,False
 bsl.sid500.com,suspend,,False,False,False
 bsl.tuxz.one,suspend,,False,False,False
@@ -61,6 +63,7 @@ chudbuds.lol,suspend,,False,False,False
 cloudisland.online,suspend,,False,False,False
 comfyboy.club,suspend,,False,False,False
 contrapointsfan.club,suspend,,False,False,False
+coolsite.win,suspend,,False,False,False
 cum.camp,suspend,,False,False,False
 cum.salon,suspend,,False,False,False
 cyberstorm.one,suspend,,False,False,False
@@ -102,7 +105,7 @@ gangstalking.services,suspend,,False,False,False
 gasthe.lgbt,suspend,,False,False,False
 genderheretics.xyz,suspend,,False,False,False
 ghetti.monster,suspend,,False,False,False
-gleasonator.com,silence,,False,False,False
+gleasonator.com,suspend,,False,False,False
 gnuhacker.org,suspend,,False,False,False
 hirad.it,suspend,,False,False,False
 ignorelist.com,suspend,,False,False,False
@@ -119,6 +122,7 @@ leftlibertarian.club,suspend,,False,False,False
 lgbtfree.zone,suspend,,False,False,False
 librenet.co.za,suspend,,False,False,False
 libtar.de,suspend,,False,False,False
+logografos.com,suspend,,False,False,False
 loli.best,suspend,,False,False,False
 lolison.network,suspend,,False,False,False
 lolison.top,suspend,,False,False,False
@@ -132,6 +136,7 @@ meatbag.app,suspend,,False,False,False
 minidisc.tokyo,suspend,,False,False,False
 mirr0r.city,suspend,,False,False,False
 misskey-forkbomb,suspend,,False,False,False
+moa.st,suspend,,False,False,False
 monads.online,silence,,False,False,False
 morepablo.com,suspend,,False,False,False
 mstdn.jp,silence,,False,False,False
@@ -148,6 +153,7 @@ news.ongii.com,silence,,False,False,False
 news.twtr.plus,suspend,,False,False,False
 newsie.social,silence,,False,False,False
 nicecrew.digital,suspend,,False,False,False
+niscii.xyz,silence,,False,False,False
 nnia.space,suspend,,False,False,False
 noagendasocial.com,suspend,,False,False,False
 noagendasocial.nl,suspend,,False,False,False
@@ -249,6 +255,7 @@ ua-fediland.de,suspend,,False,False,False
 unperson.us,suspend,,False,False,False
 unsafe.space,suspend,,False,False,False
 urchan.org,suspend,,False,False,False
+varishangout.net,suspend,,False,False,False
 waifuism.life,suspend,,False,False,False
 wake.st,silence,,False,False,False
 were.social,suspend,,False,False,False
