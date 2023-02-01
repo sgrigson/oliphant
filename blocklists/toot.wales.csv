@@ -55,6 +55,7 @@ birdsite.darkesttimeline.social,suspend,,False,False,False
 birdsite.frog.fashion,suspend,,False,False,False
 birdsite.gabeappleton.me,suspend,,False,False,False
 birdsite.gred.al,suspend,,False,False,False
+birdsite.hwarf.com,suspend,,False,False,False
 birdsite.james.moody.name,suspend,,False,False,False
 birdsite.jemverse.xyz,suspend,,False,False,False
 birdsite.kaijauch.de,suspend,,False,False,False
@@ -267,6 +268,7 @@ mastodon.astrr.ru,silence,,False,False,False
 mastodon.cardina1.red,silence,,False,False,False
 mastodon.com.pl,suspend,,False,False,False
 mastodon.dgfp.club,suspend,,False,False,False
+mastodon.socialspill.com,suspend,,False,False,False
 mastodon.tech,suspend,,False,False,False
 mastodon.xech.io,suspend,,False,False,False
 mastodon.zunda.ninja,silence,,False,False,False
