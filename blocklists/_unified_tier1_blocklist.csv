@@ -2,7 +2,7 @@ domain,severity,public_comment,reject_media,reject_reports,obfuscate
 076.moe,suspend,,False,False,False
 076.ne.jp,suspend,,False,False,False
 0xspace.social,suspend,,False,False,False
-101010.pl,suspend,,False,False,False
+101010.pl,silence,,False,False,False
 10minutepleroma.com,suspend,,False,False,False
 13bells.com,suspend,,False,False,False
 1611.social,suspend,,False,False,False
@@ -77,6 +77,8 @@ bsl.sid500.com,suspend,,False,False,False
 bsl.tuxz.one,suspend,,False,False,False
 buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life,suspend,,False,False,False
 bungle.online,suspend,,False,False,False
+bussy.monster,suspend,,False,False,False
+buttplug.zone,silence,,False,False,False
 cachapa.moe,suspend,,False,False,False
 cachapa.xyz,suspend,,False,False,False
 carnivore.social,suspend,,False,False,False
@@ -108,6 +110,7 @@ dev-wiki.de,suspend,,False,False,False
 devs.live,silence,,False,False,False
 diamondelizaa.com,suspend,,False,False,False
 dickkickextremist.xyz,suspend,,False,False,False
+dingdash.com,suspend,,False,False,False
 dirtyhobby.xyz,silence,,False,False,False
 disqordia.space,suspend,,False,False,False
 dissident.business,suspend,,False,False,False
@@ -162,8 +165,10 @@ gangstalking.services,suspend,,False,False,False
 gasthe.lgbt,suspend,,False,False,False
 gearlandia.haus,suspend,,False,False,False
 genderheretics.xyz,suspend,,False,False,False
+gentoo.live,silence,,False,False,False
 geofront.rocks,suspend,,False,False,False
 ghetti.monster,suspend,,False,False,False
+girlcock.club,silence,,False,False,False
 gleasonator.com,suspend,,False,False,False
 glindr.org,suspend,,False,False,False
 glowers.club,suspend,,False,False,False
@@ -200,6 +205,7 @@ justicewarrior.social,suspend,,False,False,False
 kabuki.club,suspend,,False,False,False
 kawa-kun.com,suspend,,False,False,False
 kawen.space,suspend,,False,False,False
+kazar.ma,suspend,,False,False,False
 kazv.moe,suspend,,False,False,False
 kenhbit.com,suspend,,False,False,False
 kitsunemimi.club,suspend,,False,False,False
@@ -240,6 +246,7 @@ mastertibbles.co.uk,suspend,,False,False,False
 masthead.social,suspend,,False,False,False
 mastinator.com,suspend,,False,False,False
 mastindia.co,suspend,,False,False,False
+mastobate.social,silence,,False,False,False
 mastodon.cloud,silence,,False,False,False
 mastodon.se,silence,,False,False,False
 mastodong.lol,suspend,,False,False,False
@@ -349,8 +356,10 @@ repl.co,suspend,,False,False,False
 republic.red,suspend,,False,False,False
 respublicae.eu,suspend,,False,False,False
 rio.social,suspend,,False,False,False
+rodent.life,suspend,,False,False,False
 rojogato.com,suspend,,False,False,False
 rot.gives,suspend,,False,False,False
+ruinouspowe.rs,suspend,,False,False,False
 ryona.agency,suspend,,False,False,False
 satoshishop.de,suspend,,False,False,False
 saynoto.lgbt,suspend,,False,False,False
@@ -389,7 +398,6 @@ social.urspringer.de,silence,,False,False,False
 solagg.com,suspend,,False,False,False
 sonichu.com,suspend,,False,False,False
 soykaf.com,suspend,,False,False,False
-spank.ws,silence,,False,False,False
 speakfree.world,suspend,,False,False,False
 sperg.city,suspend,,False,False,False
 spinster.xyz,suspend,,False,False,False
@@ -452,6 +460,7 @@ witches.live,silence,,False,False,False
 wolfgirl.bar,suspend,,False,False,False
 workers.dev,suspend,,False,False,False
 worm.pink,suspend,,False,False,False
+wxw.moe,suspend,,False,False,False
 xenofem.me,suspend,,False,False,False
 xhais.love,suspend,,False,False,False
 xn--p1abe3d-xn--80asehdb,suspend,,False,False,False

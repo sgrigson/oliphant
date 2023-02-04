@@ -1,5 +1,6 @@
 domain,severity,public_comment,reject_media,reject_reports,obfuscate
 0xspace.social,suspend,,False,False,False
+101010.pl,silence,,False,False,False
 activitypub-proxy.cf,suspend,,False,False,False
 activitypub-troll.cf,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
@@ -12,7 +13,7 @@ birdsite.thorlaksson.com,suspend,,False,False,False
 botsin.space,silence,,False,False,False
 breastmilk.club,suspend,,False,False,False
 brighteon.social,suspend,,False,False,False
-butt****.*one,silence,,False,False,False
+buttplug.zone,silence,,False,False,False
 chudbuds.lol,suspend,,False,False,False
 clubcyberia.co,suspend,,False,False,False
 cryptodon.lol,suspend,,False,False,False
@@ -27,12 +28,13 @@ eightpoint.app,silence,,False,False,False
 elekk.xyz,silence,,False,False,False
 eveningzoo.club,suspend,,False,False,False
 fed.celp.de,silence,,False,False,False
+feral.cafe,suspend,,False,False,False
 freeatlantis.com,suspend,,False,False,False
 freecumextremist.com,suspend,,False,False,False
 freespeechextremist.com,suspend,,False,False,False
 gameliberty.club,suspend,,False,False,False
 genderheretics.xyz,suspend,,False,False,False
-girl****.*lub,silence,,False,False,False
+girlcock.club,silence,,False,False,False
 gleasonator.com,suspend,,False,False,False
 hentai.baby,suspend,,False,False,False
 husk.site,suspend,,False,False,False
@@ -46,7 +48,9 @@ leafposter.club,suspend,,False,False,False
 lolicon.rocks,suspend,,False,False,False
 lolison.network,suspend,,False,False,False
 mastinator.com,suspend,,False,False,False
+mastobate.social,silence,,False,False,False
 mastodon.cloud,silence,,False,False,False
+milker.cafe,suspend,,False,False,False
 mirr0r.city,suspend,,False,False,False
 misskey-forkbomb.cf,suspend,,False,False,False
 misskey.cf,suspend,,False,False,False
@@ -81,7 +85,6 @@ shitposter.club,suspend,,False,False,False
 shortstackran.ch,suspend,,False,False,False
 soc.ua-fediland.de,silence,,False,False,False
 solagg.com,suspend,,False,False,False
-spank.ws,silence,,False,False,False
 spinster.xyz,suspend,,False,False,False
 squid.kids,suspend,,False,False,False
 strelizia.net,suspend,,False,False,False
@@ -94,4 +97,6 @@ whinge.town,suspend,,False,False,False
 wideboys.org,suspend,,False,False,False
 witches.live,silence,,False,False,False
 wolfgirl.bar,suspend,,False,False,False
+wxw.moe,suspend,,False,False,False
+xenofem.me,suspend,,False,False,False
 yggdrasil.social,suspend,,False,False,False
