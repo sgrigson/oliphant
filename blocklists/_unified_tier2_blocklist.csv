@@ -87,6 +87,7 @@ berserker.town,suspend,,False,False,False
 beta.birdsite.live,silence,,False,False,False
 beta.mstdn.cf,suspend,,False,False,False
 bgzashtita.es,silence,,False,False,False
+bibly.com,suspend,,False,False,False
 bigguys.club,suspend,,False,False,False
 bigzu.cc,suspend,,False,False,False
 bikeshed.party,suspend,,False,False,False
@@ -156,6 +157,7 @@ blazingopen.space,suspend,,False,False,False
 blob.cat,suspend,,False,False,False
 blockedur.mom,suspend,,False,False,False
 blue.worldkey.io,suspend,,False,False,False
+bofa.lol,suspend,,False,False,False
 bofh.social,suspend,,False,False,False
 boingo00.wtf,suspend,,False,False,False
 bookwor.ms,silence,,False,False,False
@@ -254,6 +256,7 @@ debilosempire.org,suspend,,False,False,False
 decept.org,suspend,,False,False,False
 deepnexus.link,suspend,,False,False,False
 definitely-not-archivefedifor.fun,suspend,,False,False,False
+dembased.xyz,suspend,,False,False,False
 democracy.town,silence,,False,False,False
 desupost.soy,suspend,,False,False,False
 desuposter.club,suspend,,False,False,False
@@ -499,6 +502,7 @@ kazv.moe,suspend,,False,False,False
 kenfm.quadplay.tv,suspend,,False,False,False
 kenhbit.com,suspend,,False,False,False
 khajiit.tech,suspend,,False,False,False
+kibitz.cloud,suspend,,False,False,False
 killbox.social,suspend,,False,False,False
 kink.town,suspend,,False,False,False
 kinky.business,silence,,False,False,False
@@ -553,6 +557,7 @@ logografos.com,suspend,,False,False,False
 loli.best,suspend,,False,False,False
 loli.estate,suspend,,False,False,False
 lolicon.rocks,suspend,,False,False,False
+lolicon.win,suspend,,False,False,False
 lolison.network,suspend,,False,False,False
 lolison.top,suspend,,False,False,False
 loliverse.xyz,suspend,,False,False,False
@@ -846,7 +851,7 @@ raplst.town,suspend,,False,False,False
 raspberrypi.social,silence,,False,False,False
 rawr-xd.club,suspend,,False,False,False
 rayci.st,suspend,,False,False,False
-rcsocial.net,suspend,,False,False,False
+rcsocial.net,silence,,False,False,False
 rdrama.cc,suspend,,False,False,False
 real.dogsex.org,suspend,,False,False,False
 realnephestate.xyz,suspend,,False,False,False
@@ -1032,6 +1037,7 @@ the.talesofmy.life,suspend,,False,False,False
 the9thcircle.club,suspend,,False,False,False
 theapex.social,suspend,,False,False,False
 thebag.social,silence,,False,False,False
+thebased.club,suspend,,False,False,False
 thechad.zone,suspend,,False,False,False
 thejar.club,suspend,,False,False,False
 theosis.church,suspend,,False,False,False
@@ -1075,7 +1081,7 @@ twitterbridge.jannis.rocks,suspend,,False,False,False
 twiukraine.com,suspend,,False,False,False
 twtr.carnivore.social,suspend,,False,False,False
 twtr.disqordia.space,suspend,,False,False,False
-twtr.plus,silence,,False,False,False
+twtr.plus,suspend,,False,False,False
 twtr.vrij.social,suspend,,False,False,False
 twtr.wappie.land,suspend,,False,False,False
 tyil.nl,suspend,,False,False,False
@@ -1126,6 +1132,7 @@ workers.dev,suspend,,False,False,False
 worm.pink,suspend,,False,False,False
 wreck.rocks,suspend,,False,False,False
 wurm.host,suspend,,False,False,False
+www.writehere.is,suspend,,False,False,False
 wxw.moe,suspend,,False,False,False
 x0f.org,suspend,,False,False,False
 xaetacore.net,suspend,,False,False,False

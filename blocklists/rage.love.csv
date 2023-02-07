@@ -135,7 +135,7 @@ busshi.moe,suspend,,False,False,False
 bv.umbrellix.org,suspend,,False,False,False
 bwzone.xyz,suspend,,False,False,False
 bylines.social,suspend,,False,False,False
-c.im,silence,,False,False,False
+c.im,suspend,,False,False,False
 cachapa.xyz,suspend,,False,False,False
 cafkafk.com,suspend,,False,False,False
 calculate.social,suspend,,False,False,False
@@ -430,6 +430,7 @@ halle-leaks.de,suspend,,False,False,False
 hallsofamenti.io,suspend,,False,False,False
 handholding.io,suspend,,False,False,False
 handicapped.tk,suspend,,False,False,False
+hanna.lol,suspend,,False,False,False
 hatthieves.es,suspend,,False,False,False
 hayu.sh,suspend,,False,False,False
 hedgehoghunter.club,suspend,,False,False,False
@@ -516,6 +517,7 @@ kcl.academy,suspend,,False,False,False
 keinpfusch.net,suspend,,False,False,False
 kenfm.de,suspend,,False,False,False
 kenhbit.com,suspend,,False,False,False
+kibitz.cloud,silence,,False,False,False
 kisslolis.moe,suspend,,False,False,False
 kitsune.cafe,suspend,,False,False,False
 kitsunemimi.club,suspend,,False,False,False
@@ -1097,6 +1099,7 @@ taullo.social,suspend,,False,False,False
 tchncs.de,suspend,,False,False,False
 tcjc.uk,suspend,,False,False,False
 tebukuro.pw,suspend,,False,False,False
+tech.lgbt,silence,,False,False,False
 techstartups.space,suspend,,False,False,False
 teci.world,suspend,,False,False,False
 tedomum.net,suspend,,False,False,False
