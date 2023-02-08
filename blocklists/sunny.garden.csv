@@ -11,8 +11,8 @@ activitypub-troll.cf,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
 angrytoday.com,suspend,,False,False,False
 anon-kenkai.com,suspend,,False,False,False
-arachnid.town,suspend,,False,False,False
-asbestos.cafe,suspend,,False,False,False
+arachnid.town,silence,,False,False,False
+asbestos.cafe,silence,,False,False,False
 bae.st,suspend,,False,False,False
 banepo.st,suspend,,False,False,False
 baraag.net,suspend,,False,False,False
@@ -39,7 +39,7 @@ cum.salon,suspend,,False,False,False
 cyberstorm.one,suspend,,False,False,False
 d-fens.systems,suspend,,False,False,False
 detroitriotcity.com,suspend,,False,False,False
-disqordia.space,suspend,,False,False,False
+disqordia.space,silence,,False,False,False
 duckdns.org,suspend,,False,False,False
 eatthebugs.social,suspend,,False,False,False
 eientei.org,suspend,,False,False,False
@@ -161,7 +161,7 @@ whinge.town,suspend,,False,False,False
 wideboys.org,suspend,,False,False,False
 witches.live,silence,,False,False,False
 wolfgirl.bar,suspend,,False,False,False
-worm.pink,suspend,,False,False,False
+worm.pink,silence,,False,False,False
 wxw.moe,suspend,,False,False,False
 xenofem.me,suspend,,False,False,False
 yggdrasil.social,suspend,,False,False,False
