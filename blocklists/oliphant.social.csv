@@ -15,6 +15,7 @@ activitypub-proxy.cf,suspend,,False,False,False
 activitypub-troll.cf,suspend,,False,False,False
 addy.gg,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
+affiliates.social,suspend,,False,False,False
 alteregocreations.com,suspend,,False,False,False
 angrytoday.com,suspend,,False,False,False
 anon-kenkai.com,suspend,,False,False,False
