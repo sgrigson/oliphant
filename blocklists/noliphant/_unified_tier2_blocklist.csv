@@ -27,6 +27,7 @@ activitypub.actor,suspend,,False,False,False
 addy.gg,suspend,,False,False,False
 adrienlacombe.me,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
+affiliates.social,suspend,,False,False,False
 agates.io,suspend,,False,False,False
 airen-no-jikken.icu,suspend,,False,False,False
 airis.work,suspend,,False,False,False
@@ -188,6 +189,7 @@ carnivore.social,suspend,,False,False,False
 carrot.army,suspend,,False,False,False
 catboi.party,suspend,,False,False,False
 catgirl.life,suspend,,False,False,False
+catgirls.nya.gay,suspend,,False,False,False
 cawfee.club,suspend,,False,False,False
 cf,suspend,,False,False,False
 childpawn.shop,suspend,,False,False,False
@@ -239,6 +241,7 @@ danrees.me,suspend,,False,False,False
 dark-alexandr.net,suspend,,False,False,False
 darknight-coffee.org,suspend,,False,False,False
 daspr.io,suspend,,False,False,False
+deadreckoning.cc,suspend,,False,False,False
 debilosempire.org,suspend,,False,False,False
 decept.org,suspend,,False,False,False
 deepnexus.link,suspend,,False,False,False
@@ -294,6 +297,7 @@ eroaward.com,suspend,,False,False,False
 esmailelbob.xyz,suspend,,False,False,False
 eveningzoo.club,suspend,,False,False,False
 exited.eu,suspend,,False,False,False
+expression.social,suspend,,False,False,False
 f.ckpg.space,suspend,,False,False,False
 f.haeder.net,suspend,,False,False,False
 fandom.community,suspend,,False,False,False
@@ -388,6 +392,7 @@ gladtech.social,suspend,,False,False,False
 gleasonator.com,suspend,,False,False,False
 glindr.org,suspend,,False,False,False
 glitch.gray.cafe,suspend,,False,False,False
+globalwarming.fun,suspend,,False,False,False
 glowers.club,suspend,,False,False,False
 glowie.cloud,suspend,,False,False,False
 glownow.club,suspend,,False,False,False
@@ -419,6 +424,8 @@ handholding.io,suspend,,False,False,False
 handicapped.tk,suspend,,False,False,False
 haskovec.social,suspend,,False,False,False
 hdcraft.xyz,suspend,,False,False,False
+headcannon.xyz,suspend,,False,False,False
+headpat.cafe,suspend,,False,False,False
 hedgehoghunter.club,suspend,,False,False,False
 heislandmine.work,silence,,False,False,False
 helladoge.com,silence,,False,False,False
@@ -429,6 +436,7 @@ hermitmountain.top,suspend,,False,False,False
 hexagon.space,suspend,,False,False,False
 hi.moe.tips,suspend,,False,False,False
 hidamari.apartments,suspend,,False,False,False
+himk.am,suspend,,False,False,False
 hirad.it,suspend,,False,False,False
 hitchhiker.social,suspend,,False,False,False
 homd.xyz,suspend,,False,False,False
@@ -444,6 +452,7 @@ iddqd.social,suspend,,False,False,False
 ieji.de,silence,,False,False,False
 ignorelist.com,suspend,,False,False,False
 ikbenpiraat.nl,suspend,,False,False,False
+ilias.church,suspend,,False,False,False
 im-in.space,suspend,,False,False,False
 imirhil.fr,suspend,,False,False,False
 impeccable.social,suspend,,False,False,False
@@ -468,6 +477,7 @@ justicewarrior.social,suspend,,False,False,False
 jvpiter.net,suspend,,False,False,False
 k.posix.gay,suspend,,False,False,False
 kabuki.club,silence,,False,False,False
+kafka.icu,suspend,,False,False,False
 karjalazet.se,suspend,,False,False,False
 kawa-kun.com,suspend,,False,False,False
 kawen.space,suspend,,False,False,False
@@ -491,6 +501,7 @@ kozterulethasznalatienge.day,suspend,,False,False,False
 kpop.social,silence,,False,False,False
 kurosawa.moe,suspend,,False,False,False
 kyaruc.moe,suspend,,False,False,False
+kyou.social,suspend,,False,False,False
 kys.moe,suspend,,False,False,False
 l3r.me,suspend,,False,False,False
 lain.bar,suspend,,False,False,False
@@ -986,6 +997,7 @@ toot.world,suspend,,False,False,False
 toots.morepablo.com,suspend,,False,False,False
 travnewmatic.com,silence,,False,False,False
 treasuredgem.xyz,suspend,,False,False,False
+treeoflifecomic.com,suspend,,False,False,False
 tri.cash,suspend,,False,False,False
 troll.cafe,suspend,,False,False,False
 trumpislovetrumpis.life,suspend,,False,False,False
@@ -1026,6 +1038,7 @@ varishangout.net,suspend,,False,False,False
 veenus.art,suspend,,False,False,False
 vipgirlfriend.xxx,suspend,,False,False,False
 viridianpatriots.com,suspend,,False,False,False
+voidgaming.co,suspend,,False,False,False
 vrij.social,suspend,,False,False,False
 vuju.com,suspend,,False,False,False
 wagesofsinisdeath.com,suspend,,False,False,False
