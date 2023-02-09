@@ -17,6 +17,7 @@ activitypub-proxy.cf,suspend,,False,False,False
 activitypub-troll.cf,suspend,,False,False,False
 addy.gg,suspend,,False,False,False
 aethy.com,suspend,,False,False,False
+affiliates.social,suspend,,False,False,False
 aidoru.cafe,suspend,,False,False,False
 akko.wtf,suspend,,False,False,False
 alive.bar,suspend,,False,False,False
@@ -39,6 +40,7 @@ arachnid.town,suspend,,False,False,False
 archivefedifor.fun,suspend,,False,False,False
 argentum.social,suspend,,False,False,False
 arousal.support,suspend,,False,False,False
+arvr.social,suspend,,False,False,False
 asbestos.cafe,suspend,,False,False,False
 ashhhleyyy.dev,suspend,,False,False,False
 asimon.org,suspend,,False,False,False
@@ -125,6 +127,7 @@ chudbuds.org,suspend,,False,False,False
 ckpg.space,suspend,,False,False,False
 clar.ke,suspend,,False,False,False
 cloudapp.azure.com,suspend,,False,False,False
+cloudflare.social,suspend,,False,False,False
 cloudplane.app,suspend,,False,False,False
 clown.center,suspend,,False,False,False
 clubcyberia.co,suspend,,False,False,False
@@ -593,6 +596,7 @@ nudie.social,suspend,,False,False,False
 nukem.biz,suspend,,False,False,False
 nullob.si,suspend,,False,False,False
 nullwhere.social,suspend,,False,False,False
+nya.gay,suspend,,False,False,False
 nyaaa.jeder.pl,suspend,,False,False,False
 obo.sh,suspend,,False,False,False
 of.rijndael.cc,suspend,,False,False,False
@@ -826,6 +830,7 @@ shota.house,suspend,,False,False,False
 shota.social,suspend,,False,False,False
 shpposter.club,suspend,,False,False,False
 shrike.club,suspend,,False,False,False
+shrimpcam.pw,suspend,,False,False,False
 silkhe.art,suspend,,False,False,False
 silliness.observer,suspend,,False,False,False
 sitedethib.com,suspend,,False,False,False
@@ -957,6 +962,7 @@ tapbots.social,suspend,,False,False,False
 tastingtraffic.net,suspend,,False,False,False
 tavern.drow.be,suspend,,False,False,False
 tcode.kenfm.de,suspend,,False,False,False
+tech.lgbt,suspend,,False,False,False
 technoetic.com,suspend,,False,False,False
 teci.world,suspend,,False,False,False
 tenshi.sh,suspend,,False,False,False
@@ -973,6 +979,7 @@ thepostearthdestination.com,suspend,,False,False,False
 theres.life,suspend,,False,False,False
 thewallsofnight.com,suspend,,False,False,False
 thicc.horse,suspend,,False,False,False
+tiuxo.com,suspend,,False,False,False
 tkammer.de,suspend,,False,False,False
 toad.social,suspend,,False,False,False
 toot-lab.reclaim.technology,suspend,,False,False,False
@@ -1006,6 +1013,7 @@ tyil.nl,suspend,,False,False,False
 types.pl,suspend,,False,False,False
 ua-fediland.de,suspend,,False,False,False
 uber.space,suspend,,False,False,False
+uden.ai,suspend,,False,False,False
 udongein.xyz,suspend,,False,False,False
 umbrellix.org,suspend,,False,False,False
 unbound.social,suspend,,False,False,False

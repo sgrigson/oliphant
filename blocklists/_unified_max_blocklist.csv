@@ -123,6 +123,7 @@ arousal.support,suspend,,False,False,False
 artalley.social,suspend,,False,False,False
 arthaus.social,silence,,False,False,False
 arumoon.ru,suspend,,False,False,False
+arvr.social,suspend,,False,False,False
 asbestos.cafe,suspend,,False,False,False
 ashhhleyyy.dev,suspend,,False,False,False
 asimon.org,suspend,,False,False,False
@@ -382,6 +383,7 @@ cliterati.club,suspend,,False,False,False
 cloud.okteto.net,suspend,,False,False,False
 cloud.scaleway.com,suspend,,False,False,False
 cloudapp.azure.com,suspend,,False,False,False
+cloudflare.social,suspend,,False,False,False
 cloudisland.online,suspend,,False,False,False
 cloudplane.app,suspend,,False,False,False
 cloutfa.re,suspend,,False,False,False
@@ -1541,6 +1543,7 @@ nukem.biz,suspend,,False,False,False
 nulled.red,suspend,,False,False,False
 nullob.si,suspend,,False,False,False
 nullwhere.social,suspend,,False,False,False
+nya.gay,suspend,,False,False,False
 nya.house,suspend,,False,False,False
 nya.social,suspend,,False,False,False
 nyaaa.jeder.pl,suspend,,False,False,False
@@ -2261,7 +2264,7 @@ tcjc.uk,suspend,,False,False,False
 tcode.kenfm.de,suspend,,False,False,False
 teabag.ninja,suspend,,False,False,False
 tebukuro.pw,suspend,,False,False,False
-tech.lgbt,silence,,False,False,False
+tech.lgbt,suspend,,False,False,False
 technoetic.com,suspend,,False,False,False
 techstartups.space,suspend,,False,False,False
 teci.world,suspend,,False,False,False
@@ -2402,6 +2405,7 @@ tyil.nl,suspend,,False,False,False
 types.pl,suspend,,False,False,False
 ua-fediland.de,suspend,,False,False,False
 uber.space,suspend,,False,False,False
+uden.ai,suspend,,False,False,False
 udongein.xyz,suspend,,False,False,False
 ueberspace.de,suspend,,False,False,False
 uiuxdev.social,silence,,False,False,False
