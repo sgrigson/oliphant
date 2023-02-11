@@ -410,6 +410,7 @@ mastodon.cloud,silence,False,False,,False
 mastodon.com.pl,suspend,False,False,,False
 mastodon.com.tr,suspend,False,False,,False
 mastodon.gal,suspend,False,False,,False
+mastodon.la,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.se,silence,False,False,,False
 mastodon.tech,suspend,False,False,,False
