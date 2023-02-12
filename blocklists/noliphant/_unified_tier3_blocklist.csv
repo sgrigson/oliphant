@@ -1234,6 +1234,7 @@ mastodon.madrid,suspend,False,False,,False
 mastodon.mim-libre.fr,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.network,suspend,False,False,,False
+mastodon.ninja,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
 mastodon.online,silence,False,False,,False
 mastodon.org.uk,suspend,False,False,,False
