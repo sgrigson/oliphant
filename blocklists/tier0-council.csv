@@ -6,7 +6,7 @@ activitypub-troll.cf,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 angrytoday.com,suspend,False,False,,False
 anon-kenkai.com,suspend,False,False,,False
-arachnid.town,suspend,False,False,,False
+arachnid.town,silence,False,False,,False
 asbestos.cafe,suspend,False,False,,False
 bae.st,suspend,False,False,,False
 banepo.st,suspend,False,False,,False
@@ -37,8 +37,8 @@ freesoftwareextremist.com,suspend,False,False,,False
 freespeech.group,suspend,False,False,,False
 freespeechextremist.com,suspend,False,False,,False
 freethinkers.lgbt,suspend,False,False,,False
-freezepeach.xyz,suspend,False,False,,False
-froth.zone,suspend,False,False,,False
+freezepeach.xyz,silence,False,False,,False
+froth.zone,silence,False,False,,False
 gameliberty.club,suspend,False,False,,False
 gangstalking.services,suspend,False,False,,False
 gearlandia.haus,suspend,False,False,,False
@@ -64,7 +64,7 @@ mastodong.lol,suspend,False,False,,False
 merovingian.club,suspend,False,False,,False
 milker.cafe,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
-mstdn.jp,suspend,False,False,,False
+mstdn.jp,silence,False,False,,False
 mugicha.club,suspend,False,False,,False
 neckbeard.xyz,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
@@ -82,9 +82,9 @@ poa.st,suspend,False,False,,False
 poster.place,suspend,False,False,,False
 poweredbycocaine.com,suspend,False,False,,False
 privex.social,suspend,False,False,,False
-qoto.org,suspend,False,False,,False
+qoto.org,silence,False,False,,False
 rapemeat.solutions,suspend,False,False,,False
-rcsocial.net,suspend,False,False,,False
+rcsocial.net,silence,False,False,,False
 rdrama.cc,suspend,False,False,,False
 refusal.biz,suspend,False,False,,False
 refusal.llc,suspend,False,False,,False
@@ -94,9 +94,9 @@ ryona.agency,suspend,False,False,,False
 scots.network,suspend,False,False,,False
 seal.cafe,suspend,False,False,,False
 shitpost.cloud,suspend,False,False,,False
-shitposter.club,suspend,False,False,,False
+shitposter.club,silence,False,False,,False
 shortstackran.ch,suspend,False,False,,False
-shota.house,suspend,False,False,,False
+shota.house,silence,False,False,,False
 skyshanty.xyz,suspend,False,False,,False
 sleepy.cafe,suspend,False,False,,False
 sneed.social,suspend,False,False,,False
