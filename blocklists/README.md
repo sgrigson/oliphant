@@ -12,4 +12,5 @@
 * `tier0.csv` - Seirdy's Tier0 File, a solid contender for a starting blocklist you could import on its own.
 * `gardenfence.csv` - A mirror of the [Gardenfence](https://gardenfence.github.io/) Tier 0 file.
 * `tier0-council.csv` - Requires 80% agreement on blocks from Fedi Council sources.
+* `birdsite.csv` - All the Birdsite Live Blocks. This file is provided separately as a convenience.
 * *Other Files* - Other files listed here are individual trusted sources who provided data for the blocklist.
