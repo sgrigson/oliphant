@@ -42,6 +42,7 @@ berserker.town,suspend,False,False,,False
 beta.birdsite.live,suspend,False,False,,False
 beta.mstdn.cf,suspend,False,False,,False
 bgzashtita.es,silence,False,False,,False
+bibly.com,suspend,False,False,,False
 bikeshed.party,suspend,False,False,,False
 birb.byte.wtf,suspend,False,False,,False
 birb.elfenban.de,suspend,False,False,,False
@@ -213,6 +214,7 @@ contrapointsfan.club,suspend,False,False,,False
 coom.club,suspend,False,False,,False
 crucible.world,suspend,False,False,,False
 cryptodon.lol,suspend,False,False,,False
+cryptotooter.com,suspend,False,False,,False
 cucked.me,suspend,False,False,,False
 cuicui.senpaga.net,suspend,False,False,,False
 cum.camp,suspend,False,False,,False
@@ -223,6 +225,7 @@ danksquad.org,suspend,False,False,,False
 darknight-coffee.org,suspend,False,False,,False
 daspr.io,suspend,False,False,,False
 decept.org,suspend,False,False,,False
+dembased.xyz,suspend,False,False,,False
 desupost.soy,suspend,False,False,,False
 detroitriotcity.com,suspend,False,False,,False
 diamondelizaa.com,suspend,False,False,,False
@@ -284,7 +287,6 @@ freezepeach.xyz,suspend,False,False,,False
 frennet.xyz,suspend,False,False,,False
 frens.mahodou.moe,suspend,False,False,,False
 friendica.eskimo.com,suspend,False,False,,False
-friendica.ironbug.org,suspend,False,False,,False
 froth.zone,suspend,False,False,,False
 gameliberty.club,suspend,False,False,,False
 gamers.exposed,suspend,False,False,,False
@@ -334,6 +336,7 @@ inferencium.net,suspend,False,False,,False
 instinctd.com,suspend,False,False,,False
 intkos.link,suspend,False,False,,False
 inumbra.xyz,suspend,False,False,,False
+ironbug.org,suspend,False,False,,False
 itmslaves.com,suspend,False,False,,False
 jaeger.website,suspend,False,False,,False
 jir.moe,suspend,False,False,,False
@@ -379,6 +382,7 @@ mastertibbles.co.uk,suspend,False,False,,False
 mastinator.com,suspend,False,False,,False
 mastindia.co,suspend,False,False,,False
 mastodon.bida.im,silence,False,False,,False
+mastodon.cf,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
 mastodon.heavyrubberslave.com,silence,False,False,,False
 mastodon.hirad.it,suspend,False,False,,False
@@ -432,6 +436,7 @@ nightshift.social,suspend,False,False,,False
 niscii.xyz,suspend,False,False,,False
 nnia.space,suspend,False,False,,False
 noagendasocial.com,suspend,False,False,,False
+noagendasocial.nl,suspend,False,False,,False
 noagendatube.com,suspend,False,False,,False
 nobodyhasthe.biz,suspend,False,False,,False
 normie.cafe,suspend,False,False,,False
