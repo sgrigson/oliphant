@@ -28,10 +28,10 @@ The advantage of a tier merge is that it acts like a second (or third) opinion. 
 
 All tiers are based on mathematical consensus, and at least 2 sources must agree for a source to be on any list except the "max" list (which includes all blocks).
 
-Tier 0 - Requires 60-80% consensus on blocks to appear on this list.
-Tier 1 - Requires 50% consensus to appear on this list
-Tier 2 - Requires 33% consensus
-Tier 3 - Requires 2 sites (moved and seconded) to appear on the list
+* Tier 0 - Requires 60-80% consensus on blocks to appear on this list.
+* Tier 1 - Requires 50% consensus to appear on this list
+* Tier 2 - Requires 33% consensus
+* Tier 3 - Requires 2 sites (moved and seconded) to appear on the list
 
 There is a "max" list which pulls in literally everything included here: Tiers 0-3, Mastodon.Social, Mastodon.Online, even [RapidBlock](https://rapidblock.org/) and pulls them all into the pot and whoever gives the most severe ranking wins.
 
