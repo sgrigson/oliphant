@@ -1,7 +1,5 @@
 # Oliphant.Social Shared Blocklist Files
 
-New and improved thanks to the excellent [FediBlockHole](https://github.com/eigenmagic/fediblockhole).
-
 For more information, please check out some blog entries:
 
 * [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)  
@@ -18,3 +16,64 @@ Blocklists are dual hosted at:
 
 If you're pulling down the repo instead of downloading files directly, you can use `git remote set-url` to switch locations if needed.
 ---
+## The Tier Consensus System
+
+Tiers will reflect blocklist size, with higher tiers having larger blocklists. This is purely mathematical, and pulls from trusted sources to generate this list based on common agreement.
+
+You are encouraged to use these lists if you find them useful, or you can rely more on an individual trusted source in the list and reference their blocklist instead.
+
+The advantage of a tier merge is that it acts like a second (or third) opinion. Most of these blocks use a *min* merge strategy, meaning that a single source choosing 'silence' over 'suspend' will force that domain to be silenced instead of suspended. 
+
+All tiers are based on mathematical consensus, and at least 2 sources must agree for a source to be on any list except the "max" list (which includes all blocks).
+
+Tier 0 - Requires 60-80% consensus on blocks to appear on this list.
+Tier 1 - Requires 50% consensus to appear on this list
+Tier 2 - Requires 33% consensus
+Tier 3 - Requires 2 sites (moved and seconded) to appear on the list
+
+There is a "max" list which pulls in literally everything included here: Tiers 0-3, Mastodon.Social, Mastodon.Online, even [RapidBlock](https://rapidblock.org/) and pulls them all into the pot and whoever gives the most severe ranking wins.
+
+Note that unless the list specifies otherwise, blocks from a lower tier are always included. That means Tier0 blocks are in every unified (merged) list.
+
+## What's The Purpose Here?
+
+We see issues from the same servers, over and over again. No one has ever coordinated this data before in such a way, and it's coordination (which began with the fediblock hashtag) which has helped create a better, safer space already. There is more work to be done here.
+
+This is our best-guess of the kinds of blocks you might need to keep the fedi weird *and* safe. Note: There is clearly no universal agreement here, even among the server admins who agreed to participate. This is herding cats.
+
+So we give you as much information as possible, from as many admins who agreed to participate and let you pick a tier list that suits your level of "blockingness", or an individual source list that most closely matches the identity and needs of your server community.
+
+## Where's the Receipts?
+
+Not here. There is no reason to get into any fights about what is essentially a point-in-time *status report*. These are easily importable blocks that can be reviewed and opted out of individually. In a searchable format with a static URL they can also be used to drive other consensus-based blocklist projects and become a Trusted Source for others in syncing up and maintaining their blocklists.
+
+The receipts, in other words, are federated. They just aren't here. You'll have to search for them, but the [Bad Space](https://thebad.space/about) is coming online and should eventually have all the receipts for public availability.
+
+## How Often are the Lists Updated?
+
+On the hour, every hour, so long as there have been changes from one of the blocklist sources.
+
+## Fair Use and Context for Blocklists
+
+Blocklists are provided in the public interest and for server admins who maintain a legitimate interest in performing the normal daily operation of their server, which includes [active moderation](https://joinmastodon.org/covenant), review of potential sources of harm or even just places viewed with caution due to unsafe or lax moderation practices.
+
+Everyone argues about where to draw this line. That's the whole point of providing multiple sources here (and I'll provide others if they opt in). Ideally, you will pull in a blocklist from other sources you trust. That may be one of these sources, a merged version of the different lists, or you may use it for reference.
+
+There are several non-standard use cases as well:
+
+* “Hmm...I’m on the fence about this domain. Oh look, it’s in this blocklist too; let me ask them about it.”
+* “I’ve imported a large blocklist, but I’m unsure about some entries. They’re tier-3 entries but not tier-2  or tier-1; I think I’ll downgrade them from suspend to something less severe.”
+* “Someone sent me a follow-request, and I see they’re a new user from a tier-zero domain; I think I’ll decline.”
+
+Ultimately, how a list is used is up to you.
+
+It's assumed you're a rational person and can deal with what we hope are small disagreements with some of the entries on the list. 
+
+It's also assumed you're capable of *not importing certain lines* or just editing the file as necessary. Use it as a basis to create your shared blocklist file. 
+
+Or... decide you do not want to use it at all.
+
+## The Lists and The Fedi Council
+
+* "The Fedi Council" consists of over 50 server admins in a shared Discord who discuss blocks, bad actors, and other topics. Other Fedi Councils exist (they probably don't call themselves that). Still, there are groups of server admins all over the Fedi, using shared DMs, Discord/Matrix, or other sources to coordinate and discuss issues of interest.
+* No one has officially adopted the name "The Fedi Council," to my awareness. I call us that because I find it fun and less of a mouthful than "a bunch of different server admins." I am taking some liberties in their name by calling them something that no one voted on, for which I hope they'll forgive me. 
