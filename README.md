@@ -14,7 +14,9 @@ Blocklists are dual hosted at:
 * https://github.com/sgrigson/oliphant
 * https://codeberg.org/oliphant/oliphant
 
+
 If you're pulling down the repo instead of downloading files directly, you can use `git remote set-url` to switch locations if needed.
+
 ---
 ## The Tier Consensus System
 
