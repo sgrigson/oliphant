@@ -627,6 +627,7 @@ mastobate.social,silence,False,False,,False
 mastod.no,suspend,False,False,,False
 mastodon.ar.al,suspend,False,False,,False
 mastodon.astrr.ru,silence,False,False,,False
+mastodon.bayern,suspend,False,False,,False
 mastodon.bgzashtita.es,suspend,False,False,,False
 mastodon.bida.im,silence,False,False,,False
 mastodon.cf,suspend,False,False,,False
@@ -699,6 +700,7 @@ mouse.services,suspend,False,False,,False
 mr64.net,suspend,False,False,,False
 mrhands.horse,suspend,False,False,,False
 mstdn.ca,silence,False,False,,False
+mstdn.es,suspend,False,False,,False
 mstdn.foxfam.club,suspend,False,False,,False
 mstdn.io,silence,False,False,,False
 mstdn.jp,silence,False,False,,False
@@ -706,6 +708,7 @@ mstdn.party,silence,False,False,,False
 mstdn.social,suspend,False,False,,False
 mstdn.starnix.network,suspend,False,False,,False
 mu.zaitcev.nu,suspend,False,False,,False
+muensterland.social,suspend,False,False,,False
 mugicha.club,suspend,False,False,,False
 muh.wang,suspend,False,False,,False
 mulmeyun.church,suspend,False,False,,False
@@ -741,6 +744,7 @@ newsrelay.org,silence,False,False,,False
 ngrok.io,suspend,False,False,,False
 nicecrew.digital,suspend,False,False,,False
 nightshift.social,suspend,False,False,,False
+nikisoft.one,suspend,False,False,,False
 nikotile.xyz,suspend,False,False,,False
 niscii.xyz,silence,False,False,,False
 nitecrew.rip,silence,False,False,,False
