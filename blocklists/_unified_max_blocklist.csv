@@ -1518,6 +1518,7 @@ miss.mouse.services,suspend,False,False,,False
 misskey-forkbomb,suspend,False,False,,False
 misskey-forkbomb.cf,suspend,False,False,,False
 misskey.ai,suspend,False,False,,False
+misskey.art,suspend,False,False,,False
 misskey.cf,suspend,False,False,,False
 misskey.design,suspend,False,False,,False
 misskey.io,suspend,False,False,,False
