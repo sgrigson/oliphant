@@ -229,7 +229,7 @@ maladaptive.art,suspend,False,False,,False
 marsey.club,suspend,False,False,,False
 masochi.st,suspend,False,False,,False
 mastertibbles.co.uk,suspend,False,False,,False
-masthead.social,suspend,False,False,,False
+masthead.social,silence,False,False,,False
 mastinator.com,suspend,False,False,,False
 mastodon.cf,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
@@ -423,6 +423,7 @@ ursal.zone,suspend,False,False,,False
 urspringer.de,suspend,False,False,,False
 varishangout.net,suspend,False,False,,False
 veenus.art,suspend,False,False,,False
+vfpmedia.com,suspend,False,False,,False
 violence.church,suspend,False,False,,False
 vladtepesblog.com,suspend,False,False,,False
 vrij.social,silence,False,False,,False
@@ -434,6 +435,7 @@ were.social,suspend,False,False,,False
 whinge.house,suspend,False,False,,False
 whinge.town,suspend,False,False,,False
 whitesmokebbq.social,suspend,False,False,,False
+whitewomen.dog,suspend,False,False,,False
 wideboys.org,suspend,False,False,,False
 witches.live,silence,False,False,,False
 wolfgirl.bar,suspend,False,False,,False
