@@ -474,9 +474,7 @@ mastodon.ml,suspend,False,False,,False
 mastodon.network,suspend,False,False,,False
 mastodon.ninja,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
-mastodon.online,silence,False,False,,False
 mastodon.se,suspend,False,False,,False
-mastodon.social,silence,False,False,,False
 mastodon.teia.art,suspend,False,False,,False
 mastodon.world,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False

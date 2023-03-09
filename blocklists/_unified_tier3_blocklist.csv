@@ -661,9 +661,9 @@ mastodon.loliandstuff.moe,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.network,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
-mastodon.online,silence,False,False,,False
+mastodon.online,suspend,False,False,,False
 mastodon.se,silence,False,False,,False
-mastodon.social,silence,False,False,,False
+mastodon.social,suspend,False,False,,False
 mastodon.tech,suspend,False,False,,False
 mastodon.teia.art,silence,False,False,,False
 mastodon.top,suspend,False,False,,False
