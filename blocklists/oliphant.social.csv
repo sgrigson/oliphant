@@ -14,6 +14,7 @@ a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 addy.gg,suspend,False,False,,False
+adhd.stream,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 affiliates.social,suspend,False,False,,False
 akm.longyap.name.my,suspend,False,False,,False
@@ -327,6 +328,7 @@ hentai.baby,suspend,False,False,,False
 hermitmountain.top,suspend,False,False,,False
 hidamari.apartments,suspend,False,False,,False
 hieron.cc,suspend,False,False,,False
+hijacked.download,suspend,False,False,,False
 hit.moe,suspend,False,False,,False
 hitchhiker.social,suspend,False,False,,False
 homd.xyz,suspend,False,False,,False
@@ -460,6 +462,7 @@ normie.cafe,suspend,False,False,,False
 not.acu.lt,suspend,False,False,,False
 novoa.nagoya,suspend,False,False,,False
 nukem.biz,suspend,False,False,,False
+nyanide.com,suspend,False,False,,False
 obo.sh,suspend,False,False,,False
 opalstack.social,suspend,False,False,,False
 optiplex.wallaby-bass.ts.net,suspend,False,False,,False
@@ -630,6 +633,7 @@ tavern.drow.be,suspend,False,False,,False
 teci.world,suspend,False,False,,False
 terrible.place,suspend,False,False,,False
 test.misskey.cf,suspend,False,False,,False
+the.libbie.cloud,suspend,False,False,,False
 the.talesofmy.life,suspend,False,False,,False
 theapex.social,suspend,False,False,,False
 thebag.social,suspend,False,False,,False
@@ -641,6 +645,7 @@ tictoc.social,suspend,False,False,,False
 tinybirdsite.com,suspend,False,False,,False
 tkammer.de,suspend,False,False,,False
 tnd.lol,suspend,False,False,,False
+toot.coinfundit.com,silence,False,False,,False
 toots.morepablo.com,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False
@@ -718,6 +723,7 @@ xhais.love,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
 xn--rtta-qoa.nu,suspend,False,False,,False
 yggdrasil.social,suspend,False,False,,False
+yotie.blue,suspend,False,False,,False
 youjo.love,suspend,False,False,,False
 yukioke.com,suspend,False,False,,False
 zeal.center,suspend,False,False,,False

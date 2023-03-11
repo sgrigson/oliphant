@@ -24,6 +24,7 @@ activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 activitypub.actor,suspend,False,False,,False
 addy.gg,suspend,False,False,,False
+adhd.stream,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 affiliates.social,suspend,False,False,,False
 agates.io,suspend,False,False,,False
@@ -1263,6 +1264,7 @@ xscape.top,suspend,False,False,,False
 yams.lol,suspend,False,False,,False
 yggdrasil.social,suspend,False,False,,False
 yorishiro.space,suspend,False,False,,False
+yotie.blue,suspend,False,False,,False
 youjo.love,suspend,False,False,,False
 yukioke.com,suspend,False,False,,False
 yuukosan.xyz,suspend,False,False,,False
