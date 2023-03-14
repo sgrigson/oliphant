@@ -12,6 +12,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
 a.sc,suspend,False,False,,False
+aaoth.xyz,suspend,False,False,,False
 abdulocra.cy,suspend,False,False,,False
 ableppo.net,suspend,False,False,,False
 abraham.su,suspend,False,False,,False
@@ -139,6 +140,7 @@ cawfee.club,suspend,False,False,,False
 cd0.nl,suspend,False,False,,False
 cdrom.tokyo,suspend,False,False,,False
 cf,suspend,False,False,,False
+chamba.social,suspend,False,False,,False
 chaoyu.us,suspend,False,False,,False
 chaunchy.com,suspend,False,False,,False
 cheeseburger.social,suspend,False,False,,False
@@ -391,6 +393,7 @@ im-in.space,silence,False,False,,False
 imirhil.fr,suspend,False,False,,False
 impeccable.social,suspend,False,False,,False
 incorrigible.moe,suspend,False,False,,False
+indiefedi.party,suspend,False,False,,False
 inex.rocks,suspend,False,False,,False
 inferencium.net,suspend,False,False,,False
 ingwie.me,suspend,False,False,,False
@@ -461,6 +464,7 @@ lesaoras.xyz,suspend,False,False,,False
 lets.saynoto.lgbt,suspend,False,False,,False
 letsalllovela.in,suspend,False,False,,False
 lgbtfree.zone,suspend,False,False,,False
+libbie.cloud,suspend,False,False,,False
 liberal.city,suspend,False,False,,False
 liberdon.com,suspend,False,False,,False
 libertalia.world,suspend,False,False,,False
@@ -537,6 +541,7 @@ midwaytrades.com,suspend,False,False,,False
 miguelcr.me,suspend,False,False,,False
 miku-enthusiast.club,suspend,False,False,,False
 milker.cafe,suspend,False,False,,False
+milkers.online,suspend,False,False,,False
 minidisc.tokyo,suspend,False,False,,False
 miniwa.moe,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
@@ -599,6 +604,7 @@ nnia.space,suspend,False,False,,False
 noagendasocial.com,suspend,False,False,,False
 noagendasocial.nl,suspend,False,False,,False
 noagendatube.com,suspend,False,False,,False
+nobl.ink,suspend,False,False,,False
 nobodyhasthe.biz,suspend,False,False,,False
 nokes.name,suspend,False,False,,False
 normie.cafe,suspend,False,False,,False
@@ -683,6 +689,7 @@ pub.killrobot.com,suspend,False,False,,False
 qoto.org,suspend,False,False,,False
 quanta.wiki,suspend,False,False,,False
 queer.hacktivis.me,suspend,False,False,,False
+quietplace.xyz,suspend,False,False,,False
 quodverum.com,suspend,False,False,,False
 r18.social,suspend,False,False,,False
 rage.lol,suspend,False,False,,False
@@ -924,6 +931,7 @@ yukioke.com,suspend,False,False,,False
 yuukosan.xyz,suspend,False,False,,False
 z0ne.social,suspend,False,False,,False
 zeal.center,suspend,False,False,,False
+zholnay.name,suspend,False,False,,False
 zip2.social,suspend,False,False,,False
 zolfite.net,suspend,False,False,,False
 zombiecats.run,suspend,False,False,,False
