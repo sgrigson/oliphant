@@ -817,6 +817,7 @@ office.dtzbts.xyz,suspend,False,False,,False
 onlyfeds.cc,suspend,False,False,,False
 opalstack.social,suspend,False,False,,False
 openshiftapps.com,suspend,False,False,,False
+ortodogs.info,suspend,False,False,,False
 osrs.club,suspend,False,False,,False
 otakufarms.com,suspend,False,False,,False
 oti.st,suspend,False,False,,False
@@ -1000,7 +1001,7 @@ search.fedi.app,suspend,False,False,,False
 searchtodon.social,suspend,False,False,,False
 secluded.site,suspend,False,False,,False
 secretsealing.club,suspend,False,False,,False
-seikora.one,suspend,False,False,,False
+seikora.one,silence,False,False,,False
 seo.chat,silence,False,False,,False
 servernerds.net,silence,False,False,,False
 shadowsocial.org,suspend,False,False,,False
