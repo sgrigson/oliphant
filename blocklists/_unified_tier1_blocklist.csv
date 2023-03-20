@@ -238,6 +238,7 @@ mastodon.cf,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.se,silence,False,False,,False
+mastodon.top,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False
 meatbag.app,suspend,False,False,,False
 meld.de,suspend,False,False,,False
