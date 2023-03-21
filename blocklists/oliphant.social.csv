@@ -410,7 +410,7 @@ mastodon.popps.org,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
 mastodon.socialspill.com,suspend,False,False,,False
 mastodon.teia.art,silence,False,False,,False
-mastodon.top,silence,False,False,,False
+mastodon.top,suspend,False,False,,False
 mastodon.xaetacore.net,suspend,False,False,,False
 mastodong.lol,suspend,False,False,,False
 meatbag.app,suspend,False,False,,False
