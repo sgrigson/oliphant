@@ -774,7 +774,7 @@ fbxl.net,suspend,False,False,,False
 fed.alteregocreations.com,suspend,False,False,,False
 fed.bushiroad.space,suspend,False,False,,False
 fed.calp.de,suspend,False,False,,False
-fed.celp.de,silence,False,False,,False
+fed.celp.de,suspend,False,False,,False
 fed.umycode.com,suspend,False,False,,False
 federate.hopto.org,suspend,False,False,,False
 federated.fun,suspend,False,False,,False
@@ -995,6 +995,7 @@ gothloli.club,suspend,False,False,,False
 goto.vsta.org,suspend,False,False,,False
 goyim.app,suspend,False,False,,False
 goyslop.cafe,suspend,False,False,,False
+graeber.social,suspend,False,False,,False
 grants.cafe,suspend,False,False,,False
 gratefuldread.masto.host,suspend,False,False,,False
 gravure.club,suspend,False,False,,False
@@ -1476,6 +1477,7 @@ mastodon.starrevolution.org,suspend,False,False,,False
 mastodon.tech,suspend,False,False,,False
 mastodon.teia.art,suspend,False,False,,False
 mastodon.top,suspend,False,False,,False
+mastodon.uno,silence,False,False,,False
 mastodon.world,suspend,False,False,,False
 mastodon.xaetacore.net,suspend,False,False,,False
 mastodon.xech.io,suspend,False,False,,False
@@ -2113,6 +2115,7 @@ rebased.network,suspend,False,False,,False
 rebased.social,suspend,False,False,,False
 rebelbase.site,suspend,False,False,,False
 red.niboe.info,suspend,False,False,,False
+redd.live,suspend,False,False,,False
 redeyes.site,suspend,False,False,,False
 redflix.nu,suspend,False,False,,False
 redliberal.com,suspend,False,False,,False

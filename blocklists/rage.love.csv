@@ -298,7 +298,7 @@ explosion.party,suspend,False,False,,False
 f.haeder.net,suspend,False,False,,False
 fapsi.be,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
-fed.celp.de,silence,False,False,,False
+fed.celp.de,suspend,False,False,,False
 federate.hopto.org,suspend,False,False,,False
 federated.fun,suspend,False,False,,False
 federated.media,suspend,False,False,,False
@@ -414,6 +414,7 @@ gorf.club,suspend,False,False,,False
 gorf.pub,suspend,False,False,,False
 gorf.space,suspend,False,False,,False
 goyim.app,suspend,False,False,,False
+graeber.social,suspend,False,False,,False
 grants.cafe,suspend,False,False,,False
 graz.social,suspend,False,False,,False
 greenish.red,suspend,False,False,,False
@@ -638,6 +639,7 @@ mastodon.social,suspend,False,False,,False
 mastodon.someotherguy.xyz,suspend,False,False,,False
 mastodon.starrevolution.org,suspend,False,False,,False
 mastodon.top,suspend,False,False,,False
+mastodon.uno,silence,False,False,,False
 mastodon.world,suspend,False,False,,False
 mastodong.lol,suspend,False,False,,False
 mastodonspain.masto.host,suspend,False,False,,False
@@ -769,6 +771,7 @@ nyan.com,suspend,False,False,,False
 nzbr.de,suspend,False,False,,False
 obo.sh,suspend,False,False,,False
 oliviaappleton.com,suspend,False,False,,False
+onionfarms.org,suspend,False,False,,False
 online-hangout.com,suspend,False,False,,False
 opalstack.social,suspend,False,False,,False
 open.tube,suspend,False,False,,False
@@ -923,6 +926,7 @@ raygungothic.xyz,suspend,False,False,,False
 rayn.bo,suspend,False,False,,False
 rcsocial.net,suspend,False,False,,False
 rdrama.cc,suspend,False,False,,False
+redd.live,suspend,False,False,,False
 redeyes.site,suspend,False,False,,False
 redflix.nu,suspend,False,False,,False
 redliberal.com,suspend,False,False,,False
