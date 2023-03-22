@@ -410,7 +410,7 @@ mastodon.popps.org,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
 mastodon.socialspill.com,suspend,False,False,,False
 mastodon.teia.art,silence,False,False,,False
-mastodon.top,suspend,False,False,,False
+mastodon.top,silence,False,False,,False
 mastodon.xaetacore.net,suspend,False,False,,False
 mastodong.lol,suspend,False,False,,False
 meatbag.app,suspend,False,False,,False
@@ -734,6 +734,7 @@ youjo.love,suspend,False,False,,False
 yukioke.com,suspend,False,False,,False
 zeal.center,suspend,False,False,,False
 zedsocial.ca,suspend,False,False,,False
+zhub.link,suspend,False,False,,False
 zombiecats.run,suspend,False,False,,False
 zwezo.o-k-i.net,suspend,False,False,,False
 zyzzsupremacy.xyz,suspend,False,False,,False
