@@ -11,6 +11,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 5dollah.click,suspend,False,False,,False
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
+9tail.net,suspend,False,False,,False
 a.sc,suspend,False,False,,False
 aaoth.xyz,suspend,False,False,,False
 abdulocra.cy,suspend,False,False,,False
@@ -505,6 +506,7 @@ lucasvl.nl,suspend,False,False,,False
 lukepreston.xyz,suspend,False,False,,False
 lulz.win,suspend,False,False,,False
 lyrenhex.com,suspend,False,False,,False
+lyricaltokarev.fun,suspend,False,False,,False
 m-n.live,silence,False,False,,False
 m.fa.gl,suspend,False,False,,False
 m0e.space,suspend,False,False,,False

@@ -623,6 +623,7 @@ pleroma.freespeech.host,suspend,False,False,,False
 pleroma.gnusocial.club,suspend,False,False,,False
 pleroma.karjalazet.se,suspend,False,False,,False
 pleroma.kitsunemimi.club,suspend,False,False,,False
+pleroma.lyricaltokarev.fun,suspend,False,False,,False
 pleroma.mouse.services,suspend,False,False,,False
 pleroma.narrativerry.xyz,suspend,False,False,,False
 pleroma.nobodyhasthe.biz,suspend,False,False,,False

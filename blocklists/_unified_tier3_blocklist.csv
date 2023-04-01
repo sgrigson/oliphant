@@ -15,6 +15,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 80percent.social,suspend,False,False,,False
 829.hu,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
+9tail.net,suspend,False,False,,False
 a.sc,suspend,False,False,,False
 aaoth.xyz,suspend,False,False,,False
 abdl.link,silence,False,False,,False
