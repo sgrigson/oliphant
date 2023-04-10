@@ -3,6 +3,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+ap.***.st,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
 bae.st,suspend,False,False,,False
 bar***.*et,suspend,False,False,,False
@@ -54,6 +55,7 @@ brighteon.social,silence,False,False,,False
 bsd.moe,silence,False,False,,False
 catgirl.life,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
+chaurocks.com,suspend,False,False,,False
 chil*****.*hop,suspend,False,False,,False
 chud****.lol,suspend,False,False,,False
 cnet.site,suspend,False,False,,False
@@ -106,6 +108,7 @@ krdtube.org,silence,False,False,,False
 kurosawa.moe,suspend,False,False,,False
 lanue*********a.es,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
+localtunnel.me,suspend,False,False,,False
 lol****.*op,suspend,False,False,,False
 lol*.***za,suspend,False,False,,False
 loli***.**cks,suspend,False,False,,False
@@ -122,6 +125,7 @@ mstdn.foxfam.club,silence,False,False,,False
 mugicha.club,suspend,False,False,,False
 nateh******.**line,suspend,False,False,,False
 neck*****.xyz,suspend,False,False,,False
+ngrok.io,suspend,False,False,,False
 nicecrew.digital,suspend,False,False,,False
 nni*.***ce,suspend,False,False,,False
 noagendasocial.com,silence,False,False,,False
