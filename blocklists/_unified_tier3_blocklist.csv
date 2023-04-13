@@ -549,7 +549,7 @@ jorts.online,suspend,False,False,,False
 journa.host,silence,False,False,,False
 jpop.club,suspend,False,False,,False
 juche.town,suspend,False,False,,False
-justbros.xyz,silence,False,False,,False
+justbros.xyz,suspend,False,False,,False
 justicewarrior.social,suspend,False,False,,False
 jvpiter.net,suspend,False,False,,False
 k.posix.gay,suspend,False,False,,False
@@ -949,6 +949,7 @@ qoto.org,silence,False,False,,False
 quad.moe,suspend,False,False,,False
 quanta.wiki,suspend,False,False,,False
 queer.hacktivis.me,suspend,False,False,,False
+quey.la,suspend,False,False,,False
 quey.org,suspend,False,False,,False
 quietplace.xyz,suspend,False,False,,False
 quitter.pw,suspend,False,False,,False
@@ -1208,7 +1209,7 @@ toots.morepablo.com,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 tpo.world,suspend,False,False,,False
 traboone.com,suspend,False,False,,False
-travnewmatic.com,silence,False,False,,False
+travnewmatic.com,suspend,False,False,,False
 treasuredgem.xyz,suspend,False,False,,False
 treeoflifecomic.com,suspend,False,False,,False
 tri.cash,suspend,False,False,,False

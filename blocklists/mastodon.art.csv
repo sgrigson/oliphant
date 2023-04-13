@@ -391,13 +391,14 @@ jorts.horse,suspend,False,False,,False
 journa.host,silence,False,False,,False
 jpop.club,suspend,False,False,,False
 juche.town,suspend,False,False,,False
-justbros.xyz,silence,False,False,,False
+justbros.xyz,suspend,False,False,,False
 justicewarrior.social,suspend,False,False,,False
 jvpiter.net,suspend,False,False,,False
 k.posix.gay,suspend,False,False,,False
 kabuki.club,suspend,False,False,,False
 kabukimono.top,suspend,False,False,,False
 kafka.icu,suspend,False,False,,False
+kakafe.ga,suspend,False,False,,False
 kartonrad.de,suspend,False,False,,False
 kazv.moe,suspend,False,False,,False
 keinpfusch.net,suspend,False,False,,False
@@ -492,7 +493,6 @@ mastodon.nzoss.nz,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
 mastodon.sl,suspend,False,False,,False
 mastodon.teia.art,suspend,False,False,,False
-mastodon.top,silence,False,False,,False
 mastodon.world,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False
 mastodutchservers.com,suspend,False,False,,False
@@ -668,8 +668,9 @@ qoto.org,suspend,False,False,,False
 quad.moe,suspend,False,False,,False
 quanta.wiki,suspend,False,False,,False
 queer.hacktivis.me,suspend,False,False,,False
+quey.la,suspend,False,False,,False
 quietplace.xyz,suspend,False,False,,False
-quitter.im,silence,False,False,,False
+quitter.im,suspend,False,False,,False
 quitter.pw,suspend,False,False,,False
 r18.social,suspend,False,False,,False
 rage.lol,suspend,False,False,,False
@@ -859,7 +860,7 @@ toot.world,suspend,False,False,,False
 toots.morepablo.com,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 tpo.world,suspend,False,False,,False
-travnewmatic.com,silence,False,False,,False
+travnewmatic.com,suspend,False,False,,False
 treasuredgem.xyz,suspend,False,False,,False
 treeoflifecomic.com,suspend,False,False,,False
 tri.cash,suspend,False,False,,False
