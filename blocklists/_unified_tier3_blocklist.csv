@@ -106,7 +106,7 @@ bikeshed.party,suspend,False,False,,False
 binarydad.com,suspend,False,False,,False
 birb.elfenban.de,suspend,False,False,,False
 bird.nzbr.de,suspend,False,False,,False
-birdity.club,suspend,False,False,,False
+birdity.club,silence,False,False,,False
 birds.garden,suspend,False,False,,False
 bitacadie.com,suspend,False,False,,False
 bitcoinersagainst.boats,suspend,False,False,,False
@@ -1072,6 +1072,7 @@ skyshanty.xyz,suspend,False,False,,False
 slash.cl,suspend,False,False,,False
 sleepy.cafe,suspend,False,False,,False
 sliek.social,suspend,False,False,,False
+slippy.xyz,suspend,False,False,,False
 slum.cloud,suspend,False,False,,False
 smittenkittens.xyz,suspend,False,False,,False
 smokecircle.co,suspend,False,False,,False
