@@ -10,6 +10,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 addy.gg,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 alteregocreations.com,suspend,False,False,,False
+ancreport.xyz,suspend,False,False,,False
 anemoneya.me,suspend,False,False,,False
 angrytoday.com,suspend,False,False,,False
 anime.website,suspend,False,False,,False
@@ -148,6 +149,7 @@ logografos.com,suspend,False,False,,False
 lolicon.rocks,suspend,False,False,,False
 lolison.network,suspend,False,False,,False
 lolison.top,suspend,False,False,,False
+longyap.name.my,suspend,False,False,,False
 lovingexpressions.net,suspend,False,False,,False
 lucasvl.nl,suspend,False,False,,False
 mahodou.moe,suspend,False,False,,False
