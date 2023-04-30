@@ -3,7 +3,7 @@
 For more information, please check out some blog entries:
 
 * [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)  
-How the various lists were built, and the algorithms behind Min, Max, and Tier 0-3.
+How the various lists were built, and the algorithms behind Tier 0-3.
 * [How to Sync Up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources)  
 A step-by-step tutorial on how to install FediBlockHole yourself and start pulling down blocklists and applying them to your server.
 * [Blocklists](https://writer.oliphant.social/oliphant/blocklists)  
@@ -26,14 +26,12 @@ You are encouraged to use these lists if you find them useful, or you can rely m
 
 The advantage of a tier merge is that it acts like a second (or third) opinion. Most of these blocks use a *min* merge strategy, meaning that a single source choosing 'silence' over 'suspend' will force that domain to be silenced instead of suspended. 
 
-All tiers are based on mathematical consensus, and at least 2 sources must agree for a source to be on any list except the "max" list (which includes all blocks).
+All tiers are based on mathematical consensus, and at least 2 sources must agree for a source to be on any list.
 
 * Tier 0 - Requires 60-80% consensus on blocks to appear on this list.
 * Tier 1 - Requires 50% consensus to appear on this list
 * Tier 2 - Requires 33% consensus
 * Tier 3 - Requires 2 sites (moved and seconded) to appear on the list
-
-There is a "max" list which pulls in literally everything included here: Tiers 0-3, Mastodon.Social, Mastodon.Online, even [RapidBlock](https://rapidblock.org/) and pulls them all into the pot and whoever gives the most severe ranking wins.
 
 Note that unless the list specifies otherwise, blocks from a lower tier are always included. That means Tier0 blocks are in every unified (merged) list.
 
