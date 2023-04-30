@@ -9,7 +9,7 @@ python3 -m pip install fediblockhole
 ```bash
 mkdir /fediblockhole
 cd /fediblockhole
-git clone git@codeberg.org:oliphant/blocklists.git .
+git clone https://codeberg.org/oliphant/blocklists.git .
 ```
 
 3. Execute
