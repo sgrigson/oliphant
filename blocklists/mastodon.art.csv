@@ -38,6 +38,7 @@ ancreport.com,suspend,False,False,,False
 anemoneya.me,suspend,False,False,,False
 angrytoday.com,suspend,False,False,,False
 anime.website,suspend,False,False,,False
+animesexual.community,suspend,False,False,,False
 anitwitter.moe,silence,False,False,,False
 annihilation.social,suspend,False,False,,False
 anon-kenkai.com,suspend,False,False,,False
@@ -79,9 +80,11 @@ beepboop.ga,suspend,False,False,,False
 berserker.town,suspend,False,False,,False
 beta.birdsite.live,silence,False,False,,False
 beta.mstdn.cf,suspend,False,False,,False
+bgzashtita.es,suspend,False,False,,False
 bibly.com,suspend,False,False,,False
 biendeo.com,suspend,False,False,,False
 bigguys.club,suspend,False,False,,False
+bigrelay.social,suspend,False,False,,False
 bigzu.cc,suspend,False,False,,False
 bikeshed.party,suspend,False,False,,False
 binarydad.com,suspend,False,False,,False
@@ -330,6 +333,7 @@ glowie.cloud,suspend,False,False,,False
 glownow.club,suspend,False,False,,False
 gnu.moe,suspend,False,False,,False
 gnuhacker.org,suspend,False,False,,False
+goreslut.xyz,suspend,False,False,,False
 gorf.club,suspend,False,False,,False
 gorf.pub,suspend,False,False,,False
 gorf.space,suspend,False,False,,False
@@ -491,7 +495,6 @@ mastertibbles.co.uk,suspend,False,False,,False
 mastinator.com,suspend,False,False,,False
 mastindia.co,suspend,False,False,,False
 mastodon.adtension.com,suspend,False,False,,False
-mastodon.bgzashtita.es,suspend,False,False,,False
 mastodon.bida.im,suspend,False,False,,False
 mastodon.cf,suspend,False,False,,False
 mastodon.cloud,suspend,False,False,,False
