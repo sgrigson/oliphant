@@ -588,7 +588,7 @@ toad.social,suspend,False,False,,False
 toast.cafe,suspend,False,False,,False
 toot.canberrasocial.net,suspend,False,False,,False
 toot.community,suspend,False,False,,False
-toot.wales,suspend,False,False,,False
+toot.wales,silence,False,False,,False
 toots.nu,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 traboone.com,suspend,False,False,,False

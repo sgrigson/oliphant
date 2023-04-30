@@ -1,5 +1,5 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
-101010.pl,suspend,False,False,,False
+101010.pl,silence,False,False,,False
 13bells.com,suspend,False,False,,False
 1611.social,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
@@ -20,7 +20,7 @@ federated.fun,suspend,False,False,,False
 feral.cafe,suspend,False,False,,False
 freak.university,suspend,False,False,,False
 freespeechextremist.com,suspend,False,False,,False
-froth.zone,suspend,False,False,,False
+froth.zone,silence,False,False,,False
 gameliberty.club,suspend,False,False,,False
 gleasonator.com,suspend,False,False,,False
 hentai.baby,suspend,False,False,,False
@@ -42,7 +42,8 @@ pedo.school,suspend,False,False,,False
 pibvt.net,suspend,False,False,,False
 pieville.net,suspend,False,False,,False
 poster.place,suspend,False,False,,False
-rcsocial.net,suspend,False,False,,False
+qoto.org,silence,False,False,,False
+rcsocial.net,silence,False,False,,False
 repl.co,suspend,False,False,,False
 rojogato.com,suspend,False,False,,False
 rot.gives,suspend,False,False,,False
@@ -50,7 +51,7 @@ ryona.agency,suspend,False,False,,False
 scots.network,suspend,False,False,,False
 seal.cafe,suspend,False,False,,False
 shitpost.cloud,suspend,False,False,,False
-shitposter.club,suspend,False,False,,False
+shitposter.club,silence,False,False,,False
 shota.house,suspend,False,False,,False
 sleepy.cafe,suspend,False,False,,False
 sneed.social,suspend,False,False,,False
