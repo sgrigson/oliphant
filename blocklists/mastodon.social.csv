@@ -3,6 +3,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+annihilation.social,suspend,False,False,,False
 ap.***.st,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
 bae.st,suspend,False,False,,False
@@ -51,6 +52,7 @@ birdsitelive.moistgarbage.info,suspend,False,False,,False
 birdsitelive.treffler.cloud,suspend,False,False,,False
 brands.town,suspend,False,False,,False
 bridge.birb.space,suspend,False,False,,False
+bridge.yopp.me,suspend,False,False,,False
 brighteon.social,silence,False,False,,False
 bsd.moe,silence,False,False,,False
 catgirl.life,suspend,False,False,,False

@@ -2,6 +2,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 anime.website,suspend,False,False,,False
+annihilation.social,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
 bae.st,suspend,False,False,,False
 baraag.net,suspend,False,False,,False
@@ -22,6 +23,7 @@ birdsite.tcjc.uk,suspend,False,False,,False
 birdsite.thorlaksson.com,suspend,False,False,,False
 birdsite.wilde.cloud,suspend,False,False,,False
 brands.town,suspend,False,False,,False
+bridge.yopp.me,suspend,False,False,,False
 brighteon.social,silence,False,False,,False
 catgirl.life,suspend,False,False,,False
 chil*****.*hop,suspend,False,False,,False
