@@ -755,6 +755,7 @@ mastodon.ml,suspend,False,False,,False
 mastodon.network,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
 mastodon.online,silence,False,False,,False
+mastodon.scot,suspend,False,False,,False
 mastodon.se,silence,False,False,,False
 mastodon.social,silence,False,False,,False
 mastodon.tech,suspend,False,False,,False
@@ -1257,6 +1258,7 @@ stack.black,suspend,False,False,,False
 starnix.network,suspend,False,False,,False
 stars.eroaward.com,silence,False,False,,False
 stereophonic.space,suspend,False,False,,False
+stop.voring.me,suspend,False,False,,False
 stormcloak.info,suspend,False,False,,False
 stracknet.com,suspend,False,False,,False
 strelizia.net,suspend,False,False,,False
@@ -1321,6 +1323,7 @@ toot.canberrasocial.net,suspend,False,False,,False
 toot.community,suspend,False,False,,False
 toot.love,silence,False,False,,False
 toot.pt,suspend,False,False,,False
+toot.wales,suspend,False,False,,False
 toot.world,suspend,False,False,,False
 toots.morepablo.com,suspend,False,False,,False
 toots.nu,suspend,False,False,,False
