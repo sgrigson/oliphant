@@ -22,3 +22,6 @@ You can use `local` and `secretconfig` as subfolders that aren't tracked by git 
 4. Optional
 `./fedisync-push.sh`
 This will sync up a specified blocklist (any blocklist you want) to a specified destination. This is not required to generate blocklists.
+
+For more information on how to configure the push file, or a greater explanation of the fundamentals of this process, see [How to Sync up Blocklist Changes From Trusted Sources](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources).
+
