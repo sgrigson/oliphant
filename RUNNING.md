@@ -15,7 +15,7 @@ git clone git@codeberg.org:oliphant/blocklists.git .
 3. Execute
 `./fedisync.sh`
 
-That's it. Blocklists will be written to the 
+That's it. Blocklists will be written to the `blocklists` folder.
 
 You can use `local` and `secretconfig` as subfolders that aren't tracked by git to create your own versions of these scripts and config.
 
