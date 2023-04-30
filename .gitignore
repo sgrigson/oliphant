@@ -1,0 +1,6 @@
+exports/**
+logs/**
+
+# used for local secrets and modifications to scripts
+secretconfig/**
+local/**
