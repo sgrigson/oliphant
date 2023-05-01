@@ -7,13 +7,12 @@ python3 -m pip install fediblockhole
 
 2. Clone this Repo
 ```bash
+git clone https://codeberg.org/oliphant/blocklists.git /opt/fediblockhole
 mkdir -p /opt/fediblockhole/logs && mkdir /opt/fediblockhole/exports
-cd /opt/fediblockhole
-git clone https://codeberg.org/oliphant/blocklists.git .
 ```
 
 3. Execute
-`./fedisync.sh`
+`/opt/fediblockhole/fedisync.sh`
 
 That's it. Blocklists will be written to the `blocklists` folder.
 
