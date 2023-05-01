@@ -30,7 +30,7 @@ For more information on how to configure the push file, or a greater explanation
 
 ## Configuration
 
-The list of blocklist sources can be found in the [/config/pull.conf.toml](/oliphant/blocklists/src/branch/main/config/pull.conf.toml).
+The list of blocklist sources can be found in the [/config/pull.conf.toml](src/branch/main/config/pull.conf.toml).
 
 These initial sources are pulled down, with each of them being saved as an intermediate file.
 

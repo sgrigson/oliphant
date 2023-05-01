@@ -1,5 +1,9 @@
 # Oliphant.Social Shared Blocklist Files
 
+See [RUNNING.md](/oliphant/blocklists/src/branch/main/RUNNING.md) for more information on running the scripts in this repo to generate these blocklists yourself, to modify the sources, or push the blocks to a server you control.
+
+This folder contains scripts to generate the blocklist files.See the [blocklists folder](src/branch/main/blocklists) for blocklist files.
+
 For more information, please check out some blog entries:
 
 * [The Blocklist Algorithm](https://writer.oliphant.social/oliphant/the-blocklist-algorithm)  
