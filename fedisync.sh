@@ -19,7 +19,6 @@ ${SYNC} -c /opt/fediblockhole/config/pull.conf.toml # pull down all files, creat
 rm -f /opt/fediblockhole/blocklists/file:---opt-fediblockhole-blocklists-__allowlist.csv.csv
 mv /opt/fediblockhole/blocklists/https:--seirdy.one-pb-tier0.csv.csv /opt/fediblockhole/blocklists/tier0.csv
 mv /opt/fediblockhole/blocklists/https:--seirdy.one-pb-pleroma.envs.net.csv.csv /opt/fediblockhole/blocklists/pleroma.envs.net.csv
-mv /opt/fediblockhole/blocklists/https:--turtle.garden-blocklist.csv.csv /opt/fediblockhole/blocklists/turtle.garden.csv
 mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-gardenfence-blocklist-main-gardenfence-fediblocksync.csv.csv /opt/fediblockhole/blocklists/gardenfence.csv
 mv /opt/fediblockhole/blocklists/https:--artisan.chat-api-v1-instance-domain_blocks.csv /opt/fediblockhole/blocklists/artisan.chat.csv
 mv /opt/fediblockhole/blocklists/https:--mastodon.art-api-v1-instance-domain_blocks.csv /opt/fediblockhole/blocklists/mastodon.art.csv

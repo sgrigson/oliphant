@@ -29,7 +29,6 @@ blocklist_url_sources = [
  { url = 'https://raw.githubusercontent.com/gardenfence/blocklist/main/gardenfence-fediblocksync.csv', format = 'csv'},
  # other sources
  { url = 'https://seirdy.one/pb/pleroma.envs.net.csv', format = 'csv' },
- { url = 'https://turtle.garden/blocklist.csv', format = 'csv' },
 ]
 
 # assumes a git pull will proceed this check and bring down the most recent allowlist
