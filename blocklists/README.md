@@ -13,4 +13,5 @@
 * `gardenfence.csv` - A mirror of the [Gardenfence](https://gardenfence.github.io/) Tier 0 file.
 * `tier0-council.csv` - Requires 80% agreement on blocks from Fedi Council sources.
 * `birdsite.csv` - All the Birdsite Live Blocks. This file is provided separately as a convenience.
+* `world_blocklist.csv` - Pulls from 20+ anonymous sources looking for majority (51%+) agreement between sources
 * *Other Files* - Other files listed here are individual trusted sources who provided data for the blocklist.
