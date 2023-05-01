@@ -7,8 +7,8 @@ python3 -m pip install fediblockhole
 
 2. Clone this Repo
 ```bash
-mkdir /fediblockhole
-cd /fediblockhole
+mkdir -p /opt/fediblockhole/logs && mkdir /opt/fediblockhole/exports
+cd /opt/fediblockhole
 git clone https://codeberg.org/oliphant/blocklists.git .
 ```
 

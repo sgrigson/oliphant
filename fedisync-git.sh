@@ -1,11 +1,11 @@
 #!/bin/bash
 set -e
 # generate files
-#exec > >(tee /fediblockhole/logs/fedisync.log) 2>&1
-exec 2> >(tee /fediblockhole/logs/fedisync-git.log)
+#exec > >(tee /opt/fediblockhole/logs/fedisync.log) 2>&1
+exec 2> >(tee /opt/fediblockhole/logs/fedisync-git.log)
 echo "Pushing up git changes..."
 
-cd /fediblockhole
+cd /opt/fediblockhole
 
 date=$(date '+%Y-%m-%d %H:%M:%S')
 

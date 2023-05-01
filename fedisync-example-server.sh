@@ -5,5 +5,5 @@ set -e
 SYNC=`which fediblock-sync`
 
 # use secretconfig subfolder
-${SYNC} -c /fediblockhole/config/example-server-export.conf.toml
+${SYNC} -c /opt/fediblockhole/config/example-server-export.conf.toml
 

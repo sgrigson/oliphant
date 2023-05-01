@@ -14,21 +14,21 @@ blocklist_instance_sources = []
 # max_severity tells the parser to override any severities that are higher than this value
 # import_fields tells the parser to only import that set of fields from a specific source
 blocklist_url_sources = [
- { url = 'file:///fediblockhole/blocklists/pleroma.envs.net.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/turtle.garden.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/union.place.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/sunny.garden.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/toot.wales.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/mastodon.art.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/rage.love.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/artisan.chat.csv', format = 'csv' },
- { url = 'file:///fediblockhole/blocklists/solarpunk.moe.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/pleroma.envs.net.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/turtle.garden.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/union.place.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/sunny.garden.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/toot.wales.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/mastodon.art.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/rage.love.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/artisan.chat.csv', format = 'csv' },
+ { url = 'file:///opt/fediblockhole/blocklists/solarpunk.moe.csv', format = 'csv' },
 ]
 
 # assumes a git pull will proceed this check and bring down the most recent allowlist
 allowlist_url_sources = [
-  { url = 'file:///fediblockhole/blocklists/__allowlist.csv', format = 'csv' },
-  { url = 'file:///fediblockhole/blocklists/birdsite.csv', format = 'csv' },
+  { url = 'file:///opt/fediblockhole/blocklists/__allowlist.csv', format = 'csv' },
+  { url = 'file:///opt/fediblockhole/blocklists/birdsite.csv', format = 'csv' },
 ]
 
 # List of instances to write blocklist to
@@ -40,10 +40,10 @@ blocklist_instance_destinations = [
 save_intermediate = false
 
 ## Directory to store the local blocklist copies
-savedir = '/fediblockhole/blocklists/'
+savedir = '/opt/fediblockhole/blocklists/'
 
 ## File to save the fully merged blocklist into
-blocklist_savefile = '/fediblockhole/blocklists/100.percent.csv'
+blocklist_savefile = '/opt/fediblockhole/blocklists/100.percent.csv'
 
 ## Don't push blocklist to instances, even if they're defined above
 no_push_instance = true
