@@ -1,4 +1,4 @@
-## All the T0 stuff m.s. doesn't block
+## All the T0 stuff m.s. blocks that we don't at T0
 
 # List of instances to read blocklists from.
 # If the instance makes its blocklist public, no authorization token is needed.
@@ -48,7 +48,7 @@ no_push_instance = true
 ## Set the mergeplan to use when dealing with overlaps between blocklists
 # The default 'max' mergeplan will use the harshest severity block found for a domain.
 # The 'min' mergeplan will use the lightest severity block found for a domain.
-mergeplan = 'max'
+mergeplan = 'min'
 
 ## Set which fields we import
 ## 'domain' and 'severity' are always imported, these are additional

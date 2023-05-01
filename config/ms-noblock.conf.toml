@@ -49,7 +49,7 @@ no_push_instance = true
 ## Set the mergeplan to use when dealing with overlaps between blocklists
 # The default 'max' mergeplan will use the harshest severity block found for a domain.
 # The 'min' mergeplan will use the lightest severity block found for a domain.
-mergeplan = 'max'
+mergeplan = 'min'
 
 ## Set which fields we import
 ## 'domain' and 'severity' are always imported, these are additional
