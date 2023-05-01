@@ -35,7 +35,7 @@ save_intermediate = false
 savedir = '/opt/fediblockhole/blocklists/'
 
 ## File to save the fully merged blocklist into
-blocklist_savefile = '/opt/fediblockhole/blocklists/missing-tier0-mastodon.social.csv'
+blocklist_savefile = '/opt/fediblockhole/blocklists/other/missing-tier0-mastodon.social.csv'
 
 ## Don't push blocklist to instances, even if they're defined above
 no_push_instance = true

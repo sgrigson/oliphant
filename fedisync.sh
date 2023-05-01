@@ -41,8 +41,8 @@ ${SYNC} -c /opt/fediblockhole/config/100.percent.conf.toml
 ${SYNC} -c /opt/fediblockhole/config/tier0.conf.toml
 
 # create missing from mastodon.social blocklist file, and the inverse file
-${SYNC} -c /opt/fediblockhole/config/ms-noblock.conf.toml && \
-${SYNC} -c /opt/fediblockhole/config/ms-we-block.conf.toml
+#${SYNC} -c /opt/fediblockhole/config/ms-noblock.conf.toml && \
+#${SYNC} -c /opt/fediblockhole/config/ms-we-block.conf.toml
 
 # create intermediate working tier files
 ${SYNC} -c /opt/fediblockhole/config/tier1-threshold.conf.toml -m min && \
