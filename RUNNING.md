@@ -41,3 +41,10 @@ The remaining steps are performed on these sourcefiles, not pulled from urls.
 If you customize the list of sources in `pull.conf.toml` you should also update them in the various `config/*.conf.toml` files as needed.
 
 You will likely also need to customize the `fedisync.sh` to your needs as well if you make these changes.
+
+## Pushing to Your Own Server
+If you don't want to generate blocklists so much as push these lists to your server, that's an option, too.
+
+An example of this is in `fedisync-push.sh`. You can copy it to `/local/fedisync-push.sh` and modify it. If you want to push to a git repo, that references `fedisync-git.sh`. If you want to automatically sync a merged or list to your own server, you should modify the `fedisync-example-server.sh` script should be modified for your use.
+
+You will need a [very permissive API key](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources#generate-an-admin-api-token) created for your server to allow the push script to talk to it.
