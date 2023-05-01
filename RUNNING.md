@@ -43,8 +43,12 @@ If you customize the list of sources in `pull.conf.toml` you should also update 
 You will likely also need to customize the `fedisync.sh` to your needs as well if you make these changes.
 
 ## Pushing to Your Own Server
-If you don't want to push these lists to your server, that's an option, too.
+If you want to push these blocks to your own server, that's an option, too.
 
 An example of this is in `fedisync-push.sh`. You can copy it to `/local/fedisync-push.sh` and modify it. If you want to push to a git repo, that references `fedisync-git.sh`. If you want to automatically sync a merged or list to your own server, the `fedisync-example-server.sh` script should be modified for your use.
 
 You will need a [very permissive API key](https://writer.oliphant.social/oliphant/how-to-sync-up-blocklist-changes-from-trusted-sources#generate-an-admin-api-token) created for your server to allow the push script to talk to it.
+
+By default, this is configured to downgrade any suspensions to silence while there are follow relationships on your server against a given block.
+
+Note that `fedisync-push.sh` won't push to any servers at all until you update the API key and the configuration for it.
