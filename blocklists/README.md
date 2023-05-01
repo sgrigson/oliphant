@@ -1,8 +1,8 @@
 # Blocklist Index
 
-**NOTE:** The oliphant.social, mastodon.social, and mastodon.online blocklists are provided for download, but is not weighted with other blocklists into the tiered blocklists.
+**NOTE:** Mastodon.social and mastodon.online blocklists are provided for download as a sort of 'control group' for comparison, but are not weighted with other blocklists into the tiered blocklists.
 
-* `100.percent.csv` - Blocks that are on 100% of all blocklists in the Fedi Council.
+* `100.percent.csv` - Blocks that are on 100% of all blocklists for all sources.
 * `__allowlist.csv` - The 'safelist' to ensure that accidental defederations don't happen. Nothing in this list will appear in a unified blocklist.
 * `_unified_min_blocklist.csv` - Minimum recommended blocks. Synonymous with the unified tier 0.
 * `_unified_tier0_blocklist.csv` - Same as the minimum file above, called the "Tier 0" file. Requires a majority consensus to appear on this list.
@@ -11,7 +11,6 @@
 * `_unified_tier3_blocklist.csv` - Requires 2 sources to agree for it to appear on this list. Includes Tier 0, 1, and 2.
 * `tier0.csv` - Seirdy's Tier0 File, a solid contender for a starting blocklist you could import on its own.
 * `gardenfence.csv` - A mirror of the [Gardenfence](https://gardenfence.github.io/) Tier 0 file.
-* `tier0-council.csv` - Requires 80% agreement on blocks from Fedi Council sources.
+* `tier0-council.csv` - Requires 80% agreement on blocks from trusted sources.
 * `birdsite.csv` - All the Birdsite Live Blocks. This file is provided separately as a convenience.
-* `world_blocklist.csv` - Pulls from 20+ anonymous sources looking for majority (51%+) agreement between sources
 * *Other Files* - Other files listed here are individual trusted sources who provided data for the blocklist.
