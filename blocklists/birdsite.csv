@@ -1,5 +1,6 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
 ams3-03.smarterliving.nl,suspend,False,False,,False
+b.booots.tech,suspend,False,False,,False
 bearbirdsite.sicem.social,suspend,False,False,,False
 beta.mstdn.cf,suspend,False,False,,False
 birb.byte.wtf,suspend,False,False,,False
