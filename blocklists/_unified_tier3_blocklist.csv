@@ -667,8 +667,10 @@ mastodon.la,suspend,False,False,,False
 mastodon.loliandstuff.moe,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
+mastodon.online,silence,False,False,,False
 mastodon.scot,suspend,False,False,,False
 mastodon.se,silence,False,False,,False
+mastodon.social,silence,False,False,,False
 mastodon.tech,suspend,False,False,,False
 mastodon.teia.art,silence,False,False,,False
 mastodon.top,silence,False,False,,False
