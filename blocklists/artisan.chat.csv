@@ -196,6 +196,8 @@ cum.***on,suspend,False,False,,False
 cum.camp,suspend,False,False,,False
 curiouscabbit.social,suspend,False,False,,False
 cybercriminal.eu,suspend,False,False,,False
+cyberdruids.club,suspend,False,False,,False
+cyberretards.xyz,suspend,False,False,,False
 cyberspace.netrunner.cfd,suspend,False,False,,False
 cyberstorm.one,suspend,False,False,,False
 cybre.city,suspend,False,False,,False
@@ -563,7 +565,6 @@ mastodon.gal,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
-mastodon.social,silence,False,False,,False
 mastodon.tech,suspend,False,False,,False
 mastodon.teia.art,silence,False,False,,False
 mastodon.top,suspend,False,False,,False
@@ -636,6 +637,7 @@ nekocave.xyz,suspend,False,False,,False
 nekoea.red,suspend,False,False,,False
 nekoweb.my.id,suspend,False,False,,False
 netrunner.cfd,suspend,False,False,,False
+netz.org,suspend,False,False,,False
 netzsphaere.xyz,suspend,False,False,,False
 news.ongii.com,silence,False,False,,False
 newsie.social,silence,False,False,,False
