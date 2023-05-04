@@ -162,6 +162,7 @@ masthead.social,suspend,False,False,,False
 mastodon.cf,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
+mastodon.social,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False
 meld.de,suspend,False,False,,False
 meme.moe,suspend,False,False,,False

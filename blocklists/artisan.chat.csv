@@ -563,6 +563,7 @@ mastodon.gal,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
+mastodon.social,silence,False,False,,False
 mastodon.tech,suspend,False,False,,False
 mastodon.teia.art,silence,False,False,,False
 mastodon.top,suspend,False,False,,False
