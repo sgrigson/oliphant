@@ -766,7 +766,7 @@ ungoverned.social,suspend,False,False,,False
 unperson.us,suspend,False,False,,False
 unsafe.space,suspend,False,False,,False
 urchan.org,suspend,False,False,,False
-ursal.zone,suspend,False,False,,False
+ursal.zone,silence,False,False,,False
 urspringer.de,suspend,False,False,,False
 uwu.social,silence,False,False,,False
 valkyrie.world,suspend,False,False,,False
