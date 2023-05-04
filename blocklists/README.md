@@ -4,8 +4,7 @@
 
 * `100.percent.csv` - Blocks that are on 100% of all blocklists for all sources.
 * `__allowlist.csv` - The 'safelist' to ensure that accidental defederations don't happen. Nothing in this list will appear in a unified blocklist.
-* `_unified_min_blocklist.csv` - Minimum recommended blocks. The same as the unified tier 0 file below.
-* `_unified_tier0_blocklist.csv` - Same as the minimum file above, called the "Tier 0" file. Requires a majority consensus to appear on this list.
+* `_unified_tier0_blocklist.csv` - Identical to the minimum file above, called the "Tier 0" file. Combines blocks from all T0 sources.
 * `_unified_tier1_blocklist.csv` - Requires 50% consensus to appear on this list. Includes Tier 0.
 * `_unified_tier2_blocklist.csv` - Requires 33% consensus to appear on this list. Includes Tier 0 and Tier 1.
 * `_unified_tier3_blocklist.csv` - Requires 2 sources to agree for it to appear on this list. Includes Tier 0, 1, and 2.
@@ -13,4 +12,5 @@
 * `gardenfence.csv` - A mirror of the [Gardenfence](https://gardenfence.github.io/) Tier 0 file.
 * `tier0-council.csv` - Requires 80% agreement on blocks from trusted sources.
 * `birdsite.csv` - All the Birdsite Live Blocks. This file is provided separately as a convenience.
+* `_unified_min_blocklist.csv` - [Deprecated] Identical to the `_unified_tier0_blocklist.csv`.
 * *Other Files* - Other files listed here are individual trusted sources who provided data for the blocklist.
