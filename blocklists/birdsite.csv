@@ -20,6 +20,7 @@ bird.karatek.net,suspend,False,False,BirdSiteLIVE/Bot,False
 bird.kuendig.io,suspend,False,False,BirdSiteLIVE/Bot,False
 bird.lummerland.ddnss.de,suspend,False,False,BirdSiteLIVE/Bot,False
 bird.makeup,suspend,False,False,BirdSiteLIVE/Bot,False
+birdmakeup.opiumpost.org,suspend,False,False,BirdMakeup/Bot,False
 bird.r669.live,suspend,False,False,BirdSiteLIVE/Bot,False
 bird.seafoam.space,suspend,False,False,BirdSiteLIVE/Bot,False
 bird.shitposted.today,suspend,False,False,BirdSiteLIVE/Bot,False
@@ -154,6 +155,7 @@ tweetbridge.kogasa.de,suspend,False,False,BirdSiteLIVE/Bot,False
 tweetbridge.mollys.social,suspend,False,False,BirdSiteLIVE/Bot,False
 tweetrans.ff15.eu,suspend,False,False,BirdSiteLIVE/Bot,False
 tweets.icu,suspend,False,False,BirdSiteLIVE/Bot,False
+twit.cryolog.in,suspend,False,False,BirdSiteLIVE/Bot,False
 twitbridge.click,suspend,False,False,BirdSiteLIVE/Bot,False
 twitter.829.hu,suspend,False,False,BirdSiteLIVE/Bot,False
 twitter.cryobyte.net,suspend,False,False,BirdSiteLIVE/Bot,False
@@ -165,6 +167,8 @@ twitter.kfem.cat,suspend,False,False,BirdSiteLIVE/Bot,False
 twitter.moxr.de,suspend,False,False,BirdSiteLIVE/Bot,False
 twitter.piriklub.eu,suspend,False,False,BirdSiteLIVE/Bot,False
 twitter.savvas.cloud,suspend,False,False,BirdSiteLIVE/Bot,False
+twitter.toots.ro,suspend,False,False,BirdSiteLIVE/Bot,False
+twitter.tresor.eyhoff.de,suspend,False,False,BirdSiteLIVE/Bot,False
 twitter.ukd.social,suspend,False,False,BirdSiteLIVE/Bot,False
 twitterbridge.mastodon.maki0419.com,suspend,False,False,BirdSiteLIVE/Bot,False
 twitterfeed.furrypaws.cc,suspend,False,False,BirdSiteLIVE/Bot,False
