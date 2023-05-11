@@ -12,8 +12,11 @@ GIT=`which git`
 ${GIT} fetch
 #${GIT} fetchall
 
+PULLCONFIG="/opt/fediblockhole/config/pull.conf.toml" # default, pull sources WITHOUT public_description
+#PULLCONFIG="/opt/fediblockhole/config/pull.all.conf.toml" # pull down all sources WITH public_description
+
 SYNC=`which fediblock-sync`
-${SYNC} -c /opt/fediblockhole/config/pull.conf.toml # pull down all files, create max list
+${SYNC} -c $PULLCONFIG # pull down all files, create max list
 
 # rename and remove intermediate files
 rm -f /opt/fediblockhole/blocklists/file:---opt-fediblockhole-blocklists-__allowlist.csv.csv

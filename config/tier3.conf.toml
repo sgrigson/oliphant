@@ -56,8 +56,8 @@ mergeplan = 'min'
 ## Set which fields we import
 ## 'domain' and 'severity' are always imported, these are additional
 ## 
-import_fields = ['reject_media', 'reject_reports', 'obfuscate']
-#import_fields = ['public_comment', 'reject_media', 'reject_reports', 'obfuscate']
+#import_fields = ['reject_media', 'reject_reports', 'obfuscate']
+import_fields = ['public_comment', 'reject_media', 'reject_reports', 'obfuscate']
 
 ## Set which fields we export
 ## 'domain' and 'severity' are always exported, these are additional

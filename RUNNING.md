@@ -34,13 +34,26 @@ The list of blocklist sources can be found in the [/config/pull.conf.toml](/olip
 
 These initial sources are pulled down, with each of them being saved as an intermediate file.
 
+> Note: If you want to include the public_description, modify the [/config/pull.all.conf.toml](/oliphant/blocklists/src/branch/main/config/pull.all.conf.toml) file.
+
 The `fedisync.sh` script renames each of these source lists to a more friendly name (like mastodon.social.csv)
 
 The remaining steps are performed on these sourcefiles, not pulled from urls.
 
-If you customize the list of sources in `pull.conf.toml` you should also update them in the various `config/*.conf.toml` files as needed.
+If you customize the list of sources in `pull.conf.toml` or `pull.all.conf.toml` you should also update them in the various `config/*.conf.toml` files as needed.
 
 You will likely also need to customize the `fedisync.sh` to your needs as well if you make these changes.
+
+## Generate files with descriptions
+
+Edit the `fedisync.sh` file, and where you see as follows:
+
+```
+PULLCONFIG="/opt/fediblockhole/config/pull.conf.toml" # default, pull sources WITHOUT public_description
+#PULLCONFIG="/opt/fediblockhole/config/pull.all.conf.toml" # pull down all sources WITH public_description
+```
+
+comment out the first line and uncomment the second. Then run `.fedisync.sh` as normal. The resulting files will have public_comment populated.
 
 ## Pushing to Your Own Server
 If you want to push these blocks to your own server, that's an option, too.
