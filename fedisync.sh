@@ -72,6 +72,8 @@ rm -f __allowlist.csv
 headerrow="#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate"
 for file in *; do
     sed -i "1s/.*/$headerrow/" $file
+    # replace bad line terminators
+    sed -i "s/\r//g" $file
 done
 
 echo "Pull complete."
