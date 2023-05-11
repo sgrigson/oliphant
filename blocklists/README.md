@@ -17,5 +17,5 @@
 
 **Subfolders:**
 
-* `other` - These aren't blocklists, but reports.
 * `mastodon` - identical blocklist data, but with proper mastodon headers in format `#domain,#severity...` etc.
+* `other` - These aren't blocklists, but reports.
