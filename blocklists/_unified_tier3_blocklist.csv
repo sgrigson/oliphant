@@ -1035,7 +1035,7 @@ sneak.berlin,suspend,False,False,,False
 sneed.shop,suspend,False,False,,False
 sneed.social,suspend,False,False,,False
 sneed.vip,suspend,False,False,,False
-snowdin.town,suspend,False,False,,False
+snowdin.town,silence,False,False,,False
 soc.h4x.group,suspend,False,False,,False
 soc.mahodou.moe,suspend,False,False,,False
 soc.ua-fediland.de,silence,False,False,,False
