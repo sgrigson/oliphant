@@ -53,7 +53,14 @@ PULLCONFIG="/opt/fediblockhole/config/pull.conf.toml" # default, pull sources WI
 #PULLCONFIG="/opt/fediblockhole/config/pull.all.conf.toml" # pull down all sources WITH public_description
 ```
 
-comment out the first line and uncomment the second. Then run `.fedisync.sh` as normal. The resulting files will have public_comment populated.
+Comment out the first line and uncomment the second. Then run `fedisync.sh` as normal. The resulting files will have public_comment populated.
+
+Alternately, edit `pull.conf.toml` as follows to uncomment the 'public_comment' row:
+
+```
+#import_fields = ['reject_media', 'reject_reports', 'obfuscate']
+import_fields = ['public_comment', 'reject_media', 'reject_reports', 'obfuscate']
+```
 
 ## Pushing to Your Own Server
 If you want to push these blocks to your own server, that's an option, too.
