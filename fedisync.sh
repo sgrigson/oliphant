@@ -62,7 +62,8 @@ cp /opt/fediblockhole/blocklists/_unified_tier0_blocklist.csv /opt/fediblockhole
 rm -f /opt/fediblockhole/blocklists/_working_*.csv 
 
 # copy all files to mastodon subfolder
-cp /opt/fediblockhole/blocklists/*.csv /opt/fediblockhole/blocklists/mastodon/ 
+cp /opt/fediblockhole/blocklists/*.csv /opt/fediblockhole/blocklists/mastodon/ && \
+cp /opt/fediblockhole/blocklists/README.md /opt/fediblockhole/blocklists/mastodon/README.md
 
 echo "Creating mastodon versions of files..."
 
