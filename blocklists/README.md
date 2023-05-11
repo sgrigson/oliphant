@@ -14,3 +14,8 @@
 * `birdsite.csv` - All the Birdsite Live Blocks. This file is provided separately as a convenience.
 * `_unified_min_blocklist.csv` - [Deprecated] Identical to the `_unified_tier0_blocklist.csv`.
 * *Other Files* - Other files listed here are individual trusted sources who provided data for the blocklist.
+
+**Subfolders:**
+
+* `other` - These aren't blocklists, but reports.
+* `mastodon` - identical blocklist data, but with proper mastodon headers in format `#domain,#severity...` etc.

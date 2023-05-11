@@ -58,4 +58,20 @@ cp /opt/fediblockhole/blocklists/_unified_tier0_blocklist.csv /opt/fediblockhole
 # cleanup working tier files
 rm -f /opt/fediblockhole/blocklists/_working_*.csv 
 
+# copy all files to mastodon subfolder
+cp /opt/fediblockhole/blocklists/*.csv /opt/fediblockhole/blocklists/mastodon/ 
+
+echo "Creating mastodon versions of files..."
+
+# convert files to Mastodon header
+cd /opt/fediblockhole/blocklists/mastodon
+
+rm -f __allowlist.csv
+
+# replace first line with mastodon-format header row
+headerrow="#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate"
+for file in *; do
+    sed -i "1s/.*/$headerrow/" $file
+done
+
 echo "Pull complete."
