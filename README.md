@@ -79,6 +79,6 @@ Or... decide you do not want to use it at all.
 
 ## Trusted Sources
 
-The [trusted sources for this project](https://writer.oliphant.social/oliphant/the-blocklist-algorithm#fedi-council-trusted-source-files) have been willing to provide their blocklists publicly. As a courtesy, I have redacted the public_reason for all blocklists to avoid jeopardizing the project itself. It's encouraged to run the blocklists yourself. See `RUNNING.md` for details on running the blocklists yourself, changing the trusted sources, and pulling in descriptions as well.
+The [trusted sources for this project](https://writer.oliphant.social/oliphant/the-blocklist-algorithm#fedi-council-trusted-source-files) have been willing to provide their blocklists publicly. You are encouraged to run the blocklists yourself. See `RUNNING.md` for details. You can change the trusted sources, or pull in descriptions as well.
 
 It should be noted that these are my trusted sources, and they are also the ones willing to come forward publicly and take any heat associated with the project. They need not be yours, and you are encouraged to use whatever sources you like, and include descriptions in your own blockfiles. If you are going to post your fork of these lists publicly and include changes to the blocklists with new sources, it would be a courtesy to them to get their permission as well.
