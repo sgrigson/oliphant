@@ -77,7 +77,8 @@ It's also assumed you're capable of *not importing certain lines* or just editin
 
 Or... decide you do not want to use it at all.
 
-## The Lists and The Fedi Council
+## Trusted Sources
 
-* "The Fedi Council" consists of over 50 server admins in a shared Discord who discuss blocks, bad actors, and other topics. Other Fedi Councils exist (they probably don't call themselves that). Still, there are groups of server admins all over the Fedi, using shared DMs, Discord/Matrix, or other sources to coordinate and discuss issues of interest.
-* No one has officially adopted the name "The Fedi Council," to my awareness. I call us that because I find it fun and less of a mouthful than "a bunch of different server admins." I am taking some liberties in their name by calling them something that no one voted on, for which I hope they'll forgive me. 
+The [trusted sources for this project](https://writer.oliphant.social/oliphant/the-blocklist-algorithm#fedi-council-trusted-source-files) have been willing to provide their blocklists publicly. As a courtesy, I have redacted the public_reason for all blocklists to avoid jeopardizing the project itself. It's encouraged to run the blocklists yourself. See `RUNNING.md` for details on running the blocklists yourself, changing the trusted sources, and pulling in descriptions as well.
+
+It should be noted that these are my trusted sources, and they are also the ones willing to come forward publicly and take any heat associated with the project. They need not be yours, and you are encouraged to use whatever sources you like, and include descriptions in your own blockfiles. If you are going to post your fork of these lists publicly and include changes to the blocklists with new sources, it would be a courtesy to them to get their permission as well.
