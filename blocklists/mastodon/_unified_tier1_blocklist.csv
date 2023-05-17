@@ -300,6 +300,7 @@ mastodon.cloud,silence,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
 mastodon.se,silence,False,False,,False
+mastodon.social,silence,False,False,,False
 mastodon.top,silence,False,False,,False
 mastodon.world,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False
