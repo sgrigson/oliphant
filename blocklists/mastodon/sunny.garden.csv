@@ -111,6 +111,7 @@ milker.cafe,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
 misskey-forkbomb.cf,suspend,False,False,,False
 misskey.cf,suspend,False,False,,False
+misskey.io,silence,False,False,,False
 moa.st,suspend,False,False,,False
 mostr.pub,suspend,False,False,,False
 mrhands.horse,suspend,False,False,,False
