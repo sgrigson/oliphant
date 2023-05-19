@@ -6,6 +6,8 @@ activitypub-troll.cf,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 ap.***.st,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
+autorambler.ru,silence,False,False,,False
+autorambler.ua,silence,False,False,,False
 bae.st,suspend,False,False,,False
 bar***.*et,suspend,False,False,,False
 beef*****.*lub,suspend,False,False,,False
@@ -110,6 +112,7 @@ krdtube.org,silence,False,False,,False
 kurosawa.moe,suspend,False,False,,False
 lanue*********a.es,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
+lenta.ru,silence,False,False,,False
 leonardwong.dev,suspend,False,False,,False
 lewdi*******.com,suspend,False,False,,False
 localtunnel.me,suspend,False,False,,False
@@ -153,11 +156,13 @@ pooper.social,suspend,False,False,,False
 postin*.*******.rocks,suspend,False,False,,False
 prete*******.biz,suspend,False,False,,False
 rakket.app,suspend,False,False,,False
+rambler.ru,silence,False,False,,False
 rapem***.*****ions,suspend,False,False,,False
 raplst.town,suspend,False,False,,False
 rdrama.cc,suspend,False,False,,False
 refusal.biz,suspend,False,False,,False
 repl.co,suspend,False,False,,False
+ro.ru,silence,False,False,,False
 ryona.agency,suspend,False,False,,False
 schwartzwelt.xyz,suspend,False,False,,False
 seal.cafe,suspend,False,False,,False
