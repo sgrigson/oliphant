@@ -1,5 +1,4 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
-076.moe,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
 101010.pl,suspend,False,False,,False
 10minutepleroma.com,suspend,False,False,,False
@@ -44,7 +43,6 @@ bozgor.org,suspend,False,False,,False
 brainsoap.net,suspend,False,False,,False
 breastmilk.club,suspend,False,False,,False
 brighteon.social,suspend,False,False,,False
-bubbletea.dev,suspend,False,False,,False
 bungle.online,suspend,False,False,,False
 cachapa.moe,suspend,False,False,,False
 cachapa.xyz,suspend,False,False,,False
@@ -63,6 +61,7 @@ comfyboy.club,suspend,False,False,,False
 contrapointsfan.club,suspend,False,False,,False
 coolsite.win,suspend,False,False,,False
 crucible.world,suspend,False,False,,False
+cryptodon.lol,suspend,False,False,,False
 cryptotooter.com,suspend,False,False,,False
 cum.camp,suspend,False,False,,False
 cum.salon,suspend,False,False,,False
@@ -349,7 +348,6 @@ thebag.social,suspend,False,False,,False
 thechimp.zone,suspend,False,False,,False
 thepostearthdestination.com,suspend,False,False,,False
 theres.life,suspend,False,False,,False
-thisisjoes.site,suspend,False,False,,False
 tkammer.de,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False
@@ -376,7 +374,6 @@ wolfgirl.bar,suspend,False,False,,False
 workers.dev,suspend,False,False,,False
 worm.pink,suspend,False,False,,False
 writehere.is,suspend,False,False,,False
-wxw.moe,suspend,False,False,,False
 xenofem.me,suspend,False,False,,False
 xhais.love,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
