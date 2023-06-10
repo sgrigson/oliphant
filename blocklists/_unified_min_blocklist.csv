@@ -13,6 +13,7 @@ activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 addy.gg,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
+ai.wiki,suspend,False,False,,False
 alteregocreations.com,suspend,False,False,,False
 ancreport.com,suspend,False,False,,False
 ancreport.xyz,suspend,False,False,,False
@@ -77,6 +78,7 @@ darknight-coffee.org,suspend,False,False,,False
 daspr.io,suspend,False,False,,False
 decayable.ink,suspend,False,False,,False
 decept.org,suspend,False,False,,False
+declin.eu,suspend,False,False,,False
 dembased.xyz,suspend,False,False,,False
 desupost.soy,suspend,False,False,,False
 detroitriotcity.com,suspend,False,False,,False
@@ -127,6 +129,7 @@ gamers.exposed,suspend,False,False,,False
 gangstalking.services,suspend,False,False,,False
 gearlandia.haus,suspend,False,False,,False
 genderheretics.xyz,suspend,False,False,,False
+gensokyo.club,suspend,False,False,,False
 gentoo.live,suspend,False,False,,False
 geofront.rocks,suspend,False,False,,False
 ghetti.monster,suspend,False,False,,False
