@@ -13,6 +13,7 @@
 a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+adachi.party,suspend,False,False,,False
 addy.gg,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 agates.io,suspend,False,False,,False
@@ -143,6 +144,7 @@ eientei.org,suspend,False,False,,False
 eightpoint.app,silence,False,False,,False
 elekk.xyz,silence,False,False,,False
 elementality.org,suspend,False,False,,False
+emacs.ch,suspend,False,False,,False
 endtimebelievers.com,suspend,False,False,,False
 enes.lv,suspend,False,False,,False
 epenguin.com,suspend,False,False,,False
@@ -201,6 +203,7 @@ geofront.rocks,suspend,False,False,,False
 ghetti.monster,suspend,False,False,,False
 gigaohm.bio,suspend,False,False,,False
 gitmo.life,suspend,False,False,,False
+gizode.com,suspend,False,False,,False
 gleasonator.com,suspend,False,False,,False
 glee.li,suspend,False,False,,False
 glindr.org,suspend,False,False,,False
