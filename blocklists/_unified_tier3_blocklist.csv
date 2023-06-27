@@ -1,6 +1,7 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
 076.moe,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
+0x68756773.moe,suspend,False,False,,False
 101010.pl,silence,False,False,,False
 10minutepleroma.com,suspend,False,False,,False
 13bells.com,suspend,False,False,,False
@@ -846,6 +847,7 @@ outpoa.st,suspend,False,False,,False
 outrnat.nl,suspend,False,False,,False
 owlper.ch,suspend,False,False,,False
 palmer.house,silence,False,False,,False
+paradigm-x.tokyo,suspend,False,False,,False
 pasta.wtf,suspend,False,False,,False
 pasture.moe,silence,False,False,,False
 pawlicker.com,suspend,False,False,,False
