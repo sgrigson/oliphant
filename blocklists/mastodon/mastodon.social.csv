@@ -23,6 +23,7 @@ bird.makeup,suspend,False,False,,False
 bird.r669.live,suspend,False,False,,False
 birdbots.leptonics.com,suspend,False,False,,False
 birdbridge.autonomy.earth,suspend,False,False,,False
+birdmakeup.opiumpost.org,suspend,False,False,,False
 birdsite.am-institute.swiss,suspend,False,False,,False
 birdsite.b93.dece.space,suspend,False,False,,False
 birdsite.blazelight.dev,suspend,False,False,,False
@@ -133,6 +134,7 @@ merovingian.club,suspend,False,False,,False
 mir***.**ty,suspend,False,False,,False
 misskey-forkbomb.cf,suspend,False,False,,False
 monstergirl.space,suspend,False,False,,False
+mostr.pub,silence,False,False,,False
 mouse.services,suspend,False,False,,False
 mstdn.foxfam.club,silence,False,False,,False
 mugicha.club,suspend,False,False,,False
@@ -145,7 +147,7 @@ noagendasocial.com,silence,False,False,,False
 ns.auction,suspend,False,False,,False
 ob*.*h,suspend,False,False,,False
 outpoa.st,suspend,False,False,,False
-pawoo.net,silence,False,False,,False
+pawoo.net,suspend,False,False,,False
 paypig.org,suspend,False,False,,False
 ped*.****ol,suspend,False,False,,False
 pieville.net,suspend,False,False,,False
@@ -153,6 +155,7 @@ pisskey.io,suspend,False,False,,False
 pl.s*****.li,suspend,False,False,,False
 pl.wy********.art,suspend,False,False,,False
 plero**.*****.love,suspend,False,False,,False
+plero**.*****.net,suspend,False,False,,False
 pleroma.**********he.biz,suspend,False,False,,False
 pleroma.adachi.party,suspend,False,False,,False
 pleroma.fun,suspend,False,False,,False
