@@ -315,6 +315,7 @@ fapsi.be,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
 fed.celp.de,suspend,False,False,,False
 federate.hopto.org,suspend,False,False,,False
+federate.social,silence,False,False,,False
 federated.fun,suspend,False,False,,False
 federated.media,suspend,False,False,,False
 fedi.absturztau.be,suspend,False,False,,False
