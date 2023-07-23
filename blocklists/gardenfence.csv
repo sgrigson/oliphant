@@ -3,6 +3,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 13bells.com,suspend,False,False,,False
 1611.social,suspend,False,False,,False
 a.sc,suspend,False,False,,False
+absturztau.be,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 ai.wiki,suspend,False,False,,False
@@ -29,6 +30,8 @@ chudbuds.lol,suspend,False,False,,False
 clubcyberia.co,suspend,False,False,,False
 collapsitarian.io,suspend,False,False,,False
 contrapointsfan.club,suspend,False,False,,False
+crlf.ninja,suspend,False,False,,False
+crucible.world,suspend,False,False,,False
 cryptodon.lol,suspend,False,False,,False
 cum.camp,suspend,False,False,,False
 cum.salon,suspend,False,False,,False

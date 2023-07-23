@@ -11,7 +11,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
 a.sc,suspend,False,False,,False
-absturztau.be,suspend,False,False,,False
+absturztau.be,silence,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 adachi.party,suspend,False,False,,False
