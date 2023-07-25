@@ -531,7 +531,6 @@ mastodon.fulltermprivacy.com,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.loliandstuff.moe,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False
-mastodon.network,suspend,False,False,,False
 mastodon.ninja,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
@@ -546,7 +545,6 @@ md.kakise.tech,suspend,False,False,,False
 meatbag.app,suspend,False,False,,False
 mediastodon.com,suspend,False,False,,False
 meetup.com,suspend,False,False,,False
-melalandia.tk,suspend,False,False,,False
 meld.de,suspend,False,False,,False
 merovingian.club,suspend,False,False,,False
 micca.xyz,suspend,False,False,,False
@@ -608,10 +606,8 @@ neko.computer,suspend,False,False,,False
 nekocave.xyz,suspend,False,False,,False
 nekoea.red,suspend,False,False,,False
 netrunner.cfd,suspend,False,False,,False
-networked.space,suspend,False,False,,False
 netz.org,suspend,False,False,,False
 netzsphaere.xyz,suspend,False,False,,False
-newjack.city,suspend,False,False,,False
 newsie.social,suspend,False,False,,False
 newsrelay.org,silence,False,False,,False
 nexusuk.org,suspend,False,False,,False
@@ -627,7 +623,6 @@ noagendasocial.nl,suspend,False,False,,False
 noagendatube.com,suspend,False,False,,False
 nobl.ink,suspend,False,False,,False
 noc.social,suspend,False,False,,False
-nomoresha.me,suspend,False,False,,False
 normie.cafe,suspend,False,False,,False
 notjustbikes.com,suspend,False,False,,False
 now.kibousoft.co.jp,silence,False,False,,False
@@ -672,10 +667,8 @@ pl.natehiggers.online,suspend,False,False,,False
 pl.pube.tk,suspend,False,False,,False
 pl.skyn3t.in,suspend,False,False,,False
 pl.slash.cl,suspend,False,False,,False
-pl.smuglo.li,suspend,False,False,,False
 pl.tkammer.de,suspend,False,False,,False
 pl.valkyrie.world,suspend,False,False,,False
-pl.wowana.me,suspend,False,False,,False
 pl.zombiecats.run,suspend,False,False,,False
 pl765racing.com,suspend,False,False,,False
 plagu.ee,suspend,False,False,,False
@@ -693,13 +686,11 @@ pleroma.narrativerry.xyz,suspend,False,False,,False
 pleroma.nobodyhasthe.biz,suspend,False,False,,False
 pleroma.p4g.club,suspend,False,False,,False
 pleroma.payfrit.com,suspend,False,False,,False
-pleroma.rareome.ga,suspend,False,False,,False
 pleroma.runfox.tk,suspend,False,False,,False
 pleroma.site,suspend,False,False,,False
 pleroma.skyshanty.xyz,suspend,False,False,,False
 pleroma.soykaf.com,suspend,False,False,,False
 plus.st,suspend,False,False,,False
-pm.ernix.jp,suspend,False,False,,False
 pmth.us,suspend,False,False,,False
 poa.st,suspend,False,False,,False
 poast.eth,suspend,False,False,,False
@@ -738,10 +729,8 @@ raccoon.quest,suspend,False,False,,False
 rage.lol,suspend,False,False,,False
 rageparty.club,suspend,False,False,,False
 rainbowdash.net,suspend,False,False,,False
-raki.social,suspend,False,False,,False
 rakket.app,suspend,False,False,,False
 rape.lol,suspend,False,False,,False
-rapefeminists.network,suspend,False,False,,False
 rapemeat.shop,suspend,False,False,,False
 rapemeat.solutions,suspend,False,False,,False
 raplst.town,suspend,False,False,,False
