@@ -1,5 +1,4 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
-.tk,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
 101010.pl,suspend,False,False,,False
 10min**********.com,suspend,False,False,,False
