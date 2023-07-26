@@ -1083,7 +1083,6 @@ sneak.berlin,suspend,False,False,,False
 sneed.shop,suspend,False,False,,False
 sneed.social,suspend,False,False,,False
 sneed.vip,suspend,False,False,,False
-soc.h4x.group,suspend,False,False,,False
 soc.mahodou.moe,suspend,False,False,,False
 soc.ua-fediland.de,silence,False,False,,False
 social.076.ne.jp,suspend,False,False,,False
@@ -1091,7 +1090,6 @@ social.ancreport.com,suspend,False,False,,False
 social.au2pb.net,suspend,False,False,,False
 social.beepboop.ga,suspend,False,False,,False
 social.duti.tech,suspend,False,False,,False
-social.foxfam.club,suspend,False,False,,False
 social.freetalklive.com,suspend,False,False,,False
 social.getgle.org,suspend,False,False,,False
 social.handholding.io,suspend,False,False,,False
@@ -1100,7 +1098,6 @@ social.homunyan.com,suspend,False,False,,False
 social.jesuislibre.net,suspend,False,False,,False
 social.librem.one,suspend,False,False,,False
 social.lovingexpressions.net,suspend,False,False,,False
-social.lucci.xyz,suspend,False,False,,False
 social.nothingplanet.com,suspend,False,False,,False
 social.pseudo-whiskey.bar,suspend,False,False,,False
 social.quodverum.com,suspend,False,False,,False
@@ -1197,7 +1194,6 @@ toot.canberrasocial.net,suspend,False,False,,False
 toot.love,silence,False,False,,False
 toot.pt,suspend,False,False,,False
 toot.wales,silence,False,False,,False
-toot.world,suspend,False,False,,False
 toots.morepablo.com,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 touhou.vodka,suspend,False,False,,False
@@ -1208,7 +1204,6 @@ travnewmatic.com,suspend,False,False,,False
 treasuredgem.xyz,suspend,False,False,,False
 treehouse.systems,suspend,False,False,,False
 treeoflifecomic.com,suspend,False,False,,False
-tri.cash,suspend,False,False,,False
 triodug.com,suspend,False,False,,False
 troet.cafe,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False

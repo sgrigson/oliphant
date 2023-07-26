@@ -807,7 +807,6 @@ shrine.moe,suspend,False,False,,False
 sideofburritos.social,suspend,False,False,,False
 sigmoid.social,silence,False,False,,False
 silliness.observer,suspend,False,False,,False
-sinblr.com,suspend,False,False,,False
 singing.dog,suspend,False,False,,False
 skinheads.eu,suspend,False,False,,False
 skinheads.io,suspend,False,False,,False
@@ -827,15 +826,11 @@ sneak.berlin,suspend,False,False,,False
 sneed.shop,suspend,False,False,,False
 sneed.social,suspend,False,False,,False
 sneed.vip,suspend,False,False,,False
-soc.h4x.group,suspend,False,False,,False
 soc.mahodou.moe,suspend,False,False,,False
 social.arinbasu.online,suspend,False,False,,False
 social.au2pb.net,suspend,False,False,,False
-social.beck.technology,suspend,False,False,,False
-social.buffalomesh.net,suspend,False,False,,False
 social.dev-wiki.de,suspend,False,False,,False
 social.duti.tech,suspend,False,False,,False
-social.foxfam.club,suspend,False,False,,False
 social.getgle.org,suspend,False,False,,False
 social.handholding.io,suspend,False,False,,False
 social.hattheves.es,suspend,False,False,,False
@@ -843,9 +838,7 @@ social.heckin.tech,suspend,False,False,,False
 social.hendrixgames.com,suspend,False,False,,False
 social.khajiit.de,suspend,False,False,,False
 social.librem.one,suspend,False,False,,False
-social.louisoft01.moe,suspend,False,False,,False
 social.lovingexpressions.net,suspend,False,False,,False
-social.lucci.xyz,suspend,False,False,,False
 social.mordicux.xyz,suspend,False,False,,False
 social.mykolayiv.dcomm.net.ua,suspend,False,False,,False
 social.nothingplanet.com,suspend,False,False,,False
@@ -868,7 +861,6 @@ sogga.top,suspend,False,False,,False
 solagg.com,suspend,False,False,,False
 somewhy.net,suspend,False,False,,False
 sos.nekoweb.my.id,suspend,False,False,,False
-speakfree.world,suspend,False,False,,False
 spearman.xyz,suspend,False,False,,False
 sperg.city,suspend,False,False,,False
 spiderden.net,suspend,False,False,,False
@@ -895,7 +887,6 @@ teci.world,suspend,False,False,,False
 teleyal.blog,suspend,False,False,,False
 terrible.place,suspend,False,False,,False
 tesaguri.club,suspend,False,False,,False
-testing.pleroma.lol,suspend,False,False,,False
 the.hedgehoghunter.club,suspend,False,False,,False
 the.occultist.space,suspend,False,False,,False
 the9thcircle.club,suspend,False,False,,False
@@ -922,7 +913,6 @@ tokhmi.xyz,suspend,False,False,,False
 tomw.social,suspend,False,False,,False
 toot.canberrasocial.net,suspend,False,False,,False
 toot.pt,suspend,False,False,,False
-toot.world,suspend,False,False,,False
 toots.morepablo.com,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 touhou.vodka,suspend,False,False,,False
@@ -931,7 +921,6 @@ translunar.academy,suspend,False,False,,False
 travnewmatic.com,suspend,False,False,,False
 treasuredgem.xyz,suspend,False,False,,False
 treeoflifecomic.com,suspend,False,False,,False
-tri.cash,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
 tropolo.com,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False
@@ -942,7 +931,7 @@ tusooa.xyz,suspend,False,False,,False
 tweetbridge.kogasa.de,suspend,False,False,,False
 tweets.icu,suspend,False,False,,False
 twitter.activitypub.actor,suspend,False,False,,False
-twt*.**us,suspend,False,False,,False
+twtr.plus,suspend,False,False,,False
 tyil.nl,suspend,False,False,,False
 ua-fediland.de,suspend,False,False,,False
 udongein.xyz,suspend,False,False,,False
