@@ -422,7 +422,7 @@ echelon.pl,suspend,False,False,,False
 edolas.world,silence,False,False,,False
 eeeeeeeee.eu,suspend,False,False,,False
 eientei.org,suspend,False,False,,False
-eightpoint.app,silence,False,False,,False
+eightpoint.app,suspend,False,False,,False
 el-spot.xyz,suspend,False,False,,False
 electrafish.tech,silence,False,False,,False
 electroncash.de,silence,False,False,,False
@@ -991,6 +991,7 @@ mouse.services,suspend,False,False,,False
 mr64.net,suspend,False,False,,False
 mrhands.horse,suspend,False,False,,False
 mstdn.ai,silence,False,False,,False
+mstdn.business,suspend,False,False,,False
 mstdn.ca,silence,False,False,,False
 mstdn.es,silence,False,False,,False
 mstdn.health,silence,False,False,,False
