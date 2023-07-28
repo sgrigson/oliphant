@@ -221,7 +221,7 @@ f.haeder.net,suspend,False,False,,False
 fans.sonichu.com,suspend,False,False,,False
 fapsi.be,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
-federate.social,silence,False,False,,False
+federate.social,suspend,False,False,,False
 federated.fun,suspend,False,False,,False
 fedi.app,suspend,False,False,,False
 fedi.site,suspend,False,False,,False
@@ -236,6 +236,7 @@ fightthis.net,suspend,False,False,,False
 firebird.mullet.social,suspend,False,False,,False
 firedragonstudios.com,suspend,False,False,,False
 firefaithfellowship.com,suspend,False,False,,False
+firefish.social,silence,False,False,,False
 fluf.club,suspend,False,False,,False
 fluffytail.org,suspend,False,False,,False
 foxarmy.org,suspend,False,False,,False

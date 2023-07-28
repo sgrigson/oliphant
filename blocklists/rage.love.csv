@@ -319,7 +319,7 @@ fapsi.be,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
 fed.celp.de,suspend,False,False,,False
 federate.hopto.org,suspend,False,False,,False
-federate.social,silence,False,False,,False
+federate.social,suspend,False,False,,False
 federated.fun,suspend,False,False,,False
 federated.media,suspend,False,False,,False
 fedi.absturztau.be,suspend,False,False,,False
@@ -339,6 +339,7 @@ ffvo.dev,suspend,False,False,,False
 ffxiv-mastodon.com,suspend,False,False,,False
 fightthis.net,suspend,False,False,,False
 firefaithfellowship.com,suspend,False,False,,False
+firefish.social,silence,False,False,,False
 firemail.cc,suspend,False,False,,False
 fishingblog.org,suspend,False,False,,False
 fiume.club,suspend,False,False,,False
