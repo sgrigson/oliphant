@@ -55,7 +55,6 @@ ckpg.space,suspend,False,False,,False
 clew.lol,suspend,False,False,,False
 clubcyberia.co,suspend,False,False,,False
 collapsitarian.io,suspend,False,False,,False
-comfyboy.club,suspend,False,False,,False
 contrapointsfan.club,suspend,False,False,,False
 coolsite.win,suspend,False,False,,False
 crlf.ninja,suspend,False,False,,False
@@ -86,6 +85,7 @@ drow.be,suspend,False,False,,False
 dtzbts.xyz,suspend,False,False,,False
 eatthebugs.social,suspend,False,False,,False
 ebin.club,suspend,False,False,,False
+eightpoint.app,silence,False,False,,False
 elementality.org,suspend,False,False,,False
 endtimebelievers.com,suspend,False,False,,False
 epenguin.com,suspend,False,False,,False
@@ -190,6 +190,7 @@ milker.cafe,suspend,False,False,,False
 minidisc.tokyo,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
 miruku.cafe,suspend,False,False,,False
+misskey.io,silence,False,False,,False
 mitra.social,suspend,False,False,,False
 moa.st,suspend,False,False,,False
 morale.ch,suspend,False,False,,False
@@ -204,6 +205,7 @@ neckbeard.xyz,suspend,False,False,,False
 needs.vodka,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
 nekocave.xyz,suspend,False,False,,False
+newsie.social,silence,False,False,,False
 nightshift.social,suspend,False,False,,False
 niscii.xyz,suspend,False,False,,False
 nixnet.social,suspend,False,False,,False
@@ -253,6 +255,7 @@ raccoon.quest,suspend,False,False,,False
 rage.lol,suspend,False,False,,False
 rapefeminists.network,suspend,False,False,,False
 rapemeat.solutions,suspend,False,False,,False
+raspberrypi.social,silence,False,False,,False
 rayci.st,suspend,False,False,,False
 rcsocial.net,suspend,False,False,,False
 rebelbase.site,suspend,False,False,,False
@@ -287,6 +290,7 @@ smuglo.li,suspend,False,False,,False
 sneak.berlin,suspend,False,False,,False
 sonichu.com,suspend,False,False,,False
 soykaf.com,suspend,False,False,,False
+sperg.city,suspend,False,False,,False
 springbo.cc,suspend,False,False,,False
 squid.kids,suspend,False,False,,False
 starnix.network,suspend,False,False,,False
@@ -301,6 +305,7 @@ thebag.social,suspend,False,False,,False
 thechimp.zone,suspend,False,False,,False
 thepostearthdestination.com,suspend,False,False,,False
 theres.life,suspend,False,False,,False
+thisisjoes.site,suspend,False,False,,False
 tkammer.de,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
@@ -324,8 +329,10 @@ whinge.house,suspend,False,False,,False
 whinge.town,suspend,False,False,,False
 whitewomen.dog,suspend,False,False,,False
 wideboys.org,suspend,False,False,,False
+willtrade.org,suspend,False,False,,False
 worm.pink,suspend,False,False,,False
 writehere.is,suspend,False,False,,False
+wxw.moe,suspend,False,False,,False
 xenofem.me,suspend,False,False,,False
 xhais.love,suspend,False,False,,False
 xmrposter.club,suspend,False,False,,False
