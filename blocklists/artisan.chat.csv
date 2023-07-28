@@ -516,6 +516,8 @@ landofkittens.social,suspend,False,False,,False
 leadslinger.org,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
 leftychan.net,suspend,False,False,,False
+legit.dog,suspend,False,False,,False
+lelehier.de,suspend,False,False,,False
 leptonics.com,silence,False,False,,False
 lesaoras.xyz,suspend,False,False,,False
 lets.saynoto.lgbt,suspend,False,False,,False
@@ -621,12 +623,14 @@ minidisc.tokyo,suspend,False,False,,False
 miniwa.moe,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
 miruku.cafe,suspend,False,False,,False
+misskey-forkbomb.cf,suspend,False,False,,False
 misskey.io,suspend,False,False,,False
 mitra.social,suspend,False,False,,False
 moa.st,suspend,False,False,,False
 moe.cachapa.xyz,suspend,False,False,,False
 moe.onl,suspend,False,False,,False
 moe.tips,suspend,False,False,,False
+moi.cx,suspend,False,False,,False
 molten.cloud,suspend,False,False,,False
 monads.online,suspend,False,False,,False
 monstergirl.space,suspend,False,False,,False
@@ -755,6 +759,7 @@ podcastindex.social,suspend,False,False,,False
 poketopia.city,suspend,False,False,,False
 polaris-1.work,suspend,False,False,,False
 poly.cybre.city,suspend,False,False,,False
+polycephalypunk.moe,suspend,False,False,,False
 pone.social,suspend,False,False,,False
 pooper.social,suspend,False,False,,False
 poridge.club,suspend,False,False,,False
@@ -779,6 +784,7 @@ pseudo-whiskey.bar,suspend,False,False,,False
 psion.co,suspend,False,False,,False
 psyopshop.com,suspend,False,False,,False
 pub.killrobot.com,suspend,False,False,,False
+pube.tk,suspend,False,False,,False
 purss.de,suspend,False,False,,False
 qoto.org,suspend,False,False,,False
 quad.moe,suspend,False,False,,False
@@ -828,6 +834,7 @@ rojogato.club,suspend,False,False,,False
 rojogato.com,suspend,False,False,,False
 rot.gives,suspend,False,False,,False
 roysbeer.place,suspend,False,False,,False
+rubbery.dev,suspend,False,False,,False
 rucknium.me,suspend,False,False,,False
 ruinouspowe.rs,suspend,False,False,,False
 ryona.agency,suspend,False,False,,False
@@ -1011,6 +1018,7 @@ ursal.zone,suspend,False,False,,False
 urspringer.de,suspend,False,False,,False
 usualsuspects.lol,suspend,False,False,,False
 uwu.st,suspend,False,False,,False
+valentines.monster,suspend,False,False,,False
 valkyrie.world,suspend,False,False,,False
 vara.lol,suspend,False,False,,False
 varishangout.net,suspend,False,False,,False
@@ -1023,7 +1031,9 @@ viridianpatriots.com,suspend,False,False,,False
 vladtepesblog.com,suspend,False,False,,False
 voidgaming.co,suspend,False,False,,False
 voluntary.world,suspend,False,False,,False
+voring.me,suspend,False,False,,False
 vrij.social,silence,False,False,,False
+vtuberfan.social,suspend,False,False,,False
 waffles.fun,silence,False,False,,False
 waifuism.life,suspend,False,False,,False
 wake.st,suspend,False,False,,False
