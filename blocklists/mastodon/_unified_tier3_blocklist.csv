@@ -178,7 +178,7 @@ borg.social,suspend,False,False,,False
 boseburo.ddns.net,suspend,False,False,,False
 botsin.space,silence,False,False,,False
 boymoder.biz,suspend,False,False,,False
-boyter.org,suspend,False,False,,False
+boyter.org,silence,False,False,,False
 bozgor.org,suspend,False,False,,False
 brainsoap.net,suspend,False,False,,False
 brapbarn.farm,suspend,False,False,,False
@@ -613,7 +613,7 @@ haeder.net,suspend,False,False,,False
 hagra.net,suspend,False,False,,False
 hallsofamenti.io,suspend,False,False,,False
 handholding.io,suspend,False,False,,False
-handicapped.tk,silence,False,False,,False
+handicapped.tk,suspend,False,False,,False
 hanna.lol,suspend,False,False,,False
 haskovec.social,suspend,False,False,,False
 hatthieves.es,suspend,False,False,,False
@@ -634,7 +634,7 @@ hermit.cafe,suspend,False,False,,False
 hermitmountain.top,suspend,False,False,,False
 hexagon.space,silence,False,False,,False
 hi.moe.tips,suspend,False,False,,False
-hidamari.apartments,silence,False,False,,False
+hidamari.apartments,suspend,False,False,,False
 hieron.cc,suspend,False,False,,False
 hijacked.download,suspend,False,False,,False
 himk.am,suspend,False,False,,False
@@ -768,10 +768,10 @@ kys.moe,suspend,False,False,,False
 kyun.host,suspend,False,False,,False
 lain.bar,suspend,False,False,,False
 lain.com,suspend,False,False,,False
-lain.gay,silence,False,False,,False
+lain.gay,suspend,False,False,,False
 lain.la,suspend,False,False,,False
 lain.sh,suspend,False,False,,False
-lainchan.gay,silence,False,False,,False
+lainchan.gay,suspend,False,False,,False
 lainon.life,suspend,False,False,,False
 lakedrops.com,suspend,False,False,,False
 lambright.com,suspend,False,False,,False

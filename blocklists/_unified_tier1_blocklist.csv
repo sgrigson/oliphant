@@ -70,6 +70,7 @@ blob.cat,suspend,False,False,,False
 blockedur.mom,suspend,False,False,,False
 boks.moe,suspend,False,False,,False
 boymoder.biz,suspend,False,False,,False
+boyter.org,silence,False,False,,False
 bozgor.org,suspend,False,False,,False
 brainsoap.net,suspend,False,False,,False
 brapbarn.farm,suspend,False,False,,False
@@ -250,7 +251,7 @@ haeder.net,suspend,False,False,,False
 hagra.net,suspend,False,False,,False
 hallsofamenti.io,suspend,False,False,,False
 handholding.io,suspend,False,False,,False
-handicapped.tk,silence,False,False,,False
+handicapped.tk,suspend,False,False,,False
 headpat.cafe,suspend,False,False,,False
 hedgehoghunter.club,suspend,False,False,,False
 helladoge.com,suspend,False,False,,False
@@ -260,7 +261,7 @@ hentai.baby,suspend,False,False,,False
 heonian.org,silence,False,False,,False
 hermit.cafe,suspend,False,False,,False
 hermitmountain.top,suspend,False,False,,False
-hidamari.apartments,silence,False,False,,False
+hidamari.apartments,suspend,False,False,,False
 himk.am,suspend,False,False,,False
 hirad.it,suspend,False,False,,False
 hitchhiker.social,suspend,False,False,,False
@@ -306,10 +307,10 @@ kyaruc.moe,suspend,False,False,,False
 kyou.social,silence,False,False,,False
 kys.moe,suspend,False,False,,False
 lain.com,suspend,False,False,,False
-lain.gay,silence,False,False,,False
+lain.gay,suspend,False,False,,False
 lain.la,suspend,False,False,,False
 lain.sh,suspend,False,False,,False
-lainchan.gay,silence,False,False,,False
+lainchan.gay,suspend,False,False,,False
 leadslinger.org,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
 leftlibertarian.club,silence,False,False,,False
