@@ -1,4 +1,4 @@
-#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+# Blocklist Index
 
 **NOTE:** Mastodon.social and mastodon.online blocklists are provided for download as a sort of 'control group' for comparison, but are not weighted with other blocklists into the tiered blocklists.
 

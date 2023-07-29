@@ -74,10 +74,12 @@ rm -f __allowlist.csv
 
 # replace first line with mastodon-format header row
 headerrow="#domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate"
-for file in *; do
+for file in *.csv; do
     sed -i "1s/.*/$headerrow/" $file
     # replace bad line terminators
     sed -i "s/\r//g" $file
+    # lowercase file to fix booleans
+    sed -i "s/\(.*\)/\L\1/" $file
 done
 
 echo "Pull complete."
