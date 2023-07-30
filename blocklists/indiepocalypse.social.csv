@@ -472,6 +472,7 @@ fedi.agency,suspend,False,False,,False
 fedi.app,suspend,False,False,,False
 fedi.cc,suspend,False,False,,False
 fedi.site,suspend,False,False,,False
+fedi.software,silence,False,False,,False
 fedichive.tk,suspend,False,False,,False
 fedicy.allowed.org,suspend,False,False,,False
 fedifeed.com,suspend,False,False,,False
