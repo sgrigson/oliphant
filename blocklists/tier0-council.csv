@@ -1,4 +1,5 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
+076.moe,suspend,False,False,,False
 101010.pl,silence,False,False,,False
 13bells.com,suspend,False,False,,False
 1611.social,suspend,False,False,,False
@@ -118,6 +119,7 @@ loveforlandlords.com,suspend,False,False,,False
 lovingexpressions.net,suspend,False,False,,False
 mahodou.moe,suspend,False,False,,False
 mapsupport.de,suspend,False,False,,False
+marsey.moe,suspend,False,False,,False
 masochi.st,suspend,False,False,,False
 mastertibbles.co.uk,suspend,False,False,,False
 mastinator.com,suspend,False,False,,False

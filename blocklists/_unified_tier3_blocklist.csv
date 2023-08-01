@@ -269,6 +269,7 @@ comm.network,silence,False,False,,False
 communick.com,suspend,False,False,,False
 community.halle-leaks.de,suspend,False,False,,False
 community.highlandarrow.com,suspend,False,False,,False
+compostintraining.club,suspend,False,False,,False
 computerfairi.es,silence,False,False,,False
 conchrepublic.social,suspend,False,False,,False
 contrapointsfan.club,suspend,False,False,,False
@@ -405,6 +406,7 @@ elekk.xyz,silence,False,False,,False
 elementality.org,suspend,False,False,,False
 elonsucks.org,silence,False,False,,False
 emacs.ch,suspend,False,False,,False
+encipher.in,suspend,False,False,,False
 endtimebelievers.com,suspend,False,False,,False
 enes.lv,suspend,False,False,,False
 enigmatic.observer,suspend,False,False,,False
@@ -661,6 +663,7 @@ hunk.city,suspend,False,False,,False
 husbandoism.life,suspend,False,False,,False
 husk.site,suspend,False,False,,False
 hwfo.online,silence,False,False,,False
+i2p.rocks,suspend,False,False,,False
 iamterminally.online,suspend,False,False,,False
 iamterminallyonline.com,suspend,False,False,,False
 icyphox.sh,suspend,False,False,,False
@@ -676,6 +679,7 @@ illegitimate.technology,suspend,False,False,,False
 ilyamikcoder.com,silence,False,False,,False
 im-in.space,silence,False,False,,False
 imirhil.fr,suspend,False,False,,False
+immibis.com,suspend,False,False,,False
 impeccable.social,suspend,False,False,,False
 incorrigible.moe,suspend,False,False,,False
 indiefedi.party,suspend,False,False,,False
@@ -1065,6 +1069,7 @@ nomoresha.me,suspend,False,False,,False
 norge.social,suspend,False,False,,False
 normie.cafe,suspend,False,False,,False
 norrebro.space,suspend,False,False,,False
+norwoodzero.net,suspend,False,False,,False
 not-develop.gab.com,suspend,False,False,,False
 notbird.site,silence,False,False,,False
 notjustbikes.com,silence,False,False,,False
@@ -1424,7 +1429,7 @@ social.ancreport.com,suspend,False,False,,False
 social.anthro.cc,suspend,False,False,,False
 social.arinbasu.online,suspend,False,False,,False
 social.au2pb.net,suspend,False,False,,False
-social.bbc,suspend,False,False,,False
+social.bbc,silence,False,False,,False
 social.beepboop.ga,suspend,False,False,,False
 social.byoblu.com,suspend,False,False,,False
 social.duti.tech,suspend,False,False,,False

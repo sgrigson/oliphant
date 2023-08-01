@@ -1,4 +1,5 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
+076.moe,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
 0x68756773.moe,suspend,False,False,,False
 101010.pl,suspend,False,False,,False
@@ -68,6 +69,7 @@ beehub.org,suspend,False,False,,False
 beest.hinasense.jp,suspend,False,False,,False
 berserker.town,suspend,False,False,,False
 bgp.social,suspend,False,False,,False
+bgzashtita.es,suspend,False,False,,False
 bida.im,silence,False,False,,False
 bikeshed.party,suspend,False,False,,False
 binarydad.com,suspend,False,False,,False
@@ -96,6 +98,7 @@ brighteon.social,suspend,False,False,,False
 brotka.st,suspend,False,False,,False
 buckeye.social,suspend,False,False,,False
 buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life,suspend,False,False,,False
+bungle.online,suspend,False,False,,False
 burggit.moe,suspend,False,False,,False
 busshi.moe,suspend,False,False,,False
 bussy.monster,suspend,False,False,,False
@@ -364,6 +367,7 @@ humanist.social,suspend,False,False,,False
 hunk.city,suspend,False,False,,False
 husk.site,suspend,False,False,,False
 hwfo.online,suspend,False,False,,False
+i2p.rocks,suspend,False,False,,False
 icyphox.sh,suspend,False,False,,False
 iddqd.social,suspend,False,False,,False
 ignorelist.com,suspend,False,False,,False
@@ -371,6 +375,7 @@ ihatebeinga.live,suspend,False,False,,False
 ika.moe,suspend,False,False,,False
 ilyamikcoder.com,suspend,False,False,,False
 imirhil.fr,suspend,False,False,,False
+immibis.com,suspend,False,False,,False
 impeccable.social,suspend,False,False,,False
 incitter.online,silence,False,False,,False
 instagram.com,suspend,False,False,,False
@@ -604,6 +609,7 @@ norden.social,suspend,False,False,,False
 nordenmedia.com,suspend,False,False,,False
 norge.social,suspend,False,False,,False
 normie.cafe,suspend,False,False,,False
+norwoodzero.net,suspend,False,False,,False
 notjustbikes.com,suspend,False,False,,False
 novoa.nagoya,suspend,False,False,,False
 npf.mlpol.net,suspend,False,False,,False
@@ -786,7 +792,10 @@ shrimpcam.pw,suspend,False,False,,False
 silliness.observer,suspend,False,False,,False
 sinblr.com,suspend,False,False,,False
 singleuser.club,suspend,False,False,,False
+skinheads.eu,suspend,False,False,,False
+skinheads.io,suspend,False,False,,False
 skinheads.social,suspend,False,False,,False
+skinheads.uk,suspend,False,False,,False
 skinnyver.se,suspend,False,False,,False
 skins.gay,suspend,False,False,,False
 skippers-bin.com,suspend,False,False,,False
@@ -802,6 +811,7 @@ social.allthefallen.ninja,suspend,False,False,,False
 social.anthro.cc,suspend,False,False,,False
 social.au2pb.net,suspend,False,False,,False
 social.bacondarwin.uk,suspend,False,False,,False
+social.bbc,suspend,False,False,,False
 social.beepboop.ga,suspend,False,False,,False
 social.br-linux.org,silence,False,False,,False
 social.byoblu.com,suspend,False,False,,False

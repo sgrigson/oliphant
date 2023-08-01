@@ -3,6 +3,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+aethy.com,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 ap.***.st,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
@@ -186,6 +187,7 @@ shot*****.xyz,suspend,False,False,,False
 shrimpcam.pw,suspend,False,False,,False
 shrimpposter.club,suspend,False,False,,False
 sinblr.com,silence,False,False,,False
+skinheads.social,suspend,False,False,,False
 skipp*******.com,suspend,False,False,,False
 sleepy.cafe,suspend,False,False,,False
 sneed.social,suspend,False,False,,False

@@ -1,6 +1,7 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 activitypub-proxy.cf,suspend,false,false,,false
 activitypub-troll.cf,suspend,false,false,,false
+aethy.com,suspend,false,false,,false
 anime.website,suspend,false,false,,false
 annihilation.social,suspend,false,false,,false
 asbestos.cafe,suspend,false,false,,false
@@ -109,6 +110,7 @@ shot*****.xyz,suspend,false,false,,false
 shrimpcam.pw,suspend,false,false,,false
 shrimpposter.club,suspend,false,false,,false
 sinblr.com,suspend,false,false,,false
+skinheads.social,suspend,false,false,,false
 social.lovingexpressions.net,suspend,false,false,,false
 solagg.com,suspend,false,false,,false
 spinster.xyz,suspend,false,false,,false

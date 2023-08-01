@@ -1,4 +1,5 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
+076.moe,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
 101010.pl,suspend,False,False,,False
 13bells.com,suspend,False,False,,False
@@ -10,7 +11,6 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 absturztau.be,suspend,False,False,,False
 adachi.party,suspend,False,False,,False
 addy.gg,suspend,False,False,,False
-aethy.com,suspend,False,False,,False
 ai.wiki,suspend,False,False,,False
 alteregocreations.com,suspend,False,False,,False
 ancreport.com,suspend,False,False,,False
@@ -87,6 +87,7 @@ ebin.club,suspend,False,False,,False
 eightpoint.app,silence,False,False,,False
 elementality.org,suspend,False,False,,False
 endtimebelievers.com,suspend,False,False,,False
+enjoyer.network,suspend,False,False,,False
 epenguin.com,suspend,False,False,,False
 epsilon.social,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
@@ -104,7 +105,6 @@ freespeech.group,suspend,False,False,,False
 freetalklive.com,suspend,False,False,,False
 freethinkers.lgbt,suspend,False,False,,False
 froth.zone,suspend,False,False,,False
-fulltermprivacy.com,suspend,False,False,,False
 gabe.rocks,suspend,False,False,,False
 gamers.exposed,suspend,False,False,,False
 gangstalking.services,suspend,False,False,,False
@@ -279,7 +279,6 @@ shpposter.club,suspend,False,False,,False
 silliness.observer,suspend,False,False,,False
 skinheads.eu,suspend,False,False,,False
 skinheads.io,suspend,False,False,,False
-skinheads.social,suspend,False,False,,False
 skinheads.uk,suspend,False,False,,False
 skinnyver.se,suspend,False,False,,False
 skippers-bin.com,suspend,False,False,,False

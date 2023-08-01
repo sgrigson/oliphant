@@ -1,4 +1,5 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+076.moe,suspend,false,false,,false
 076.ne.jp,suspend,false,false,,false
 101010.pl,suspend,false,false,,false
 10minutepleroma.com,suspend,false,false,,false
@@ -103,6 +104,7 @@ eientei.org,suspend,false,false,,false
 eightpoint.app,silence,false,false,,false
 elementality.org,suspend,false,false,,false
 endtimebelievers.com,suspend,false,false,,false
+enjoyer.network,suspend,false,false,,false
 epenguin.com,suspend,false,false,,false
 epsilon.social,suspend,false,false,,false
 eveningzoo.club,suspend,false,false,,false
@@ -128,7 +130,6 @@ freethinkers.lgbt,suspend,false,false,,false
 freezepeach.xyz,suspend,false,false,,false
 frennet.xyz,suspend,false,false,,false
 froth.zone,suspend,false,false,,false
-fulltermprivacy.com,suspend,false,false,,false
 gab.ai,suspend,false,false,,false
 gab.com,suspend,false,false,,false
 gabe.rocks,suspend,false,false,,false
