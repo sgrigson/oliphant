@@ -1537,6 +1537,7 @@ tomw.social,suspend,False,False,,False
 tonesplace.com,suspend,False,False,,False
 toot.berlin,suspend,False,False,,False
 toot.canberrasocial.net,suspend,False,False,,False
+toot.community,silence,False,False,,False
 toot.love,suspend,False,False,,False
 toot.party,silence,False,False,,False
 toot.pt,suspend,False,False,,False
