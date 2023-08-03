@@ -28,11 +28,13 @@ activitypub-proxy.cf,suspend,false,false,,false
 activitypub-troll.cf,suspend,false,false,,false
 activitypub.actor,suspend,false,false,,false
 addy.gg,suspend,false,false,,false
+adtension.com,suspend,false,false,,false
 aether.us,suspend,false,false,,false
 aethy.com,suspend,false,false,,false
 afd.best,suspend,false,false,,false
 afterlife.masto.host,suspend,false,false,,false
 agates.io,suspend,false,false,,false
+ai8w.ddns.net,suspend,false,false,,false
 airmail.cc,suspend,false,false,,false
 ak.yass.ee,suspend,false,false,,false
 albin.social,suspend,false,false,,false
@@ -644,6 +646,7 @@ mast.wholemars.com,suspend,false,false,,false
 mastertibbles.co.uk,suspend,false,false,,false
 masthead.social,suspend,false,false,,false
 mastinator.com,suspend,false,false,,false
+masto.ai,silence,false,false,,false
 masto.cuddlr.org,suspend,false,false,,false
 masto.quad.moe,suspend,false,false,,false
 mastod.no,suspend,false,false,,false
@@ -1034,6 +1037,7 @@ shpposter.club,suspend,false,false,,false
 silkhe.art,suspend,false,false,,false
 simplefinances.us,suspend,false,false,,false
 sinblr.com,suspend,false,false,,false
+singing.dog,suspend,false,false,,false
 singleuser.club,suspend,false,false,,false
 sivokon.me,suspend,false,false,,false
 skinnyver.se,suspend,false,false,,false
@@ -1292,6 +1296,7 @@ welivein.eu,suspend,false,false,,false
 westernconnect.org,suspend,false,false,,false
 wetdry.world,suspend,false,false,,false
 wetfish.space,suspend,false,false,,false
+wherelinux.xyz,suspend,false,false,,false
 whinge.house,suspend,false,false,,false
 whinge.town,suspend,false,false,,false
 whitehouse.gov,suspend,false,false,,false
