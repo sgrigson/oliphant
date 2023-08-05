@@ -344,7 +344,7 @@ ffvo.dev,suspend,false,false,,false
 ffxiv-mastodon.com,suspend,false,false,,false
 fightthis.net,suspend,false,false,,false
 firefaithfellowship.com,suspend,false,false,,false
-firefish.social,silence,false,false,,false
+firefish.social,suspend,false,false,,false
 firemail.cc,suspend,false,false,,false
 fishingblog.org,suspend,false,false,,false
 fiume.club,suspend,false,false,,false
@@ -571,6 +571,7 @@ kogasa.de,suspend,false,false,,false
 kolektiva.media,suspend,false,false,,false
 kolektiva.social,suspend,false,false,,false
 kompost.cz,suspend,false,false,,false
+kopimi.space,suspend,false,false,,false
 kosmos.social,suspend,false,false,,false
 kotobank.ch,suspend,false,false,,false
 kowai.youkai.town,suspend,false,false,,false
@@ -658,6 +659,7 @@ mastodon.bgzashtita.es,suspend,false,false,,false
 mastodon.cf,suspend,false,false,,false
 mastodon.cloud,suspend,false,false,,false
 mastodon.ctseuro.com,suspend,false,false,,false
+mastodon.de,silence,false,false,,false
 mastodon.derveni.org,suspend,false,false,,false
 mastodon.digitalsuccess.dev,suspend,false,false,,false
 mastodon.etalab.gouv.fr,suspend,false,false,,false
