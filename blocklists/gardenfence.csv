@@ -5,6 +5,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 a.sc,suspend,False,False,,False
 absturztau.be,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+adachi.party,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 ai.wiki,suspend,False,False,,False
 angrytoday.com,suspend,False,False,,False
@@ -37,6 +38,7 @@ cum.camp,suspend,False,False,,False
 cum.salon,suspend,False,False,,False
 cybercriminal.eu,suspend,False,False,,False
 cyberstorm.one,suspend,False,False,,False
+decayable.ink,suspend,False,False,,False
 detroitriotcity.com,suspend,False,False,,False
 eatthebugs.social,suspend,False,False,,False
 eientei.org,suspend,False,False,,False
@@ -90,6 +92,7 @@ lolison.top,suspend,False,False,,False
 lovingexpressions.net,suspend,False,False,,False
 mahodou.moe,suspend,False,False,,False
 mapsupport.de,suspend,False,False,,False
+marsey.moe,suspend,False,False,,False
 masochi.st,suspend,False,False,,False
 mastertibbles.co.uk,suspend,False,False,,False
 mastinator.com,suspend,False,False,,False
@@ -144,6 +147,7 @@ shota.house,suspend,False,False,,False
 shpposter.club,suspend,False,False,,False
 shrimpcam.pw,suspend,False,False,,False
 shrimpposter.club,suspend,False,False,,False
+skinheads.social,suspend,False,False,,False
 skinnyver.se,suspend,False,False,,False
 skippers-bin.com,suspend,False,False,,False
 skyshanty.xyz,suspend,False,False,,False
