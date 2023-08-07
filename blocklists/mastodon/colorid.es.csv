@@ -554,6 +554,7 @@ misskey.io,silence,false,false,,false
 misskey.xyz,silence,false,false,,false
 mitra.social,suspend,false,false,,false
 mkl.lol,suspend,false,false,,false
+mnemo.social,suspend,false,false,,false
 moa.st,suspend,false,false,,false
 mobile.co,suspend,false,false,,false
 moggy.xyz,suspend,false,false,,false
@@ -928,6 +929,7 @@ toad.social,silence,false,false,,false
 todon.eu,silence,false,false,,false
 todon.nl,silence,false,false,,false
 toot.berlin,silence,false,false,,false
+toot.io,suspend,false,false,,false
 toot.love,suspend,false,false,,false
 toot.pt,suspend,false,false,,false
 toot.zone,suspend,false,false,,false
