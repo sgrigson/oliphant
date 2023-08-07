@@ -406,6 +406,7 @@ doma.dev,silence,false,false,,false
 domain,suspend,false,false,,false
 donthaveaclueman.com,silence,false,false,,false
 doshi.re,silence,false,false,,false
+dotnet00.dev,suspend,false,false,,false
 dotsod.com,suspend,false,false,,false
 dragoncave.dev,suspend,false,false,,false
 dragonpsi.xyz,suspend,false,false,,false
@@ -1115,6 +1116,7 @@ nulled.red,silence,false,false,,false
 nya.gay,suspend,false,false,,false
 nya.house,silence,false,false,,false
 nyan.network,silence,false,false,,false
+nyanide.com,suspend,false,false,,false
 nyanshell.com,silence,false,false,,false
 nzoss.nz,silence,false,false,,false
 obo.sh,suspend,false,false,,false
@@ -1424,6 +1426,7 @@ sneed.vip,suspend,false,false,,false
 snopyta.org,silence,false,false,,false
 soc.outrnat.nl,silence,false,false,,false
 soc.ua-fediland.de,suspend,false,false,,false
+sociabl.be,suspend,false,false,,false
 social.arinbasu.online,suspend,false,false,,false
 social.au2pb.net,suspend,false,false,,false
 social.bbc,suspend,false,false,,false
@@ -1592,7 +1595,7 @@ undeadnetwork.de,silence,false,false,,false
 undernet.uy,silence,false,false,,false
 unextro.net,silence,false,false,,false
 ungoverned.social,suspend,false,false,,false
-universeodon.com,suspend,false,false,,false
+universeodon.com,silence,false,false,,false
 unix.dog,suspend,false,false,,false
 unperson.us,suspend,false,false,,false
 unsafe.space,suspend,false,false,,false
