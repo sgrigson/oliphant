@@ -205,6 +205,7 @@ doctors4covidethics.org,suspend,false,false,,false
 dogfood.social,suspend,false,false,,false
 domo.cafe,suspend,false,false,,false
 donteatanimals.org,suspend,false,false,,false
+dotnet00.dev,suspend,false,false,,false
 dragonborn.app,suspend,false,false,,false
 dragonpsi.xyz,suspend,false,false,,false
 dresden.network,silence,false,false,,false
@@ -571,7 +572,7 @@ mstdn.in,silence,false,false,,false
 mstdn.io,silence,false,false,,false
 mstdn.jp,silence,false,false,,false
 mstdn.party,silence,false,false,,false
-mstdn.plus,silence,false,false,,false
+mstdn.plus,suspend,false,false,,false
 mstdn.social,suspend,false,false,,false
 mstevens.uk,suspend,false,false,,false
 mu.zaitcev.nu,suspend,false,false,,false
