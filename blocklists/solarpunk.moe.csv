@@ -597,6 +597,7 @@ sneed.network,suspend,False,False,,False
 sneed.social,suspend,False,False,,False
 sneed.vip,suspend,False,False,,False
 snug.moe,silence,False,False,,False
+sociabl.be,suspend,False,False,,False
 social.076.ne.jp,suspend,False,False,,False
 social.ancreport.com,suspend,False,False,,False
 social.bbc,suspend,False,False,,False
