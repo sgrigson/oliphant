@@ -5,6 +5,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 aethy.com,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False
+bae.st,suspend,False,False,,False
 banepo.st,suspend,False,False,,False
 baraag.net,suspend,False,False,,False
 beefyboys.win,suspend,False,False,,False
@@ -12,7 +13,9 @@ brighteon.social,suspend,False,False,,False
 chudbuds.lol,suspend,False,False,,False
 contrapointsfan.club,suspend,False,False,,False
 cum.camp,suspend,False,False,,False
+cum.salon,suspend,False,False,,False
 cyberstorm.one,suspend,False,False,,False
+detroitriotcity.com,suspend,False,False,,False
 eientei.org,suspend,False,False,,False
 eveningzoo.club,suspend,False,False,,False
 federated.fun,suspend,False,False,,False
@@ -25,6 +28,7 @@ genderheretics.xyz,suspend,False,False,,False
 geofront.rocks,suspend,False,False,,False
 gleasonator.com,suspend,False,False,,False
 ignorelist.com,suspend,False,False,,False
+kiwifarms.cc,suspend,False,False,,False
 letsalllovela.in,suspend,False,False,,False
 lolison.network,suspend,False,False,,False
 lolison.top,suspend,False,False,,False
@@ -34,6 +38,7 @@ mastinator.com,suspend,False,False,,False
 merovingian.club,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
 mugicha.club,suspend,False,False,,False
+nicecrew.digital,suspend,False,False,,False
 nnia.space,suspend,False,False,,False
 noagendasocial.com,suspend,False,False,,False
 obo.sh,suspend,False,False,,False
@@ -42,6 +47,7 @@ pawoo.net,suspend,False,False,,False
 pedo.school,suspend,False,False,,False
 pibvt.net,suspend,False,False,,False
 pieville.net,suspend,False,False,,False
+poa.st,suspend,False,False,,False
 poster.place,suspend,False,False,,False
 qoto.org,silence,False,False,,False
 rcsocial.net,silence,False,False,,False
