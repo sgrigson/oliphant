@@ -629,7 +629,7 @@ nekoea.red,suspend,False,False,,False
 netrunner.cfd,suspend,False,False,,False
 netz.org,suspend,False,False,,False
 netzsphaere.xyz,suspend,False,False,,False
-newsie.social,suspend,False,False,,False
+newsie.social,silence,False,False,,False
 newsrelay.org,silence,False,False,,False
 nexusuk.org,suspend,False,False,,False
 nicecrew.digital,suspend,False,False,,False
