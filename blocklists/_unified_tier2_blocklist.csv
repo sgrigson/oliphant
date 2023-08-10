@@ -561,7 +561,7 @@ neet.church,suspend,False,False,,False
 neighborli.xyz,suspend,False,False,,False
 nekocave.xyz,suspend,False,False,,False
 nekoea.red,suspend,False,False,,False
-neomobius.com,silence,False,False,,False
+neomobius.com,suspend,False,False,,False
 netz.org,suspend,False,False,,False
 netzsphaere.xyz,suspend,False,False,,False
 newjack.city,suspend,False,False,,False
@@ -844,6 +844,7 @@ truthsocial.com,suspend,False,False,,False
 truthsocial.st,silence,False,False,,False
 truthsocialpro.org,suspend,False,False,,False
 tucson.claims,suspend,False,False,,False
+twi.social,suspend,False,False,,False
 twitiverse.com,suspend,False,False,,False
 twitter.activitypub.actor,suspend,False,False,,False
 tyil.nl,suspend,False,False,,False

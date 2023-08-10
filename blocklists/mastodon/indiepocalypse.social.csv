@@ -1068,7 +1068,7 @@ neko.computer,suspend,false,false,,false
 nekocave.xyz,suspend,false,false,,false
 nekoea.red,suspend,false,false,,false
 nekover.se,silence,false,false,,false
-neomobius.com,silence,false,false,,false
+neomobius.com,suspend,false,false,,false
 nervesocket.com,silence,false,false,,false
 netmonkey.xyz,silence,false,false,,false
 netrunner.cfd,suspend,false,false,,false
@@ -1590,6 +1590,7 @@ tweetbridge.kogasa.de,suspend,false,false,,false
 tweets.icu,suspend,false,false,,false
 tweety.icu,suspend,false,false,,false
 twhtv.club,suspend,false,false,,false
+twi.social,suspend,false,false,,false
 twitter.activitypub.actor,suspend,false,false,,false
 twixter.eu,silence,false,false,,false
 twtr.plus,suspend,false,false,,false
