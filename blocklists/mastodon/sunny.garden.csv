@@ -128,6 +128,7 @@ misskey.cf,suspend,false,false,,false
 misskey.io,silence,false,false,,false
 moa.st,suspend,false,false,,false
 mostr.pub,suspend,false,false,,false
+mouse.services,suspend,false,false,,false
 mrhands.horse,suspend,false,false,,false
 mstdn.jp,silence,false,false,,false
 mugicha.club,suspend,false,false,,false
@@ -205,12 +206,14 @@ threads.net,suspend,false,false,,false
 troll.cafe,suspend,false,false,,false
 trumpislovetrumpis.life,suspend,false,false,,false
 truthsocial.co.in,suspend,false,false,,false
+twi.social,suspend,false,false,,false
 twtr.plus,suspend,false,false,,false
 twtr.vrij.social,suspend,false,false,,false
 urchan.org,suspend,false,false,,false
 ursal.zone,silence,false,false,,false
 usualsuspects.lol,suspend,false,false,,false
 varishangout.net,suspend,false,false,,false
+vtuberfan.social,suspend,false,false,,false
 whinge.town,suspend,false,false,,false
 wideboys.org,suspend,false,false,,false
 witches.live,silence,false,false,,false
