@@ -1,0 +1,4 @@
+domain,severity,reject_media,reject_reports,public_comment,obfuscate
+h5q.net,suspend,False,False,DNI,False
+neomobius.com,suspend,False,False,DNI,False
+twi.social,suspend,False,False,DNI,False

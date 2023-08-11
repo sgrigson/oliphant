@@ -253,7 +253,7 @@ goyim.app,suspend,False,False,,False
 goyslop.cafe,suspend,False,False,,False
 gravure.club,suspend,False,False,,False
 guizzyordi.info,suspend,False,False,,False
-h5q.net,suspend,False,False,,False
+h5q.net,suspend,False,False,DNI,False
 haeder.net,suspend,False,False,,False
 hagra.net,suspend,False,False,,False
 hallsofamenti.io,suspend,False,False,,False
@@ -414,7 +414,7 @@ needs.vodka,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
 neet.church,suspend,False,False,,False
 nekocave.xyz,suspend,False,False,,False
-neomobius.com,suspend,False,False,,False
+neomobius.com,suspend,False,False,DNI,False
 netz.org,suspend,False,False,,False
 netzsphaere.xyz,suspend,False,False,,False
 newsie.social,silence,False,False,,False
@@ -546,6 +546,7 @@ shitpost.cloud,suspend,False,False,,False
 shitpost.racing,suspend,False,False,,False
 shitposter.club,suspend,False,False,,False
 shortstackran.ch,suspend,False,False,,False
+shortstacksran.ch,suspend,False,False,,False
 shota.house,suspend,False,False,,False
 shota.social,suspend,False,False,,False
 shotatube.xyz,suspend,False,False,,False
@@ -618,7 +619,7 @@ trumpislovetrumpis.life,suspend,False,False,,False
 truthsocial.co.in,suspend,False,False,,False
 truthsocial.com,suspend,False,False,,False
 truthsocialpro.org,suspend,False,False,,False
-twi.social,suspend,False,False,,False
+twi.social,suspend,False,False,DNI,False
 twitter.activitypub.actor,suspend,False,False,,False
 tyil.nl,suspend,False,False,,False
 ua-fediland.de,suspend,False,False,,False

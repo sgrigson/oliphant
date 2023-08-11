@@ -617,7 +617,7 @@ gs.m0n5t3r.info,suspend,false,false,,false
 gs.smuglo.li,suspend,false,false,,false
 guizzyordi.info,suspend,false,false,,false
 gyutte.site,silence,false,false,,false
-h5q.net,suspend,false,false,,false
+h5q.net,suspend,false,false,dni,false
 hachyderm.io,silence,false,false,,false
 hacktivis.me,silence,false,false,,false
 haeder.net,suspend,false,false,,false
@@ -1050,7 +1050,7 @@ nekocave.xyz,suspend,false,false,,false
 nekoea.red,suspend,false,false,,false
 nemoneya.me,suspend,false,false,,false
 neoliber.al,suspend,false,false,,false
-neomobius.com,suspend,false,false,,false
+neomobius.com,suspend,false,false,dni,false
 net4sw.com,silence,false,false,,false
 netrunner.cfd,suspend,false,false,,false
 networked.space,suspend,false,false,,false
@@ -1633,7 +1633,7 @@ tuusin.misono-ya.info,suspend,false,false,,false
 tweet.pasture.moe,suspend,false,false,,false
 tweety.icu,suspend,false,false,,false
 twhtv.club,suspend,false,false,,false
-twi.social,suspend,false,false,,false
+twi.social,suspend,false,false,dni,false
 twitiverse.com,suspend,false,false,,false
 twitter.1d4.us,suspend,false,false,,false
 twitter.activitypub.actor,suspend,false,false,,false
