@@ -12,6 +12,7 @@
 * `gardenfence.csv` - A mirror of the [Gardenfence](https://gardenfence.github.io/) Tier 0 file.
 * `tier0-council.csv` - Requires 80% agreement on blocks from trusted sources.
 * `birdsite.csv` - All the Birdsite Live Blocks. This file is provided separately as a convenience.
+* `dni.csv` - Do Not Interact (DNI). Badly-moderated servers that have returned hits for illegal content. Merged into all unified T0-T3 lists.
 * `_unified_min_blocklist.csv` - [Deprecated] Identical to the `_unified_tier0_blocklist.csv`.
 * *Other Files* - Other files listed here are individual trusted sources who provided data for the blocklist.
 
