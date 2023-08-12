@@ -512,6 +512,7 @@ mastodon.city,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
 mastodon.coffee,suspend,False,False,,False
 mastodon.ctseuro.com,suspend,False,False,,False
+mastodon.de,suspend,False,False,,False
 mastodon.fail,silence,False,False,,False
 mastodon.gatewayy.net,suspend,False,False,,False
 mastodon.hypnoguys.com,silence,False,False,,False

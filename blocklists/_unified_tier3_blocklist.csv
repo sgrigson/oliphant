@@ -909,6 +909,7 @@ mastodon.cloud,silence,False,False,,False
 mastodon.coffee,silence,False,False,,False
 mastodon.com.pl,suspend,False,False,,False
 mastodon.ctseuro.com,suspend,False,False,,False
+mastodon.de,silence,False,False,,False
 mastodon.digitalsuccess.dev,suspend,False,False,,False
 mastodon.green,suspend,False,False,,False
 mastodon.grin.hu,suspend,False,False,,False
