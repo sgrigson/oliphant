@@ -1604,7 +1604,6 @@ toot.canberrasocial.net,suspend,False,False,,False
 toot.community,silence,False,False,,False
 toot.love,silence,False,False,,False
 toot.pt,suspend,False,False,,False
-toot.wales,silence,False,False,,False
 toot.world,suspend,False,False,,False
 toots.morepablo.com,suspend,False,False,,False
 toots.nu,suspend,False,False,,False
