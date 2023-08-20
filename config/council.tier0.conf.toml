@@ -44,6 +44,9 @@ savedir = '/opt/fediblockhole/blocklists/'
 ## File to save the fully merged blocklist into
 blocklist_savefile = '/opt/fediblockhole/blocklists/tier0-council.csv'
 
+## save an auditfile
+blocklist_auditfile = '/opt/fediblockhole/blocklists/other/domain_audit_file.csv'
+
 ## Don't push blocklist to instances, even if they're defined above
 no_push_instance = true
 
