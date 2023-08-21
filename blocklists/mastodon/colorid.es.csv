@@ -510,7 +510,7 @@ mastodon.blue,suspend,false,false,,false
 mastodon.cf,suspend,false,false,,false
 mastodon.chaika.me,suspend,false,false,,false
 mastodon.city,suspend,false,false,,false
-mastodon.cloud,silence,false,false,,false
+mastodon.cloud,suspend,false,false,,false
 mastodon.coffee,suspend,false,false,,false
 mastodon.ctseuro.com,suspend,false,false,,false
 mastodon.de,suspend,false,false,,false
