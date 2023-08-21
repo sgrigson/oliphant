@@ -258,7 +258,7 @@ fifo-f.eu,suspend,false,false,,false
 fightthis.net,suspend,false,false,,false
 firedragonstudios.com,suspend,false,false,,false
 firefaithfellowship.com,suspend,false,false,,false
-firefish.social,suspend,false,false,,false
+firefish.social,silence,false,false,,false
 fluf.club,suspend,false,false,,false
 fluffytail.org,suspend,false,false,,false
 fosstodon.org,silence,false,false,,false
@@ -274,6 +274,7 @@ freedomstrike.org,suspend,false,false,,false
 freefedifollowers.ga,suspend,false,false,,false
 freesoftwareextremist.com,suspend,false,false,,false
 freespeech.club,suspend,false,false,,false
+freespeech.fans,suspend,false,false,,false
 freespeech.firedragonstudios.com,suspend,false,false,,false
 freespeech.group,suspend,false,false,,false
 freespeech.host,suspend,false,false,,false
@@ -690,6 +691,7 @@ rapemeat.express,suspend,false,false,,false
 rapemeat.solutions,suspend,false,false,,false
 raplst.town,suspend,false,false,,false
 raspberrypi.social,silence,false,false,,false
+ravergram.club,suspend,false,false,,false
 rawr-xd.club,suspend,false,false,,false
 rayci.st,suspend,false,false,,false
 rayn.bo,suspend,false,false,,false

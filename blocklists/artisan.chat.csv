@@ -327,7 +327,7 @@ fimidi.com,suspend,False,False,,False
 firebird.zone,suspend,False,False,,False
 firedragonstudios.com,suspend,False,False,,False
 firefaithfellowship.com,suspend,False,False,,False
-firefish.social,suspend,False,False,,False
+firefish.social,silence,False,False,,False
 floof.rocks,suspend,False,False,,False
 fluf.club,suspend,False,False,,False
 fluffytail.org,suspend,False,False,,False
@@ -342,6 +342,7 @@ freedomstrike.org,suspend,False,False,,False
 freemyip.com,suspend,False,False,,False
 freesoftwareextremist.com,suspend,False,False,,False
 freespeech.club,suspend,False,False,,False
+freespeech.fans,suspend,False,False,,False
 freespeech.group,suspend,False,False,,False
 freespeechextremist.com,suspend,False,False,,False
 freetalklive.com,suspend,False,False,,False
@@ -823,6 +824,7 @@ rapemeat.solutions,suspend,False,False,,False
 rapist.town,suspend,False,False,,False
 rascal.social,suspend,False,False,,False
 raspberrypi.social,silence,False,False,,False
+ravergram.club,suspend,False,False,,False
 rayci.st,suspend,False,False,,False
 rbq.social,suspend,False,False,,False
 rcsocial.net,suspend,False,False,,False
@@ -952,6 +954,7 @@ springbo.cc,suspend,False,False,,False
 squid.kids,suspend,False,False,,False
 stardust.wtf,suspend,False,False,,False
 starnix.network,suspend,False,False,,False
+staycuriousandkeepsmil.in,suspend,False,False,,False
 stereophonic.space,suspend,False,False,,False
 stormcloak.info,suspend,False,False,,False
 stracknet.com,suspend,False,False,,False

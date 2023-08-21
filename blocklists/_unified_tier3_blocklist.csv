@@ -482,7 +482,7 @@ firebird.zone,silence,False,False,,False
 firechicken.net,silence,False,False,,False
 firedragonstudios.com,suspend,False,False,,False
 firefaithfellowship.com,suspend,False,False,,False
-firefish.social,suspend,False,False,,False
+firefish.social,silence,False,False,,False
 fiume.club,suspend,False,False,,False
 flipboard.social,silence,False,False,,False
 flockingbird.social,suspend,False,False,,False
@@ -1527,6 +1527,7 @@ squid.kids,suspend,False,False,,False
 staging.kazar.ma,suspend,False,False,,False
 starnix.network,suspend,False,False,,False
 stars.eroaward.com,silence,False,False,,False
+staycuriousandkeepsmil.in,suspend,False,False,,False
 stereophonic.space,suspend,False,False,,False
 stop.voring.me,suspend,False,False,,False
 stormcloak.info,suspend,False,False,,False
