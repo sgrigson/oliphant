@@ -8,6 +8,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 1611.social,suspend,False,False,,False
 1745.info,suspend,False,False,,False
 1being.org,suspend,False,False,,False
+3zi.ru,suspend,False,False,,False
 448c.net,suspend,False,False,,False
 4aem.com,suspend,False,False,,False
 4chan.icu,suspend,False,False,,False
@@ -1219,6 +1220,7 @@ webl.dd0s.lol,suspend,False,False,,False
 weeaboo.space,suspend,False,False,,False
 wei.mentalswarf.com,suspend,False,False,,False
 were.social,suspend,False,False,,False
+whatiwanttoknow.org,suspend,False,False,,False
 wherelinux.xyz,suspend,False,False,,False
 whinge.house,suspend,False,False,,False
 whinge.town,suspend,False,False,,False
