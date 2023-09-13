@@ -682,6 +682,7 @@ mastodon.cf,suspend,false,false,,false
 mastodon.cloud,silence,false,false,,false
 mastodon.com.pl,suspend,false,false,,false
 mastodon.la,suspend,false,false,,false
+mastodon.lol,suspend,false,false,,false
 mastodon.loliandstuff.moe,suspend,false,false,,false
 mastodon.ml,suspend,false,false,,false
 mastodon.nzoss.nz,suspend,false,false,,false
