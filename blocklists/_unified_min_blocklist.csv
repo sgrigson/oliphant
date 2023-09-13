@@ -9,7 +9,6 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 5dollah.click,suspend,False,False,,False
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
-a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 adachi.party,suspend,False,False,,False
@@ -267,6 +266,7 @@ otakufarms.com,suspend,False,False,,False
 oti.st,suspend,False,False,,False
 outerkosm.us,suspend,False,False,,False
 outpoa.st,suspend,False,False,,False
+outrnat.nl,suspend,False,False,,False
 pawlicker.com,suspend,False,False,,False
 pawoo.net,suspend,False,False,,False
 paypig.org,suspend,False,False,,False
@@ -276,7 +276,6 @@ pettanko.art,suspend,False,False,,False
 piazza.today,suspend,False,False,,False
 pibvt.net,suspend,False,False,,False
 pieville.net,suspend,False,False,,False
-pirateradio.social,suspend,False,False,,False
 pisskey.io,suspend,False,False,,False
 pizzaf.art,suspend,False,False,,False
 pkteerium.xyz,suspend,False,False,,False
@@ -288,7 +287,6 @@ polaris-1.work,suspend,False,False,,False
 pone.social,suspend,False,False,,False
 pooper.social,suspend,False,False,,False
 poridge.club,suspend,False,False,,False
-posix.gay,suspend,False,False,,False
 poster.place,suspend,False,False,,False
 poweredbycocaine.com,suspend,False,False,,False
 press.coop,suspend,False,False,,False
