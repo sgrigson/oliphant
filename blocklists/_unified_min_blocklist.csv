@@ -19,12 +19,11 @@ ai.wiki,suspend,False,False,,False
 alteregocreations.com,suspend,False,False,,False
 ancreport.com,suspend,False,False,,False
 ancreport.xyz,suspend,False,False,,False
-anemoneya.me,suspend,False,False,,False
 angrytoday.com,suspend,False,False,,False
 animesexual.community,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 anon-kenkai.com,suspend,False,False,,False
-arachnid.town,suspend,False,False,,False
+arachnid.town,silence,False,False,,False
 asbestos.cafe,suspend,False,False,,False
 asimon.org,suspend,False,False,,False
 asteroidm.space,suspend,False,False,,False
@@ -87,7 +86,6 @@ detroitriotcity.com,suspend,False,False,,False
 dev-wiki.de,suspend,False,False,,False
 dickkickextremist.xyz,suspend,False,False,,False
 dingdash.com,suspend,False,False,,False
-disqordia.space,suspend,False,False,,False
 dissident.business,suspend,False,False,,False
 dixies.land,suspend,False,False,,False
 djsumdog.com,suspend,False,False,,False
@@ -190,7 +188,6 @@ liberdon.com,suspend,False,False,,False
 librem.one,suspend,False,False,,False
 librenet.co.za,suspend,False,False,,False
 ligma.pro,suspend,False,False,,False
-lizards.live,suspend,False,False,,False
 logografos.com,suspend,False,False,,False
 lolicon.rocks,suspend,False,False,,False
 lolicon.win,suspend,False,False,,False
@@ -404,10 +401,9 @@ wideboys.org,suspend,False,False,,False
 wikileaks2.org,suspend,False,False,,False
 wolfgirl.bar,suspend,False,False,,False
 workers.dev,suspend,False,False,,False
-worm.pink,suspend,False,False,,False
+worm.pink,silence,False,False,,False
 writehere.is,suspend,False,False,,False
 wxw.moe,suspend,False,False,,False
-xenofem.me,suspend,False,False,,False
 xhais.love,suspend,False,False,,False
 xmrposter.club,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
