@@ -1,6 +1,7 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
 076.moe,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
+0w0.is,suspend,False,False,,False
 0x68756773.moe,suspend,False,False,,False
 101010.pl,suspend,False,False,,False
 10minutepleroma.com,suspend,False,False,,False
@@ -471,6 +472,7 @@ kawaiistarlight.online,suspend,False,False,,False
 kazv.moe,suspend,False,False,,False
 kbin.social,suspend,False,False,,False
 keinpfusch.net,suspend,False,False,,False
+kelarima.com,suspend,False,False,,False
 khajiit.tech,suspend,False,False,,False
 kibitz.cloud,suspend,False,False,,False
 killbox.social,suspend,False,False,,False
