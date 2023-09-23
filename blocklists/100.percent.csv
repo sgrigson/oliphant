@@ -1,7 +1,9 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
+076.moe,suspend,False,False,,False
 101010.pl,silence,False,False,,False
 13bells.com,suspend,False,False,,False
 1611.social,suspend,False,False,,False
+activitypub-troll.cf,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 asbestos.cafe,suspend,False,False,,False

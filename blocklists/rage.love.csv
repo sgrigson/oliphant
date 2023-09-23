@@ -3,6 +3,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 .cf,suspend,False,False,,False
 076.moe,suspend,False,False,,False
 0sint.social,suspend,False,False,,False
+0w0.is,suspend,False,False,,False
 101010.pl,suspend,False,False,,False
 10minutepleroma.com,suspend,False,False,,False
 13bells.com,suspend,False,False,,False
@@ -40,6 +41,7 @@ agates.io,suspend,False,False,,False
 ai8w.ddns.net,suspend,False,False,,False
 airmail.cc,suspend,False,False,,False
 ak.yass.ee,suspend,False,False,,False
+akko.layer08.com,suspend,False,False,,False
 albin.social,suspend,False,False,,False
 alpaca.gold,suspend,False,False,,False
 amiantos.net,suspend,False,False,,False
@@ -71,6 +73,7 @@ aria.company,suspend,False,False,,False
 ariona.fr,suspend,False,False,,False
 aroace.space,suspend,False,False,,False
 artalley.social,suspend,False,False,,False
+artisan.chat,silence,False,False,,False
 asbestos.cafe,suspend,False,False,,False
 asimon.org,suspend,False,False,,False
 aspiechattr.me,suspend,False,False,,False
@@ -303,6 +306,7 @@ eatthebugs.social,suspend,False,False,,False
 ebin.club,suspend,False,False,,False
 ediot.social,suspend,False,False,,False
 eeeeeeeee.eu,suspend,False,False,,False
+eepygirls.tech,suspend,False,False,,False
 egi***.*ay,suspend,False,False,,False
 eientei.org,suspend,False,False,,False
 eightpoint.app,suspend,False,False,,False
@@ -557,8 +561,10 @@ justwallet.site,suspend,False,False,,False
 jvpiter.net,suspend,False,False,,False
 k1ppl.com,suspend,False,False,,False
 kabuki.club,suspend,False,False,,False
+kafeneio.social,suspend,False,False,,False
 kag.social,suspend,False,False,,False
 kalli.st,suspend,False,False,,False
+karkatdyinginagluetrap.com,suspend,False,False,,False
 karl.guru,suspend,False,False,,False
 karolat.press,suspend,False,False,,False
 kartoffel.cafe,suspend,False,False,,False
@@ -605,6 +611,7 @@ lakedrops.com,suspend,False,False,,False
 lanceur-alerte.tv,suspend,False,False,,False
 landofkittens.social,suspend,False,False,,False
 lanuevebastarda.es,suspend,False,False,,False
+layer08.com,suspend,False,False,,False
 leafposter.cafe,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
 leftic.club,suspend,False,False,,False
@@ -727,6 +734,7 @@ micro.mkp.ca,suspend,False,False,,False
 midnightride.rs,suspend,False,False,,False
 midwaytrades.com,suspend,False,False,,False
 miku-enthusiast.club,suspend,False,False,,False
+miku.place,suspend,False,False,,False
 milker.cafe,suspend,False,False,,False
 mim-libre.fr,suspend,False,False,,False
 mindly.social,silence,False,False,,False
@@ -1055,6 +1063,7 @@ serialmay.link,suspend,False,False,,False
 servernerds.net,silence,False,False,,False
 setho.org,suspend,False,False,,False
 sevvie.ltd,suspend,False,False,,False
+sharealike.social,suspend,False,False,,False
 shatteredpalisa.de,suspend,False,False,,False
 shaw.app,suspend,False,False,,False
 sheep.network,suspend,False,False,,False
