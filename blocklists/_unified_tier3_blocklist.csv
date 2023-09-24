@@ -1,5 +1,4 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
-000delete.this.line.if.you.have.read.the.documentation.on.seirdy.one,suspend,False,False,,False
 076.moe,suspend,False,False,,False
 076.ne.jp,suspend,False,False,,False
 0w0.is,suspend,False,False,,False
@@ -144,7 +143,6 @@ cachapa.xyz,suspend,False,False,,False
 cafkafk.com,suspend,False,False,,False
 calobar.club,suspend,False,False,,False
 campduffel.social,suspend,False,False,,False
-canary.tier0.example.com,suspend,False,False,,False
 capitalism.party,suspend,False,False,,False
 capystan.net,suspend,False,False,,False
 carnivore.social,suspend,False,False,,False
