@@ -163,6 +163,7 @@ calculate.social,suspend,False,False,,False
 calobar.club,suspend,False,False,,False
 campduffel.social,suspend,False,False,,False
 canberrasocial.net,suspend,False,False,,False
+cannibal.cafe,suspend,False,False,,False
 cantos.social,suspend,False,False,,False
 capitalism.party,suspend,False,False,,False
 carnivore.social,suspend,False,False,,False
@@ -478,7 +479,7 @@ gs.smuglo.li,suspend,False,False,,False
 gulp.cafe,suspend,False,False,,False
 gymnastodon.com,suspend,False,False,,False
 h5q.net,suspend,False,False,,False
-hachyderm.io,suspend,False,False,,False
+hachyderm.io,silence,False,False,,False
 hacked.im,suspend,False,False,,False
 haeder.net,suspend,False,False,,False
 hagra.net,suspend,False,False,,False
@@ -1196,6 +1197,7 @@ stop.voring.me,suspend,False,False,,False
 strelizia.net,suspend,False,False,,False
 sunbutt.faith,suspend,False,False,,False
 sunshinegardens.org,suspend,False,False,,False
+supernets.social,suspend,False,False,,False
 sushi.ski,suspend,False,False,,False
 suya.place,suspend,False,False,,False
 sweet.succubi.services,suspend,False,False,,False
