@@ -1,5 +1,6 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
 10minutepleroma.com,suspend,False,False,,False
+5dollah.click,suspend,False,False,,False
 a.sc,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
