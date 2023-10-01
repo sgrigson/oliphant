@@ -1,6 +1,7 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 076.ne.jp,suspend,false,false,,false
 1611.social,suspend,false,false,,false
+5dollah.click,suspend,false,false,,false
 activitypub-troll.cf,suspend,false,false,,false
 aethy.com,suspend,false,false,,false
 angrytoday.com,suspend,false,false,,false
@@ -115,6 +116,7 @@ spinster.xyz,suspend,false,false,,false
 springbo.cc,suspend,false,false,,false
 stereophonic.space,suspend,false,false,,false
 strelizia.net,suspend,false,false,,false
+supernets.social,suspend,false,false,,false
 tastingtraffic.net,suspend,false,false,,false
 teci.world,suspend,false,false,,false
 truthsocial.co.in,suspend,false,false,,false
