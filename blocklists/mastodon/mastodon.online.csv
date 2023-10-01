@@ -20,13 +20,16 @@ bird.froth.zone,suspend,false,false,,false
 bird.makeup,suspend,false,false,,false
 birdbots.leptonics.com,suspend,false,false,,false
 birdsite.am-institute.swiss,suspend,false,false,,false
+birdsite.blazelight.dev,suspend,false,false,,false
 birdsite.frog.fashion,suspend,false,false,,false
 birdsite.james.moody.name,suspend,false,false,,false
+birdsite.platypush.tech,suspend,false,false,,false
 birdsite.tcjc.uk,suspend,false,false,,false
 birdsite.thorlaksson.com,suspend,false,false,,false
 birdsite.weiranzhang.com,suspend,false,false,,false
 birdsite.wilde.cloud,suspend,false,false,,false
 birdsitelive.falschgold.net,suspend,false,false,,false
+birdsitelive.treffler.cloud,suspend,false,false,,false
 brands.town,suspend,false,false,,false
 bridge.yopp.me,suspend,false,false,,false
 brighteon.social,silence,false,false,,false
@@ -76,9 +79,11 @@ mastodonhub.com,suspend,false,false,,false
 merovingian.club,suspend,false,false,,false
 misskey-forkbomb.cf,suspend,false,false,,false
 misskey.io,silence,false,false,,false
+mostr.pub,silence,false,false,,false
 mstdn.foxfam.club,silence,false,false,,false
 mugicha.club,suspend,false,false,,false
 my.dirtyhobby.xyz,suspend,false,false,,false
+nateh******.**line,suspend,false,false,,false
 nazi.social,suspend,false,false,,false
 neckbeard.xyz,suspend,false,false,,false
 newsbots.eu,suspend,false,false,,false
@@ -86,6 +91,7 @@ nicecrew.digital,suspend,false,false,,false
 nnia.space,suspend,false,false,,false
 noagendasocial.com,silence,false,false,,false
 ns.auction,suspend,false,false,,false
+nyanide.com,suspend,false,false,,false
 ob*.*h,suspend,false,false,,false
 pawoo.net,suspend,false,false,,false
 paypig.org,suspend,false,false,,false
