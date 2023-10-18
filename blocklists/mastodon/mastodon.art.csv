@@ -115,6 +115,7 @@ bitcoinhackers.org,silence,false,false,,false
 bitcoinlizard.net,suspend,false,false,,false
 bitcointv.com,suspend,false,false,,false
 bka.li,suspend,false,false,,false
+bkcastle.net,suspend,false,false,,false
 blackoutstout.space,suspend,false,false,,false
 blackstar.cafe,suspend,false,false,,false
 blazingopen.space,suspend,false,false,,false
@@ -646,7 +647,7 @@ moth.social,silence,false,false,,false
 mr64.net,suspend,false,false,,false
 mrhands.horse,suspend,false,false,,false
 mstdn.business,suspend,false,false,,false
-mstdn.ca,silence,false,false,,false
+mstdn.ca,suspend,false,false,,false
 mstdn.foxfam.club,suspend,false,false,,false
 mstdn.io,suspend,false,false,,false
 mstdn.party,silence,false,false,,false
@@ -989,7 +990,7 @@ taobox.pub,suspend,false,false,,false
 tastingtraffic.net,suspend,false,false,,false
 tau-ceti.space,suspend,false,false,,false
 taullo.social,suspend,false,false,,false
-tech.lgbt,silence,false,false,,false
+tech.lgbt,suspend,false,false,,false
 teci.world,suspend,false,false,,false
 teleyal.blog,suspend,false,false,,false
 terrible.place,suspend,false,false,,false
