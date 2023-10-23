@@ -51,6 +51,7 @@ beefyboys.win,suspend,False,False,,False
 beepboop.ga,suspend,False,False,,False
 berserker.town,suspend,False,False,,False
 bestgore.fun,suspend,False,False,,False
+beta.home.social,suspend,False,False,,False
 beta.mstdn.cf,suspend,False,False,,False
 beta.tapbots.social,suspend,False,False,,False
 bgzashtita.es,suspend,False,False,,False
@@ -94,7 +95,6 @@ birdsite.datboi.network,suspend,False,False,,False
 birdsite.davinkevin.fr,suspend,False,False,,False
 birdsite.falkensweb.com,suspend,False,False,,False
 birdsite.felixmueller.cloud,suspend,False,False,,False
-birdsite.gabeappleton.me,suspend,False,False,,False
 birdsite.gnyo.org,suspend,False,False,,False
 birdsite.hexix.de,suspend,False,False,,False
 birdsite.hwarf.com,suspend,False,False,,False
@@ -167,7 +167,6 @@ brighteon.social,suspend,False,False,,False
 brotka.st,suspend,False,False,,False
 bruh.homd.xyz,suspend,False,False,,False
 bsd.moe,silence,False,False,,False
-bsite.spiderden.net,suspend,False,False,,False
 bsl.18m250.org,suspend,False,False,,False
 bsl.adamstas.com,suspend,False,False,,False
 bsl.allofti.me,suspend,False,False,,False
@@ -229,6 +228,7 @@ dembased.xyz,suspend,False,False,,False
 desupost.soy,suspend,False,False,,False
 detroitriotcity.com,suspend,False,False,,False
 dev-wiki.de,suspend,False,False,,False
+develop.gab.com,suspend,False,False,,False
 digitalmarketer.social,suspend,False,False,,False
 dingdash.com,suspend,False,False,,False
 dissident.business,suspend,False,False,,False
@@ -423,12 +423,12 @@ marsey.club,suspend,False,False,,False
 masochi.st,suspend,False,False,,False
 mast.1dot0.io,suspend,False,False,,False
 mast.socialspill.com,suspend,False,False,,False
-mastertibbles.co.uk,suspend,False,False,,False
 masthead.social,suspend,False,False,,False
 mastinator.com,suspend,False,False,,False
 masto.globaleas.org,silence,False,False,,False
 mastodon.astrr.ru,silence,False,False,,False
 mastodon.cardina1.red,silence,False,False,,False
+mastodon.cf,suspend,False,False,,False
 mastodon.com.pl,suspend,False,False,,False
 mastodon.dgfp.club,suspend,False,False,,False
 mastodon.socialspill.com,suspend,False,False,,False
@@ -592,6 +592,8 @@ rneetup.com,suspend,False,False,,False
 rojogato.com,suspend,False,False,,False
 rot.gives,suspend,False,False,,False
 rqd2.net,suspend,False,False,,False
+rss-mstdn.studiofreesia.com,silence,False,False,,False
+rssfeed.media,silence,False,False,,False
 ruinouspowe.rs,suspend,False,False,,False
 ryona.agency,suspend,False,False,,False
 s.vnchich.net,suspend,False,False,,False

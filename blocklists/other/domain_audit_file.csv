@@ -194,6 +194,7 @@ berzs.xyz,1,16.666666666666664
 best-friends.chat,1,16.666666666666664
 bestgore.fun,3,50.0
 beta.birdsite.live,2,33.33333333333333
+beta.home.social,1,16.666666666666664
 beta.mstdn.cf,5,83.33333333333334
 beta.tapbots.social,1,16.666666666666664
 bgzashtita.es,3,50.0
@@ -260,7 +261,7 @@ birdsite.davinkevin.fr,2,33.33333333333333
 birdsite.falkensweb.com,2,33.33333333333333
 birdsite.felixmueller.cloud,2,33.33333333333333
 birdsite.frog.fashion,2,33.33333333333333
-birdsite.gabeappleton.me,2,33.33333333333333
+birdsite.gabeappleton.me,1,16.666666666666664
 birdsite.gnyo.org,2,33.33333333333333
 birdsite.gred.al,1,16.666666666666664
 birdsite.gxvwb.dev,1,16.666666666666664
@@ -394,7 +395,6 @@ bruh.homd.xyz,2,33.33333333333333
 bruh.social,2,33.33333333333333
 brzozow.xyz,1,16.666666666666664
 bsd.moe,2,33.33333333333333
-bsite.spiderden.net,1,16.666666666666664
 bsl.18m250.org,2,33.33333333333333
 bsl.adamstas.com,2,33.33333333333333
 bsl.allofti.me,2,33.33333333333333
@@ -621,7 +621,7 @@ det.social,1,16.666666666666664
 detroitriotcity.com,6,100.0
 dev-wiki.de,3,50.0
 dev.civiq.social,1,16.666666666666664
-develop.gab.com,2,33.33333333333333
+develop.gab.com,3,50.0
 devin.masto.host,1,16.666666666666664
 devouredbyverm.in,1,16.666666666666664
 devs.live,3,50.0
@@ -1350,7 +1350,7 @@ mast.mulliken.net,1,16.666666666666664
 mast.socialspill.com,2,33.33333333333333
 mast.subzone.space,1,16.666666666666664
 mast.wholemars.com,1,16.666666666666664
-mastertibbles.co.uk,6,100.0
+mastertibbles.co.uk,5,83.33333333333334
 masthead.social,3,50.0
 mastinator.com,6,100.0
 mastindia.co,3,50.0
@@ -1372,7 +1372,7 @@ mastodon.bayern,1,16.666666666666664
 mastodon.bgzashtita.es,1,16.666666666666664
 mastodon.bida.im,1,16.666666666666664
 mastodon.cardina1.red,1,16.666666666666664
-mastodon.cf,4,66.66666666666666
+mastodon.cf,5,83.33333333333334
 mastodon.cloud,3,50.0
 mastodon.com.pl,2,33.33333333333333
 mastodon.ctseuro.com,1,16.666666666666664
@@ -2004,6 +2004,8 @@ royalhellcustoms.com,2,33.33333333333333
 roysbeer.place,3,50.0
 rqd2.net,5,83.33333333333334
 rsc.cdn77.org,1,16.666666666666664
+rss-mstdn.studiofreesia.com,1,16.666666666666664
+rssfeed.media,1,16.666666666666664
 rubbery.dev,1,16.666666666666664
 ruinouspowe.rs,4,66.66666666666666
 runfox.tk,1,16.666666666666664
