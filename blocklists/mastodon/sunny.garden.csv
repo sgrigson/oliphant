@@ -139,6 +139,7 @@ misskey-forkbomb.cf,suspend,false,false,,false
 misskey.cf,suspend,false,false,,false
 misskey.io,silence,false,false,,false
 moa.st,suspend,false,false,,false
+monads.online,suspend,false,false,,false
 mostr.pub,suspend,false,false,,false
 mouse.services,suspend,false,false,,false
 mrhands.horse,suspend,false,false,,false
