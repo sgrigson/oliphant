@@ -460,7 +460,6 @@ firebird.mullet.social,suspend,False,False,,False
 firechicken.net,suspend,False,False,,False
 firedragonstudios.com,suspend,False,False,,False
 firefaithfellowship.com,suspend,False,False,,False
-flipboard.social,suspend,False,False,,False
 flockingbird.social,suspend,False,False,,False
 floyds.io,suspend,False,False,,False
 fluf.club,suspend,False,False,,False
@@ -524,6 +523,7 @@ gleasonator.com,suspend,False,False,,False
 glee.li,suspend,False,False,,False
 glindr.org,suspend,False,False,,False
 globalfrens.com,suspend,False,False,,False
+globalskywatch.social,suspend,False,False,,False
 globalwarming.fun,suspend,False,False,,False
 glowers.club,suspend,False,False,,False
 glowie.cloud,suspend,False,False,,False
@@ -1016,6 +1016,7 @@ retroedge.tech,suspend,False,False,,False
 rettiwtkcuf.social,suspend,False,False,,False
 revvy.de,suspend,False,False,,False
 rigcz.club,suspend,False,False,,False
+right.wtf,suspend,False,False,,False
 rightmouse.click,suspend,False,False,,False
 rio.social,suspend,False,False,,False
 rneetup.com,suspend,False,False,,False
@@ -1072,6 +1073,7 @@ shrine.moe,suspend,False,False,,False
 silliness.observer,suspend,False,False,,False
 sinbir.com,suspend,False,False,,False
 singing.dog,suspend,False,False,,False
+sizedon.com,suspend,False,False,,False
 skinheads.eu,suspend,False,False,,False
 skinheads.io,suspend,False,False,,False
 skinheads.network,suspend,False,False,,False
@@ -1166,6 +1168,7 @@ tokhmi.xyz,suspend,False,False,,False
 tomw.social,suspend,False,False,,False
 toot.pt,suspend,False,False,,False
 tooters.fun,suspend,False,False,,False
+tooters.wtf,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 tpo.world,suspend,False,False,,False
 travnewmatic.com,suspend,False,False,,False
@@ -1314,6 +1317,8 @@ yuukosan.xyz,suspend,False,False,,False
 z0ne.social,suspend,False,False,,False
 zcri.dev,suspend,False,False,,False
 zedsocial.ca,suspend,False,False,,False
+zetaspace.org,suspend,False,False,,False
+zhub.link,suspend,False,False,,False
 zip2.social,suspend,False,False,,False
 zokni.xyz,suspend,False,False,,False
 zombiecats.run,suspend,False,False,,False
