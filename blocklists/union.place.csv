@@ -9,6 +9,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 80percent.social,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+adachi.party,suspend,False,False,,False
 adtension.com,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 akm.longyap.name.my,suspend,False,False,,False
@@ -162,6 +163,7 @@ gabe.rocks,suspend,False,False,,False
 gameliberty.club,suspend,False,False,,False
 gangstalking.services,suspend,False,False,,False
 gasthe.lgbt,suspend,False,False,,False
+gc-key.xn--vusz0j.life,suspend,False,False,,False
 gearlandia.haus,suspend,False,False,,False
 genderheretics.xyz,suspend,False,False,,False
 gentoo.live,silence,False,False,,False
@@ -172,6 +174,7 @@ gnuhacker.org,suspend,False,False,,False
 h-i.social,suspend,False,False,,False
 h5q.net,suspend,False,False,,False
 hallertau.social,suspend,False,False,,False
+headpat.cafe,suspend,False,False,,False
 hentai.baby,suspend,False,False,,False
 hirad.it,suspend,False,False,,False
 hoto.rocks,suspend,False,False,,False
@@ -190,6 +193,7 @@ kiwifarms.cc,suspend,False,False,,False
 kiwifarms.is,suspend,False,False,,False
 kiwifarms.net,suspend,False,False,,False
 krackhou.se,suspend,False,False,,False
+l3r.me,suspend,False,False,,False
 lambright.com,suspend,False,False,,False
 leftlibertarian.club,suspend,False,False,,False
 letsalllovela.in,suspend,False,False,,False
@@ -198,6 +202,7 @@ lgbtfree.zone,suspend,False,False,,False
 librenet.co.za,suspend,False,False,,False
 libtar.de,suspend,False,False,,False
 linuxrocks.online,silence,False,False,,False
+lit.tlespace.xyz,suspend,False,False,,False
 localtunnel.me,suspend,False,False,,False
 logo******.com,suspend,False,False,,False
 loli.best,suspend,False,False,,False
@@ -211,6 +216,7 @@ masochi.st,suspend,False,False,,False
 mastertibbles.co.uk,suspend,False,False,,False
 mastinator.com,suspend,False,False,,False
 mastindia.co,suspend,False,False,,False
+masto.brightfur.net,suspend,False,False,,False
 masto.payfrit.com,suspend,False,False,,False
 mastodon.ai8w.ddns.net,suspend,False,False,,False
 mastodon.cf,suspend,False,False,,False
@@ -225,7 +231,9 @@ minidisc.tokyo,suspend,False,False,,False
 mirr0r.city,suspend,False,False,,False
 misogyni.st,suspend,False,False,,False
 misskey-forkbomb,suspend,False,False,,False
+misskey.id,suspend,False,False,,False
 moa.st,suspend,False,False,,False
+moe.onl,suspend,False,False,,False
 monads.online,silence,False,False,,False
 morepablo.com,suspend,False,False,,False
 mostr.pub,suspend,False,False,,False
@@ -256,6 +264,7 @@ normie.cafe,suspend,False,False,,False
 notbird.site,suspend,False,False,,False
 nukem.biz,suspend,False,False,,False
 obo.sh,suspend,False,False,,False
+oddballs.online,suspend,False,False,,False
 onionfarms.org,suspend,False,False,,False
 onlypa.ws,suspend,False,False,,False
 ortodogs.info,suspend,False,False,,False
@@ -296,6 +305,7 @@ qoto.org,silence,False,False,,False
 quanta.wiki,suspend,False,False,,False
 quorum.inumbra.xyz,suspend,False,False,,False
 r18.social,suspend,False,False,,False
+rape.pet,suspend,False,False,,False
 rapefe*******.**twork,suspend,False,False,,False
 rapem***.*****ions,suspend,False,False,,False
 rapemeat.express,suspend,False,False,,False
@@ -318,6 +328,7 @@ roysbeer.place,suspend,False,False,,False
 rqd2.net,suspend,False,False,,False
 ruinouspowe.rs,suspend,False,False,,False
 ryona.agency,suspend,False,False,,False
+sacred.harpy.faith,suspend,False,False,,False
 satoshishop.de,suspend,False,False,,False
 saynoto.lgbt,suspend,False,False,,False
 scots.network,suspend,False,False,,False
@@ -381,6 +392,7 @@ truthsocial.com,suspend,False,False,,False
 truthsocialpro.org,suspend,False,False,,False
 tsu****.me,suspend,False,False,,False
 tube.kansanvalta.org,suspend,False,False,,False
+tummy.town,suspend,False,False,,False
 tweet.pasture.moe,suspend,False,False,,False
 tweetbridge.kogasa.de,suspend,False,False,,False
 tweets.icu,suspend,False,False,,False

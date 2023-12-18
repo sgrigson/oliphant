@@ -47,7 +47,7 @@ activitypub-proxy.cf,4,80.0
 activitypub-troll.cf,5,100.0
 activitypub.actor,1,20.0
 acu.lt,1,20.0
-adachi.party,4,80.0
+adachi.party,5,100.0
 addy.gg,2,40.0
 adhd.stream,1,20.0
 adrienlacombe.me,1,20.0
@@ -860,6 +860,7 @@ gateway.occm.cc,1,20.0
 gatooscuro.xyz,1,20.0
 gay.lesaoras.xyz,1,20.0
 gay.nsfw.onl,1,20.0
+gc-key.xn--vusz0j.life,1,20.0
 gc-project.de,1,20.0
 gearlandia.haus,5,100.0
 gecekafasi.com,2,40.0
@@ -963,7 +964,7 @@ hatthieves.es,1,20.0
 hayu.sh,1,20.0
 hdcraft.xyz,2,40.0
 headcannon.xyz,2,40.0
-headpat.cafe,2,40.0
+headpat.cafe,3,60.0
 hear-me.social,1,20.0
 hedgehoghunter.club,2,40.0
 heislandmine.work,1,20.0
@@ -1163,6 +1164,7 @@ kyot.me,1,20.0
 kyou.social,2,40.0
 kys.moe,3,60.0
 kyun.host,1,20.0
+l3r.me,1,20.0
 ladies.community,1,20.0
 lain.bar,2,40.0
 lain.best,1,20.0
@@ -1222,6 +1224,7 @@ libtar.de,3,60.0
 ligma.pro,4,80.0
 linuxrocks.online,3,60.0
 listie.nl,1,20.0
+lit.tlespace.xyz,1,20.0
 liveview.cf,1,20.0
 livingunder.rocks,1,20.0
 lizards.live,3,60.0
@@ -1308,6 +1311,7 @@ masthead.social,2,40.0
 mastinator.com,5,100.0
 mastindia.co,3,60.0
 masto.ai,1,20.0
+masto.brightfur.net,1,20.0
 masto.payfrit.com,1,20.0
 masto.quad.moe,1,20.0
 mastobate.social,2,40.0
@@ -1422,6 +1426,7 @@ misskey-forkbomb.cf,3,60.0
 misskey.art,1,20.0
 misskey.cf,1,20.0
 misskey.gg,2,40.0
+misskey.id,1,20.0
 misskey.io,3,60.0
 misskey.nl,1,20.0
 misskey.xyz,2,40.0
@@ -1434,7 +1439,7 @@ mk.niscii.xyz,1,20.0
 mkl.lol,1,20.0
 moa.st,4,80.0
 mobile.co,1,20.0
-moe.onl,2,40.0
+moe.onl,3,60.0
 moe.tips,1,20.0
 moeanime.io,1,20.0
 moggy.xyz,1,20.0
@@ -1607,6 +1612,7 @@ nyanide.com,4,80.0
 nzbr.de,1,20.0
 obo.sh,5,100.0
 occultist.space,2,40.0
+oddballs.online,1,20.0
 oddballs.vip,1,20.0
 offkey.cat,1,20.0
 oliviaappleton.com,1,20.0
@@ -1848,7 +1854,7 @@ rakka.tk,1,20.0
 rakket.app,3,60.0
 randland.party,1,20.0
 rape.lol,2,40.0
-rape.pet,4,80.0
+rape.pet,5,100.0
 rapefeminists.network,1,20.0
 rapemeat.express,4,80.0
 rapemeat.shop,1,20.0
@@ -1919,6 +1925,7 @@ runfox.tk,1,20.0
 runtube.re,1,20.0
 ryona.agency,5,100.0
 s.yelvington.com,1,20.0
+sacred.harpy.faith,1,20.0
 sad.cab,2,40.0
 sadlads.com,1,20.0
 sakh.social,1,20.0
@@ -2295,6 +2302,7 @@ tubefail.com,1,20.0
 tubexer.com,1,20.0
 tucson.claims,2,40.0
 tumblr.com,1,20.0
+tummy.town,1,20.0
 tusooa.xyz,1,20.0
 tv.bitma.st,1,20.0
 tw.9tail.net,1,20.0

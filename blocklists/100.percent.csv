@@ -5,6 +5,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 1611.social,suspend,False,False,,False
 5dollah.click,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
+adachi.party,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 asteroidm.space,suspend,False,False,,False
@@ -66,6 +67,7 @@ poster.place,suspend,False,False,,False
 poweredbycocaine.com,suspend,False,False,,False
 qoto.org,silence,False,False,,False
 quanta.wiki,suspend,False,False,,False
+rape.pet,suspend,False,False,,False
 rcsocial.net,silence,False,False,,False
 refusal.llc,suspend,False,False,,False
 repl.co,suspend,False,False,,False
