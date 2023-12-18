@@ -221,6 +221,7 @@ masto.payfrit.com,suspend,false,false,,false
 mastodon.ai8w.ddns.net,suspend,false,false,,false
 mastodon.cf,suspend,false,false,,false
 mastodon.jordanwages.com,suspend,false,false,,false
+mastodon.online,silence,false,false,,false
 mastodon.se,silence,false,false,,false
 mastodon.top,silence,false,false,,false
 mastodon.world,silence,false,false,,false

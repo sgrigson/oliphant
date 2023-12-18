@@ -538,6 +538,7 @@ mastodon.la,suspend,false,false,,false
 mastodon.loliandstuff.moe,suspend,false,false,,false
 mastodon.ml,suspend,false,false,,false
 mastodon.nzoss.nz,suspend,false,false,,false
+mastodon.online,silence,false,false,,false
 mastodon.se,silence,false,false,,false
 mastodon.top,silence,false,false,,false
 mastodon.world,silence,false,false,,false
