@@ -606,7 +606,6 @@ mastodon.ml,suspend,False,False,,False
 mastodon.myocci.social,suspend,False,False,,False
 mastodon.ninja,suspend,False,False,,False
 mastodon.nzoss.nz,suspend,False,False,,False
-mastodon.online,silence,False,False,,False
 mastodon.se,suspend,False,False,,False
 mastodon.sl,suspend,False,False,,False
 mastodon.staycuriousandkeepsmil.in,suspend,False,False,,False
