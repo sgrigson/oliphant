@@ -11,6 +11,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
 a.sc,suspend,False,False,,False
+abraham.su,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 adachi.party,suspend,False,False,,False
@@ -166,6 +167,7 @@ firedragonstudios.com,suspend,False,False,,False
 firefaithfellowship.com,suspend,False,False,,False
 fluf.club,suspend,False,False,,False
 fluffytail.org,suspend,False,False,,False
+foxgirl.lol,suspend,False,False,,False
 fr13nd5.com,suspend,False,False,,False
 freak.university,suspend,False,False,,False
 freeatlantis.com,suspend,False,False,,False
@@ -526,6 +528,8 @@ tnd.lol,suspend,False,False,,False
 toad.social,silence,False,False,,False
 tokhmi.xyz,suspend,False,False,,False
 toot.pt,suspend,False,False,,False
+tooters.fun,suspend,False,False,,False
+tooters.wtf,suspend,False,False,,False
 touha.me,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False

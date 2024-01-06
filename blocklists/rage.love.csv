@@ -23,6 +23,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 8777.ch,suspend,False,False,,False
 a.nti.social,suspend,False,False,,False
 aaathats3as.com,suspend,False,False,,False
+abraham.su,suspend,False,False,,False
 absturztau.be,suspend,False,False,,False
 accela.online,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
@@ -154,6 +155,7 @@ cantos.social,suspend,False,False,,False
 capitalism.party,suspend,False,False,,False
 carnivore.social,suspend,False,False,,False
 carrot.army,suspend,False,False,,False
+cassilda.house,suspend,False,False,,False
 catbot.co,suspend,False,False,,False
 catgirl.land,silence,False,False,,False
 catgirl.life,suspend,False,False,,False
@@ -338,6 +340,7 @@ fluf.club,suspend,False,False,,False
 fluffytail.org,suspend,False,False,,False
 forum.decisiveliberty.news,suspend,False,False,,False
 fosstodon.org,suspend,False,False,,False
+foxgirl.lol,suspend,False,False,,False
 fr13nd5.com,suspend,False,False,,False
 francecatholique.net,suspend,False,False,,False
 freak.university,suspend,False,False,,False
@@ -449,6 +452,7 @@ halle-leaks.de,suspend,False,False,,False
 hallsofamenti.io,suspend,False,False,,False
 handholding.io,suspend,False,False,,False
 hanna.lol,suspend,False,False,,False
+harpy.faith,suspend,False,False,,False
 hatthieves.es,suspend,False,False,,False
 hayu.sh,suspend,False,False,,False
 hedgehoghunter.club,suspend,False,False,,False
@@ -779,6 +783,7 @@ nyanide.com,suspend,False,False,,False
 nzbr.de,suspend,False,False,,False
 obo.sh,suspend,False,False,,False
 occultist.space,suspend,False,False,,False
+oddballs.online,suspend,False,False,,False
 oliviaappleton.com,suspend,False,False,,False
 onionfarms.org,suspend,False,False,,False
 opalstack.social,suspend,False,False,,False
@@ -795,6 +800,7 @@ overheid.nl,suspend,False,False,,False
 p.bilb.info,suspend,False,False,,False
 p.mr64.net,suspend,False,False,,False
 paidspeechextremist.com,suspend,False,False,,False
+parcero.bond,suspend,False,False,,False
 patch.cx,suspend,False,False,,False
 pawlicker.com,suspend,False,False,,False
 pawoo.net,suspend,False,False,,False
@@ -1089,6 +1095,7 @@ staycuriousandkeepsmil.in,suspend,False,False,,False
 stereophonic.space,suspend,False,False,,False
 stop.voring.me,suspend,False,False,,False
 strelizia.net,suspend,False,False,,False
+strm.natehiggers.org,suspend,False,False,,False
 sunbutt.faith,suspend,False,False,,False
 sunshinegardens.org,suspend,False,False,,False
 supernets.social,suspend,False,False,,False
@@ -1151,7 +1158,9 @@ toot.freedomworkshop.com,suspend,False,False,,False
 toot.pt,suspend,False,False,,False
 toot.wales,suspend,False,False,,False
 toot.world,suspend,False,False,,False
+tooters.fun,suspend,False,False,,False
 tooters.org,suspend,False,False,,False
+tooters.wtf,suspend,False,False,,False
 tootsocial.com,suspend,False,False,,False
 totallylegit.site,suspend,False,False,,False
 traboone.com,suspend,False,False,,False
