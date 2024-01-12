@@ -7,6 +7,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 10minutepleroma.com,suspend,False,False,,False
 13bells.com,suspend,False,False,,False
 1611.social,suspend,False,False,,False
+168.119.6.104,suspend,False,False,,False
 1being.org,suspend,False,False,,False
 2.distsn.org,suspend,False,False,,False
 2hu.club,suspend,False,False,,False
