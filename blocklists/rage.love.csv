@@ -32,6 +32,7 @@ activitypub-troll.cf,suspend,False,False,,False
 activitypub.actor,suspend,False,False,,False
 adachi.party,suspend,False,False,,False
 addy.gg,suspend,False,False,,False
+admin.ch,suspend,False,False,,False
 adtension.com,suspend,False,False,,False
 aether.us,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
@@ -315,6 +316,7 @@ equel.social,suspend,False,False,,False
 eskimo.com,suspend,False,False,,False
 esmailelbob.xyz,suspend,False,False,,False
 est.social,silence,False,False,,False
+eupolicy.social,suspend,False,False,,False
 eveningzoo.club,suspend,False,False,,False
 evilcyberhacker.net,suspend,False,False,,False
 exited.eu,suspend,False,False,,False
@@ -603,6 +605,7 @@ libre.video,suspend,False,False,,False
 librenet.co.za,suspend,False,False,,False
 lick.cunny.win,suspend,False,False,,False
 ligma.pro,suspend,False,False,,False
+linksfraktion.de,suspend,False,False,,False
 linuxrocks.online,suspend,False,False,,False
 listie.nl,suspend,False,False,,False
 lit.tlespace.xyz,suspend,False,False,,False
@@ -684,6 +687,7 @@ matchflame.eu,suspend,False,False,,False
 matchflame.nl,suspend,False,False,,False
 meatbag.app,suspend,False,False,,False
 megamast.io,suspend,False,False,,False
+meissa-gmbh.de,suspend,False,False,,False
 meisskey.blue,suspend,False,False,,False
 melalandia.tk,suspend,False,False,,False
 melonbread.dev,suspend,False,False,,False
@@ -771,6 +775,7 @@ netzsphaere.xyz,suspend,False,False,,False
 neue.city,suspend,False,False,,False
 neurodiver.ge,suspend,False,False,,False
 newjack.city,suspend,False,False,,False
+newsie.social,suspend,False,False,,False
 ngrok.io,suspend,False,False,,False
 nicecrew.digital,suspend,False,False,,False
 nigge.rs,suspend,False,False,,False
@@ -1059,6 +1064,7 @@ soc0.outrnat.nl,suspend,False,False,,False
 sociabl.be,suspend,False,False,,False
 social.*******.space,suspend,False,False,,False
 social.076.ne.jp,suspend,False,False,,False
+social.admin.ch,suspend,False,False,,False
 social.allthefallen.ninja,suspend,False,False,,False
 social.ancreport.com,suspend,False,False,,False
 social.anoxinon.de,suspend,False,False,,False
@@ -1087,13 +1093,16 @@ social.imirhil.fr,suspend,False,False,,False
 social.jesuislibre.net,suspend,False,False,,False
 social.k3tan.com,suspend,False,False,,False
 social.librem.one,suspend,False,False,,False
+social.linksfraktion.de,suspend,False,False,,False
 social.lovingexpressions.net,suspend,False,False,,False
 social.lucci.xyz,suspend,False,False,,False
 social.manalejandro.com,suspend,False,False,,False
 social.matej-lach.me,suspend,False,False,,False
+social.meissa-gmbh.de,suspend,False,False,,False
 social.midwaytrades.com,suspend,False,False,,False
 social.network.europa.eu,suspend,False,False,,False
 social.nothingplanet.com,suspend,False,False,,False
+social.overheid.nl,suspend,False,False,,False
 social.pcwideopen.com,suspend,False,False,,False
 social.pseudo-whiskey.bar,suspend,False,False,,False
 social.quldverum.com,suspend,False,False,,False
