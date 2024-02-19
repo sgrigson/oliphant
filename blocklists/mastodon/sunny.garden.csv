@@ -64,6 +64,7 @@ cybercriminal.eu,suspend,false,false,,false
 cyberstorm.one,suspend,false,false,,false
 decayable.ink,suspend,false,false,,false
 detroitriotcity.com,suspend,false,false,,false
+digitaldata.social,suspend,false,false,,false
 disqordia.space,silence,false,false,,false
 djsumdog.com,suspend,false,false,,false
 duckdns.org,suspend,false,false,,false
@@ -83,6 +84,8 @@ femboys.love,suspend,false,false,,false
 feral.cafe,suspend,false,false,,false
 fightthis.net,suspend,false,false,,false
 fluf.club,suspend,false,false,,false
+folksocial.org,silence,false,false,,false
+forestver.se,suspend,false,false,,false
 freak.university,suspend,false,false,,false
 freeatlantis.com,suspend,false,false,,false
 freesoftwareextremist.com,suspend,false,false,,false
@@ -91,6 +94,7 @@ freespeechextremist.com,suspend,false,false,,false
 freetalklive.com,suspend,false,false,,false
 freethinkers.lgbt,suspend,false,false,,false
 frennet.xyz,suspend,false,false,,false
+fusionpros.social,suspend,false,false,,false
 gameliberty.club,suspend,false,false,,false
 gearlandia.haus,suspend,false,false,,false
 genderheretics.xyz,suspend,false,false,,false
@@ -106,6 +110,7 @@ hentai.baby,suspend,false,false,,false
 hidamari.apartments,suspend,false,false,,false
 hitchhiker.social,suspend,false,false,,false
 husk.site,suspend,false,false,,false
+i.transmit.love,suspend,false,false,,false
 icod.de,suspend,false,false,,false
 iddqd.social,suspend,false,false,,false
 ignorelist.com,suspend,false,false,,false
@@ -130,13 +135,18 @@ makemysarcophagus.com,suspend,false,false,,false
 mapsupport.de,suspend,false,false,,false
 marsey.moe,suspend,false,false,,false
 masochi.st,suspend,false,false,,false
+mastadon.astuto.cc,suspend,false,false,,false
+mastdn.social,silence,false,false,,false
 mastertibbles.co.uk,suspend,false,false,,false
 mastinator.com,suspend,false,false,,false
 mastobate.social,silence,false,false,,false
 mastodon.cloud,silence,false,false,,false
+mastodon.mg,silence,false,false,,false
+mastodon.zorqz.com,suspend,false,false,,false
 mastodong.lol,suspend,false,false,,false
 mathias777.com,silence,false,false,,false
 matrix.rocks,suspend,false,false,,false
+mentalhealth-masto.com,suspend,false,false,,false
 merovingian.club,suspend,false,false,,false
 milker.cafe,suspend,false,false,,false
 minds.com,suspend,false,false,,false
@@ -147,6 +157,7 @@ misskey.io,silence,false,false,,false
 moa.st,suspend,false,false,,false
 monads.online,suspend,false,false,,false
 mostr.pub,suspend,false,false,,false
+moth.social,silence,false,false,,false
 mouse.services,suspend,false,false,,false
 mrhands.horse,suspend,false,false,,false
 mstdn.jp,silence,false,false,,false
@@ -157,6 +168,7 @@ natehiggers.online,suspend,false,false,,false
 nationalist.social,suspend,false,false,,false
 neenster.org,suspend,false,false,,false
 neomobius.com,suspend,false,false,,false
+neuss.social,suspend,false,false,,false
 newsie.social,silence,false,false,,false
 nicecrew.digital,suspend,false,false,,false
 nightshift.social,suspend,false,false,,false
@@ -186,6 +198,7 @@ poa.st,suspend,false,false,,false
 poast.tv,suspend,false,false,,false
 pone.social,suspend,false,false,,false
 poster.place,suspend,false,false,,false
+pouet.evolix.org,suspend,false,false,,false
 pouque.net,suspend,false,false,,false
 poweredbycocaine.com,suspend,false,false,,false
 press.coop,silence,false,false,,false
@@ -207,6 +220,7 @@ rojogato.com,suspend,false,false,,false
 rot.gives,suspend,false,false,,false
 rqd2.net,suspend,false,false,,false
 ryona.agency,suspend,false,false,,false
+scfzfilm.org,suspend,false,false,,false
 schwartzwelt.xyz,suspend,false,false,,false
 scots.network,suspend,false,false,,false
 seal.cafe,suspend,false,false,,false
@@ -227,6 +241,8 @@ skyshanty.xyz,suspend,false,false,,false
 sleepy.cafe,suspend,false,false,,false
 sneed.social,suspend,false,false,,false
 soc.ua-fediland.de,silence,false,false,,false
+social.cezeri.tech,suspend,false,false,,false
+social.foederiert.de,suspend,false,false,,false
 spinster.xyz,suspend,false,false,,false
 springbo.cc,suspend,false,false,,false
 squid.kids,suspend,false,false,,false
@@ -240,6 +256,7 @@ tastingtraffic.net,suspend,false,false,,false
 teci.world,suspend,false,false,,false
 thisisjoes.site,suspend,false,false,,false
 threads.net,suspend,false,false,,false
+toot.poedelwitz.de,suspend,false,false,,false
 tooters.fun,suspend,false,false,,false
 tooters.wtf,suspend,false,false,,false
 troll.cafe,suspend,false,false,,false
