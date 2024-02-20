@@ -82,7 +82,6 @@ elekk.xyz,silence,False,False,,False
 elonsucks.org,suspend,False,False,,False
 epsilon.social,suspend,False,False,,False
 eskimo.com,suspend,False,False,,False
-estrogen.cat,suspend,False,False,,False
 eveningzoo.club,suspend,False,False,,False
 exploding-heads.com,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
@@ -134,6 +133,7 @@ kibitz.cloud,suspend,False,False,,False
 kitsunemimi.club,suspend,False,False,,False
 kiwifarms.cc,suspend,False,False,,False
 kokuusa.club,suspend,False,False,,False
+kommunismus.social,suspend,False,False,,False
 kompost.cz,suspend,False,False,,False
 kurosawa.moe,suspend,False,False,,False
 leafposter.club,suspend,False,False,,False
@@ -160,10 +160,8 @@ mastodon-ero.xyz,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
 mastodon.integrata-stiftung.de,suspend,False,False,,False
 mastodon.london,silence,False,False,,False
-mastodon.mg,silence,False,False,,False
 mastodon.my,suspend,False,False,,False
 mastodon.wien,silence,False,False,,False
-mastodon.zorqz.com,suspend,False,False,,False
 mastodong.lol,suspend,False,False,,False
 mathias777.com,silence,False,False,,False
 matrix.rocks,suspend,False,False,,False
@@ -202,7 +200,7 @@ nobodyhasthe.biz,suspend,False,False,,False
 norwoodzero.net,suspend,False,False,,False
 novoa.nagoya,suspend,False,False,,False
 nyanide.com,suspend,False,False,,False
-nycity.social,suspend,False,False,,False
+nycity.social,silence,False,False,,False
 obo.sh,suspend,False,False,,False
 occultist.space,suspend,False,False,,False
 oddballs.online,suspend,False,False,,False
@@ -280,7 +278,6 @@ syspxl.xyz,suspend,False,False,,False
 tastingtraffic.net,suspend,False,False,,False
 tcpcat.net,suspend,False,False,,False
 teci.world,suspend,False,False,,False
-terere.social,suspend,False,False,,False
 thewiring.com,suspend,False,False,,False
 thisisjoes.site,suspend,False,False,,False
 threads.net,suspend,False,False,,False
@@ -302,6 +299,7 @@ varishangout.net,suspend,False,False,,False
 vtuberfan.social,suspend,False,False,,False
 wank.social,suspend,False,False,,False
 waterlily.tokyo,suspend,False,False,,False
+wehavecookies.social,silence,False,False,,False
 westen.social,suspend,False,False,,False
 whinge.town,suspend,False,False,,False
 wideboys.org,suspend,False,False,,False
