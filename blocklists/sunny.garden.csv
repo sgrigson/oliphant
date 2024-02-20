@@ -162,6 +162,7 @@ mastodon.cloud,silence,False,False,,False
 mastodon.integrata-stiftung.de,suspend,False,False,,False
 mastodon.london,silence,False,False,,False
 mastodon.my,suspend,False,False,,False
+mastodon.snmsoc.org,suspend,False,False,,False
 mastodon.wien,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False
 mathias777.com,silence,False,False,,False
@@ -189,6 +190,7 @@ natehiggers.online,suspend,False,False,,False
 nationalist.social,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
 neomobius.com,suspend,False,False,,False
+neuroscience-mastodon.com,suspend,False,False,,False
 neuss.social,suspend,False,False,,False
 newsie.social,silence,False,False,,False
 nicecrew.digital,suspend,False,False,,False
