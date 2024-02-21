@@ -610,6 +610,7 @@ murky.club,suspend,False,False,,False
 musksocial.com,suspend,False,False,,False
 mxin.moe,suspend,False,False,,False
 mycub.space,suspend,False,False,,False
+mylegendary.quest,suspend,False,False,,False
 nafo.uk,silence,False,False,,False
 naharia.net,suspend,False,False,,False
 nalocal519.social,suspend,False,False,,False
@@ -972,7 +973,7 @@ udongein.xyz,suspend,False,False,,False
 umbrellix.org,suspend,False,False,,False
 unbound.social,suspend,False,False,,False
 ungoverned.social,suspend,False,False,,False
-universeodon.com,suspend,False,False,,False
+universeodon.com,silence,False,False,,False
 unperson.us,suspend,False,False,,False
 unsafe.space,suspend,False,False,,False
 urchan.org,suspend,False,False,,False

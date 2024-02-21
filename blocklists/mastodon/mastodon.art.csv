@@ -679,6 +679,7 @@ musksocial.com,suspend,false,false,,false
 my-sunshine.video,suspend,false,false,,false
 myasstodon.xyz,suspend,false,false,,false
 mycrowd.ca,suspend,false,false,,false
+mylegendary.quest,suspend,false,false,,false
 mymastadon.link,suspend,false,false,,false
 myxoz.port0.org,suspend,false,false,,false
 nachocheese.uk,suspend,false,false,,false
@@ -1045,7 +1046,6 @@ thepostearthdestination.com,suspend,false,false,,false
 theres.life,suspend,false,false,,false
 thewizardingworld.com,suspend,false,false,,false
 thisawfuldungeon.art,suspend,false,false,,false
-thisis.mylegendary.quest,suspend,false,false,,false
 thisisjoes.site,suspend,false,false,,false
 thj.no,suspend,false,false,,false
 thonkbox.rightmouse.click,suspend,false,false,,false
@@ -1085,7 +1085,7 @@ tylerdavis.xyz,suspend,false,false,,false
 ua-fediland.de,suspend,false,false,,false
 udongein.xyz,suspend,false,false,,false
 ungoverned.social,suspend,false,false,,false
-universeodon.com,suspend,false,false,,false
+universeodon.com,silence,false,false,,false
 unix.dog,suspend,false,false,,false
 unperson.us,suspend,false,false,,false
 unsafe.space,suspend,false,false,,false
