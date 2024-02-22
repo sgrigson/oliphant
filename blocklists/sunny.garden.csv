@@ -16,6 +16,7 @@ aether.run,suspend,False,False,,False
 aethy.com,suspend,False,False,,False
 ai.wiki,suspend,False,False,,False
 alterracloud.com,suspend,False,False,,False
+america.social,suspend,False,False,,False
 angrytoday.com,suspend,False,False,,False
 annihilation.social,suspend,False,False,,False
 anon-kenkai.com,suspend,False,False,,False
@@ -165,6 +166,7 @@ mastodon.integrata-stiftung.de,suspend,False,False,,False
 mastodon.london,silence,False,False,,False
 mastodon.my,suspend,False,False,,False
 mastodon.snmsoc.org,suspend,False,False,,False
+mastodon.svgun.ru,suspend,False,False,,False
 mastodon.wien,silence,False,False,,False
 mastodong.lol,suspend,False,False,,False
 mathias777.com,silence,False,False,,False
@@ -178,7 +180,9 @@ misskey-forkbomb.cf,suspend,False,False,,False
 misskey.cf,suspend,False,False,,False
 misskey.io,silence,False,False,,False
 moa.st,suspend,False,False,,False
+molaguay.xyz,suspend,False,False,,False
 monads.online,suspend,False,False,,False
+mooo.com,suspend,False,False,,False
 mostr.pub,suspend,False,False,,False
 moth.social,silence,False,False,,False
 mouse.services,suspend,False,False,,False
@@ -188,6 +192,7 @@ mugicha.club,suspend,False,False,,False
 mxin.moe,suspend,False,False,,False
 mycub.space,suspend,False,False,,False
 nafo.uk,silence,False,False,,False
+nasface.cz,suspend,False,False,,False
 natehiggers.online,suspend,False,False,,False
 nationalist.social,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
