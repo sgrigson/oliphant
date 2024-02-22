@@ -6,6 +6,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 13bells.com,suspend,False,False,,False
 1611.social,suspend,False,False,,False
 5dollah.click,suspend,False,False,,False
+9kb.me,suspend,False,False,,False
 a.sc,suspend,False,False,,False
 absturztau.be,silence,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
@@ -163,6 +164,7 @@ mastinator.com,suspend,False,False,,False
 mastobate.social,silence,False,False,,False
 mastodon-ero.xyz,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
+mastodon.education,silence,False,False,,False
 mastodon.integrata-stiftung.de,suspend,False,False,,False
 mastodon.io.seg.br,suspend,False,False,,False
 mastodon.london,silence,False,False,,False
