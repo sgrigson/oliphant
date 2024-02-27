@@ -15,6 +15,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 7td.org,suspend,False,False,,False
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
+9kb.me,suspend,False,False,,False
 a.sc,suspend,False,False,,False
 abraham.su,suspend,False,False,,False
 absturztau.be,silence,False,False,,False
@@ -85,6 +86,7 @@ beepboop.ga,suspend,False,False,,False
 beetoons.tv,suspend,False,False,,False
 berserker.town,suspend,False,False,,False
 bestgore.fun,suspend,False,False,,False
+besties.com,suspend,False,False,,False
 beta.birdsite.live,suspend,False,False,,False
 bgzashtita.es,suspend,False,False,,False
 bibly.com,suspend,False,False,,False
@@ -553,6 +555,7 @@ mastod.no,suspend,False,False,,False
 mastodo.fi,suspend,False,False,,False
 mastodon.cf,suspend,False,False,,False
 mastodon.cloud,silence,False,False,,False
+mastodon.io.seg.br,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.loliandstuff.moe,suspend,False,False,,False
 mastodon.ml,suspend,False,False,,False

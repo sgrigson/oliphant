@@ -22,6 +22,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 7td.org,suspend,False,False,,False
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
+9kb.me,suspend,False,False,,False
 a.nti.social,suspend,False,False,,False
 aaathats3as.com,suspend,False,False,,False
 abraham.su,suspend,False,False,,False
@@ -102,6 +103,7 @@ beetoons.tv,suspend,False,False,,False
 berserker.town,suspend,False,False,,False
 berzs.xyz,suspend,False,False,,False
 bestgore.fun,suspend,False,False,,False
+besties.com,suspend,False,False,,False
 bigchungus69.club,suspend,False,False,,False
 bigguys.club,suspend,False,False,,False
 bikeshed.party,suspend,False,False,,False
@@ -676,6 +678,7 @@ mastodon.green,suspend,False,False,,False
 mastodon.grin.hu,suspend,False,False,,False
 mastodon.honeypot.im,suspend,False,False,,False
 mastodon.in.ua,suspend,False,False,,False
+mastodon.io.seg.br,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.loliandstuff.moe,suspend,False,False,,False
 mastodon.macsnet.cz,suspend,False,False,,False
@@ -900,6 +903,7 @@ pl.skyn3t.in,suspend,False,False,,False
 pl.slash.cl,suspend,False,False,,False
 pl.thj.no,suspend,False,False,,False
 pl.tkammer.de,suspend,False,False,,False
+pl.voltrina.net,suspend,False,False,,False
 pl.wowana.me,suspend,False,False,,False
 plagu.ee,suspend,False,False,,False
 plandemic.icu,suspend,False,False,,False
@@ -1303,6 +1307,7 @@ vladtepesblog.com,suspend,False,False,,False
 voice.masto.host,suspend,False,False,,False
 voicenews.icu,suspend,False,False,,False
 void.rehab,suspend,False,False,,False
+voltrina.net,suspend,False,False,,False
 voluntaryism.club,suspend,False,False,,False
 vrij.social,suspend,False,False,,False
 vsta.org,suspend,False,False,,False
