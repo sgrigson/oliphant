@@ -10,6 +10,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 168.119.6.104,suspend,False,False,,False
 1being.org,suspend,False,False,,False
 2.distsn.org,suspend,False,False,,False
+2a01:4f8:140:2113::2,suspend,False,False,,False
 2hu.club,suspend,False,False,,False
 2ndamendment.social,suspend,False,False,,False
 3zi.ru,suspend,False,False,,False
