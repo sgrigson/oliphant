@@ -287,6 +287,7 @@ fedi.absturztau.be,suspend,false,false,,false
 fedi.app,suspend,false,false,,false
 fedi.pawlicker.com,suspend,false,false,,false
 fedi.site,suspend,false,false,,false
+fedi.truth-sandwich.com,suspend,false,false,,false
 fedicy.allowed.org,suspend,false,false,,false
 fediverse-lite.com,suspend,false,false,,false
 fediverse.pl,suspend,false,false,,false
@@ -299,6 +300,7 @@ firebird.mullet.social,suspend,false,false,,false
 firedragonstudios.com,suspend,false,false,,false
 firefaithfellowship.com,suspend,false,false,,false
 firefish.social,suspend,false,false,,false
+flashist.video,suspend,false,false,,false
 fluf.club,suspend,false,false,,false
 fluffytail.org,suspend,false,false,,false
 fosstodon.org,silence,false,false,,false
@@ -712,6 +714,7 @@ pl.skyn3t.in,suspend,false,false,,false
 pl.slash.cl,suspend,false,false,,false
 pl.tkammer.de,suspend,false,false,,false
 pl.valkyrie.world,suspend,false,false,,false
+pl.voltrina.net,suspend,false,false,,false
 plagu.ee,suspend,false,false,,false
 platypush.tech,suspend,false,false,,false
 pleroma.eientei.org,suspend,false,false,,false
