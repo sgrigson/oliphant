@@ -1,219 +1,219 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
-5dollah.click,suspend,False,False,,False
-activitypub-proxy.cf,suspend,False,False,,False
-activitypub-troll.cf,suspend,False,False,,False
-aethy.com,suspend,False,False,,False
-anime.website,suspend,False,False,,False
-annihilation.social,suspend,False,False,,False
-asbestos.cafe,suspend,False,False,,False
-ati**.***ss,suspend,False,False,,False
-bae.st,suspend,False,False,,False
+5dollah.click,suspend,False,False,Hate speech,False
+activitypub-proxy.cf,suspend,False,False,Spam,False
+activitypub-troll.cf,suspend,False,False,Spam,False
+aethy.com,suspend,False,False,Inappropriate content,False
+anime.website,suspend,False,False,Inappropriate content,False
+annihilation.social,suspend,False,False,Hate speech,False
+asbestos.cafe,suspend,False,False,Hate speech,False
+ati**.***ss,suspend,False,False,Inappropriate content,False
+bae.st,suspend,False,False,Inappropriate content,False
 baraag.net,suspend,False,False,,False
-beefyboys.club,suspend,False,False,,False
-beefyboys.win,suspend,False,False,,False
+beefyboys.club,suspend,False,False,Hate speech,False
+beefyboys.win,suspend,False,False,Hate speech,False
 beta.birdsite.live,suspend,False,False,,False
-beta.mstdn.cf,suspend,False,False,,False
-bgzashtita.es,silence,False,False,,False
-birb.elfenban.de,suspend,False,False,,False
-birb.redra1n.net,suspend,False,False,,False
-birb.stream,suspend,False,False,,False
-bird.evilcyberhacker.net,suspend,False,False,,False
-bird.froth.zone,suspend,False,False,,False
-bird.makeup,suspend,False,False,,False
-birdbots.leptonics.com,suspend,False,False,,False
-birdlive.grupotd.nat.cu,suspend,False,False,,False
-birdsite.am-institute.swiss,suspend,False,False,,False
-birdsite.blazelight.dev,suspend,False,False,,False
-birdsite.frog.fashion,suspend,False,False,,False
-birdsite.james.moody.name,suspend,False,False,,False
-birdsite.platypush.tech,suspend,False,False,,False
-birdsite.tcjc.uk,suspend,False,False,,False
-birdsite.thorlaksson.com,suspend,False,False,,False
-birdsite.weiranzhang.com,suspend,False,False,,False
-birdsite.wilde.cloud,suspend,False,False,,False
-birdsitelive.falschgold.net,suspend,False,False,,False
-birdsitelive.kevinyank.com,suspend,False,False,,False
-birdsitelive.samedwards.ca,suspend,False,False,,False
-birdsitelive.treffler.cloud,suspend,False,False,,False
-bmu.1a23.studio,suspend,False,False,,False
-brands.town,suspend,False,False,,False
-breastmilk.club,suspend,False,False,,False
-bridge.yopp.me,suspend,False,False,,False
-brighteon.social,silence,False,False,,False
-bur****.*oe,suspend,False,False,,False
-cachapa.xyz,suspend,False,False,,False
-cann****.*afe,suspend,False,False,,False
-cass****.**use,suspend,False,False,,False
-catgirl.life,suspend,False,False,,False
-chil*****.**ace,suspend,False,False,,False
-chil*****.*hop,suspend,False,False,,False
-chil*****.su,suspend,False,False,,False
-chudbuds.lol,suspend,False,False,,False
-clew.lol,suspend,False,False,,False
-clown.******sity,suspend,False,False,,False
-clubcyberia.co,suspend,False,False,,False
-comfyboy.club,suspend,False,False,,False
-cotto******.cafe,suspend,False,False,,False
-cum.salon,suspend,False,False,,False
-cunn******.top,suspend,False,False,,False
-cunny*****.*pace,suspend,False,False,,False
-daji******.com,suspend,False,False,,False
-decayable.ink,suspend,False,False,,False
+beta.mstdn.cf,suspend,False,False,Third-party bots,False
+bgzashtita.es,silence,False,False,Misinformation,False
+birb.elfenban.de,suspend,False,False,Third-party bots,False
+birb.redra1n.net,suspend,False,False,Third-party bots,False
+birb.stream,suspend,False,False,Third-party bots,False
+bird.evilcyberhacker.net,suspend,False,False,Third-party bots,False
+bird.froth.zone,suspend,False,False,Third-party bots,False
+bird.makeup,suspend,False,False,Third-party bots,False
+birdbots.leptonics.com,suspend,False,False,Third-party bots,False
+birdlive.grupotd.nat.cu,suspend,False,False,Third party bots,False
+birdsite.am-institute.swiss,suspend,False,False,Third-party bots,False
+birdsite.blazelight.dev,suspend,False,False,Third-party bots,False
+birdsite.frog.fashion,suspend,False,False,Third-party bots,False
+birdsite.james.moody.name,suspend,False,False,Third-party bots,False
+birdsite.platypush.tech,suspend,False,False,Third-party bots,False
+birdsite.tcjc.uk,suspend,False,False,Third-party bots,False
+birdsite.thorlaksson.com,suspend,False,False,Third-party bots,False
+birdsite.weiranzhang.com,suspend,False,False,Third-party bots,False
+birdsite.wilde.cloud,suspend,False,False,Third-party bots,False
+birdsitelive.falschgold.net,suspend,False,False,Third-party bots,False
+birdsitelive.kevinyank.com,suspend,False,False,Third-party bots,False
+birdsitelive.samedwards.ca,suspend,False,False,Third-party bots,False
+birdsitelive.treffler.cloud,suspend,False,False,Third-party bots,False
+bmu.1a23.studio,suspend,False,False,Third-party bots,False
+brands.town,suspend,False,False,Spam,False
+breastmilk.club,suspend,False,False,Hate speech,False
+bridge.yopp.me,suspend,False,False,Third-party bots,False
+brighteon.social,silence,False,False,Misinformation and conspiracy theories,False
+bur****.*oe,suspend,False,False,Inappropriate content,False
+cachapa.xyz,suspend,False,False,Hate speech,False
+cann****.*afe,suspend,False,False,Inappropriate content,False
+cass****.**use,suspend,False,False,Inappropriate content,False
+catgirl.life,suspend,False,False,Inappropriate content,False
+chil*****.**ace,suspend,False,False,Inappropriate content,False
+chil*****.*hop,suspend,False,False,Inappropriate content,False
+chil*****.su,suspend,False,False,Inappropriate content,False
+chudbuds.lol,suspend,False,False,Hate speech,False
+clew.lol,suspend,False,False,Hate speech,False
+clown.******sity,suspend,False,False,Inappropriate content,False
+clubcyberia.co,suspend,False,False,Hate speech,False
+comfyboy.club,suspend,False,False,Hate speech,False
+cotto******.cafe,suspend,False,False,Inappropriate content,False
+cum.salon,suspend,False,False,Hate speech,False
+cunn******.top,suspend,False,False,Inappropriate content,False
+cunny*****.*pace,suspend,False,False,Inappropriate content,False
+daji******.com,suspend,False,False,Inappropriate content,False
+decayable.ink,suspend,False,False,Hate speech,False
 degen******.fail,suspend,False,False,,False
-detroitriotcity.com,suspend,False,False,,False
-dlf.social,suspend,False,False,,False
-eveningzoo.club,suspend,False,False,,False
-fr13nd5.com,silence,False,False,,False
-freak.******sity,suspend,False,False,,False
-freeatlantis.com,silence,False,False,,False
-freecumextremist.com,suspend,False,False,,False
-freespeech.club,suspend,False,False,,False
-freespeechextremist.com,suspend,False,False,,False
-gab.ai,suspend,False,False,,False
-gab.com,suspend,False,False,,False
-gameliberty.club,suspend,False,False,,False
-gearlandia.haus,suspend,False,False,,False
-genderheretics.xyz,suspend,False,False,,False
-getgle.org,suspend,False,False,,False
-ghet**.****ter,suspend,False,False,,False
-glindr.org,suspend,False,False,,False
-globalfrens.com,suspend,False,False,,False
-glowers.club,suspend,False,False,,False
-h5q.net,suspend,False,False,,False
-hen***.**by,suspend,False,False,,False
-hunk.city,suspend,False,False,,False
-husk.site,suspend,False,False,,False
-instinctd.com,suspend,False,False,,False
-jaeger.website,suspend,False,False,,False
-kiwifarms.cc,suspend,False,False,,False
-leafposter.club,suspend,False,False,,False
-leonardwong.dev,suspend,False,False,,False
-lewdi*******.com,suspend,False,False,,False
-lewdi*******.vip,suspend,False,False,,False
-lit.t*******.xyz,suspend,False,False,,False
-lol*.***za,suspend,False,False,,False
-loli***.**cks,suspend,False,False,,False
-loli.****sed,suspend,False,False,,False
-lolison.top,suspend,False,False,,False
-lush.moe,suspend,False,False,,False
-maps******.de,suspend,False,False,,False
-mashtodon.alterracloud.com,suspend,False,False,,False
-mast.socialspill.com,suspend,False,False,,False
-mastinator.com,suspend,False,False,,False
-mastodon.socialspill.com,suspend,False,False,,False
-mastodonhub.com,suspend,False,False,,False
-merovingian.club,suspend,False,False,,False
-misskey-forkbomb.cf,suspend,False,False,,False
-misskey.io,silence,False,False,,False
-mostr.pub,silence,False,False,,False
-mstdn.foxfam.club,silence,False,False,,False
-mugicha.club,suspend,False,False,,False
-my.dirtyhobby.xyz,suspend,False,False,,False
-nate*******.org,suspend,False,False,,False
-nateh******.**line,suspend,False,False,,False
-nationalist.social,suspend,False,False,,False
-nazi.social,suspend,False,False,,False
-neckbeard.xyz,suspend,False,False,,False
-newsbots.eu,suspend,False,False,,False
-nicecrew.digital,suspend,False,False,,False
-nnia.space,suspend,False,False,,False
-noagendasocial.com,silence,False,False,,False
-noauthority.social,suspend,False,False,,False
-norwoodzero.net,suspend,False,False,,False
-ns.auction,suspend,False,False,,False
-nya.u*******.moe,suspend,False,False,,False
-nyanide.com,suspend,False,False,,False
-ob*.*h,suspend,False,False,,False
-oddb****.***ine,suspend,False,False,,False
-onion.social,silence,False,False,,False
-paravielfalt.zone,suspend,False,False,,False
-parcero.bond,suspend,False,False,,False
-pawoo.net,suspend,False,False,,False
-paypig.org,suspend,False,False,,False
-ped*.****ol,suspend,False,False,,False
-pett****.art,suspend,False,False,,False
-pieville.net,suspend,False,False,,False
-pl.smuglo.li,suspend,False,False,,False
-pl.wy********.art,suspend,False,False,,False
-plero**.*****.love,suspend,False,False,,False
-plero**.*****.net,suspend,False,False,,False
-pleroma.**********he.biz,suspend,False,False,,False
-pleroma.adachi.party,suspend,False,False,,False
-pleroma.fun,suspend,False,False,,False
-pleroma.kitsunemimi.club,suspend,False,False,,False
-pleroma.us,suspend,False,False,,False
-poa.st,suspend,False,False,,False
-pooper.social,suspend,False,False,,False
-poster.place,suspend,False,False,,False
-postin*.*******.rocks,suspend,False,False,,False
-pouque.net,suspend,False,False,,False
-rakket.app,suspend,False,False,,False
-rap*.*et,suspend,False,False,,False
-rapem***.*****ions,suspend,False,False,,False
-rapemeat.express,suspend,False,False,,False
-rdrama.cc,suspend,False,False,,False
-refusal.biz,suspend,False,False,,False
-repl.co,suspend,False,False,,False
-rot.***es,suspend,False,False,,False
-ryona.agency,suspend,False,False,,False
-schwartzwelt.xyz,suspend,False,False,,False
-seal.cafe,suspend,False,False,,False
-shitpisscum.mooo.com,suspend,False,False,,False
-shitpost.cloud,suspend,False,False,,False
-shitposter.club,suspend,False,False,,False
-shitposting.army,suspend,False,False,,False
-sho**.***se,suspend,False,False,,False
-shortstackran.ch,suspend,False,False,,False
-shortstacksran.ch,suspend,False,False,,False
-shot*****.xyz,suspend,False,False,,False
-shrimpcam.pw,suspend,False,False,,False
-shrimpposter.club,suspend,False,False,,False
-sinblr.com,suspend,False,False,,False
-skinheads.social,suspend,False,False,,False
-skipp*******.com,suspend,False,False,,False
-sleepy.cafe,suspend,False,False,,False
-sneed.social,suspend,False,False,,False
-social.********y.net,suspend,False,False,,False
-social.lovingexpressions.net,suspend,False,False,,False
-social.quodverum.com,silence,False,False,,False
-solagg.com,suspend,False,False,,False
-sovran.social,suspend,False,False,,False
-spinster.xyz,suspend,False,False,,False
-strelizia.net,suspend,False,False,,False
-supernets.social,suspend,False,False,,False
-switter.at,suspend,False,False,,False
-t.l3r.me,suspend,False,False,,False
-tastingtraffic.net,suspend,False,False,,False
-the.usualsuspects.lol,suspend,False,False,,False
-theblab.org,suspend,False,False,,False
-too****.*tf,suspend,False,False,,False
-too****.*un,suspend,False,False,,False
-toot.love,silence,False,False,,False
-trab****.com,suspend,False,False,,False
+detroitriotcity.com,suspend,False,False,Hate speech,False
+dlf.social,suspend,False,False,-,False
+eveningzoo.club,suspend,False,False,Hate speech,False
+fr13nd5.com,silence,False,False,Misinformation,False
+freak.******sity,suspend,False,False,Inappropriate content,False
+freeatlantis.com,silence,False,False, Misinformation and conspiracy theories ,False
+freecumextremist.com,suspend,False,False,Hate speech,False
+freespeech.club,suspend,False,False,Hate speech,False
+freespeechextremist.com,suspend,False,False,Hate speech,False
+gab.ai,suspend,False,False,Hate speech,False
+gab.com,suspend,False,False,Hate speech,False
+gameliberty.club,suspend,False,False,Hate speech,False
+gearlandia.haus,suspend,False,False,Hate speech,False
+genderheretics.xyz,suspend,False,False,Transphobia,False
+getgle.org,suspend,False,False,Hate speech,False
+ghet**.****ter,suspend,False,False,Inappropriate content,False
+glindr.org,suspend,False,False,Transphobia,False
+globalfrens.com,suspend,False,False,Hate speech,False
+glowers.club,suspend,False,False,Hate speech,False
+h5q.net,suspend,False,False,Inappropriate content,False
+hen***.**by,suspend,False,False,Inappropriate content,False
+hunk.city,suspend,False,False,Spam,False
+husk.site,suspend,False,False,Hate speech,False
+instinctd.com,suspend,False,False,Third-party bots,False
+jaeger.website,suspend,False,False,Transphobia,False
+kiwifarms.cc,suspend,False,False,Known for harassment,False
+leafposter.club,suspend,False,False,Hate speech,False
+leonardwong.dev,suspend,False,False,Third-party bots,False
+lewdi*******.com,suspend,False,False,Inappropriate content,False
+lewdi*******.vip,suspend,False,False,Inappropriate content,False
+lit.t*******.xyz,suspend,False,False,Inappropriate content,False
+lol*.***za,suspend,False,False,Inappropriate content,False
+loli***.**cks,suspend,False,False,Inappropriate content,False
+loli.****sed,suspend,False,False,Inappropriate content,False
+lolison.top,suspend,False,False,Inappropriate content,False
+lush.moe,suspend,False,False,Inappropriate content,False
+maps******.de,suspend,False,False,Inappropriate content,False
+mashtodon.alterracloud.com,suspend,False,False,Hate speech,False
+mast.socialspill.com,suspend,False,False,Third-party bots,False
+mastinator.com,suspend,False,False,Third-party bots,False
+mastodon.socialspill.com,suspend,False,False,Third-party bots,False
+mastodonhub.com,suspend,False,False,Mirroring other Mastodon accounts without permission,False
+merovingian.club,suspend,False,False,Hate speech,False
+misskey-forkbomb.cf,suspend,False,False,Spam,False
+misskey.io,silence,False,False,Inappropriate content,False
+mostr.pub,silence,False,False,Spam,False
+mstdn.foxfam.club,silence,False,False,Server dedicated to unofficial news bots,False
+mugicha.club,suspend,False,False,Transphobia,False
+my.dirtyhobby.xyz,suspend,False,False,Automated porn spam ,False
+nate*******.org,suspend,False,False,Hate speech,False
+nateh******.**line,suspend,False,False,Hate speech,False
+nationalist.social,suspend,False,False,Hate speech,False
+nazi.social,suspend,False,False,Hate speech,False
+neckbeard.xyz,suspend,False,False,Hate speech,False
+newsbots.eu,suspend,False,False,Bots,False
+nicecrew.digital,suspend,False,False,Hate speech,False
+nnia.space,suspend,False,False,-,False
+noagendasocial.com,silence,False,False, Misinformation and conspiracy theories ,False
+noauthority.social,suspend,False,False,Hate speech,False
+norwoodzero.net,suspend,False,False,Hate speech,False
+ns.auction,suspend,False,False,Hate speech,False
+nya.u*******.moe,suspend,False,False,Inappropriate content,False
+nyanide.com,suspend,False,False,Hate speech,False
+ob*.*h,suspend,False,False,Inappropriate content,False
+oddb****.***ine,suspend,False,False,Inappropriate content,False
+onion.social,silence,False,False,Spam,False
+paravielfalt.zone,suspend,False,False,Inappropriate content,False
+parcero.bond,suspend,False,False,Hate speech,False
+pawoo.net,suspend,False,False,Inappropriate content,False
+paypig.org,suspend,False,False,Hate speech,False
+ped*.****ol,suspend,False,False,Inappropriate content,False
+pett****.art,suspend,False,False,Inappropriate content,False
+pieville.net,suspend,False,False,Hate speech,False
+pl.smuglo.li,suspend,False,False,Inappropriate content,False
+pl.wy********.art,suspend,False,False,Inappropriate content,False
+plero**.*****.love,suspend,False,False,Inappropriate content,False
+plero**.*****.net,suspend,False,False,Inappropriate content,False
+pleroma.**********he.biz,suspend,False,False,Hate speech,False
+pleroma.adachi.party,suspend,False,False,Hate speech,False
+pleroma.fun,suspend,False,False,Hate speech,False
+pleroma.kitsunemimi.club,suspend,False,False,Hate speech,False
+pleroma.us,suspend,False,False,Hate speech,False
+poa.st,suspend,False,False,Hate speech,False
+pooper.social,suspend,False,False,Hate speech,False
+poster.place,suspend,False,False,Hate speech,False
+postin*.*******.rocks,suspend,False,False,Hate speech,False
+pouque.net,suspend,False,False,Hate speech,False
+rakket.app,suspend,False,False,Hate speech,False
+rap*.*et,suspend,False,False,Inappropriate content,False
+rapem***.*****ions,suspend,False,False,Inappropriate content,False
+rapemeat.express,suspend,False,False,Inappropriate content,False
+rdrama.cc,suspend,False,False,Hate speech,False
+refusal.biz,suspend,False,False,Inappropriate content,False
+repl.co,suspend,False,False,Spam,False
+rot.***es,suspend,False,False,Inappropriate content,False
+ryona.agency,suspend,False,False,Hate speech,False
+schwartzwelt.xyz,suspend,False,False,Hate speech,False
+seal.cafe,suspend,False,False,Hate speech,False
+shitpisscum.mooo.com,suspend,False,False,Hate speech,False
+shitpost.cloud,suspend,False,False,Hate speech,False
+shitposter.club,suspend,False,False,Hate speech,False
+shitposting.army,suspend,False,False,Hate speech,False
+sho**.***se,suspend,False,False,Inappropriate content,False
+shortstackran.ch,suspend,False,False,Hate speech,False
+shortstacksran.ch,suspend,False,False,Hate speech,False
+shot*****.xyz,suspend,False,False,Inappropriate content,False
+shrimpcam.pw,suspend,False,False,Third-party bots,False
+shrimpposter.club,suspend,False,False,Hate speech,False
+sinblr.com,suspend,False,False,Automated porn spam,False
+skinheads.social,suspend,False,False,Hate speech,False
+skipp*******.com,suspend,False,False,Inappropriate content,False
+sleepy.cafe,suspend,False,False,Hate speech,False
+sneed.social,suspend,False,False,Hate speech,False
+social.********y.net,suspend,False,False,Inappropriate content,False
+social.lovingexpressions.net,suspend,False,False,Hate speech,False
+social.quodverum.com,silence,False,False,Misinformation and conspiracy theories,False
+solagg.com,suspend,False,False,Spam,False
+sovran.social,suspend,False,False,Third-party bots,False
+spinster.xyz,suspend,False,False,Transphobia,False
+strelizia.net,suspend,False,False,Hate speech,False
+supernets.social,suspend,False,False,Hate speech,False
+switter.at,suspend,False,False,Preparing for announced shutdown,False
+t.l3r.me,suspend,False,False,Third-party bots,False
+tastingtraffic.net,suspend,False,False,Spam,False
+the.usualsuspects.lol,suspend,False,False,Hate speech,False
+theblab.org,suspend,False,False,Hate speech,False
+too****.*tf,suspend,False,False,Inappropriate content,False
+too****.*un,suspend,False,False,Inappropriate content,False
+toot.love,silence,False,False,Harassment,False
+trab****.com,suspend,False,False,Hate speech,False
 truthsocialpro.org,suspend,False,False,,False
-tweetbridge.kogasa.de,suspend,False,False,,False
-tweets.icu,suspend,False,False,,False
-twitiverse.com,suspend,False,False,,False
-twitter-bridge.cryobyte.net,suspend,False,False,,False
-twitter.1d4.us,suspend,False,False,,False
-twitter.activitypub.actor,suspend,False,False,,False
-twitter.doesnotexist.club,suspend,False,False,,False
-twitter.grants.cafe,suspend,False,False,,False
-twitter.piriklub.eu,suspend,False,False,,False
-twtr.carnivore.social,suspend,False,False,,False
-twtr.ingeechat.party,suspend,False,False,,False
+tweetbridge.kogasa.de,suspend,False,False,Third-party bots,False
+tweets.icu,suspend,False,False,Third-party bots,False
+twitiverse.com,suspend,False,False,Third-party bots,False
+twitter-bridge.cryobyte.net,suspend,False,False,Third-party bots,False
+twitter.1d4.us,suspend,False,False,Third-party bots,False
+twitter.activitypub.actor,suspend,False,False,Third-party bots,False
+twitter.doesnotexist.club,suspend,False,False,Third-party bots,False
+twitter.grants.cafe,suspend,False,False,Third-party bots,False
+twitter.piriklub.eu,suspend,False,False,Third-party bots,False
+twtr.carnivore.social,suspend,False,False,Third-party bots,False
+twtr.ingeechat.party,suspend,False,False,Third-party bots,False
 twtr.plus,suspend,False,False,,False
-twtr.vrij.social,suspend,False,False,,False
-twtr.wappie.land,suspend,False,False,,False
-twtrbridge.de,suspend,False,False,,False
-twttr.yukineko.me,suspend,False,False,,False
-urchan.org,suspend,False,False,,False
-varis*******.net,suspend,False,False,,False
-wolfgirl.bar,suspend,False,False,,False
-workers.dev,suspend,False,False,,False
-xxxtumblr.org,silence,False,False,,False
-yggdrasil.social,suspend,False,False,,False
-you**.**ve,suspend,False,False,,False
-youj*.*****ver,suspend,False,False,,False
-zet***.**ub,suspend,False,False,,False
-zztails.gay,suspend,False,False,,False
+twtr.vrij.social,suspend,False,False,Third-party bots,False
+twtr.wappie.land,suspend,False,False,Third-party bots,False
+twtrbridge.de,suspend,False,False,Third-party bots,False
+twttr.yukineko.me,suspend,False,False,Third-party bots,False
+urchan.org,suspend,False,False,Hate speech,False
+varis*******.net,suspend,False,False,Inappropriate content,False
+wolfgirl.bar,suspend,False,False,Hate speech,False
+workers.dev,suspend,False,False,Botnet,False
+xxxtumblr.org,silence,False,False,Pornographic content not marked as sensitive,False
+yggdrasil.social,suspend,False,False,Hate speech,False
+you**.**ve,suspend,False,False,Inappropriate content,False
+youj*.*****ver,suspend,False,False,Inappropriate content,False
+zet***.**ub,suspend,False,False,Inappropriate content ,False
+zztails.gay,suspend,False,False,Hate speech,False
