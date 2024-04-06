@@ -91,13 +91,11 @@ dickkickextremist.xyz,suspend,false,false,,false
 dingdash.com,suspend,false,false,,false
 djsumdog.com,suspend,false,false,,false
 dobbs.town,suspend,false,false,,false
-dotnet00.dev,suspend,false,false,,false
 dragonpsi.xyz,suspend,false,false,,false
 drow.be,suspend,false,false,,false
 dtzbts.xyz,suspend,false,false,,false
 ebin.club,suspend,false,false,,false
 eientei.org,suspend,false,false,"hate-speech, racism, iftas:hate-speech",false
-emacs.ch,suspend,false,false,,false
 endtimebelievers.com,suspend,false,false,,false
 enjoyer.network,suspend,false,false,,false
 epenguin.com,suspend,false,false,,false
@@ -155,7 +153,6 @@ helladoge.com,suspend,false,false,,false
 hendrixgames.com,suspend,false,false,,false
 hentai.baby,suspend,false,false,"inappropriate, underage",false
 hidamari.apartments,suspend,false,false,"nazism, alt-right",false
-hirad.it,suspend,false,false,,false
 hitchhiker.social,suspend,false,false,,false
 homd.xyz,suspend,false,false,,false
 honkwerx.tech,suspend,false,false,,false
@@ -246,7 +243,6 @@ nekocave.xyz,suspend,false,false,,false
 neomobius.com,suspend,false,false,iftas:csam,false
 nicecrew.digital,suspend,false,false,"hate-speech, anti-lgbtq, racism, iftas:hate-speech;brigading;online-harassment",false
 nightshift.social,suspend,false,false,,false
-niscii.xyz,suspend,false,false,,false
 nixnet.social,suspend,false,false,,false
 nnia.cc,suspend,false,false,,false
 nnia.space,suspend,false,false,"alt-right, underage",false
@@ -334,6 +330,7 @@ sheep.network,suspend,false,false,,false
 shigusegubu.club,suspend,false,false,,false
 shitpost.cloud,suspend,false,false,"alt-right, harassment, hate-speech, racism, iftas:hate-speech;online-harassment",false
 shitposter.club,suspend,false,false,"alt-right, harassment, iftas:hate-speech;explicit-content",false
+shitposter.world,suspend,false,false,,false
 shortstacksran.ch,suspend,false,false,"hate-speech, racism, antisemitism, hate-associated",false
 shota.house,suspend,false,false,"alt-right, underage, inappropriate",false
 shota.social,suspend,false,false,,false
@@ -382,6 +379,7 @@ troll.cafe,suspend,false,false,,false
 trumpislovetrumpis.life,suspend,false,false,,false
 truthsocial.co.in,suspend,false,false,alt-right,false
 tummy.town,suspend,false,false,,false
+turturea.online,suspend,false,false,,false
 twi.social,suspend,false,false,iftas:csam,false
 tyil.nl,suspend,false,false,,false
 ua-fediland.de,suspend,false,false,,false
@@ -398,7 +396,6 @@ varishangout.net,suspend,false,false,"anti-lgbtq, hate-speech, inappropriate, ra
 vladtepesblog.com,suspend,false,false,,false
 vrij.social,suspend,false,false,,false
 vtuberfan.social,suspend,false,false,,false
-wagesofsinisdeath.com,suspend,false,false,,false
 waifuism.life,suspend,false,false,,false
 weeaboo.space,suspend,false,false,,false
 whinge.house,suspend,false,false,,false
