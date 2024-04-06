@@ -22,11 +22,14 @@ bird.froth.zone,suspend,False,False,Third-party bots,False
 bird.makeup,suspend,False,False,Third-party bots,False
 birdbots.leptonics.com,suspend,False,False,Third-party bots,False
 birdlive.grupotd.nat.cu,suspend,False,False,Third party bots,False
+birdmakeup.sboulema.nl,suspend,False,False,Third-party bots,False
 birdsite.am-institute.swiss,suspend,False,False,Third-party bots,False
 birdsite.blazelight.dev,suspend,False,False,Third-party bots,False
 birdsite.frog.fashion,suspend,False,False,Third-party bots,False
 birdsite.james.moody.name,suspend,False,False,Third-party bots,False
+birdsite.lakedrops.com,suspend,False,False,Third-party bots,False
 birdsite.platypush.tech,suspend,False,False,Third-party bots,False
+birdsite.seejy.ninja,suspend,False,False,Third-party bots,False
 birdsite.tcjc.uk,suspend,False,False,Third-party bots,False
 birdsite.thorlaksson.com,suspend,False,False,Third-party bots,False
 birdsite.weiranzhang.com,suspend,False,False,Third-party bots,False
@@ -191,15 +194,18 @@ too****.*un,suspend,False,False,Inappropriate content,False
 toot.love,silence,False,False,Harassment,False
 trab****.com,suspend,False,False,Hate speech,False
 truthsocialpro.org,suspend,False,False,,False
+tweet.pasture.moe,suspend,False,False,Third-party bots,False
 tweetbridge.kogasa.de,suspend,False,False,Third-party bots,False
 tweets.icu,suspend,False,False,Third-party bots,False
 twitiverse.com,suspend,False,False,Third-party bots,False
 twitter-bridge.cryobyte.net,suspend,False,False,Third-party bots,False
 twitter.1d4.us,suspend,False,False,Third-party bots,False
 twitter.activitypub.actor,suspend,False,False,Third-party bots,False
+twitter.cryobyte.net,suspend,False,False,Third-party bots,False
 twitter.doesnotexist.club,suspend,False,False,Third-party bots,False
 twitter.grants.cafe,suspend,False,False,Third-party bots,False
 twitter.piriklub.eu,suspend,False,False,Third-party bots,False
+twitterbridge.jannis.rocks,suspend,False,False,Third-party bots,False
 twtr.carnivore.social,suspend,False,False,Third-party bots,False
 twtr.ingeechat.party,suspend,False,False,Third-party bots,False
 twtr.plus,suspend,False,False,,False

@@ -30,6 +30,7 @@ birdbots.leptonics.com,suspend,false,false,third-party bots,false
 birdbridge.autonomy.earth,suspend,false,false,third-party bots,false
 birdlive.grupotd.nat.cu,suspend,false,false,third party bots,false
 birdmakeup.opiumpost.org,suspend,false,false,third-party bots,false
+birdmakeup.sboulema.nl,suspend,false,false,third-party bots,false
 birdsite.am-institute.swiss,suspend,false,false,third-party bots,false
 birdsite.b93.dece.space,suspend,false,false,third-party bots,false
 birdsite.blazelight.dev,suspend,false,false,third-party bots,false
@@ -41,6 +42,7 @@ birdsite.gred.al,suspend,false,false,third-party bots,false
 birdsite.james.moody.name,suspend,false,false,third-party bots,false
 birdsite.jemverse.xyz,suspend,false,false,third-party bots,false
 birdsite.kaijauch.de,suspend,false,false,third-party bots,false
+birdsite.lakedrops.com,suspend,false,false,third-party bots,false
 birdsite.link,suspend,false,false,third-party bots,false
 birdsite.mastodon.me.uk,suspend,false,false,third-party bots,false
 birdsite.miisu.net,suspend,false,false,third-party bots,false
@@ -48,6 +50,7 @@ birdsite.monster,suspend,false,false,third-party bots,false
 birdsite.nytpu.com,suspend,false,false,third-party bots,false
 birdsite.oliviaappleton.com,suspend,false,false,third-party bots,false
 birdsite.platypush.tech,suspend,false,false,third-party bots,false
+birdsite.seejy.ninja,suspend,false,false,third-party bots,false
 birdsite.skye.cx,suspend,false,false,third-party bots,false
 birdsite.slashdev.space,suspend,false,false,third-party bots,false
 birdsite.spectreos.de,suspend,false,false,third-party bots,false
@@ -260,15 +263,18 @@ too****.*un,suspend,false,false,inappropriate content,false
 toot.love,silence,false,false,harassment,false
 trab****.com,suspend,false,false,hate speech,false
 truthsocialpro.org,suspend,false,false,,false
+tweet.pasture.moe,suspend,false,false,third-party bots,false
 tweetbridge.kogasa.de,suspend,false,false,third-party bots,false
 tweets.icu,suspend,false,false,third-party bots,false
 twitiverse.com,suspend,false,false,third-party bots,false
 twitter-bridge.cryobyte.net,suspend,false,false,third-party bots,false
 twitter.1d4.us,suspend,false,false,third-party bots,false
 twitter.activitypub.actor,suspend,false,false,third-party bots,false
+twitter.cryobyte.net,suspend,false,false,third-party bots,false
 twitter.doesnotexist.club,suspend,false,false,third-party bots,false
 twitter.grants.cafe,suspend,false,false,third-party bots,false
 twitter.piriklub.eu,suspend,false,false,third-party bots,false
+twitterbridge.jannis.rocks,suspend,false,false,third-party bots,false
 twtr.carnivore.social,suspend,false,false,third-party bots,false
 twtr.ingeechat.party,suspend,false,false,third-party bots,false
 twtr.plus,suspend,false,false,third-party bots,false
