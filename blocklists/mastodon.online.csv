@@ -111,6 +111,7 @@ mastodonhub.com,suspend,False,False,Mirroring other Mastodon accounts without pe
 merovingian.club,suspend,False,False,Hate speech,False
 misskey-forkbomb.cf,suspend,False,False,Spam,False
 misskey.io,silence,False,False,Inappropriate content,False
+momostr.pink,silence,False,False,Spam,False
 mostr.pub,silence,False,False,Spam,False
 mstdn.foxfam.club,silence,False,False,Server dedicated to unofficial news bots,False
 mugicha.club,suspend,False,False,Transphobia,False
