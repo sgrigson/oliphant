@@ -57,8 +57,9 @@ cannibal.cafe,suspend,False,False,"inappropriate, underage",False
 carnivore.social,suspend,False,False,,False
 catgirl.life,suspend,False,False,,False
 catposter.club,suspend,False,False,,False
-cawfee.club,suspend,False,False,,False
+cawfee.club,suspend,False,False,"hate-associated, hate-speech",False
 cdrom.tokyo,suspend,False,False,,False
+childlove.space,suspend,False,False,"inappropriate, underage",False
 childlove.su,suspend,False,False,"underage, inappropriate",False
 ckpg.space,suspend,False,False,,False
 clew.lol,suspend,False,False,"hate-speech, racism, hate-associated",False
@@ -75,6 +76,7 @@ cryptotooter.com,suspend,False,False,,False
 cum.camp,suspend,False,False,"harassment, inappropriate, IFTAS:Hate-Speech;Online-Harassment",False
 cum.salon,suspend,False,False,"hate-speech, porn, IFTAS:Hate-Speech;Online-Harassment;Explicit-Content",False
 cunnyborea.space,suspend,False,False,,False
+cunnyborea.top,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage",False
 cutefunny.net,suspend,False,False,"spam, hate-speech, inappropriate, racism, underage",False
 cybercriminal.eu,suspend,False,False,"harassment, hate-associated, spam",False
 cyberretards.xyz,suspend,False,False,,False
@@ -272,7 +274,7 @@ pawoo.net,suspend,False,False,"underage, inappropriate, IFTAS:CSAM",False
 paypig.org,suspend,False,False,,False
 pedo.school,suspend,False,False,underage,False
 peervideo.club,suspend,False,False,,False
-pettanko.art,suspend,False,False,,False
+pettanko.art,suspend,False,False,"inappropriate, underage",False
 piazza.today,suspend,False,False,,False
 pibvt.net,suspend,False,False,"underage, inappropriate",False
 pieville.net,suspend,False,False,"harassment, hate-speech, nazism",False
