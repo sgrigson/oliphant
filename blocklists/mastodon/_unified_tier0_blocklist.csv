@@ -8,6 +8,7 @@
 5dollah.click,suspend,false,false,"hate-speech, anti-lgbtq, harassment, hate-associated, racism",false
 80percent.social,suspend,false,false,,false
 8777.ch,suspend,false,false,,false
+9yo.punipoka.pink,suspend,false,false,iftas:csam,false
 activitypub-proxy.cf,suspend,false,false,iftas:service-abuse,false
 activitypub-troll.cf,suspend,false,false,"dos, harassment, spam, iftas:service-abuse",false
 adachi.party,suspend,false,false,"harassment, hate-associated, hate-speech, racism",false
@@ -164,6 +165,7 @@ husk.site,suspend,false,false,"harassment, hate-speech, racism",false
 icod.de,suspend,false,false,,false
 iddqd.social,suspend,false,false,"harassment, hate-associated, nazism",false
 ignorelist.com,suspend,false,false,"dos, spam",false
+imouto.pics,suspend,false,false,iftas:csam,false
 inferencium.net,suspend,false,false,,false
 intkos.link,suspend,false,false,"hate-speech, alt-right, antisemitism",false
 inumbra.xyz,suspend,false,false,,false

@@ -1,4 +1,5 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
+9yo.punipoka.pink,suspend,false,false,iftas:csam,false
 activitypub-proxy.cf,suspend,false,false,iftas:service-abuse,false
 activitypub-troll.cf,suspend,false,false,iftas:service-abuse,false
 aethy.com,suspend,false,false,iftas:csam,false
@@ -13,6 +14,7 @@ eveningzoo.club,suspend,false,false,iftas:hate-speech;disinformation,false
 freecumextremist.com,suspend,false,false,iftas:hate-speech;online-harassment;explicit-content,false
 freespeechextremist.com,suspend,false,false,iftas:hate-speech;online-harassment;disinformation,false
 h5q.net,suspend,false,false,iftas:csam,false
+imouto.pics,suspend,false,false,iftas:csam,false
 kiwifarms.cc,suspend,false,false,iftas:hate-speech;online-harassment,false
 kiwifarms.is,suspend,false,false,iftas:hate-speech;online-harassment,false
 misskey-forkbomb.cf,suspend,false,false,iftas:service-abuse,false
