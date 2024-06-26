@@ -28,6 +28,7 @@ asbestos.cafe,suspend,False,False,"alt-right, hate-associated, anti-lgbtq, hate-
 asimon.org,suspend,False,False,,False
 asteroidm.space,suspend,False,False,,False
 ating.press,suspend,False,False,,False
+awakari.com,suspend,False,False,,False
 badly.co,suspend,False,False,,False
 bae.st,suspend,False,False,"hate-speech, alt-right, anti-lgbtq, hate-associated, inappropriate, nazism, racism, IFTAS:Hate-Speech;Online-Harassment",False
 banepo.st,suspend,False,False,"hate-associated, antivax, harassment",False
@@ -231,7 +232,6 @@ misskey-forkbomb.cf,suspend,False,False,"dos, spam, IFTAS:Service-Abuse",False
 mitra.social,suspend,False,False,,False
 mooo.com,suspend,False,False,,False
 morale.ch,suspend,False,False,,False
-mostr.pub,suspend,False,False,,False
 mouse.services,suspend,False,False,"harassment, hate-associated",False
 mrhands.horse,suspend,False,False,,False
 mstdn.jp,suspend,False,False,,False
@@ -413,6 +413,7 @@ writehere.is,suspend,False,False,,False
 xhais.love,suspend,False,False,,False
 xmrposter.club,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
+yesmap.net,suspend,False,False,,False
 yggdrasil.social,suspend,False,False,"hate-speech, anti-lgbtq",False
 youjo.love,suspend,False,False,"antisemitism, antivax, inappropriate, underage",False
 zhub.link,suspend,False,False,,False
