@@ -166,7 +166,7 @@ husk.site,suspend,False,False,"harassment, hate-speech, racism",False
 icod.de,suspend,False,False,,False
 iddqd.social,suspend,False,False,"harassment, hate-associated, nazism",False
 ignorelist.com,suspend,False,False,"dos, spam",False
-imouto.pics,suspend,False,False,IFTAS:CSAM,False
+imouto.pics,suspend,False,False,"underage, inappropriate, IFTAS:CSAM",False
 inferencium.net,suspend,False,False,,False
 intkos.link,suspend,False,False,"hate-speech, alt-right, antisemitism",False
 inumbra.xyz,suspend,False,False,,False
