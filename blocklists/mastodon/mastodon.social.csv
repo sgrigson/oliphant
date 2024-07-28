@@ -177,6 +177,7 @@ mastodon.socialspill.com,suspend,false,false,third-party bots,false
 mastodonhub.com,suspend,false,false,mirroring other mastodon accounts without permission,false
 mela******.tk,suspend,false,false,inappropriate content,false
 merovingian.club,suspend,false,false,hate speech,false
+minds.com,silence,false,false,hate speech,false
 mir***.**ty,suspend,false,false,inappropriate content,false
 misskey-forkbomb.cf,suspend,false,false,spam,false
 misskey.io,silence,false,false,inappropriate content,false
@@ -246,6 +247,7 @@ shitpisscum.mooo.com,suspend,false,false,hate speech,false
 shitpost.cloud,suspend,false,false,hate speech,false
 shitposte.rs,suspend,false,false,hate speech,false
 shitposter.club,silence,false,false,harassment,false
+shitposter.world,silence,false,false,harassment,false
 shitposting.army,suspend,false,false,hate speech,false
 sho**.***se,suspend,false,false,inappropriate content,false
 shortstackran.ch,suspend,false,false,hate speech,false

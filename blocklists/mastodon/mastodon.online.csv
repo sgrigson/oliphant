@@ -114,6 +114,7 @@ mastinator.com,suspend,false,false,third-party bots,false
 mastodon.socialspill.com,suspend,false,false,third-party bots,false
 mastodonhub.com,suspend,false,false,mirroring other mastodon accounts without permission,false
 merovingian.club,suspend,false,false,hate speech,false
+minds.com,silence,false,false,hate speech,false
 misskey-forkbomb.cf,suspend,false,false,spam,false
 misskey.io,silence,false,false,inappropriate content,false
 momostr.pink,silence,false,false,spam,false
@@ -177,6 +178,7 @@ shitpisscum.mooo.com,suspend,false,false,hate speech,false
 shitpost.cloud,suspend,false,false,hate speech,false
 shitposte.rs,suspend,false,false,hate speech,false
 shitposter.club,suspend,false,false,hate speech,false
+shitposter.world,silence,false,false,harassment,false
 shitposting.army,suspend,false,false,hate speech,false
 sho**.***se,suspend,false,false,inappropriate content,false
 shortstackran.ch,suspend,false,false,hate speech,false
