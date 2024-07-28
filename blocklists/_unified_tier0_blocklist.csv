@@ -239,7 +239,7 @@ mulmeyun.church,suspend,False,False,,False
 nalocal519.social,suspend,False,False,,False
 narrativerry.xyz,suspend,False,False,,False
 natehiggers.online,suspend,False,False,"hate-speech, racism, fascism",False
-nationalist.social,suspend,False,False,,False
+nationalist.social,suspend,False,False,"hate-speech, nazism, racism, alt-right",False
 nazi.social,suspend,False,False,,False
 needs.vodka,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
@@ -403,7 +403,7 @@ waifuism.life,suspend,False,False,,False
 weeaboo.space,suspend,False,False,,False
 whinge.house,suspend,False,False,,False
 whinge.town,suspend,False,False,"hate-associated, anti-lgbtq, racism",False
-whitewomen.dog,suspend,False,False,,False
+whitewomen.dog,suspend,False,False,"hate-associated, hate-speech, inappropriate, racism, underage",False
 wideboys.org,suspend,False,False,"anti-lgbtq, harassment, hate-associated, racism",False
 wikileaks2.org,suspend,False,False,,False
 wolfgirl.bar,suspend,False,False,"harassment, hate-speech, antisemitism, racism",False

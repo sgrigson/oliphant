@@ -82,6 +82,7 @@ misskey-forkbomb.cf,suspend,False,False,"dos, spam",False
 mouse.services,suspend,False,False,"harassment, hate-associated",False
 mugicha.club,suspend,False,False,"hate-speech, racism",False
 natehiggers.online,suspend,False,False,"hate-speech, racism, fascism",False
+nationalist.social,suspend,False,False,"hate-speech, nazism, racism, alt-right",False
 nicecrew.digital,suspend,False,False,"hate-speech, anti-lgbtq, racism",False
 nnia.space,suspend,False,False,"alt-right, underage",False
 noagendasocial.com,suspend,False,False,"hate-speech, alt-right",False
@@ -135,6 +136,7 @@ truthsocial.co.in,suspend,False,False,alt-right,False
 usualsuspects.lol,suspend,False,False,"anti-lgbtq, harassment, hate-speech",False
 varishangout.net,suspend,False,False,"anti-lgbtq, hate-speech, inappropriate, racism",False
 whinge.town,suspend,False,False,"hate-associated, anti-lgbtq, racism",False
+whitewomen.dog,suspend,False,False,"hate-associated, hate-speech, inappropriate, racism, underage",False
 wideboys.org,suspend,False,False,"anti-lgbtq, harassment, hate-associated, racism",False
 wolfgirl.bar,suspend,False,False,"harassment, hate-speech, antisemitism, racism",False
 yggdrasil.social,suspend,False,False,"hate-speech, anti-lgbtq",False
