@@ -9,6 +9,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 5dollah.click,suspend,False,False,,False
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
+absolutelyproprietary.org,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
 adachi.party,suspend,False,False,,False
@@ -138,7 +139,6 @@ glee.li,suspend,False,False,,False
 glindr.org,suspend,False,False,,False
 glowers.club,suspend,False,False,,False
 gorf.pub,suspend,False,False,,False
-goyim.app,suspend,False,False,,False
 goyim.social,suspend,False,False,,False
 h5q.net,suspend,False,False,,False
 haeder.net,suspend,False,False,,False
@@ -195,8 +195,8 @@ lolison.top,suspend,False,False,,False
 longyap.name.my,suspend,False,False,,False
 loveforlandlords.com,suspend,False,False,,False
 lovingexpressions.net,suspend,False,False,,False
-lucasvl.nl,suspend,False,False,,False
 magicka.org,suspend,False,False,,False
+majestic12.airforce,suspend,False,False,,False
 makemysarcophagus.com,suspend,False,False,,False
 maladaptive.art,suspend,False,False,,False
 mapsupport.de,suspend,False,False,,False
