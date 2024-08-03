@@ -308,6 +308,7 @@ weedis.life,suspend,False,False,Spam,False
 whit******.dog,suspend,False,False,Inappropriate content,False
 wolfgirl.bar,suspend,False,False,Hate speech,False
 workers.dev,suspend,False,False,Botnet,False
+x.good.news,suspend,False,False,Third-party bots,False
 yes***.*et,suspend,False,False,Inappropriate content,False
 yggdrasil.social,suspend,False,False,Hate speech,False
 you**.**ve,suspend,False,False,Inappropriate content,False
