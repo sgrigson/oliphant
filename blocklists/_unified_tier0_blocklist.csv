@@ -167,7 +167,6 @@ ignorelist.com,suspend,False,False,"dos, spam",False
 imouto.pics,suspend,False,False,"underage, inappropriate, IFTAS:CSAM",False
 inferencium.net,suspend,False,False,,False
 intkos.link,suspend,False,False,"hate-speech, alt-right, antisemitism",False
-inumbra.xyz,suspend,False,False,,False
 ironbug.org,suspend,False,False,,False
 justbros.xyz,suspend,False,False,,False
 kawa-kun.com,suspend,False,False,hate-associated,False
@@ -382,7 +381,6 @@ troll.cafe,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False
 truthsocial.co.in,suspend,False,False,alt-right,False
 tummy.town,suspend,False,False,,False
-turturea.online,suspend,False,False,,False
 twi.social,suspend,False,False,IFTAS:CSAM,False
 tyil.nl,suspend,False,False,,False
 ua-fediland.de,suspend,False,False,,False
