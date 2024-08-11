@@ -2,6 +2,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 5dollah.click,suspend,False,False,Hate speech,False
 activitypub-proxy.cf,suspend,False,False,Spam,False
 activitypub-troll.cf,suspend,False,False,Spam,False
+activitypub.awakari.com,silence,False,False,Spam,False
 aethy.com,suspend,False,False,Inappropriate content,False
 anime.website,suspend,False,False,Inappropriate content,False
 annihilation.social,suspend,False,False,Hate speech,False

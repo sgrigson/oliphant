@@ -4,6 +4,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 a.sc,suspend,False,False,Hate speech,False
 activitypub-proxy.cf,suspend,False,False,Spam,False
 activitypub-troll.cf,suspend,False,False,Spam,False
+activitypub.awakari.com,silence,False,False,Spam,False
 aethy.com,suspend,False,False,Inappropriate content,False
 annihilation.social,suspend,False,False,Hate speech,False
 ap.***.st,suspend,False,False,Spam,False
