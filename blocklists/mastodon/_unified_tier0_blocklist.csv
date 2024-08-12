@@ -164,7 +164,7 @@ husk.site,suspend,false,false,"harassment, hate-speech, racism",false
 icod.de,suspend,false,false,,false
 iddqd.social,suspend,false,false,"harassment, hate-associated, nazism",false
 ignorelist.com,suspend,false,false,"dos, spam",false
-imouto.pics,suspend,false,false,"underage, inappropriate, iftas:csam",false
+imouto.pics,suspend,false,false,iftas:csam,false
 inferencium.net,suspend,false,false,,false
 intkos.link,suspend,false,false,"hate-speech, alt-right, antisemitism",false
 ironbug.org,suspend,false,false,,false
@@ -332,7 +332,7 @@ sheep.network,suspend,false,false,,false
 shigusegubu.club,suspend,false,false,,false
 shitpost.cloud,suspend,false,false,"alt-right, harassment, hate-speech, racism, iftas:hate-speech;online-harassment",false
 shitposter.club,suspend,false,false,"alt-right, harassment, iftas:hate-speech;explicit-content",false
-shitposter.world,suspend,false,false,,false
+shitposter.world,suspend,false,false,"alt-right, harassment",false
 shortstacksran.ch,suspend,false,false,"hate-speech, racism, antisemitism, hate-associated",false
 shota.house,suspend,false,false,"alt-right, underage, inappropriate",false
 shota.social,suspend,false,false,,false

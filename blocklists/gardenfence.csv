@@ -59,7 +59,6 @@ hidamari.apartments,suspend,False,False,"nazism, alt-right",False
 husk.site,suspend,False,False,"harassment, hate-speech, racism",False
 iddqd.social,suspend,False,False,"harassment, hate-associated, nazism",False
 ignorelist.com,suspend,False,False,"dos, spam",False
-imouto.pics,suspend,False,False,"underage, inappropriate",False
 intkos.link,suspend,False,False,"hate-speech, alt-right, antisemitism",False
 kawa-kun.com,suspend,False,False,hate-associated,False
 kitsunemimi.club,suspend,False,False,"hate-speech, racism",False
@@ -118,6 +117,7 @@ scots.network,suspend,False,False,"anti-lgbtq, hate-speech",False
 seal.cafe,suspend,False,False,"racism, anti-lgbtq, harassment, alt-right, antisemitism, hate-associated, hate-speech",False
 shitpost.cloud,suspend,False,False,"alt-right, harassment, hate-speech, racism",False
 shitposter.club,suspend,False,False,"alt-right, harassment",False
+shitposter.world,suspend,False,False,"alt-right, harassment",False
 shortstacksran.ch,suspend,False,False,"hate-speech, racism, antisemitism, hate-associated",False
 shota.house,suspend,False,False,"alt-right, underage, inappropriate",False
 shrimpposter.club,suspend,False,False,"hate-associated, hate-speech, harassment",False
