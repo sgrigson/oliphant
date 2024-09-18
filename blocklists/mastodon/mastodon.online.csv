@@ -124,6 +124,7 @@ mastodon.social.fraudulent.link,suspend,false,false,impersonation,false
 mastodon.socialspill.com,suspend,false,false,third-party bots,false
 mastodonhub.com,suspend,false,false,mirroring other mastodon accounts without permission,false
 merovingian.club,suspend,false,false,hate speech,false
+min**.**fe,suspend,false,false,inappropriate content,false
 minds.com,silence,false,false,hate speech,false
 misskey-forkbomb.cf,suspend,false,false,spam,false
 misskey.io,silence,false,false,inappropriate content,false
