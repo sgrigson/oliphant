@@ -15,8 +15,11 @@ freespeechextremist.com,suspend,false,false,iftas:hate-speech;online-harassment;
 gameliberty.club,suspend,false,false,iftas:csam;explicit-content,false
 h5q.net,suspend,false,false,iftas:csam,false
 imouto.exposed,suspend,false,false,iftas:csam,false
+kitsui.life,suspend,false,true,iftas:spam,false
 kiwifarms.cc,suspend,false,false,iftas:hate-speech;online-harassment,false
 kiwifarms.is,suspend,false,false,iftas:hate-speech;online-harassment,false
+lawsocial.org,suspend,false,true,iftas:spam,false
+m.corduba.tech,suspend,false,true,iftas:spam,false
 neomobius.com,suspend,false,false,iftas:csam,false
 nicecrew.digital,suspend,false,false,iftas:hate-speech;brigading;online-harassment,false
 obo.sh,suspend,false,false,iftas:csam,false
@@ -26,11 +29,14 @@ poa.st,suspend,false,false,iftas:hate-speech;online-harassment,false
 poast.org,suspend,false,false,iftas:hate-speech;online-harassment,false
 poast.tv,suspend,false,false,iftas:tvec,false
 poster.place,suspend,false,false,iftas:hate-speech;online-harassment,false
+puls.social,suspend,false,true,iftas:spam,false
 rdrama.cc,suspend,false,false,iftas:hate-speech;online-harassment,false
 repl.co,suspend,false,false,iftas:service-abuse;spam,false
 ryona.agency,suspend,false,false,iftas:troll;online-harassment,false
+seda.social,suspend,false,true,iftas:spam,false
 shitpost.cloud,suspend,false,false,iftas:hate-speech;online-harassment,false
 shitposter.club,suspend,false,false,iftas:hate-speech;explicit-content,false
+startrekshitposting.com,suspend,false,true,iftas:spam,false
 twi.social,suspend,false,false,iftas:csam,false
 varishangout.net,suspend,false,false,iftas:csam;hate-speech;online-harassment,false
 yggdrasil.social,suspend,false,false,iftas:hate-speech,false

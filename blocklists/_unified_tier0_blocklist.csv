@@ -166,6 +166,7 @@ ironbug.org,suspend,False,False,,False
 justbros.xyz,suspend,False,False,,False
 kawa-kun.com,suspend,False,False,hate-associated,False
 kenhbit.com,suspend,False,False,,False
+kitsui.life,suspend,False,True,iftas:spam,False
 kitsunemimi.club,suspend,False,False,"hate-speech, racism",False
 kiwifarms.cc,suspend,False,False,"harassment, alt-right, anti-lgbtq, racism, iftas:hate-speech;online-harassment",False
 kiwifarms.is,suspend,False,False,iftas:hate-speech;online-harassment,False
@@ -178,6 +179,7 @@ kys.moe,suspend,False,False,,False
 lain.gay,suspend,False,False,,False
 lain.la,suspend,False,False,hate-associated,False
 lain.sh,suspend,False,False,,False
+lawsocial.org,suspend,False,True,iftas:spam,False
 leafposter.club,suspend,False,False,"hate-speech, hate-associated",False
 letsalllovela.in,suspend,False,False,,False
 lewdieheaven.com,suspend,False,False,"underage, inappropriate",False
@@ -195,6 +197,7 @@ lolison.top,suspend,False,False,"inappropriate, underage",False
 longyap.name.my,suspend,False,False,,False
 loveforlandlords.com,suspend,False,False,,False
 lovingexpressions.net,suspend,False,False,"hate-speech, hate-associated, nazism, racism",False
+m.corduba.tech,suspend,False,True,iftas:spam,False
 magicka.org,suspend,False,False,,False
 majestic12.airforce,suspend,False,False,,False
 makemysarcophagus.com,suspend,False,False,,False
@@ -285,6 +288,7 @@ prospeech.space,suspend,False,False,,False
 pseudo-whiskey.bar,suspend,False,False,,False
 psion.co,suspend,False,False,,False
 pube.tk,suspend,False,False,,False
+puls.social,suspend,False,True,iftas:spam,False
 quanta.wiki,suspend,False,False,"hate-associated, alt-right, anti-lgbtq",False
 quodverum.com,suspend,False,False,,False
 r18.social,suspend,False,False,,False
@@ -313,6 +317,7 @@ saynoto.lgbt,suspend,False,False,,False
 schwartzwelt.xyz,suspend,False,False,"hate-associated, hate-speech",False
 scots.network,suspend,False,False,"anti-lgbtq, hate-speech",False
 seal.cafe,suspend,False,False,"racism, anti-lgbtq, harassment, alt-right, antisemitism, hate-associated, hate-speech",False
+seda.social,suspend,False,True,iftas:spam,False
 shadowsocial.org,suspend,False,False,,False
 sharivegas.com,suspend,False,False,,False
 shaw.app,suspend,False,False,,False
@@ -345,6 +350,7 @@ soykaf.com,suspend,False,False,,False
 spinster.xyz,suspend,False,False,anti-lgbtq,False
 springbo.cc,suspend,False,False,"alt-right, anti-lgbtq, racism, harassment",False
 starnix.network,suspend,False,False,,False
+startrekshitposting.com,suspend,False,True,iftas:spam,False
 staycuriousandkeepsmil.in,suspend,False,False,,False
 stereophonic.space,suspend,False,False,"hate-associated, alt-right, harassment",False
 strelizia.net,suspend,False,False,"hate-speech, underage",False
