@@ -1,5 +1,6 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 5dollah.click,suspend,false,false,hate speech,false
+ac.akirin.xyz,silence,false,false,unmanaged spam,false
 activitypub-proxy.cf,suspend,false,false,spam,false
 activitypub-troll.cf,suspend,false,false,spam,false
 activitypub.awakari.com,silence,false,false,spam,false
@@ -49,6 +50,7 @@ bur****.*oe,suspend,false,false,inappropriate content,false
 cachapa.xyz,suspend,false,false,hate speech,false
 cann****.*afe,suspend,false,false,inappropriate content,false
 cass****.**use,suspend,false,false,inappropriate content,false
+catcore.life,silence,false,false,unmanaged spam,false
 catgirl.life,suspend,false,false,inappropriate content,false
 chil*****.**ace,suspend,false,false,inappropriate content,false
 chil*****.*hop,suspend,false,false,inappropriate content,false
@@ -72,6 +74,7 @@ deepspace.cafe,suspend,false,false,harassment,false
 deepw*********.net,suspend,false,false,inappropriate content,false
 degen******.fail,suspend,false,false,,false
 detroitriotcity.com,suspend,false,false,hate speech,false
+dicekey.jp,silence,false,false,unmanaged spam,false
 dlf.social,suspend,false,false,-,false
 eepy.****ess,suspend,false,false,inappropriate content,false
 eveningzoo.club,suspend,false,false,hate speech,false
@@ -103,6 +106,7 @@ imo***.**cs,suspend,false,false,inappropriate content,false
 imou**.****sed,suspend,false,false,inappropriate content,false
 instinctd.com,suspend,false,false,third-party bots,false
 jaeger.website,suspend,false,false,transphobia,false
+kids.0px.io,silence,false,false,unmanaged spam,false
 kiwifarms.cc,suspend,false,false,known for harassment,false
 kodo.*****res,suspend,false,false,inappropriate content,false
 leafposter.club,suspend,false,false,hate speech,false
@@ -118,6 +122,7 @@ loli***.**cks,suspend,false,false,inappropriate content,false
 loli.****sed,suspend,false,false,inappropriate content,false
 lolison.top,suspend,false,false,inappropriate content,false
 lush.moe,suspend,false,false,inappropriate content,false
+m.n1l.dev,silence,false,false,unmanaged spam,false
 maps******.de,suspend,false,false,inappropriate content,false
 mashtodon.alterracloud.com,suspend,false,false,hate speech,false
 mast.socialspill.com,suspend,false,false,third-party bots,false
@@ -246,6 +251,7 @@ twtr.wappie.land,suspend,false,false,third-party bots,false
 twtrbridge.de,suspend,false,false,third-party bots,false
 twttr.yukineko.me,suspend,false,false,third-party bots,false
 urchan.org,suspend,false,false,hate speech,false
+urweibo.com,silence,false,false,unmanaged spam,false
 varis*******.net,suspend,false,false,inappropriate content,false
 whit******.dog,suspend,false,false,inappropriate content,false
 wolfgirl.bar,suspend,false,false,hate speech,false
