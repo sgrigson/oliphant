@@ -200,6 +200,7 @@ minds.com,silence,false,false,hate speech,false
 mir***.**ty,suspend,false,false,inappropriate content,false
 misskey-forkbomb.cf,suspend,false,false,spam,false
 misskey.io,silence,false,false,inappropriate content,false
+misskey.shunrin.com,silence,false,false,unmanaged spam,false
 momostr.pink,silence,false,false,spam,false
 monstergirl.space,suspend,false,false,hate speech,false
 mostr.pub,silence,false,false,spam,false
@@ -233,6 +234,7 @@ paypig.org,suspend,false,false,hate speech,false
 ped*.****ol,suspend,false,false,maps,false
 pett****.art,suspend,false,false,inappropriate content,false
 pieville.net,suspend,false,false,harassment,false
+pika.moe,silence,false,false,unmanaged spam,false
 pisskey.io,suspend,false,false,hate speech,false
 pl.s*****.li,suspend,false,false,inappropriate content,false
 pl.wy********.art,suspend,false,false,inappropriate content,false
@@ -283,6 +285,7 @@ sleepy.cafe,suspend,false,false,hate speech,false
 sneed.social,suspend,false,false,hate speech,false
 social.********y.net,suspend,false,false,inappropriate content,false
 social.lovingexpressions.net,suspend,false,false,hate speech,false
+social.onlinesession.app,silence,false,false,unmanaged spam,false
 social.quodverum.com,silence,false,false,misinformation and conspiracy theories,false
 solagg.com,suspend,false,false,spam,false
 sovran.social,suspend,false,false,third-party bots,false
@@ -294,6 +297,7 @@ t.l3r.me,suspend,false,false,third-party bots,false
 tastingtraffic.net,suspend,false,false,spam,false
 the.usualsuspects.lol,suspend,false,false,hate speech,false
 theblab.org,suspend,false,false,hate speech,false
+tickler.cc,silence,false,false,unmanaged spam,false
 too****.*tf,suspend,false,false,inappropriate content,false
 too****.*un,suspend,false,false,inappropriate content,false
 toot.love,silence,false,false,harassment,false
@@ -321,7 +325,7 @@ twtrbridge.de,suspend,false,false,third-party bots,false
 twttr.yukineko.me,suspend,false,false,third-party bots,false
 urchan.org,suspend,false,false,hate speech,false
 urweibo.com,silence,false,false,unmanaged spam,false
-usasa.ky,silence,false,false,spam,false
+usasa.ky,silence,false,false,unmanaged spam,false
 varis*******.net,suspend,false,false,inappropriate content,false
 wagesofsinisdeath.com,suspend,false,false,harassment,false
 waifu.social,suspend,false,false,harassment,false
