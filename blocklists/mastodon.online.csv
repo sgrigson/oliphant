@@ -128,6 +128,7 @@ mashtodon.alterracloud.com,suspend,False,False,Hate speech,False
 mast.socialspill.com,suspend,False,False,Third-party bots,False
 mastinator.com,suspend,False,False,Third-party bots,False
 masto***.******.lol,suspend,False,False,Inappropriate content,False
+mastodon.sitejp.synology.me,silence,False,False,Unmanaged spam,False
 mastodon.social.fraudulent.link,suspend,False,False,Impersonation,False
 mastodon.socialspill.com,suspend,False,False,Third-party bots,False
 mastodonhub.com,suspend,False,False,Mirroring other Mastodon accounts without permission,False
