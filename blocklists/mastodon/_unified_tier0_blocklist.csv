@@ -46,7 +46,7 @@ birds.garden,suspend,false,false,,false
 bitcointv.com,suspend,false,false,,false
 blob.cat,suspend,false,false,"harassment, porn",false
 blockedur.mom,suspend,false,false,,false
-boymoder.biz,suspend,false,false,,false
+boymoder.biz,suspend,false,false,"hate-associated, harassment, hate-speech, racism, underage",false
 brainsoap.net,suspend,false,false,,false
 breastmilk.club,suspend,false,false,"racism, anti-lgbtq, harassment, hate-associated, hate-speech",false
 brighteon.social,suspend,false,false,"conspiracy, iftas:disinformation",false
@@ -251,7 +251,7 @@ noauthority.social,suspend,false,false,"alt-right, hate-speech, racism, anti-lgb
 nobodyhasthe.biz,suspend,false,false,"anti-lgbtq, hate-speech",false
 normie.cafe,suspend,false,false,,false
 norwoodzero.net,suspend,false,false,"hate-associated, hate-speech, racism, anti-lgbtq, nazism",false
-novoa.nagoya,suspend,false,false,,false
+novoa.nagoya,suspend,false,false,"hate-associated, hate-speech, racism, antisemitism, harassment",false
 nyanide.com,suspend,false,false,"harassment, anti-lgbtq, hate-speech, nazism, racism",false
 obo.sh,suspend,false,false,"underage, alt-right, iftas:csam",false
 occultist.space,suspend,false,false,,false
@@ -261,6 +261,7 @@ otakufarms.com,suspend,false,false,,false
 oti.st,suspend,false,false,,false
 outpoa.st,suspend,false,false,"alt-right, hate-speech, racism",false
 outrnat.nl,suspend,false,false,,false
+paravielfalt.zone,suspend,false,false,"inappropriate, underage",false
 parcero.bond,suspend,false,false,"hate-speech, racism",false
 pawlicker.com,suspend,false,false,,false
 pawoo.net,suspend,false,false,"underage, inappropriate, iftas:csam",false
