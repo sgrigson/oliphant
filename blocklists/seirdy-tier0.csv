@@ -9,6 +9,7 @@ domain,severity,reject_media,reject_reports,public_comment,obfuscate
 5dollah.click,suspend,False,False,,False
 80percent.social,suspend,False,False,,False
 8777.ch,suspend,False,False,,False
+abraham.su,suspend,False,False,,False
 absolutelyproprietary.org,suspend,False,False,,False
 activitypub-proxy.cf,suspend,False,False,,False
 activitypub-troll.cf,suspend,False,False,,False
@@ -55,12 +56,9 @@ campduffel.social,suspend,False,False,,False
 canary.tier0.example.com,suspend,False,False,,False
 cannibal.cafe,suspend,False,False,,False
 carnivore.social,suspend,False,False,,False
-catgirl.life,suspend,False,False,,False
 catposter.club,suspend,False,False,,False
 cawfee.club,suspend,False,False,,False
-cdrom.tokyo,suspend,False,False,,False
 childlove.su,suspend,False,False,,False
-ckpg.space,suspend,False,False,,False
 clew.lol,suspend,False,False,,False
 clubcyberia.co,suspend,False,False,,False
 clube.social,suspend,False,False,,False
@@ -74,6 +72,7 @@ cryptotooter.com,suspend,False,False,,False
 cum.camp,suspend,False,False,,False
 cum.salon,suspend,False,False,,False
 cunnyborea.space,suspend,False,False,,False
+cunnyborea.top,suspend,False,False,,False
 cutefunny.net,suspend,False,False,,False
 cyberretards.xyz,suspend,False,False,,False
 cyberstorm.one,suspend,False,False,,False
@@ -85,21 +84,17 @@ declin.eu,suspend,False,False,,False
 dembased.xyz,suspend,False,False,,False
 detroitriotcity.com,suspend,False,False,,False
 dev-wiki.de,suspend,False,False,,False
-dingdash.com,suspend,False,False,,False
 djsumdog.com,suspend,False,False,,False
 dobbs.town,suspend,False,False,,False
-dragonpsi.xyz,suspend,False,False,,False
 drow.be,suspend,False,False,,False
-dtzbts.xyz,suspend,False,False,,False
 ebin.club,suspend,False,False,,False
 eientei.org,suspend,False,False,,False
 endtimebelievers.com,suspend,False,False,,False
 enjoyer.network,suspend,False,False,,False
-epenguin.com,suspend,False,False,,False
-epsilon.social,suspend,False,False,,False
 eskimo.com,suspend,False,False,,False
 eveningzoo.club,suspend,False,False,,False
 fbxl.net,suspend,False,False,,False
+federate.net,suspend,False,False,,False
 federated.fun,suspend,False,False,,False
 fedposters.club,suspend,False,False,,False
 feministwiki.org,suspend,False,False,,False
@@ -155,7 +150,6 @@ icod.de,suspend,False,False,,False
 iddqd.social,suspend,False,False,,False
 ignorelist.com,suspend,False,False,,False
 imouto.pics,suspend,False,False,,False
-ironbug.org,suspend,False,False,,False
 justbros.xyz,suspend,False,False,,False
 kawa-kun.com,suspend,False,False,,False
 kenhbit.com,suspend,False,False,,False
@@ -200,7 +194,6 @@ mastodon.cf,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodon.se,suspend,False,False,,False
 mastodong.lol,suspend,False,False,,False
-meld.de,suspend,False,False,,False
 merovingian.club,suspend,False,False,,False
 midwaytrades.com,suspend,False,False,,False
 miku-enthusiast.club,suspend,False,False,,False
@@ -226,6 +219,7 @@ nazi.social,suspend,False,False,,False
 needs.vodka,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
 nekocave.xyz,suspend,False,False,,False
+netzsphaere.xyz,suspend,False,False,,False
 nicecrew.digital,suspend,False,False,,False
 nightshift.social,suspend,False,False,,False
 nixnet.social,suspend,False,False,,False
@@ -373,11 +367,9 @@ whinge.house,suspend,False,False,,False
 whinge.town,suspend,False,False,,False
 whitewomen.dog,suspend,False,False,,False
 wideboys.org,suspend,False,False,,False
-wikileaks2.org,suspend,False,False,,False
 wolfgirl.bar,suspend,False,False,,False
 workers.dev,suspend,False,False,,False
 writehere.is,suspend,False,False,,False
-xmrposter.club,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
 yesmap.net,suspend,False,False,,False
 yggdrasil.social,suspend,False,False,,False

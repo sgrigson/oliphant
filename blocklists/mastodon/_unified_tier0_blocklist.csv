@@ -9,6 +9,7 @@
 80percent.social,suspend,false,false,,false
 8777.ch,suspend,false,false,,false
 9yo.punipoka.pink,suspend,false,false,iftas:csam,false
+abraham.su,suspend,false,false,,false
 absolutelyproprietary.org,suspend,false,false,,false
 activitypub-proxy.cf,suspend,false,false,,false
 activitypub-troll.cf,suspend,false,false,"dos, harassment, spam",false
@@ -58,12 +59,9 @@ calobar.club,suspend,false,false,,false
 campduffel.social,suspend,false,false,,false
 cannibal.cafe,suspend,false,false,"inappropriate, underage",false
 carnivore.social,suspend,false,false,,false
-catgirl.life,suspend,false,false,,false
 catposter.club,suspend,false,false,,false
 cawfee.club,suspend,false,false,"hate-associated, hate-speech",false
-cdrom.tokyo,suspend,false,false,,false
 childlove.su,suspend,false,false,underage,false
-ckpg.space,suspend,false,false,,false
 clew.lol,suspend,false,false,"hate-speech, racism, hate-associated",false
 clubcyberia.co,suspend,false,false,"hate-speech, harassment, racism",false
 clube.social,suspend,false,false,,false
@@ -91,21 +89,17 @@ declin.eu,suspend,false,false,,false
 dembased.xyz,suspend,false,false,,false
 detroitriotcity.com,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",false
 dev-wiki.de,suspend,false,false,,false
-dingdash.com,suspend,false,false,,false
 djsumdog.com,suspend,false,false,,false
 dobbs.town,suspend,false,false,,false
-dragonpsi.xyz,suspend,false,false,,false
 drow.be,suspend,false,false,,false
-dtzbts.xyz,suspend,false,false,,false
 ebin.club,suspend,false,false,,false
 eientei.org,suspend,false,false,"hate-speech, racism, iftas:hate-speech",false
 endtimebelievers.com,suspend,false,false,,false
 enjoyer.network,suspend,false,false,,false
-epenguin.com,suspend,false,false,,false
-epsilon.social,suspend,false,false,,false
 eskimo.com,suspend,false,false,,false
 eveningzoo.club,suspend,false,false,"hate-speech, alt-right, antisemitism, conspiracy, fascism, racism, iftas:hate-speech;disinformation",false
 fbxl.net,suspend,false,false,,false
+federate.net,suspend,false,false,,false
 federated.fun,suspend,false,false,"anti-lgbtq, hate-speech",false
 fedposters.club,suspend,false,false,,false
 feministwiki.org,suspend,false,false,,false
@@ -164,7 +158,6 @@ ignorelist.com,suspend,false,false,"dos, spam",false
 imouto.exposed,suspend,false,false,iftas:csam,false
 imouto.pics,suspend,false,false,,false
 intkos.link,suspend,false,false,"hate-speech, alt-right, antisemitism",false
-ironbug.org,suspend,false,false,,false
 justbros.xyz,suspend,false,false,,false
 kawa-kun.com,suspend,false,false,hate-associated,false
 kenhbit.com,suspend,false,false,,false
@@ -212,7 +205,6 @@ mastodon.cf,suspend,false,false,,false
 mastodon.la,suspend,false,false,,false
 mastodon.se,suspend,false,false,,false
 mastodong.lol,suspend,false,false,,false
-meld.de,suspend,false,false,,false
 merovingian.club,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech",false
 midwaytrades.com,suspend,false,false,"hate-associated, alt-right, anti-lgbtq",false
 miku-enthusiast.club,suspend,false,false,,false
@@ -239,6 +231,7 @@ needs.vodka,suspend,false,false,,false
 neenster.org,suspend,false,false,,false
 nekocave.xyz,suspend,false,false,,false
 neomobius.com,suspend,false,false,iftas:csam,false
+netzsphaere.xyz,suspend,false,false,,false
 nicecrew.digital,suspend,false,false,"hate-speech, anti-lgbtq, racism, iftas:hate-speech;brigading;online-harassment",false
 nightshift.social,suspend,false,false,,false
 nixnet.social,suspend,false,false,,false
@@ -396,11 +389,9 @@ whinge.house,suspend,false,false,,false
 whinge.town,suspend,false,false,"hate-associated, anti-lgbtq, racism",false
 whitewomen.dog,suspend,false,false,"hate-associated, hate-speech, racism, underage",false
 wideboys.org,suspend,false,false,"anti-lgbtq, harassment, hate-associated, racism",false
-wikileaks2.org,suspend,false,false,,false
 wolfgirl.bar,suspend,false,false,"harassment, hate-speech, antisemitism, racism",false
 workers.dev,suspend,false,false,,false
 writehere.is,suspend,false,false,,false
-xmrposter.club,suspend,false,false,,false
 xn--p1abe3d.xn--80asehdb,suspend,false,false,,false
 yesmap.net,suspend,false,false,,false
 yggdrasil.social,suspend,false,false,"hate-speech, anti-lgbtq, iftas:hate-speech",false
