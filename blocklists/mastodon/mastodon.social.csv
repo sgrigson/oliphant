@@ -205,9 +205,9 @@ mir***.**ty,suspend,false,false,inappropriate content,false
 misskey-forkbomb.cf,suspend,false,false,spam,false
 misskey.io,silence,false,false,inappropriate content,false
 misskey.shunrin.com,silence,false,false,unmanaged spam,false
-momostr.pink,silence,false,false,spam,false
+momostr.pink,suspend,false,false,spam,false
 monstergirl.space,suspend,false,false,hate speech,false
-mostr.pub,silence,false,false,spam,false
+mostr.pub,suspend,false,false,spam,false
 mouse.services,suspend,false,false,harassment,false
 mstdn.foxfam.club,silence,false,false,third-party bots,false
 mugicha.club,suspend,false,false,hate speech,false
