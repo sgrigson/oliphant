@@ -5,34 +5,37 @@ set -e
 exec 2> >(tee /opt/fediblockhole/logs/fedisync.log)
 echo "Pulling down all blocklist sources..."
 
+curl https://connect.iftas.org/wp-content/uploads/2024/04/dni.csv > /opt/fediblockhole/blocklists/dni.csv
+
 cd /opt/fediblockhole
 
 GIT=`which git`
 ${GIT} fetchall
 
-PULLCONFIG="/opt/fediblockhole/secretconfig/pull.conf.toml" # default, pull sources WITHOUT public_description
-#PULLCONFIG="/opt/fediblockhole/secretconfig/pull.all.conf.toml" # pull down all sources WITH public_description
+PULLCONFIG="/opt/fediblockhole/config/pull.conf.toml" # default, pull sources WITHOUT public_description
+#PULLCONFIG="/opt/fediblockhole/config/pull.all.conf.toml" # pull down all sources WITH public_description
 
 SYNC=`which fediblock-sync`
 ${SYNC} -c $PULLCONFIG # pull down all files, create max list
 
 # rename and remove intermediate files
 rm -f /opt/fediblockhole/blocklists/file:---opt-fediblockhole-blocklists-__allowlist.csv.csv
-mv /opt/fediblockhole/blocklists/https:--seirdy.one-pb-tier0.csv.csv /opt/fediblockhole/blocklists/tier0.csv
-mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-gardenfence-blocklist-main-gardenfence-fediblocksync.csv.csv /opt/fediblockhole/blocklists/gardenfence.csv
-mv /opt/fediblockhole/blocklists/https:--mastodon.online-api-v1-instance-domain_blocks.csv /opt/fediblockhole/blocklists/mastodon.online.csv
-mv /opt/fediblockhole/blocklists/https:--mastodon.social-api-v1-instance-domain_blocks.csv /opt/fediblockhole/blocklists/mastodon.social.csv
-mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-iftas-org-resources-main-DNI-dni.csv.csv /opt/fediblockhole/blocklists/dni.csv
+mv /opt/fediblockhole/blocklists/https:--seirdy.one-pb-tier0.csv.csv /opt/fediblockhole/blocklists/seirdy-tier0.csv
+mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-gardenfence-blocklist-main-gardenfence-fedibloc>
+mv /opt/fediblockhole/blocklists/https:--mastodon.online-api-v1-instance-domain_blocks.csv /opt/fediblockhole/bloc>
+mv /opt/fediblockhole/blocklists/https:--mastodon.social-api-v1-instance-domain_blocks.csv /opt/fediblockhole/bloc>
+#mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-iftas-org-resources-main-DNI-dni.csv.csv /opt/>
+#mv /opt/fediblockhole/blocklists/https:--connect.iftas.org-wp-content-uploads-2024-04-dni.csv /opt/fediblockhole/>
+
+#pull down DNI file directly to blocklist directory
+
+#curl https://connect.iftas.org/wp-content/uploads/2024/04/dni.csv > /opt/fediblockhole/blocklists/dni.csv
+
 # destroy the 'max' list
 rm -f /opt/fediblockhole/blocklists/_unified_max_blocklist.csv
 
 # create unified tier0 file
-${SYNC} -c /opt/fediblockhole/secretconfig/tier0.conf.toml
-
-# create missing from mastodon.social blocklist file, and the inverse file
-${SYNC} -c /opt/fediblockhole/config/ms-noblock.conf.toml
-
-cp /opt/fediblockhole/blocklists/_unified_tier0_blocklist.csv /opt/fediblockhole/blocklists/_unified_min_blocklist.csv 
+${SYNC} -c /opt/fediblockhole/config/tier0.conf.toml
 
 echo "Creating mastodon versions of files..."
 
