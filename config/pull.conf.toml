@@ -6,7 +6,7 @@ blocklist_instance_sources = [
 blocklist_url_sources = [
  # tier 0
  { url = 'https://seirdy.one/pb/tier0.csv', format = 'csv'},
- { url = 'https://raw.githubusercontent.com/gardenfence/blocklist/main/gardenfence-fediblocksync.csv', format = 'c>
+ { url = 'https://raw.githubusercontent.com/gardenfence/blocklist/main/gardenfence-fediblocksync.csv', format = 'csv'}
 ]
 
 allowlist_url_sources = [

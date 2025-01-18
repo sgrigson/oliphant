@@ -19,13 +19,12 @@ SYNC=`which fediblock-sync`
 ${SYNC} -c $PULLCONFIG # pull down all files, create max list
 
 # rename and remove intermediate files
+# rename and remove intermediate files
 rm -f /opt/fediblockhole/blocklists/file:---opt-fediblockhole-blocklists-__allowlist.csv.csv
 mv /opt/fediblockhole/blocklists/https:--seirdy.one-pb-tier0.csv.csv /opt/fediblockhole/blocklists/seirdy-tier0.csv
-mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-gardenfence-blocklist-main-gardenfence-fedibloc>
-mv /opt/fediblockhole/blocklists/https:--mastodon.online-api-v1-instance-domain_blocks.csv /opt/fediblockhole/bloc>
-mv /opt/fediblockhole/blocklists/https:--mastodon.social-api-v1-instance-domain_blocks.csv /opt/fediblockhole/bloc>
-#mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-iftas-org-resources-main-DNI-dni.csv.csv /opt/>
-#mv /opt/fediblockhole/blocklists/https:--connect.iftas.org-wp-content-uploads-2024-04-dni.csv /opt/fediblockhole/>
+mv /opt/fediblockhole/blocklists/https:--raw.githubusercontent.com-gardenfence-blocklist-main-gardenfence-fediblocksync.csv.csv /opt/fediblockhole/blocklists/gardenfence.csv
+mv /opt/fediblockhole/blocklists/https:--mastodon.online-api-v1-instance-domain_blocks.csv /opt/fediblockhole/blocklists/mastodon.online.csv
+mv /opt/fediblockhole/blocklists/https:--mastodon.social-api-v1-instance-domain_blocks.csv /opt/fediblockhole/blocklists/mastodon.social.csv
 
 #pull down DNI file directly to blocklist directory
 
