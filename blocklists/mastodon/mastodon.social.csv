@@ -192,6 +192,7 @@ lus*.*oe,suspend,false,false,inappropriate content ,false
 m.n1l.dev,silence,false,false,unmanaged spam,false
 maps******.de,suspend,false,false,inappropriate content,false
 mashtodon.alterracloud.com,suspend,false,false,hate speech,false
+mast-serv.site,suspend,false,false,spam,false
 mast.socialspill.com,suspend,false,false,third-party bots,false
 mastinator.com,suspend,false,false,third-party bots,false
 masto***.******.lol,suspend,false,false,inappropriate content,false
