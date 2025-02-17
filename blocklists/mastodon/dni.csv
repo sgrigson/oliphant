@@ -37,6 +37,7 @@ kiwifarms.is,suspend,false,false,iftas:hate-speech;online-harassment,true
 loli.church,suspend,false,false,iftas:csam,true
 lolicon.rocks,suspend,false,false,iftas:csam,true
 lolison.network,suspend,false,false,iftas:csam,true
+mast-serv.site,suspend,false,false,iftas:spam;coordinated-inauthentic-behaviour,true
 mastinator.com,suspend,false,false,iftas:service-abuse,true
 misskey-forkbomb.cf,suspend,false,false,iftas:service-abuse,true
 natehiggers.online,suspend,false,false,iftas:troll;online-harassment,true
@@ -66,5 +67,6 @@ social.cutefunny.net,suspend,false,false,iftas:spam,true
 startrekshitposting.com,suspend,false,false,iftas:spam,true
 twi.social,suspend,false,false,iftas:csam,true
 varishangout.net,suspend,false,false,iftas:csam;hate-speech;online-harassment,true
+webmasto.online,suspend,false,false,iftas:spam;coordinated-inauthentic-behaviour,true
 xscape.club,suspend,false,false,iftas:csam,true
 yggdrasil.social,suspend,false,false,iftas:hate-speech,true

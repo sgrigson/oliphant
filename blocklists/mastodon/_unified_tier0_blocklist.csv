@@ -200,6 +200,7 @@ maladaptive.art,suspend,false,false,,false
 mapsupport.de,suspend,false,false,"harassment, inappropriate, underage",false
 marsey.club,suspend,false,false,,false
 mashtodon.alterracloud.com,suspend,false,false,,false
+mast-serv.site,suspend,false,false,iftas:spam;coordinated-inauthentic-behaviour,true
 mastertibbles.co.uk,suspend,false,false,,false
 masthead.social,suspend,false,false,,false
 mastinator.com,suspend,false,false,"bots, harassment, iftas:service-abuse",true
@@ -383,6 +384,7 @@ vampiremaid.cafe,suspend,false,false,,false
 varishangout.net,suspend,false,false,"anti-lgbtq, hate-speech, inappropriate, racism, iftas:csam;hate-speech;online-harassment",true
 vladtepesblog.com,suspend,false,false,,false
 waifuism.life,suspend,false,false,,false
+webmasto.online,suspend,false,false,iftas:spam;coordinated-inauthentic-behaviour,true
 weeaboo.space,suspend,false,false,,false
 whinge.house,suspend,false,false,,false
 whinge.town,suspend,false,false,"anti-lgbtq, hate-associated, racism",false
