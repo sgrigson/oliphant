@@ -9,6 +9,7 @@ ap.invalid,suspend,FALSE,FALSE,iftas:canary,TRUE
 bae.st,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 baraag.net,suspend,FALSE,FALSE,iftas:csam,TRUE
 beefyboys.win,suspend,FALSE,FALSE,iftas:hate-speech,TRUE
+boymoder.biz,suspend,FALSE,FALSE,iftas:online-harassment,TRUE
 brighteon.social,suspend,FALSE,FALSE,iftas:disinformation,TRUE
 cawfee.club,suspend,FALSE,FALSE,iftas:csam,TRUE
 childlove.space,suspend,FALSE,FALSE,iftas:csam,TRUE

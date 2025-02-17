@@ -47,7 +47,7 @@ birds.garden,suspend,false,false,,false
 bitcointv.com,suspend,false,false,,false
 blob.cat,suspend,false,false,"harassment, porn",false
 blockedur.mom,suspend,false,false,,false
-boymoder.biz,suspend,false,false,"harassment, hate-associated, hate-speech, racism, underage",false
+boymoder.biz,suspend,false,false,"harassment, hate-associated, hate-speech, racism, underage, iftas:online-harassment",true
 brainsoap.net,suspend,false,false,,false
 breastmilk.club,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism",false
 brighteon.social,suspend,false,false,"conspiracy, iftas:disinformation",true
