@@ -100,6 +100,7 @@ ghet**.****ter,suspend,False,False,Inappropriate content,False
 glindr.org,suspend,False,False,Transphobia,False
 globalfrens.com,suspend,False,False,Hate speech,False
 glowers.club,suspend,False,False,Hate speech,False
+gtmastodon.online,suspend,False,False,Spam,False
 h5q.net,suspend,False,False,Inappropriate content,False
 head***.*afe,suspend,False,False,Inappropriate content,False
 hen***.**by,suspend,False,False,Inappropriate content,False
@@ -130,6 +131,7 @@ lush.moe,suspend,False,False,Inappropriate content,False
 m.n1l.dev,silence,False,False,Unmanaged spam,False
 maps******.de,suspend,False,False,Inappropriate content,False
 mashtodon.alterracloud.com,suspend,False,False,Hate speech,False
+mast-serv.site,suspend,False,False,Spam,False
 mast.socialspill.com,suspend,False,False,Third-party bots,False
 mastinator.com,suspend,False,False,Third-party bots,False
 masto***.******.lol,suspend,False,False,Inappropriate content,False
@@ -267,6 +269,7 @@ urchan.org,suspend,False,False,Hate speech,False
 urweibo.com,silence,False,False,Unmanaged spam,False
 usasa.ky,silence,False,False,Unmanaged spam,False
 varis*******.net,suspend,False,False,Inappropriate content,False
+webmasto.online,suspend,False,False,Spam,False
 whit******.dog,suspend,False,False,Inappropriate content,False
 wolfgirl.bar,suspend,False,False,Hate speech,False
 workers.dev,suspend,False,False,Botnet,False
