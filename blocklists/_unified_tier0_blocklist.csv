@@ -100,8 +100,8 @@ enjoyer.network,suspend,False,False,,False
 eskimo.com,suspend,False,False,,False
 eveningzoo.club,suspend,False,False,"alt-right, antisemitism, conspiracy, fascism, hate-speech, racism, iftas:hate-speech;disinformation",True
 fbxl.net,suspend,False,False,,False
-federate.net,suspend,False,False,,False
 federated.fun,suspend,False,False,"anti-lgbtq, hate-speech",False
+fediverse-lite.com,suspend,False,False,,False
 fedposters.club,suspend,False,False,,False
 feministwiki.org,suspend,False,False,,False
 feral.cafe,suspend,False,False,,False
@@ -199,7 +199,6 @@ makemysarcophagus.com,suspend,False,False,,False
 maladaptive.art,suspend,False,False,,False
 mapsupport.de,suspend,False,False,"harassment, inappropriate, underage",False
 marsey.club,suspend,False,False,,False
-mashtodon.alterracloud.com,suspend,False,False,,False
 mast-serv.site,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
 mastertibbles.co.uk,suspend,False,False,,False
 masthead.social,suspend,False,False,,False
@@ -283,6 +282,7 @@ poster.place,suspend,False,False,"alt-right, anti-lgbtq, hate-associated, hate-s
 pouque.net,suspend,False,False,,False
 preteengirls.biz,suspend,False,False,,False
 privex.social,suspend,False,False,,False
+probablyfreespeech.com,suspend,False,False,,False
 prospeech.space,suspend,False,False,,False
 pseudo-whiskey.bar,suspend,False,False,,False
 psion.co,suspend,False,False,,False
