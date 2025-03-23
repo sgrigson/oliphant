@@ -337,6 +337,7 @@ twtr.vrij.social,suspend,False,False,Third-party bots,False
 twtr.wappie.land,suspend,False,False,Third-party bots,False
 twtrbridge.de,suspend,False,False,Third-party bots,False
 twttr.yukineko.me,suspend,False,False,Third-party bots,False
+unfufadoo.net,silence,False,False,Spam,False
 urchan.org,suspend,False,False,Hate speech,False
 urweibo.com,silence,False,False,Unmanaged spam,False
 usasa.ky,silence,False,False,Unmanaged spam,False
