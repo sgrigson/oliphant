@@ -61,7 +61,7 @@ cannibal.cafe,suspend,False,False,"inappropriate, underage",False
 catposter.club,suspend,False,False,,False
 cawfee.club,suspend,False,False,"hate-associated, hate-speech, iftas:csam",True
 childlove.space,suspend,False,False,iftas:csam,True
-childlove.su,suspend,False,False,"inappropriate, underage, iftas:csam",True
+childlove.su,suspend,False,False,iftas:csam,True
 clew.lol,suspend,False,False,"hate-associated, hate-speech, racism, iftas:hate-speech;online-harassment",True
 clubcyberia.co,suspend,False,False,"harassment, hate-speech, racism",False
 clube.social,suspend,False,False,,False
@@ -80,7 +80,7 @@ cunnyborea.top,suspend,False,False,"hate-speech, inappropriate, racism, spam, un
 cutefunny.net,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage",False
 cybercriminal.eu,suspend,False,False,"harassment, hate-associated, spam",False
 cyberretards.xyz,suspend,False,False,,False
-cyberstorm.one,suspend,False,False,"alt-right, hate-speech, nazism",False
+cyberstorm.one,suspend,False,False,,False
 d-fens.systems,suspend,False,False,,False
 danksquad.org,suspend,False,False,,False
 daspr.io,suspend,False,False,,False
@@ -148,7 +148,7 @@ handholding.io,suspend,False,False,,False
 harpy.faith,suspend,False,False,,False
 helladoge.com,suspend,False,False,,False
 hendrixgames.com,suspend,False,False,,False
-hentai.baby,suspend,False,False,"inappropriate, underage, iftas:csam",True
+hentai.baby,suspend,False,False,iftas:csam,True
 hidamari.apartments,suspend,False,False,"alt-right, nazism",False
 hitchhiker.social,suspend,False,False,,False
 honkwerx.tech,suspend,False,False,,False
