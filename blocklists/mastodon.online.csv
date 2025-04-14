@@ -149,6 +149,7 @@ misskey-forkbomb.cf,suspend,False,False,Spam,False
 misskey.io,silence,False,False,Inappropriate content,False
 misskey.shunrin.com,silence,False,False,Unmanaged spam,False
 momostr.pink,silence,False,False,Spam,False
+monk.**.****ness,suspend,False,False,Inappropriate content,False
 mostr.pub,silence,False,False,Spam,False
 mstdn.foxfam.club,silence,False,False,Server dedicated to unofficial news bots,False
 mugicha.club,suspend,False,False,Transphobia,False

@@ -213,6 +213,7 @@ misskey-forkbomb.cf,suspend,False,False,Spam,False
 misskey.io,silence,False,False,Inappropriate content,False
 misskey.shunrin.com,silence,False,False,Unmanaged spam,False
 momostr.pink,suspend,False,False,Spam,False
+monk.**.****ness,suspend,False,False,Inappropriate content,False
 monstergirl.space,suspend,False,False,Hate speech,False
 mostr.pub,suspend,False,False,Spam,False
 mouse.services,suspend,False,False,Harassment,False
