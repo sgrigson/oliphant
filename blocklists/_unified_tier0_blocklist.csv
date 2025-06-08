@@ -69,7 +69,7 @@ clube.social,suspend,False,False,,False
 collapsitarian.io,suspend,False,False,"alt-right, hate-associated",False
 contrapointsfan.club,suspend,False,False,"hate-associated, hate-speech",False
 coolsite.win,suspend,False,False,,False
-cottoncandy.cafe,suspend,False,False,iftas:csam,True
+cottoncandy.cafe,suspend,False,False,"inappropriate, underage, iftas:csam",True
 crlf.ninja,suspend,False,False,,False
 crucible.world,suspend,False,False,,False
 cryptodon.lol,suspend,False,False,crypto,False
@@ -79,6 +79,7 @@ cum.salon,suspend,False,False,"hate-speech, porn, iftas:hate-speech;online-haras
 cunnyborea.space,suspend,False,False,"antisemitism, hate-speech, inappropriate, racism, underage, iftas:hate-speech;online-harassment;explicit-content",True
 cunnyborea.top,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage, iftas:hate-speech;online-harassment;explicit-content",True
 cutefunny.net,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage",False
+cutiepaws.org,suspend,False,False,"inappropriate, underage",False
 cybercriminal.eu,suspend,False,False,"harassment, hate-associated, spam",False
 cyberretards.xyz,suspend,False,False,,False
 cyberstorm.one,suspend,False,False,,False
@@ -395,7 +396,7 @@ workers.dev,suspend,False,False,,False
 writehere.is,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
 xscape.club,suspend,False,False,iftas:csam,True
-yesmap.net,suspend,False,False,,False
+yesmap.net,suspend,False,False,"inappropriate, underage",False
 yggdrasil.social,suspend,False,False,"anti-lgbtq, hate-speech, iftas:hate-speech",True
 youjo.love,suspend,False,False,"antisemitism, antivax, inappropriate, underage",False
 zhub.link,suspend,False,False,,False
