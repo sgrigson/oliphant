@@ -80,6 +80,7 @@ deepw*********.net,suspend,False,False,Inappropriate content,False
 degen******.fail,suspend,False,False,,False
 detroitriotcity.com,suspend,False,False,Hate speech,False
 dicekey.jp,silence,False,False,Unmanaged spam,False
+dol*.***on,suspend,False,False,Inappropriate content,False
 ede**.***th,suspend,False,False,Inappropriate content,False
 eepy.****ess,suspend,False,False,Inappropriate content,False
 eientei.org,suspend,False,False,Hate speech,False
@@ -130,6 +131,7 @@ lol*.****ch,suspend,False,False,Inappropriate content,False
 lol*.***za,suspend,False,False,Inappropriate content,False
 loli****.***ool,suspend,False,False,Inappropriate content,False
 loli***.****ork,suspend,False,False,Inappropriate content,False
+loli***.****ter,suspend,False,False,Inappropriate content,False
 loli***.**cks,suspend,False,False,Inappropriate content,False
 loli.****sed,suspend,False,False,Inappropriate content,False
 lolison.top,suspend,False,False,Inappropriate content,False
@@ -241,6 +243,7 @@ social.quodverum.com,silence,False,False,Misinformation and conspiracy theories,
 solagg.com,suspend,False,False,Spam,False
 sovran.social,suspend,False,False,Third-party bots,False
 spinster.xyz,suspend,False,False,Transphobia,False
+st.****.*oe,suspend,False,False,Inappropriate content,False
 strelizia.net,suspend,False,False,Hate speech,False
 supernets.social,suspend,False,False,Hate speech,False
 switter.at,suspend,False,False,Preparing for announced shutdown,False
