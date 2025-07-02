@@ -265,6 +265,7 @@ pawlicker.com,suspend,False,False,,False
 pawoo.net,suspend,False,False,"inappropriate, underage, iftas:csam",True
 paypig.org,suspend,False,False,,False
 pedo.school,suspend,False,False,"underage, iftas:csam",True
+peertube.se,suspend,False,False,,False
 peervideo.club,suspend,False,False,,False
 peister.org,suspend,False,False,,False
 pettanko.art,suspend,False,False,iftas:csam,True
@@ -372,6 +373,7 @@ touha.me,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False
 truthsocial.co.in,suspend,False,False,"alt-right, hate-speech",False
+tsundere.love,suspend,False,False,,False
 tummy.town,suspend,False,False,,False
 twi.social,suspend,False,False,iftas:csam,True
 tyil.nl,suspend,False,False,,False
@@ -385,6 +387,7 @@ uwu.social,suspend,False,False,,False
 vampiremaid.cafe,suspend,False,False,,False
 varishangout.net,suspend,False,False,"anti-lgbtq, hate-speech, inappropriate, racism, underage, iftas:csam;hate-speech;online-harassment",True
 vladtepesblog.com,suspend,False,False,,False
+volk.love,suspend,False,False,,False
 volk.network,suspend,False,False,"hate-speech, racism, white-supremacy",False
 waifuism.life,suspend,False,False,,False
 webmasto.online,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
