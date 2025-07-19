@@ -206,6 +206,7 @@ mast-serv.site,suspend,false,false,spam,false
 mast.socialspill.com,suspend,false,false,third-party bots,false
 mastinator.com,suspend,false,false,third-party bots,false
 masto***.******.lol,suspend,false,false,inappropriate content,false
+mastodon.arell.ai,suspend,false,false,third-party bots,false
 mastodon.sitejp.synology.me,silence,false,false,unmanaged spam,false
 mastodon.social.fraudulent.link,suspend,false,false,impersonation,false
 mastodon.socialspill.com,suspend,false,false,third-party bots,false
