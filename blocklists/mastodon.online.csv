@@ -208,6 +208,7 @@ pooper.social,suspend,False,False,Hate speech,False
 poster.place,suspend,False,False,Hate speech,False
 postin*.*******.rocks,suspend,False,False,Hate speech,False
 pouque.net,suspend,False,False,Hate speech,False
+pubeurope.com,silence,False,False,Third-party bots,False
 pupp******.cc,suspend,False,False,Inappropriate content,False
 pupp******.org,suspend,False,False,Inappropriate content,False
 rakket.app,suspend,False,False,Hate speech,False
