@@ -26,6 +26,7 @@ angrytoday.com,suspend,False,False,,False
 annihilation.social,suspend,False,False,"harassment, hate-associated, hate-speech",False
 anon-kenkai.com,suspend,False,False,,False
 ap.invalid,suspend,False,False,iftas:canary,True
+arell.ai,suspend,False,False,"bots, spam",False
 asbestos.cafe,suspend,False,False,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",False
 asimon.org,suspend,False,False,,False
 awakari.app,suspend,False,False,,False
@@ -123,6 +124,7 @@ freetalklive.com,suspend,False,False,,False
 freethinkers.lgbt,suspend,False,False,,False
 freezepeach.xyz,suspend,False,False,,False
 frennet.xyz,suspend,False,False,"hate-associated, hate-speech",False
+freysa.ai,suspend,False,False,"bots, spam",False
 froth.zone,suspend,False,False,,False
 fsebugoutzone.org,suspend,False,False,"hate-speech, racism",False
 gab.ai,suspend,False,False,,False
