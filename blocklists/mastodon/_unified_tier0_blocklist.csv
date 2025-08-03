@@ -1,9 +1,9 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
-076.ne.jp,suspend,false,false,hate-associated,false
+076.ne.jp,suspend,false,false,,false
 101010.pl,suspend,false,false,,false
 10minutepleroma.com,suspend,false,false,,false
 13bells.com,suspend,false,false,iftas:hate-speech;online-harassment,true
-1611.social,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech, iftas:hate-speech;online-harassment",true
+1611.social,suspend,false,false,iftas:hate-speech;online-harassment,true
 4aem.com,suspend,false,false,,false
 5dollah.click,suspend,false,false,"anti-lgbtq, harassment, hate-associated, hate-speech, racism, spam",false
 80percent.social,suspend,false,false,,false
@@ -33,7 +33,7 @@ awakari.app,suspend,false,false,,false
 awakari.com,suspend,false,false,,false
 badly.co,suspend,false,false,,false
 bae.st,suspend,false,false,"alt-right, anti-lgbtq, harassment, hate-associated, hate-speech, inappropriate, nazism, racism, iftas:hate-speech;online-harassment",true
-banepo.st,suspend,false,false,"antivax, harassment, hate-associated",false
+banepo.st,suspend,false,false,,false
 baraag.net,suspend,false,false,"hate-associated, inappropriate, underage, iftas:csam",true
 bassam.social,suspend,false,false,,false
 battlepenguin.video,suspend,false,false,,false
@@ -81,7 +81,6 @@ cunnyborea.space,suspend,false,false,"antisemitism, hate-speech, inappropriate, 
 cunnyborea.top,suspend,false,false,"hate-speech, inappropriate, racism, spam, underage, iftas:hate-speech;online-harassment;explicit-content",true
 cutefunny.net,suspend,false,false,"hate-speech, inappropriate, racism, spam, underage",false
 cutiepaws.org,suspend,false,false,"inappropriate, underage",false
-cybercriminal.eu,suspend,false,false,"harassment, hate-associated, spam",false
 cyberretards.xyz,suspend,false,false,,false
 cyberstorm.one,suspend,false,false,,false
 d-fens.systems,suspend,false,false,,false
