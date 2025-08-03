@@ -1,6 +1,4 @@
 domain,severity,reject_media,reject_reports,public_comment,obfuscate
-076.ne.jp,suspend,False,False,hate-associated,False
-1611.social,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
 5dollah.click,suspend,False,False,"anti-lgbtq, harassment, hate-associated, hate-speech, racism, spam",False
 activitypub-troll.cf,suspend,False,False,"dos, harassment, spam",False
 adachi.party,suspend,False,False,"harassment, hate-associated, hate-speech, racism",False
@@ -9,7 +7,6 @@ annihilation.social,suspend,False,False,"harassment, hate-associated, hate-speec
 arell.ai,suspend,False,False,"bots, spam",False
 asbestos.cafe,suspend,False,False,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",False
 bae.st,suspend,False,False,"alt-right, anti-lgbtq, harassment, hate-associated, hate-speech, inappropriate, nazism, racism",False
-banepo.st,suspend,False,False,"antivax, harassment, hate-associated",False
 baraag.net,suspend,False,False,"hate-associated, inappropriate, underage",False
 beefyboys.win,suspend,False,False,"alt-right, anti-lgbtq, hate-associated, hate-speech",False
 berserker.town,suspend,False,False,"alt-right, anti-lgbtq, fascism, hate-speech",False
@@ -34,7 +31,6 @@ cunnyborea.space,suspend,False,False,"antisemitism, hate-speech, inappropriate, 
 cunnyborea.top,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage",False
 cutefunny.net,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage",False
 cutiepaws.org,suspend,False,False,"inappropriate, underage",False
-cybercriminal.eu,suspend,False,False,"harassment, hate-associated, spam",False
 decayable.ink,suspend,False,False,"alt-right, hate-associated, hate-speech, racism",False
 detroitriotcity.com,suspend,False,False,"anti-lgbtq, harassment, hate-speech, racism",False
 eientei.org,suspend,False,False,"hate-speech, racism",False
