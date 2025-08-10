@@ -223,7 +223,7 @@ monads.online,suspend,false,false,,false
 mooo.com,suspend,false,false,,false
 morale.ch,suspend,false,false,,false
 mostr.pub,suspend,false,false,"alt-right, hate-speech, spam",false
-mouse.services,suspend,false,false,"harassment, hate-associated",false
+mouse.services,suspend,false,false,,false
 mrhands.horse,suspend,false,false,,false
 mstdn.jp,suspend,false,false,,false
 mugicha.club,suspend,false,false,"hate-speech, racism",false
@@ -251,7 +251,7 @@ nobodyhasthe.biz,suspend,false,false,"anti-lgbtq, hate-speech, racism",false
 norwoodzero.net,suspend,false,false,"anti-lgbtq, hate-associated, hate-speech, nazism, racism",false
 novoa.nagoya,suspend,false,false,"antisemitism, harassment, hate-associated, hate-speech, racism",false
 nyanide.com,suspend,false,false,"anti-lgbtq, harassment, hate-speech, nazism, racism",false
-obo.sh,suspend,false,false,"alt-right, inappropriate, underage, iftas:csam",true
+obo.sh,suspend,false,false,iftas:csam,true
 occultist.space,suspend,false,false,,false
 oddballs.online,suspend,false,false,"inappropriate, underage",false
 onionfarms.org,suspend,false,false,,false
@@ -259,7 +259,6 @@ otakufarms.com,suspend,false,false,,false
 oti.st,suspend,false,false,,false
 outpoa.st,suspend,false,false,"alt-right, hate-speech, racism",false
 outrnat.nl,suspend,false,false,,false
-paravielfalt.zone,suspend,false,false,"inappropriate, underage",false
 parcero.bond,suspend,false,false,"hate-speech, racism",false
 parcero.casa,suspend,false,false,"harassment, hate-speech",false
 pawlicker.com,suspend,false,false,,false
@@ -318,7 +317,7 @@ sad.cab,suspend,false,false,,false
 satoshishop.de,suspend,false,false,,false
 saynoto.lgbt,suspend,false,false,,false
 schwartzwelt.xyz,suspend,false,false,"hate-associated, hate-speech",false
-scots.network,suspend,false,false,"anti-lgbtq, hate-speech",false
+scots.network,suspend,false,false,,false
 seal.cafe,suspend,false,false,"alt-right, anti-lgbtq, antisemitism, harassment, hate-associated, hate-speech, racism, iftas:troll;online-harassment",true
 seda.social,suspend,false,false,iftas:spam,true
 sharivegas.com,suspend,false,false,,false
@@ -358,7 +357,7 @@ startrekshitposting.com,suspend,false,false,iftas:spam,true
 stereophonic.space,suspend,false,false,"alt-right, harassment, hate-associated",false
 strelizia.net,suspend,false,false,"hate-speech, underage",false
 subs4social.xyz,suspend,false,false,,false
-supernets.social,suspend,false,false,"alt-right, hate-speech, racism",false
+supernets.social,suspend,false,false,,false
 taihou.website,suspend,false,false,,false
 tastingtraffic.net,suspend,false,false,"anti-lgbtq, spam",false
 teci.world,suspend,false,false,"alt-right, hate-associated",false
