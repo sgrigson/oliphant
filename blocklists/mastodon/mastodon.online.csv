@@ -123,6 +123,7 @@ jaeger.website,suspend,false,false,transphobia,false
 kids******.fyi,suspend,false,false,inappropriate content,false
 kids.0px.io,silence,false,false,unmanaged spam,false
 kingcels.ca,suspend,false,false,hate speech,false
+kit.**fe,suspend,false,false,inappropriate content,false
 kiwifarms.cc,suspend,false,false,known for harassment,false
 kodo.*****res,suspend,false,false,inappropriate content,false
 kog**.cc,suspend,false,false,inappropriate content,false
@@ -298,6 +299,7 @@ whit******.dog,suspend,false,false,inappropriate content,false
 wolfgirl.bar,suspend,false,false,hate speech,false
 workers.dev,suspend,false,false,botnet,false
 x.good.news,suspend,false,false,third-party bots,false
+xha**.**ve,suspend,false,false,inappropriate content,false
 xxxtumblr.org,silence,false,false,pornographic content not marked as sensitive,false
 yes***.*et,suspend,false,false,inappropriate content,false
 yggdrasil.social,suspend,false,false,hate speech,false
