@@ -38,11 +38,12 @@ kiwifarms.is,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 loli.church,suspend,FALSE,FALSE,iftas:csam,TRUE
 lolicon.rocks,suspend,FALSE,FALSE,iftas:csam,TRUE
 lolison.network,suspend,FALSE,FALSE,iftas:csam,TRUE
-mast-serv.site,suspend,FALSE,FALSE,iftas:spam;coordinated-inauthentic-behaviour,TRUE
 mastinator.com,suspend,FALSE,FALSE,iftas:service-abuse,TRUE
+mast-serv.site,suspend,FALSE,FALSE,iftas:spam;coordinated-inauthentic-behaviour,TRUE
 misskey-forkbomb.cf,suspend,FALSE,FALSE,iftas:service-abuse,TRUE
 natehiggers.online,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
 neomobius.com,suspend,FALSE,FALSE,iftas:csam,TRUE
+newsbeep.org,suspend,FALSE,FALSE,iftas:spam,TRUE
 nicecrew.digital,suspend,FALSE,FALSE,iftas:hate-speech;brigading;online-harassment,TRUE
 obo.sh,suspend,FALSE,FALSE,iftas:csam,TRUE
 pawoo.net,suspend,FALSE,FALSE,iftas:csam,TRUE
@@ -53,6 +54,8 @@ poa.st,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 poast.org,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 poast.tv,suspend,FALSE,FALSE,iftas:tvec,TRUE
 poster.place,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
+pravda.me,suspend,FALSE,FALSE,iftas:spam;coordinated-inauthentic-behaviour,TRUE
+pubeurope.com,suspend,FALSE,FALSE,iftas:spam,TRUE
 rapemeat.express,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
 rapemeat.solutions,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
 rdrama.cc,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
@@ -65,7 +68,9 @@ shitpost.cloud,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 shitposter.club,suspend,FALSE,FALSE,iftas:hate-speech;explicit-content,TRUE
 shota.house,suspend,FALSE,FALSE,iftas:csam,TRUE
 social.cutefunny.net,suspend,FALSE,FALSE,iftas:spam,TRUE
+social.freysa.ai,suspend,FALSE,FALSE,iftas:spam;coordinated-inauthentic-behaviour,TRUE
 startrekshitposting.com,suspend,FALSE,FALSE,iftas:spam,TRUE
+theater.im,suspend,FALSE,FALSE,iftas:spam,TRUE
 twi.social,suspend,FALSE,FALSE,iftas:csam,TRUE
 varishangout.net,suspend,FALSE,FALSE,iftas:csam;hate-speech;online-harassment,TRUE
 webmasto.online,suspend,FALSE,FALSE,iftas:spam;coordinated-inauthentic-behaviour,TRUE

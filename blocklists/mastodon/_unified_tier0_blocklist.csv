@@ -239,6 +239,7 @@ nekocave.xyz,suspend,false,false,,false
 nekos.cafe,suspend,false,false,,false
 neomobius.com,suspend,false,false,iftas:csam,true
 netzsphaere.xyz,suspend,false,false,,false
+newsbeep.org,suspend,false,false,iftas:spam,true
 nicecrew.digital,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",true
 nightshift.social,suspend,false,false,"antivax, conspiracy, harassment, hate-associated, hate-speech, racism",false
 nixnet.social,suspend,false,false,,false
@@ -283,6 +284,7 @@ pooper.social,suspend,false,false,,false
 poridge.club,suspend,false,false,,false
 poster.place,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, nazism, racism, iftas:hate-speech;online-harassment",true
 pouque.net,suspend,false,false,,false
+pravda.me,suspend,false,false,iftas:spam;coordinated-inauthentic-behaviour,true
 preteengirls.biz,suspend,false,false,,false
 privex.social,suspend,false,false,,false
 probablyfreespeech.com,suspend,false,false,,false
@@ -290,6 +292,7 @@ prospeech.space,suspend,false,false,,false
 pseudo-whiskey.bar,suspend,false,false,,false
 psion.co,suspend,false,false,,false
 pube.tk,suspend,false,false,,false
+pubeurope.com,suspend,false,false,iftas:spam,true
 quanta.wiki,suspend,false,false,"alt-right, anti-lgbtq, hate-associated",false
 quodverum.com,suspend,false,false,,false
 r18.social,suspend,false,false,,false
@@ -347,6 +350,7 @@ smuglo.li,suspend,false,false,,false
 sneak.berlin,suspend,false,false,,false
 sneed.social,suspend,false,false,"anti-lgbtq, antisemitism, fascism, hate-speech, racism",false
 social.cutefunny.net,suspend,false,false,iftas:spam,true
+social.freysa.ai,suspend,false,false,iftas:spam;coordinated-inauthentic-behaviour,true
 someotherguy.xyz,suspend,false,false,,false
 sonichu.com,suspend,false,false,,false
 soykaf.com,suspend,false,false,,false
@@ -362,6 +366,7 @@ taihou.website,suspend,false,false,,false
 tastingtraffic.net,suspend,false,false,"anti-lgbtq, spam",false
 teci.world,suspend,false,false,"alt-right, hate-associated",false
 terrible.place,suspend,false,false,,false
+theater.im,suspend,false,false,iftas:spam,true
 thebag.social,suspend,false,false,,false
 theblab.org,suspend,false,false,"hate-speech, racism",false
 thechimp.zone,suspend,false,false,,false
