@@ -61,7 +61,7 @@ caekis.love,suspend,False,False,,False
 calobar.club,suspend,False,False,,False
 cannibal.cafe,suspend,False,False,"inappropriate, underage",False
 catposter.club,suspend,False,False,,False
-cawfee.club,suspend,False,False,"hate-associated, hate-speech, iftas:csam",True
+cawfee.club,suspend,False,False,"hate-associated, hate-speech, racism, iftas:csam",True
 childlove.space,suspend,False,False,iftas:csam,True
 childlove.su,suspend,False,False,iftas:csam,True
 clew.lol,suspend,False,False,"hate-associated, hate-speech, racism, iftas:hate-speech;online-harassment",True
@@ -393,7 +393,7 @@ vampiremaid.cafe,suspend,False,False,,False
 varishangout.net,suspend,False,False,"anti-lgbtq, hate-speech, inappropriate, racism, underage, iftas:csam;hate-speech;online-harassment",True
 vladtepesblog.com,suspend,False,False,,False
 volk.love,suspend,False,False,,False
-volk.network,suspend,False,False,"hate-speech, racism, white-supremacy",False
+volk.network,suspend,False,False,"hate-speech, nazism, racism, white-supremacy",False
 waifuism.life,suspend,False,False,,False
 webmasto.online,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
 weeaboo.space,suspend,False,False,,False
@@ -407,7 +407,7 @@ writehere.is,suspend,False,False,,False
 xn--p1abe3d.xn--80asehdb,suspend,False,False,,False
 xscape.club,suspend,False,False,iftas:csam,True
 yesmap.net,suspend,False,False,"inappropriate, underage",False
-yggdrasil.social,suspend,False,False,"anti-lgbtq, harassment, hate-speech, iftas:hate-speech",True
+yggdrasil.social,suspend,False,False,"anti-lgbtq, harassment, hate-speech, nazism, racism, white-supremacy, iftas:hate-speech",True
 youjo.love,suspend,False,False,"antisemitism, antivax, harassment, inappropriate, underage",False
 zhub.link,suspend,False,False,,False
 zztails.gay,suspend,False,False,"alt-right, hate-speech, racism",False
