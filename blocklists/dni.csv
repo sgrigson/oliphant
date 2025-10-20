@@ -58,6 +58,7 @@ pravda.me,suspend,FALSE,FALSE,iftas:spam;coordinated-inauthentic-behaviour,TRUE
 pubeurope.com,suspend,FALSE,FALSE,iftas:spam,TRUE
 rapemeat.express,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
 rapemeat.solutions,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
+rassilni.com,suspend,FALSE,FALSE,iftas:hate-speech;spam,TRUE
 rdrama.cc,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 repl.co,suspend,FALSE,FALSE,iftas:service-abuse;spam,TRUE
 ryona.agency,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
