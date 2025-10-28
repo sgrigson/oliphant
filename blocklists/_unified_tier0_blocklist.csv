@@ -202,7 +202,7 @@ makemysarcophagus.com,suspend,False,False,,False
 maladaptive.art,suspend,False,False,,False
 mapsupport.de,suspend,False,False,"harassment, inappropriate, underage",False
 marsey.club,suspend,False,False,,False
-mast-serv.site,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
+mast-serv.site,suspend,False,False,iftas:spam;cib,True
 mastertibbles.co.uk,suspend,False,False,,False
 masthead.social,suspend,False,False,,False
 mastinator.com,suspend,False,False,"bots, harassment, spam, iftas:service-abuse",True
@@ -210,7 +210,7 @@ mastod.no,suspend,False,False,,False
 mastodon.cf,suspend,False,False,,False
 mastodon.la,suspend,False,False,,False
 mastodong.lol,suspend,False,False,,False
-merovingian.club,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech",False
+merovingian.club,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech, iftas:hate-speech;disinformation;spam",True
 midwaytrades.com,suspend,False,False,"alt-right, anti-lgbtq, hate-associated",False
 miku-enthusiast.club,suspend,False,False,,False
 milker.cafe,suspend,False,False,,False
@@ -231,7 +231,7 @@ mulmeyun.church,suspend,False,False,,False
 nalocal519.social,suspend,False,False,,False
 narrativerry.xyz,suspend,False,False,,False
 natehiggers.online,suspend,False,False,iftas:troll;online-harassment,True
-nationalist.social,suspend,False,False,"alt-right, hate-speech, nazism, racism",False
+nationalist.social,suspend,False,False,"alt-right, hate-speech, nazism, racism, iftas:hate-speech",True
 nazi.social,suspend,False,False,,False
 needs.vodka,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
@@ -247,7 +247,7 @@ nnia.cc,suspend,False,False,,False
 nnia.space,suspend,False,False,"alt-right, harassment, underage",False
 noagendasocial.com,suspend,False,False,"alt-right, hate-speech",False
 noagendatube.com,suspend,False,False,,False
-noauthority.social,suspend,False,False,"alt-right, anti-lgbtq, conspiracy, harassment, hate-speech, racism",False
+noauthority.social,suspend,False,False,"alt-right, anti-lgbtq, conspiracy, harassment, hate-speech, racism, iftas:hate-speech;disinformation",True
 nobodyhasthe.biz,suspend,False,False,"anti-lgbtq, hate-speech, racism",False
 norwoodzero.net,suspend,False,False,"anti-lgbtq, hate-associated, hate-speech, nazism, racism",False
 novoa.nagoya,suspend,False,False,"antisemitism, harassment, hate-associated, hate-speech, racism",False
@@ -284,7 +284,7 @@ pooper.social,suspend,False,False,,False
 poridge.club,suspend,False,False,,False
 poster.place,suspend,False,False,"alt-right, anti-lgbtq, hate-associated, hate-speech, nazism, racism, iftas:hate-speech;online-harassment",True
 pouque.net,suspend,False,False,,False
-pravda.me,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
+pravda.me,suspend,False,False,iftas:disinformation;spam;cib,True
 preteengirls.biz,suspend,False,False,,False
 privex.social,suspend,False,False,,False
 probablyfreespeech.com,suspend,False,False,,False
@@ -303,8 +303,8 @@ rape.pet,suspend,False,False,"inappropriate, underage",False
 rapefeminists.network,suspend,False,False,,False
 rapemeat.express,suspend,False,False,iftas:troll;online-harassment,True
 rapemeat.solutions,suspend,False,False,"hate-speech, inappropriate, underage, iftas:troll;online-harassment",True
-rassilni.com,suspend,False,False,iftas:hate-speech;spam,False
-ravergram.club,suspend,False,False,,False
+rassilni.com,suspend,False,False,iftas:hate-speech;spam,True
+ravergram.club,suspend,False,False,iftas:tvec;disinformation;hate-speech,True
 rayci.st,suspend,False,False,,False
 rcsocial.net,suspend,False,False,,False
 rdrama.cc,suspend,False,False,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;online-harassment",True
@@ -351,7 +351,7 @@ smuglo.li,suspend,False,False,,False
 sneak.berlin,suspend,False,False,,False
 sneed.social,suspend,False,False,"anti-lgbtq, antisemitism, fascism, hate-speech, racism",False
 social.cutefunny.net,suspend,False,False,iftas:spam,True
-social.freysa.ai,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
+social.freysa.ai,suspend,False,False,iftas:spam;cib,True
 someotherguy.xyz,suspend,False,False,,False
 sonichu.com,suspend,False,False,,False
 soykaf.com,suspend,False,False,,False
@@ -396,7 +396,7 @@ vladtepesblog.com,suspend,False,False,,False
 volk.love,suspend,False,False,,False
 volk.network,suspend,False,False,"hate-speech, nazism, racism, white-supremacy",False
 waifuism.life,suspend,False,False,,False
-webmasto.online,suspend,False,False,iftas:spam;coordinated-inauthentic-behaviour,True
+webmasto.online,suspend,False,False,iftas:spam;cib,True
 weeaboo.space,suspend,False,False,,False
 whinge.house,suspend,False,False,,False
 whinge.town,suspend,False,False,"anti-lgbtq, hate-associated, racism",False
