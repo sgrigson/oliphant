@@ -303,7 +303,7 @@ rape.pet,suspend,False,False,"inappropriate, underage",False
 rapefeminists.network,suspend,False,False,,False
 rapemeat.express,suspend,False,False,iftas:troll;online-harassment,True
 rapemeat.solutions,suspend,False,False,"hate-speech, inappropriate, underage, iftas:troll;online-harassment",True
-rassilni.com,suspend,False,False,iftas:hate-speech;spam,True
+rassilni.com,suspend,False,False,iftas:hate-speech;spam,False
 ravergram.club,suspend,False,False,,False
 rayci.st,suspend,False,False,,False
 rcsocial.net,suspend,False,False,,False
