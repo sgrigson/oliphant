@@ -159,7 +159,7 @@ mastodonhub.com,suspend,False,False,Mirroring other Mastodon accounts without pe
 merovingian.club,suspend,False,False,Hate speech,False
 miiv****.*afe,suspend,False,False,Inappropriate content,False
 min**.**fe,suspend,False,False,Inappropriate content,False
-minds.com,silence,False,False,Hate speech,False
+minds.com,suspend,False,False,Hate speech,False
 misskey-forkbomb.cf,suspend,False,False,Spam,False
 misskey.io,silence,False,False,Inappropriate content,False
 misskey.shunrin.com,silence,False,False,Unmanaged spam,False
