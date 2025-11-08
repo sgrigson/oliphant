@@ -156,6 +156,7 @@ mastodon.sitejp.synology.me,silence,false,false,unmanaged spam,false
 mastodon.social.fraudulent.link,suspend,false,false,impersonation,false
 mastodon.socialspill.com,suspend,false,false,third-party bots,false
 mastodonhub.com,suspend,false,false,mirroring other mastodon accounts without permission,false
+mastodononline.com,suspend,false,false,spam,false
 merovingian.club,suspend,false,false,hate speech,false
 miiv****.*afe,suspend,false,false,inappropriate content,false
 min**.**fe,suspend,false,false,inappropriate content,false
