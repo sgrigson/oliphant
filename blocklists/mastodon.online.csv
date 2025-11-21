@@ -87,6 +87,7 @@ eepy.****ess,suspend,False,False,Inappropriate content,False
 eientei.org,suspend,False,False,Hate speech,False
 eveningzoo.club,suspend,False,False,Hate speech,False
 fedi.c*********n.org,suspend,False,False,Inappropriate content,False
+fediblock.lol,suspend,False,False,Harassment,False
 fer**.**nd,suspend,False,False,Inappropriate content,False
 fil**.**ve,suspend,False,False,Inappropriate content,False
 fr13nd5.com,silence,False,False,Misinformation,False
@@ -264,6 +265,7 @@ supernets.social,suspend,False,False,Hate speech,False
 switter.at,suspend,False,False,Preparing for announced shutdown,False
 t.l3r.me,suspend,False,False,Third-party bots,False
 tastingtraffic.net,suspend,False,False,Spam,False
+tenderqu************.1337.cx,suspend,False,False,Harassment,False
 the.usualsuspects.lol,suspend,False,False,Hate speech,False
 theblab.org,suspend,False,False,Hate speech,False
 tickler.cc,silence,False,False,Unmanaged spam,False
