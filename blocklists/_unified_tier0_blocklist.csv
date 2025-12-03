@@ -138,6 +138,7 @@ gentoo.live,suspend,False,False,,False
 geofront.rocks,suspend,False,False,"hate-speech, nazism, racism",False
 gh0st.live,suspend,False,False,,False
 ghetti.monster,suspend,False,False,"antisemitism, hate-speech, inappropriate, racism, underage",False
+gimmeloli.cc,suspend,False,False,iftas:csam;explicit-content,True
 gleasonator.com,suspend,False,False,anti-lgbtq,False
 glee.li,suspend,False,False,"harassment, hate-speech, racism, iftas:troll;online-harassment",True
 glindr.org,suspend,False,False,,False
