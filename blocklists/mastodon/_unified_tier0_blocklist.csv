@@ -25,7 +25,6 @@ ancreport.xyz,suspend,false,false,,false
 angrytoday.com,suspend,false,false,,false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
 anon-kenkai.com,suspend,false,false,,false
-ap.invalid,suspend,false,false,iftas:canary,true
 arell.ai,suspend,false,false,"bots, spam",false
 asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",false
 asimon.org,suspend,false,false,,false
@@ -92,6 +91,7 @@ dembased.xyz,suspend,false,false,,false
 detroitriotcity.com,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",true
 dev-wiki.de,suspend,false,false,,false
 djsumdog.com,suspend,false,false,,false
+dni.invalid,suspend,false,false,iftas:canary,true
 dobbs.town,suspend,false,false,,false
 drinkanddrive.africa,suspend,false,false,,false
 drow.be,suspend,false,false,,false
@@ -262,7 +262,7 @@ oti.st,suspend,false,false,,false
 outpoa.st,suspend,false,false,"alt-right, hate-speech, racism",false
 outrnat.nl,suspend,false,false,,false
 parcero.bond,suspend,false,false,"hate-speech, racism",false
-parcero.casa,suspend,false,false,"harassment, hate-speech",false
+parcero.casa,suspend,false,false,"harassment, hate-speech, iftas:hate-speech;online-harassment",true
 pawlicker.com,suspend,false,false,,false
 pawoo.net,suspend,false,false,"inappropriate, underage, iftas:csam",true
 paypig.org,suspend,false,false,,false
@@ -380,7 +380,7 @@ touha.me,suspend,false,false,,false
 troll.cafe,suspend,false,false,,false
 trumpislovetrumpis.life,suspend,false,false,,false
 truthsocial.co.in,suspend,false,false,"alt-right, hate-speech",false
-tsundere.love,suspend,false,false,,false
+tsundere.love,suspend,false,false,iftas:hate-speech;disinformation;online-harassment,true
 tummy.town,suspend,false,false,,false
 twi.social,suspend,false,false,iftas:csam,true
 tyil.nl,suspend,false,false,,false

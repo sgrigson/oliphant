@@ -5,7 +5,6 @@
 activitypub-proxy.cf,suspend,FALSE,FALSE,iftas:service-abuse,TRUE
 activitypub-troll.cf,suspend,FALSE,FALSE,iftas:service-abuse,TRUE
 aethy.com,suspend,FALSE,FALSE,iftas:csam,TRUE
-ap.invalid,suspend,FALSE,FALSE,iftas:canary,TRUE
 bae.st,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 baraag.net,suspend,FALSE,FALSE,iftas:csam,TRUE
 beefyboys.win,suspend,FALSE,FALSE,iftas:hate-speech,TRUE
@@ -20,6 +19,7 @@ cum.salon,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment;explicit-conte
 cunnyborea.space,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment;explicit-content,TRUE
 cunnyborea.top,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment;explicit-content,TRUE
 detroitriotcity.com,suspend,FALSE,FALSE,iftas:hate-speech;brigading;online-harassment,TRUE
+dni.invalid,suspend,FALSE,FALSE,iftas:canary,TRUE
 eientei.org,suspend,FALSE,FALSE,iftas:hate-speech,TRUE
 eveningzoo.club,suspend,FALSE,FALSE,iftas:hate-speech;disinformation,TRUE
 freeatlantis.com,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment;disinformation,TRUE
@@ -50,6 +50,7 @@ newsbeep.org,suspend,FALSE,FALSE,iftas:spam,TRUE
 nicecrew.digital,suspend,FALSE,FALSE,iftas:hate-speech;brigading;online-harassment,TRUE
 noauthority.social,suspend,FALSE,FALSE,iftas:hate-speech;disinformation,TRUE
 obo.sh,suspend,FALSE,FALSE,iftas:csam,TRUE
+parcero.casa,suspend,FALSE,FALSE,iftas:hate-speech;online-harassment,TRUE
 pawoo.net,suspend,FALSE,FALSE,iftas:csam,TRUE
 pedo.school,suspend,FALSE,FALSE,iftas:csam,TRUE
 pettanko.art,suspend,FALSE,FALSE,iftas:csam,TRUE
@@ -76,6 +77,7 @@ social.cutefunny.net,suspend,FALSE,FALSE,iftas:spam,TRUE
 social.freysa.ai,suspend,FALSE,FALSE,iftas:spam;cib,TRUE
 startrekshitposting.com,suspend,FALSE,FALSE,iftas:spam,TRUE
 theater.im,suspend,FALSE,FALSE,iftas:spam,TRUE
+tsundere.love,suspend,FALSE,FALSE,iftas:hate-speech;disinformation;online-harassment,TRUE
 twi.social,suspend,FALSE,FALSE,iftas:csam,TRUE
 varishangout.net,suspend,FALSE,FALSE,iftas:csam;hate-speech;online-harassment,TRUE
 webmasto.online,suspend,FALSE,FALSE,iftas:spam;cib,TRUE
