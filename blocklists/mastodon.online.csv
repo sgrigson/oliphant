@@ -54,6 +54,7 @@ cann****.*afe,suspend,False,False,Inappropriate content,False
 cass****.**use,suspend,False,False,Inappropriate content,False
 catcore.life,silence,False,False,Unmanaged spam,False
 catgirl.life,suspend,False,False,Inappropriate content,False
+channels.im,silence,False,False,Third-party bots,False
 chil*****.**ace,suspend,False,False,Inappropriate content,False
 chil*****.*hop,suspend,False,False,Inappropriate content,False
 chil*****.su,suspend,False,False,Inappropriate content,False
