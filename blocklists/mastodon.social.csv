@@ -87,6 +87,7 @@ cass****.**use,suspend,False,False,Inappropriate content,False
 catcore.life,silence,False,False,Unmanaged spam,False
 catgirl.life,suspend,False,False,Harassment,False
 cawfee.club,suspend,False,False,Hate speech,False
+channels.im,silence,False,False,Third-party bots,False
 chaurocks.com,suspend,False,False,Spam,False
 chil*****.**ace,suspend,False,False,Inappropriate content,False
 chil*****.*hop,suspend,False,False,Inappropriate content,False
