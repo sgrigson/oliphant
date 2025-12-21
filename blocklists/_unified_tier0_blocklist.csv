@@ -380,7 +380,7 @@ touha.me,suspend,False,False,,False
 troll.cafe,suspend,False,False,,False
 trumpislovetrumpis.life,suspend,False,False,,False
 truthsocial.co.in,suspend,False,False,"alt-right, hate-speech",False
-tsundere.love,suspend,False,False,iftas:hate-speech;disinformation;online-harassment,True
+tsundere.love,suspend,False,False,"harassment, hate-speech, racism, iftas:hate-speech;disinformation;online-harassment",True
 tummy.town,suspend,False,False,,False
 twi.social,suspend,False,False,iftas:csam,True
 tyil.nl,suspend,False,False,,False
