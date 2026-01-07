@@ -33,7 +33,9 @@ h5q.net,suspend,false,false,iftas:csam,true
 hentai.baby,suspend,false,false,iftas:csam,true
 imouto.exposed,suspend,false,false,iftas:csam,true
 imouto.pics,suspend,false,false,iftas:csam,true
+incestlovers.moe,suspend,false,false,iftas:csam,true
 kbin.cafe,suspend,false,false,iftas:csam,true
+kittyy.mom,suspend,false,false,iftas:csam,true
 kiwifarms.cc,suspend,false,false,iftas:hate-speech;online-harassment,true
 kiwifarms.is,suspend,false,false,iftas:hate-speech;online-harassment,true
 loli.church,suspend,false,false,iftas:csam,true
@@ -46,7 +48,6 @@ misskey-forkbomb.cf,suspend,false,false,iftas:service-abuse,true
 natehiggers.online,suspend,false,false,iftas:troll;online-harassment,true
 nationalist.social,suspend,false,false,iftas:hate-speech,true
 neomobius.com,suspend,false,false,iftas:csam,true
-newsbeep.org,suspend,false,false,iftas:spam,true
 nicecrew.digital,suspend,false,false,iftas:hate-speech;brigading;online-harassment,true
 noauthority.social,suspend,false,false,iftas:hate-speech;disinformation,true
 obo.sh,suspend,false,false,iftas:csam,true
@@ -60,10 +61,10 @@ poast.org,suspend,false,false,iftas:hate-speech;online-harassment,true
 poast.tv,suspend,false,false,iftas:tvec,true
 poster.place,suspend,false,false,iftas:hate-speech;online-harassment,true
 pravda.me,suspend,false,false,iftas:disinformation;spam;cib,true
-pubeurope.com,suspend,false,false,iftas:spam,true
 rapemeat.express,suspend,false,false,iftas:troll;online-harassment,true
 rapemeat.solutions,suspend,false,false,iftas:troll;online-harassment,true
 rassilni.com,suspend,false,false,iftas:hate-speech;spam,true
+rape.pet,suspend,false,false,iftas:csam,true
 ravergram.club,suspend,false,false,iftas:tvec;disinformation;hate-speech,true
 rdrama.cc,suspend,false,false,iftas:hate-speech;online-harassment,true
 repl.co,suspend,false,false,iftas:service-abuse;spam,true
@@ -73,13 +74,11 @@ seda.social,suspend,false,false,iftas:spam,true
 shitpost.cloud,suspend,false,false,iftas:hate-speech;online-harassment,true
 shitposter.club,suspend,false,false,iftas:hate-speech;explicit-content,true
 shota.house,suspend,false,false,iftas:csam,true
-social.cutefunny.net,suspend,false,false,iftas:spam,true
-social.freysa.ai,suspend,false,false,iftas:spam;cib,true
+social.cutefunny.net,suspend,false,false,iftas:hate-speech;spam,true
 startrekshitposting.com,suspend,false,false,iftas:spam,true
-theater.im,suspend,false,false,iftas:spam,true
 tsundere.love,suspend,false,false,iftas:hate-speech;disinformation;online-harassment,true
 twi.social,suspend,false,false,iftas:csam,true
 varishangout.net,suspend,false,false,iftas:csam;hate-speech;online-harassment,true
 webmasto.online,suspend,false,false,iftas:spam;cib,true
-xscape.club,suspend,false,false,iftas:csam,true
+xscape.club,suspend,false,false,iftas:csam;ncii,true
 yggdrasil.social,suspend,false,false,iftas:hate-speech,true
