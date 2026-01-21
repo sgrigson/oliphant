@@ -241,7 +241,7 @@ needs.vodka,suspend,false,false,,false
 neenster.org,suspend,false,false,,false
 nekocave.xyz,suspend,false,false,,false
 nekos.cafe,suspend,false,false,,false
-nekosat.work,suspend,false,false,iftas:hate-speech,false
+nekosat.work,suspend,false,false,iftas:hate-speech,true
 neomobius.com,suspend,false,false,iftas:csam,true
 netzsphaere.xyz,suspend,false,false,,false
 nicecrew.digital,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",true

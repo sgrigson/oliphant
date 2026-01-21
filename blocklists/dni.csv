@@ -48,7 +48,7 @@ merovingian.club,suspend,FALSE,FALSE,iftas:hate-speech;disinformation;spam,TRUE
 misskey-forkbomb.cf,suspend,FALSE,FALSE,iftas:service-abuse,TRUE
 natehiggers.online,suspend,FALSE,FALSE,iftas:troll;online-harassment,TRUE
 nationalist.social,suspend,FALSE,FALSE,iftas:hate-speech,TRUE
-nekosat.work,suspend,FALSE,FALSE,iftas:hate-speech,
+nekosat.work,suspend,FALSE,FALSE,iftas:hate-speech,TRUE
 neomobius.com,suspend,FALSE,FALSE,iftas:csam,TRUE
 nicecrew.digital,suspend,FALSE,FALSE,iftas:hate-speech;brigading;online-harassment,TRUE
 noauthority.social,suspend,FALSE,FALSE,iftas:hate-speech;disinformation,TRUE
