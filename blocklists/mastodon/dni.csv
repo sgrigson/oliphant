@@ -5,6 +5,7 @@
 activitypub-proxy.cf,suspend,false,false,iftas:service-abuse,true
 activitypub-troll.cf,suspend,false,false,iftas:service-abuse,true
 aethy.com,suspend,false,false,iftas:csam,true
+armpit.space,suspend,false,false,iftas:hate-speech;spam,true
 bae.st,suspend,false,false,iftas:hate-speech;online-harassment,true
 baraag.net,suspend,false,false,iftas:csam,true
 beefyboys.win,suspend,false,false,iftas:hate-speech,true
@@ -47,6 +48,7 @@ merovingian.club,suspend,false,false,iftas:hate-speech;disinformation;spam,true
 misskey-forkbomb.cf,suspend,false,false,iftas:service-abuse,true
 natehiggers.online,suspend,false,false,iftas:troll;online-harassment,true
 nationalist.social,suspend,false,false,iftas:hate-speech,true
+nekosat.work,suspend,false,false,iftas:hate-speech,
 neomobius.com,suspend,false,false,iftas:csam,true
 nicecrew.digital,suspend,false,false,iftas:hate-speech;brigading;online-harassment,true
 noauthority.social,suspend,false,false,iftas:hate-speech;disinformation,true

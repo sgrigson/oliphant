@@ -26,6 +26,7 @@ angrytoday.com,suspend,false,false,,false
 annihilation.social,suspend,false,false,"harassment, hate-associated, hate-speech",false
 anon-kenkai.com,suspend,false,false,,false
 arell.ai,suspend,false,false,"bots, spam",false
+armpit.space,suspend,false,false,iftas:hate-speech;spam,true
 asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",false
 asimon.org,suspend,false,false,,false
 awakari.app,suspend,false,false,,false
@@ -240,6 +241,7 @@ needs.vodka,suspend,false,false,,false
 neenster.org,suspend,false,false,,false
 nekocave.xyz,suspend,false,false,,false
 nekos.cafe,suspend,false,false,,false
+nekosat.work,suspend,false,false,iftas:hate-speech,false
 neomobius.com,suspend,false,false,iftas:csam,true
 netzsphaere.xyz,suspend,false,false,,false
 nicecrew.digital,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",true
