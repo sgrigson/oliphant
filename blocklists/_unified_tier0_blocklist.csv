@@ -77,6 +77,7 @@ cryptodon.lol,suspend,False,False,crypto,False
 cryptotooter.com,suspend,False,False,,False
 cum.camp,suspend,False,False,"harassment, inappropriate",False
 cum.salon,suspend,False,False,"hate-speech, porn, iftas:hate-speech;online-harassment;explicit-content",True
+cunny.beauty,suspend,False,False,"inappropriate, underage",False
 cunnyborea.space,suspend,False,False,"antisemitism, hate-speech, inappropriate, racism, underage, iftas:hate-speech;online-harassment;explicit-content",True
 cunnyborea.top,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage, iftas:hate-speech;online-harassment;explicit-content",True
 cutefunny.net,suspend,False,False,"hate-speech, inappropriate, racism, spam, underage",False
@@ -241,7 +242,7 @@ needs.vodka,suspend,False,False,,False
 neenster.org,suspend,False,False,,False
 nekocave.xyz,suspend,False,False,,False
 nekos.cafe,suspend,False,False,,False
-nekosat.work,suspend,False,False,iftas:hate-speech,True
+nekosat.work,suspend,False,False,"fascism, harassment, hate-speech, iftas:hate-speech",True
 neomobius.com,suspend,False,False,iftas:csam,True
 netzsphaere.xyz,suspend,False,False,,False
 nicecrew.digital,suspend,False,False,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",True
