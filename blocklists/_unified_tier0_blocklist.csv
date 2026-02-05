@@ -72,6 +72,7 @@ contrapointsfan.club,suspend,False,False,"hate-associated, hate-speech",False
 coolsite.win,suspend,False,False,,False
 cottoncandy.cafe,suspend,False,False,"inappropriate, underage, iftas:csam",True
 crlf.ninja,suspend,False,False,,False
+croquis.moe,suspend,False,False,iftas:csam,True
 crucible.world,suspend,False,False,,False
 cryptodon.lol,suspend,False,False,crypto,False
 cryptotooter.com,suspend,False,False,,False
