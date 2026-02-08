@@ -6,6 +6,7 @@
 * `seirdy-tier0.csv` - The original Tier0 file. Algorithmic *and* curated. See Seirdy's [Fediverse Blocklists](https://seirdy.one/posts/2023/05/02/fediverse-blocklists/) for notes about the process behind creating it.
 * `gardenfence.csv` - A mirror of the [Gardenfence](https://gardenfence.github.io/) Tier 0 file.
 * `dni.csv` - IFTAS Do Not Interact (DNI).
+* `iftas-aud.csv` - IFTAS Abandoned and Unmanaged Denylist.
 
 **Subfolders:**
 
