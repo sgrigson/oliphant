@@ -31,7 +31,6 @@ arell.ai,suspend,false,false,"bots, spam",false
 armpit.space,suspend,false,false,iftas:hate-speech;spam,true
 asbestos.cafe,suspend,false,false,"alt-right, anti-lgbtq, hate-associated, hate-speech, racism, underage",false
 asimon.org,suspend,false,false,,false
-aud.invalid,suspend,false,false,iftas:canary,true
 awakari.app,suspend,false,false,,false
 awakari.com,suspend,false,false,,false
 badly.co,suspend,false,false,,false
@@ -102,7 +101,6 @@ dembased.xyz,suspend,false,false,,false
 detroitriotcity.com,suspend,false,false,"anti-lgbtq, harassment, hate-speech, racism, iftas:hate-speech;brigading;online-harassment",true
 dev-wiki.de,suspend,false,false,,false
 djsumdog.com,suspend,false,false,,false
-dni.invalid,suspend,false,false,iftas:canary,true
 dobbs.town,suspend,false,false,,false
 drinkanddrive.africa,suspend,false,false,,false
 drow.be,suspend,false,false,,false
