@@ -2,7 +2,7 @@
 
 **Now an aggregator**
 
-This repo is now producing only an aggregated Tier 0 file as a combination of Seirdy's Tier 0, Gardenfence, and the IFTAS DNI list. Other high-consensus or curated "tier 0" files might be added in the future.
+This repo is now producing only an aggregated Tier 0 file as a combination of Seirdy's Tier 0, Gardenfence, and the IFTAS DNI and AUD (Abandoned and Unmanaged) lists. Other high-consensus or curated "tier 0" files might be added in the future.
 
 Note that there is no longer any kind of threshold algorithm or trusted council involved: that is handled by the source lists themselves, each of which provide their own high threshold for consensus.
 
