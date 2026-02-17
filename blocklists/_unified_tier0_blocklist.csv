@@ -302,6 +302,7 @@ plagu.ee,suspend,False,False,,False
 poa.st,suspend,False,False,"alt-right, anti-lgbtq, hate-speech, nazism, racism, spam, iftas:hate-speech;online-harassment",True
 poast.org,suspend,False,False,iftas:hate-speech;online-harassment,True
 poast.tv,suspend,False,False,iftas:tvec,True
+pol.social,silence,False,False,iftas:spam;cib,True
 pone.social,suspend,False,False,"anti-lgbtq, hate-associated, racism, underage",False
 pooper.social,suspend,False,False,,False
 poridge.club,suspend,False,False,,False
@@ -376,6 +377,7 @@ sneak.berlin,suspend,False,False,,False
 sneed.social,suspend,False,False,"anti-lgbtq, antisemitism, fascism, hate-speech, racism",False
 social.cutefunny.net,suspend,False,False,iftas:hate-speech;spam,True
 social.freysa.ai,suspend,False,False,iftas:spam;cib,True
+social.roadfm.fr,suspend,False,False,iftas:spam;cib,True
 social.tsst.net,suspend,False,False,iftas:disinformation;cib;spam,True
 someotherguy.xyz,suspend,False,False,,False
 sonichu.com,suspend,False,False,,False

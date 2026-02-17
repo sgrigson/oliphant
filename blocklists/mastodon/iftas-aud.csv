@@ -19,11 +19,13 @@ mast.qixto.com,suspend,false,false,iftas:spam,true
 mstdn.beer,silence,false,false,iftas:spam,true
 mstdn.gunma.jp,suspend,false,false,iftas:disinformation;cib;spam,true
 newsbeep.org,suspend,false,false,iftas:spam;farming,true
+pol.social,silence,false,false,iftas:spam;cib,true
 pravda.me,suspend,false,false,iftas:disinformation;cib;spam,true
 pubeurope.com,suspend,false,false,iftas:spam;farming,true
 rassilni.com,suspend,false,false,iftas:hate-speech;spam,true
 silverbay.space,suspend,false,false,iftas:impersonation;disinformation;spam,true
 social.freysa.ai,suspend,false,false,iftas:spam;cib,true
+social.roadfm.fr,suspend,false,false,iftas:spam;cib,true
 social.tsst.net,suspend,false,false,iftas:disinformation;cib;spam,true
 technodon.org,suspend,false,false,iftas:disinformation;cib;spam,true
 theater.im,suspend,false,false,iftas:spam;farming,true
