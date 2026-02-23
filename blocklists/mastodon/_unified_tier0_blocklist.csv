@@ -171,7 +171,7 @@ hidamari.apartments,suspend,false,false,"alt-right, nazism",false
 hitchhiker.social,suspend,false,false,,false
 honkwerx.tech,suspend,false,false,,false
 husk.site,suspend,false,false,"harassment, hate-speech, racism",false
-i.cancn.com,suspend,false,false,iftas:spam,true
+i.cancn.com,suspend,false,false,iftas:disinformation;cib;spam,true
 icod.de,suspend,false,false,,false
 iddqd.social,suspend,false,false,"dos, harassment, hate-associated, hate-speech, nazism",false
 ignorelist.com,suspend,false,false,"dos, spam",false
@@ -222,7 +222,7 @@ maladaptive.art,suspend,false,false,,false
 mapsupport.de,suspend,false,false,"harassment, inappropriate, underage",false
 marsey.club,suspend,false,false,,false
 mast-serv.site,suspend,false,false,iftas:spam;cib,true
-mast.qixto.com,suspend,false,false,iftas:spam,true
+mast.qixto.com,suspend,false,false,iftas:disinformation;cib;spam,true
 mastertibbles.co.uk,suspend,false,false,,false
 masthead.social,suspend,false,false,,false
 mastinator.com,suspend,false,false,"bots, harassment, spam, iftas:service-abuse",true
@@ -245,7 +245,7 @@ morale.ch,suspend,false,false,,false
 mostr.pub,suspend,false,false,"alt-right, hate-speech, spam",false
 mouse.services,suspend,false,false,,false
 mrhands.horse,suspend,false,false,,false
-mstdn.beer,silence,false,false,iftas:spam,true
+mstdn.beer,silence,false,false,iftas:disinformation;cib;spam,true
 mstdn.gunma.jp,suspend,false,false,iftas:disinformation;cib;spam,true
 mstdn.jp,suspend,false,false,,false
 mugicha.club,suspend,false,false,"hate-speech, racism",false
@@ -302,7 +302,7 @@ plagu.ee,suspend,false,false,,false
 poa.st,suspend,false,false,"alt-right, anti-lgbtq, hate-speech, nazism, racism, spam, iftas:hate-speech;online-harassment",true
 poast.org,suspend,false,false,iftas:hate-speech;online-harassment,true
 poast.tv,suspend,false,false,iftas:tvec,true
-pol.social,silence,false,false,iftas:spam;cib,true
+pol.social,silence,false,false,iftas:disinformation;cib;spam,true
 pone.social,suspend,false,false,"anti-lgbtq, hate-associated, racism, underage",false
 pooper.social,suspend,false,false,,false
 poridge.club,suspend,false,false,,false
@@ -375,9 +375,10 @@ sleepy.cafe,suspend,false,false,,false
 smuglo.li,suspend,false,false,,false
 sneak.berlin,suspend,false,false,,false
 sneed.social,suspend,false,false,"anti-lgbtq, antisemitism, fascism, hate-speech, racism",false
+social.5th.ro,suspend,false,false,iftas:disinformation;cib;spam,true
 social.cutefunny.net,suspend,false,false,iftas:hate-speech;spam,true
 social.freysa.ai,suspend,false,false,iftas:spam;cib,true
-social.roadfm.fr,suspend,false,false,iftas:spam;cib,true
+social.roadfm.fr,suspend,false,false,iftas:disinformation;cib;spam,true
 social.tsst.net,suspend,false,false,iftas:disinformation;cib;spam,true
 someotherguy.xyz,suspend,false,false,,false
 sonichu.com,suspend,false,false,,false
@@ -407,14 +408,15 @@ todon.ploud.fr,suspend,false,false,iftas:disinformation;cib;spam,true
 touha.me,suspend,false,false,,false
 troll.cafe,suspend,false,false,,false
 trumpislovetrumpis.life,suspend,false,false,,false
-truthsocial.co.in,suspend,false,false,"alt-right, hate-speech, iftas:disinformation;spam",true
+truthsocial.co.in,suspend,false,false,"alt-right, hate-speech, iftas:disinformation;cib;spam",true
 tsundere.love,suspend,false,false,"harassment, hate-speech, racism, iftas:hate-speech;disinformation;online-harassment",true
+tty0.social,suspend,false,false,iftas:disinformation;cib;spam,true
 tummy.town,suspend,false,false,,false
 twi.social,suspend,false,false,iftas:csam,true
 tyil.nl,suspend,false,false,,false
 ua-fediland.de,suspend,false,false,,false
 unbound.social,suspend,false,false,,false
-unipar.online,suspend,false,false,iftas:disinformation;spam,true
+unipar.online,suspend,false,false,iftas:disinformation;cib;spam,true
 unperson.us,suspend,false,false,,false
 unsafe.space,suspend,false,false,,false
 urspringer.de,suspend,false,false,,false
