@@ -102,10 +102,10 @@ detroitriotcity.com,suspend,False,False,"anti-lgbtq, harassment, hate-speech, ra
 dev-wiki.de,suspend,False,False,,False
 djsumdog.com,suspend,False,False,,False
 dobbs.town,suspend,False,False,,False
-drinkanddrive.africa,suspend,False,False,,False
+drinkanddrive.africa,suspend,False,False,iftas:explicit-content;tvec,True
 drow.be,suspend,False,False,,False
 ebin.club,suspend,False,False,,False
-eientei.org,suspend,False,False,"hate-speech, racism, iftas:hate-speech",True
+eientei.org,suspend,False,False,"hate-speech, racism, iftas:hate-speech;online-harassment",True
 electroverse.tech,suspend,False,False,iftas:disinformation;cib;spam,True
 elonsucks.org,suspend,False,False,iftas:explicit-content;spam,True
 endtimebelievers.com,suspend,False,False,,False
