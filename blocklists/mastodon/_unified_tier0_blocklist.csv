@@ -14,7 +14,7 @@ abraham.su,suspend,false,false,,false
 absolutelyproprietary.org,suspend,false,false,,false
 abyss.fun,silence,false,false,iftas:disinformation;cib;spam,true
 activitypub-proxy.cf,suspend,false,false,iftas:service-abuse,true
-activitypub-troll.cf,suspend,false,false,"dos, harassment, spam, iftas:service-abuse",true
+activitypub-troll.cf,suspend,false,false,iftas:service-abuse,true
 adachi.party,suspend,false,false,"harassment, hate-speech, racism",false
 adtension.com,suspend,false,false,,false
 aethy.com,suspend,false,false,"inappropriate, underage, iftas:csam",true
@@ -42,7 +42,7 @@ battlepenguin.video,suspend,false,false,,false
 beefyboys.club,suspend,false,false,,false
 beefyboys.win,suspend,false,false,"alt-right, anti-lgbtq, fascism, harassment, hate-speech, racism, iftas:hate-speech",true
 beepboop.ga,suspend,false,false,,false
-berserker.town,suspend,false,false,"alt-right, anti-lgbtq, fascism, hate-speech",false
+berserker.town,suspend,false,false,,false
 bgzashtita.es,suspend,false,false,,false
 bikeshed.party,suspend,false,false,,false
 bird.makeup,suspend,false,false,"bots, twitter",false
@@ -238,7 +238,7 @@ minds.com,suspend,false,false,,false
 minidisc.tokyo,suspend,false,false,,false
 mirr0r.city,suspend,false,false,"hate-associated, inappropriate, underage",false
 misono-ya.info,suspend,false,false,,false
-misskey-forkbomb.cf,suspend,false,false,"dos, spam, iftas:service-abuse",true
+misskey-forkbomb.cf,suspend,false,false,iftas:service-abuse,true
 monads.online,suspend,false,false,,false
 mooo.com,suspend,false,false,,false
 morale.ch,suspend,false,false,,false
