@@ -7,6 +7,7 @@ activitypub-proxy.cf,suspend,false,false,spam,false
 activitypub-troll.cf,suspend,false,false,spam,false
 activitypub.awakari.com,silence,false,false,spam,false
 aethy.com,suspend,false,false,inappropriate content,false
+ali525-q.hf.space,suspend,false,false,spam,false
 annihilation.social,suspend,false,false,hate speech,false
 ap.***.st,suspend,false,false,spam,false
 asbestos.cafe,suspend,false,false,hate speech,false
