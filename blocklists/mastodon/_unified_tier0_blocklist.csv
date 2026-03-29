@@ -105,6 +105,7 @@ dobbs.town,suspend,false,false,,false
 drinkanddrive.africa,suspend,false,false,iftas:explicit-content;tvec,true
 drow.be,suspend,false,false,,false
 ebin.club,suspend,false,false,,false
+edens.faith,suspend,false,false,"inappropriate, underage",false
 eientei.org,suspend,false,false,"hate-speech, racism, iftas:hate-speech;online-harassment",true
 electroverse.tech,suspend,false,false,iftas:disinformation;cib;spam,true
 elonsucks.org,suspend,false,false,iftas:explicit-content;spam,true
