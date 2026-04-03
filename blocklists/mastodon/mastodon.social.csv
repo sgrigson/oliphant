@@ -7,7 +7,6 @@ activitypub-proxy.cf,suspend,false,false,spam,false
 activitypub-troll.cf,suspend,false,false,spam,false
 activitypub.awakari.com,silence,false,false,spam,false
 aethy.com,suspend,false,false,inappropriate content,false
-ali525-q.hf.space,suspend,false,false,spam,false
 annihilation.social,suspend,false,false,hate speech,false
 ap.***.st,suspend,false,false,spam,false
 asbestos.cafe,suspend,false,false,hate speech,false
@@ -169,6 +168,7 @@ gtmastodon.online,suspend,false,false,spam,false
 h5q.net,suspend,false,false,inappropriate content,false
 head***.*afe,suspend,false,false,inappropriate content,false
 hen***.**by,suspend,false,false,inappropriate content,false
+hf.space,suspend,false,false,spam,false
 honkwerx.tech,suspend,false,false,hate speech,false
 hunk.city,suspend,false,false,spam,false
 iddqd.social,suspend,false,false,harassment,false
@@ -302,7 +302,6 @@ repl.co,suspend,false,false,spam,false
 rot.***es,suspend,false,false,inappropriate content,false
 rumr*****.cc,suspend,false,false,inappropriate content,false
 ryona.agency,suspend,false,false,hate speech,false
-saly125-a.hf.space,suspend,false,false,spam,false
 schwartzwelt.xyz,suspend,false,false,hate speech,false
 seal.cafe,suspend,false,false,hate speech,false
 sexy****.xyz,suspend,false,false,inappropriate content,false
@@ -347,6 +346,7 @@ too****.*un,suspend,false,false,inappropriate content,false
 toot.love,silence,false,false,harassment,false
 trab****.com,suspend,false,false,hate speech,false
 truthsocialpro.org,suspend,false,false,,false
+trycloudflare.com,suspend,false,false,spam,false
 tsundere.love,suspend,false,false,hate speech,false
 tum**.**wn,suspend,false,false,inappropriate content,false
 tweet.pasture.moe,suspend,false,false,third-party bots,false
