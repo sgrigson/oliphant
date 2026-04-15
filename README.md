@@ -1,8 +1,12 @@
 # Oliphant.Social Shared Blocklist Files
 
+## RETIRED: April 15, 2026
+
+This repository is no longer updated. It remains as an archive, or so you can run the process yourself, but will no longer be publishing blocklist updates. You're encouraged to use [Pelago](https://pelago.1sland.social/blocklist) as a source for current blocklists, or shift to the [FIRES](https://fires.fedimod.org) protocol.
+
 **Now an aggregator**
 
-This repo is now producing only an aggregated Tier 0 file as a combination of Seirdy's Tier 0, Gardenfence, and the IFTAS DNI and AUD (Abandoned and Unmanaged) lists. Other high-consensus or curated "tier 0" files might be added in the future.
+This repo produced an aggregated Tier 0 file as a combination of Seirdy's Tier 0, Gardenfence, and the IFTAS DNI and AUD (Abandoned and Unmanaged) lists. Other high-consensus or curated "tier 0" files might be added in the future.
 
 Note that there is no longer any kind of threshold algorithm or trusted council involved: that is handled by the source lists themselves, each of which provide their own high threshold for consensus.
 
